@@ -1,6 +1,6 @@
 # Entrance Interview <!-- omit in toc -->
 
-## Overview <!-- omit in toc -->
+## Contents <!-- omit in toc -->
 - [Interview Process](#Interview-Process)
 - [Interview Meeting Content](#Interview-Meeting-Content)
   - [Goals](#Goals)

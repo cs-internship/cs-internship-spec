@@ -1,10 +1,14 @@
-# Training Process
+# Training Process <!-- omit in toc -->
 
 Each course consists of some steps (about 10 steps). Interns should accomplish all steps to graduates the course.
 The steps are ordered, so to unlock a step, the intern should accomplish its previous step.
 
 Each step is a set of some **Study Items** and some **Tasks**.
 
+## Overview <!-- omit in toc -->
+- [Study Items and Tasks](#Study-Items-and-Tasks)
+- [Starting a Step](#Starting-a-Step)
+- [Finishing a Step](#Finishing-a-Step)
 
 ## Study Items and Tasks
 

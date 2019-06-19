@@ -55,5 +55,5 @@ Study Items:
 )
 
 Tasks:
-- [ ] 1. 2. Achieve Teacher badge on StackOverflow
+- [ ] 1. 2. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow
 

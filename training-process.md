@@ -3,8 +3,8 @@
 ## Contents <!-- omit in toc -->
 - [What is a Step?](#What-is-a-Step)
 - [Study Items and Tasks](#Study-Items-and-Tasks)
-- [Starting a Step](#Starting-a-Step)
-- [Finishing a Step](#Finishing-a-Step)
+- [How To Start a Step](#How-To-Start-a-Step)
+- [How To Finish a Step](#How-To-Finish-a-Step)
 
 ## What is a Step?
 
@@ -21,12 +21,12 @@ If it is an online resource available on the web, its link is provided in the st
 
 **Tasks** are some pieces of work that intern should do. Examples of tasks are *'Writing a piece of code to do something'*, *'Achieving a specific badge on StackOverflow'*, *'Doing a research about a specific concept'* and ...
 
-## Starting a Step
+## How To Start a Step
 
 To start a step, the mentor gives the step content to the intern. The intern has 2 days to assess the step and give an estimate which he/she is committed to finish this step. This is very important as it is the main practice for integrity. Mentors are progressively checking the interns for their committment integrity.
 
 
-## Finishing a Step
+## How To Finish a Step
 
 To deliver a study item or task, interns should:
 - **LinkedIn:** Post at least one `#cs_internship #[course_specific_tags]` update describing:

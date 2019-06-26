@@ -17,13 +17,15 @@ This course is designed to make the intern ready for the exciting market of web 
 
 ### Tasks  <!-- omit in toc -->
 
-- [ ] 1. Create GitHub account
-- [ ] 2. Create LinkedIn account
-- [ ] 3. Create StackOverflow account
-- [ ] 4. Create Twitter account
-- [ ] 5. Create Repl.it account
-- [ ] 6. Create jsFiddle.net account
-- [ ] 7. Create exercism.io account
+- [ ] 1. Create [GitHub](https://github.com/
+) account
+- [ ] 2. Create [LinkedIn](https://www.linkedin.com/
+) account
+- [ ] 3. Create [StackOverflow](https://stackoverflow.com/) account
+- [ ] 4. Create [Twitter](https://twitter.com/) account
+- [ ] 5. Create [Repl.it](https://repl.it/) account
+- [ ] 6. Create [jsFiddle.net](https://jsfiddle.net/) account
+- [ ] 7. Create [exercism.io](https://exercism.io/) account
 - [ ] 8. Implement a simple calculator layout just like windows 10 calculator and 
   - Use your GitHub as source control.
   - Publish it on your jsFiddle account.

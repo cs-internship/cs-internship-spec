@@ -7,6 +7,6 @@ There are different courses designed in CS Internship, and a lot more are coming
 This documentation is structured like this:
 - [C#](/courses/course-csharp.md)
 - [Xamarin]<!-- - (/course-xamarin.md) -->
-- [Web](/course-web.md)
+- [Web](/courses/course-web.md)
 - [Scrum Master]<!-- - (/course-scrum-master.md) -->
 

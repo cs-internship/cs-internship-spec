@@ -18,19 +18,19 @@ This course is designed to make the intern ready for the exciting market of web 
 ### Tasks  <!-- omit in toc -->
 
 - [ ] 1. Create [GitHub](https://github.com/
-) account
+) account.
 - [ ] 2. Create [LinkedIn](https://www.linkedin.com/
-) account
-- [ ] 3. Create [StackOverflow](https://stackoverflow.com/) account
-- [ ] 4. Create [Twitter](https://twitter.com/) account
-- [ ] 5. Create [Repl.it](https://repl.it/) account
-- [ ] 6. Create [jsFiddle.net](https://jsfiddle.net/) account
-- [ ] 7. Create [exercism.io](https://exercism.io/) account
-- [ ] 8. Implement a simple calculator layout just like windows 10 calculator and 
+) account.
+- [ ] 3. Create [StackOverflow](https://stackoverflow.com/) account.
+- [ ] 4. Create [Twitter](https://twitter.com/) account.
+- [ ] 5. Create [Repl.it](https://repl.it/) account.
+- [ ] 6. Create [jsFiddle.net](https://jsfiddle.net/) account.
+- [ ] 7. Create [exercism.io](https://exercism.io/) account.
+- [ ] 8. Implement a simple calculator layout just like windows 10 calculator and
   - Use your GitHub as source control.
   - Publish it on your jsFiddle account.
 
-- [ ] 8. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
+- [ ] 8. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
 
 <hr/>
 
@@ -48,8 +48,8 @@ This course is designed to make the intern ready for the exciting market of web 
   - b. Publish it on your jsFiddle account.
 - [ ] 2. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
 - [ ] 3. Follow at least 5 Twitter accounts which are active in Web technologies. Describe why they worth to follow.
-- [ ] 4. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow
-- [ ] 5. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow
+- [ ] 4. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
+- [ ] 5. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
 - [ ] 6. A simple ToDo App: 
   - a. An input HTML element
   -	b. A button for adding a new todo.

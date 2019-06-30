@@ -26,11 +26,13 @@ This course is designed to make the intern ready for the exciting market of web 
 - [ ] 5. Create [Repl.it](https://repl.it/) account.
 - [ ] 6. Create [jsFiddle.net](https://jsfiddle.net/) account.
 - [ ] 7. Create [exercism.io](https://exercism.io/) account.
-- [ ] 8. Implement a simple calculator layout just like windows 10 calculator and
+- [ ] 8. Create [TypdingClub](https://www.typingclub.com/) account.
+- [ ] 9. Implement a simple calculator layout just like windows 10 calculator and
   - Use your GitHub as source control.
   - Publish it on your jsFiddle account.
+- [ ] 10. Pass lesson 10 on TypingClub.
 
-- [ ] 8. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
+- [ ] 11. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
 
 <hr/>
 
@@ -60,5 +62,5 @@ This course is designed to make the intern ready for the exciting market of web 
    - Leap
    - Panagarm
    - Pascal's Triangle
-
+- [ ] 8. Pass lesson 20 on TypingClub.
 <hr/>

@@ -19,7 +19,7 @@
 - Making 'Yes' a very difficult word to say!
 
 ### Flow
-1. **My Story -** Me, telling *my* story. In this way they will feel more comfortable to their story. (Me towards us)
+1. **My Story -** Me, telling *my* story (Me towards us approach). In this way they will feel more comfortable to share their story.
    1. Telling them the story of me, and us. 
    2. What is the history? 
    3. Why are we doing this?

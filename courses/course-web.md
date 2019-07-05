@@ -62,5 +62,5 @@ This course is designed to make the intern ready for the exciting market of web 
    - Panagarm
    - Pascal's Triangle
 8. Pass lessons up to 20 on TypingClub.
-9. Find at least 5 other online resources about JS and explaing why you chose them.
+9. Find at least 5 other online resources about JS and explain why you chose them.
 <hr/>

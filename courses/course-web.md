@@ -24,7 +24,7 @@ This course is designed to make the intern ready for the exciting market of web 
 5. Create [Repl.it](https://repl.it/) account.
 6. Create [jsFiddle.net](https://jsfiddle.net/) account.
 7. Create [exercism.io](https://exercism.io/) account.
-8. Create [TypdingClub](https://www.typingclub.com/) account.
+8. Create [TypingClub.com](https://www.typingclub.com/) account.
 9. Implement a simple calculator layout just like windows 10 calculator and
     - Use your GitHub as source control.
     - Publish it on your jsFiddle account.
@@ -51,10 +51,10 @@ This course is designed to make the intern ready for the exciting market of web 
 3. Follow at least 5 Twitter accounts which are active in Web technologies. Describe why they worth to follow.
 4. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
 5. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
-6. A simple ToDo App: 
+6. A simple Todo App: 
    - An input HTML element
    - A button for adding a new todo.
-   -	Showing a list of all todos.
+   - Showing a list of all todos.
 7. Pass these at exercism.io:
    - Hello world
    - Two Fer

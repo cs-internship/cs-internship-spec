@@ -30,6 +30,7 @@ This course is designed to make the intern ready for the exciting market of web 
     - Publish it on your jsFiddle account.
 10. Pass lessons up to 10 on TypingClub.
 11. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
+12. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.
 
 <hr/>
 
@@ -39,6 +40,7 @@ This course is designed to make the intern ready for the exciting market of web 
 ### Study Items  <!-- omit in toc -->
 1. [W3Schools JavaScript](https://www.w3schools.com/js/default.asp)
 2. [You don’t know JS: Book 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+3. [JavaScript Debugging](https://link.medium.com/YRBvjadl3X)
 
 ### Tasks  <!-- omit in toc -->
 
@@ -60,4 +62,5 @@ This course is designed to make the intern ready for the exciting market of web 
    - Panagarm
    - Pascal's Triangle
 8. Pass lessons up to 20 on TypingClub.
+9. Find at least 5 other online resources about JS and explaing why you chose them.
 <hr/>

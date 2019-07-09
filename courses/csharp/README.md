@@ -4,10 +4,10 @@ This course is designed to make the intern ready for the exciting market of C# d
 
 ## Contents <!-- omit in toc -->
 - [Goals](#Goals)
-- [Step 1. Introduction](#Step-1-Introduction)
-- [Step 2. Basic Coding](#Step-2-Basic-Coding)
-- [Step 3. Types](#Step-3-Types)
-- [Step 4. Generics](#Step-4-Generics)
+- [Step 1. Introduction](01-Introduction.md)
+- [Step 2. Basic Coding](02-Basic-Coding.md)
+- [Step 3. Types](03-Types.md)
+- [Step 4. Generics](04-Generics.md)
 
 ## Goals
 

@@ -7,10 +7,12 @@
   - [Flow](#Flow)
 
 ## Interview Process
-1. Initiates by a mentor: So mentor can break the ice with the intern and get friends while arranging a meeting.
-2. Mentor arranges a Skype meeting.
-3. The meeting: Interviewer, Observer (Mentor), Intern 1, Intern 2 (optional)
-4. Follow back.
+This is the frist and the most important interview with a new intern. If the intern says yes he/she should really mean it based on a really important decsion in her/his life!
+
+1. Initiates by a mentor: 
+   1. Mentor arranges a Skype meeting.
+   2. While arranging a meeting, mentor has the chance to break the ice with the intern and get friends.
+2. Attendees: Interviewer, Observer (Mentor), Intern 1, Intern 2 (optional)
 
 ## Interview Meeting Content
 ### Goals
@@ -37,5 +39,5 @@
 5. **The promise -** Clarifying the required commitment:
    - The promise of ***9 months***: This plan will be the highest priority within this period.
    - The promise of ***Weekly hours***: Integrity starts here.
-6. **Think about it -** 2 days to think about the promises.
+6. **Think about it -** We ask them to NOT to answer the *promise question* now! They are now in a high energy level which could be temporary. Let them have their 2 days to think about the promises seriously.
 7. **Happy ending -** What animal are you!

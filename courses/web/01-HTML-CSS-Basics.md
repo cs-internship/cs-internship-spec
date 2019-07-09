@@ -14,13 +14,10 @@
 4. Create [Twitter](https://twitter.com/) account.
 5. Create [Repl.it](https://repl.it/) account.
 6. Create [jsFiddle.net](https://jsfiddle.net/) account.
-7. Create [exercism.io](https://exercism.io/) account.
-8. Create [TypingClub.com](https://www.typingclub.com/) account.
-9. Implement a simple calculator layout just like windows 10 calculator and
+7. Create [TypingClub.com](https://www.typingclub.com/) account.
+8. Implement a simple calculator layout just like windows 10 calculator and
     - Use your GitHub as source control.
     - Publish it on your jsFiddle account.
-10. Pass lessons up to 10 on TypingClub.
-11. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
-12. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.
-
-<hr/>
+9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
+10. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
+11. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.

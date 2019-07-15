@@ -1,4 +1,4 @@
-## Step 6. Inheritance
+## Step 7. Object Lifetime
 
 ### Study Items
 

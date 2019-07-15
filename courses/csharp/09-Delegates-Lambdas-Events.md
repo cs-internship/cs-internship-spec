@@ -7,4 +7,4 @@
 
 ### Tasks
 
-- [ ] 1. 1. Achieve Commentator badge on StackOverflow
+- [ ] 1. Achieve Commentator badge on StackOverflow

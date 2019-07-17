@@ -10,4 +10,4 @@
   3. Create StackOverflow account
   4. Create Twitter account
   5. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
-  6. Pass all lessons on TypingClub.com with 5 stars up to lesson 88.
+  6. Pass all lessons on TypingClub.com up to lesson 88.

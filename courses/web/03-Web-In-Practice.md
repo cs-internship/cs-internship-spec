@@ -9,6 +9,7 @@
 1. Pick a template from [here](https://colorlib.com/wp/free-html5-admin-dashboard-templates/) and implement it and use your GitHub as source control.
 2. Write a simple Calculator app just like windows 10 calculator.
 3. Enhance Todo App:
+
   a. each todo has a remove button to remove the todo from todo list.
   b. Each todo has a complete button to toggle the 'isComplete' property of the todo.
   c. Style the completed todos differently from other todos.

@@ -11,4 +11,8 @@
 ### Tasks  <!-- omit in toc -->
 
   1. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
-  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 137.
+  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 45.
+  3. Pass these at exercism.io:
+      1. Two Fer
+      2. Panagarm
+      3. Pascal's Triangle

@@ -34,8 +34,8 @@ To deliver a study item or task, interns should:
   -  What was new to them?
   -  What was their experience studying this item?
 - **Twitter:** At leas a `#cs_internship #[course_specific_tags]` tweet about this item:
-  - Share their ***feeling*** while studing the item.
-  - Share their opinion about the quality of the resource.
+  - Share their ***feeling*** while studing the item or doing the task.
+  - Share their opinion about the quality of the resource or the task.
 - **Telegram Club**:
   - What have they learned from this item?
   - What was new to them?

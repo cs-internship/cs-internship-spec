@@ -12,7 +12,7 @@ This course is designed to make the intern ready for the exciting market of C# d
 - [Step 6. Inheritance](06-Inheritance.md)
 - [Step 7. Object Lifetime](07-Object-LifeTime.md)
 - [Step 8. Exceptions](08-Exceptions.md)
-- [Step 9. Delegates, Lambdas and Events](Delegates-Lambdas-Events.md)
+- [Step 9. Delegates, Lambdas and Events](09-Delegates-Lambdas-Events.md)
 - [Step 10. LINQ](10-LINQ.md)
 - [Step 11. Asynchronous Language Features](11-Asynchronous-Language-Features.md)
 

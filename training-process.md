@@ -26,7 +26,7 @@ If it is an online resource available on the web, its link is provided in the st
 To start a step, the mentor gives the step content to the intern. The intern has 2 days to assess the step and give an estimate which he/she is committed to finish this step. This is very important as it is the main practice for integrity. Mentors are progressively checking the interns for their committment integrity.
 
 
-## How To Finish a Step
+## How To Accomplish a Step
 
 To deliver a study item or task, interns should:
 - **LinkedIn:** Post at least one `#cs_internship #[course_specific_tags]` update describing:
@@ -47,4 +47,10 @@ Examples of `#[course_specific_tags]`:
 - `#web`
 - `...`
 
+## How To Finish a Step
+
 To finalize a step, The intern should give a 15 minuts ***Twitch Presentation*** and talk about his/her achievents of this step.
+The studnet have a 15-20 min time, free to talk about anything! She/he should share and stream her/his screen, it could be a block of code, a part of an article or a book, or a powerpoint presentation, or anything! Via this twitch session, the student should demonstrate what she/he achieved within this step and share it with others.
+The attendees of this sessoins are mentors and the other students. They could ask any question within the session via comments.
+
+

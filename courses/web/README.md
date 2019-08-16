@@ -5,4 +5,4 @@ This course is designed to make the intern ready for the exciting market of web 
 ## Contents <!-- omit in toc -->
 - [Step 1. HTML/CSS Basics](01-HTML-CSS-Basics.md)
 - [Step 2. Javascript Basics](02-JS-Basics.md)
-<hr/>
+- [Step 3. Simple Web in practice](03-Simple-Web-in-practice.md)

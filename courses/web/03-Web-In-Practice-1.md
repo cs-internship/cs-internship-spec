@@ -18,8 +18,8 @@
       - Each todo should have a complete button to toggle completion of the todo. 
       - Completed todos should have a different style from other todos.
       - Add 3 new buttons in order to filter todos in todo list:
-         - All: shows all todos
-         - Active: shows not-completed todos
-         - Completed: shows completed todos
+         - **All**: shows all todos
+         - **Active**: shows not-completed todos
+         - **Completed**: shows completed todos
       - Current filter button should have a different style from other filter buttons.
       - Each todo should have an Edit button in order to edit the todo title.

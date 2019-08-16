@@ -1,6 +1,8 @@
-## Web In Practice
+## Step 3. Web In Practice I
+
 
 ### Study Items  <!-- omit in toc -->
+
 1. [You don’t know JS: Book 2 (Scope & Closures)](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 2. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
 3. [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)

@@ -7,6 +7,7 @@
 2. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
 3. [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 
+
 ### Tasks  <!-- omit in toc -->
 
    1. Download and Install latest versions of VS Code & Google Chrome. 

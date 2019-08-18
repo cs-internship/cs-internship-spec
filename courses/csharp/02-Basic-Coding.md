@@ -7,5 +7,10 @@
   1. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on C#.
   2. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
   3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
+  4. Pass these exercises at exercism.io:  
+      - Two Fer  
+      - Leap  
+      - RNA Transcription  
+      - Gigaseconds  
 
 <hr/>

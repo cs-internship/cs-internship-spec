@@ -14,4 +14,3 @@
   7. Register at exercism.io. Join C# track in **independent mode**:
   8. pass these exercises at exercism.io:
         - Hello world (exercise number 1)
-

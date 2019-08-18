@@ -1,7 +1,7 @@
 ## Step 4. Generics
 
-
 ### Study Items  <!-- omit in toc -->
+
  1. C# book, chapter 4 : Generics
  2. [Constraints on type parameters (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
  3. [Differences Between C++ Templates and C# Generics (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)
@@ -16,3 +16,7 @@
         - Circular Buffer
         - Panagarm
         - Pascal's Triangle
+  4. For each study item you should:  
+     - post an update to LinkedIn using #cs_internship #csharp  
+     - post a tweet on Twitter using #cs_internship #csharp
+  5. You should give a 20-min presentation about the content of this step, on Twitch platform.

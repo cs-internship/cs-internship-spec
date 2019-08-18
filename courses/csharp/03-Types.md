@@ -8,4 +8,6 @@
  2. Search for dotPeek, what is it? Open and investigate one of your program dlls that you have written so far.
  3. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow
  4. Pass all lessons on TypingClub.com up to lesson 137.
-
+ 5. Pass these exercises at exercism.io:
+    - Allergies
+    - Clock

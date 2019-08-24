@@ -26,3 +26,4 @@ This is meeting is designed to help under-training-mentor to get ready for leadi
 
 ### What happens next?
 After a couple of meetings with a mentor (usually more than 3), when the mentor is in a good state, in temrs of the ability to decompose the meeting and describe each part, the process will have some changes. After this, mentor should study the *Entrance Interview* document before each meeting and track and match the meeting with the document. After each meeting the mentor can contribute and improve the documentation if it is needed. 
+After a while when the mentor feels ready for being the interviewer, she/he will be assigned to interview someone easy! Easy means someone which we know before the meeting and the interview result is some kind of obvious before the meeting.

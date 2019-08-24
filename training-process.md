@@ -54,8 +54,8 @@ The studnet have a 15-20 min time, free to talk about anything! She/he should sh
 The attendees of this sessoins are mentors and the other students. They could ask any question within the session via comments.
 
 Here is some notes about the twitch:
-- The Twitch presentation should give an insight of what the intern learnt in the step. The intern can develop a snippet of code in 15 minutes ot talk about what he/she learnt.
+- The Twitch presentation should give an insight of what the intern have learned during the step.
 - Other interns of the course and mentors of the course ***must*** audit the presentation so the intern should pick a time which all this people (or most of them) are available.
 - Initially the Twitch is organized by the mentor and the scrum master for the day which the intern will finish the step. If the intern can not make it to the date and step is not yet finished without postponing the deadline the intern himself should re organize the twitch with the people.
-- In case of emergancy if an intern can not set a time for the twitch he/she can record the twitch and publish it on Youtube.
+- In case of emergancy if an intern can not set a time for the twitch he/she can record the twitch and publish it on YouTube.
 

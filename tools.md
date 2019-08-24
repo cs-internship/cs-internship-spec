@@ -37,5 +37,10 @@ We use Azure DevOps Boards for:
   - Task Management.
   - Spring Management.
   
+## Exercism.io
+We use Exercism.io as a tool for:
+  - Making the intern familiar with TDD.
+  - Letting the intern to practice algorithmic skills in programming.
+  
 ## Typing Club
 We use Typing Club as a tool to practice touch typing.

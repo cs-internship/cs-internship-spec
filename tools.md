@@ -36,3 +36,6 @@ We use Azure DevOps Boards for:
   - Managing our projects.
   - Task Management.
   - Spring Management.
+  
+## Typing Club
+We use Typing Club as a tool to practice touch typing.

@@ -23,3 +23,6 @@ This is meeting is designed to help under-training-mentor to get ready for leadi
 ### Flow
 1. **What's your current feeling? -** Talk about your feelings, JUST feelings.
 2. **How do you see the main parts of the meeting? -** Make them to think about the meeting from a higher perspective, NOT just repeating the words and facts.
+
+### What happens next?
+After a couple of meetings with a mentor (usually more than 3), when the mentor is in a good state, in temrs of the ability to decompose the meeting and describe each part, the process will have some changes. After this, mentor should study the *Entrance Interview* document before each meeting and track and match the meeting with the document. After each meeting the mentor can contribute and improve the documentation if it is needed. 

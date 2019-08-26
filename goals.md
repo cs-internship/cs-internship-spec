@@ -8,7 +8,7 @@ In CS Internship we mostly focus to *"Soft Skills"*. In fact the whole process o
 - **Dare to estimate**, reasonable estimations
 - **Dare to ask** questions, **Dare to answer**
 - The ability to share themselves on **social networks**
-- The **ability to present** themselves to the audience
+- **Presentatoin skills**: The skill of presenting themselves to the audience
 - Understanding remote working **communication tools**
 - Understanding the process of **remote team-working**: Sprints, Boards, ...
 
@@ -23,12 +23,18 @@ We practice estimation skills by creating on these situations:
 
 ### Dare to Ask
 We practice asking skills by creating on these situations:
- - Running Step 0. In this step intern should contact everyone in the club to get familiar with them and make it easy to ask questions.
+ - Running *Step 0*. In this step intern should contact everyone in the club to get familiar with them and make it easy to ask questions.
  - Some tasks within steps so intern should ask something in StackOverflow
  
  ### Dare to Answer
  We practice answering skills by creating on these situations:
   - While in the club, other poeple will contact the intern asking some questions.
   - Some tasks within steps so intern should answer something in StackOverflow.
+ 
+ ### Presentation Skills
+ As a mandatory phase of each step, interns should present their achievements through a Twitch presenation.
+ 
+ ### Sharing on Social Networks
+ To pass each step, interns must share their *"leanred lessons"*, *"achievements"* and *"feelings"* on Twitter and LinkedIn.
  
  ## Technical Goals

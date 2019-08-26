@@ -12,3 +12,7 @@ This meeting has specific goals as described below. The intern:
  - Should be open, and completely accept her/his weakness.
  - Should make an important decision to work on the weakness, and specifiy measurements for that.
  
+## Root Cause Analysis
+Mostly the root cause of a problem is described with an unrelated (yet beautiful) excuse.
+In the root cause analysis process we work to help the intern to find its real root cause. It happens using [*"5 Whys"*](https://en.wikipedia.org/wiki/5_Whys) technique.
+By asking *whys* about her/his reasonings we help to reach the real root cause.

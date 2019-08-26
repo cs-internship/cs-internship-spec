@@ -16,7 +16,14 @@ In CS Internship we mostly focus to *"Soft Skills"*. In fact the whole process o
 We practice integrity by being strict on these situations:
  - Skype meeting times
  - Step promises
+ 
+### Dare to Estimate
+We practice estimation skills by creating on these situations:
+ - Intern should estimate (and a promise on it) for each step.
 
-
-
-## Technical Goals
+### Dare to Ask
+We practice asking skills by creating on these situations:
+ - Running Step 0. In this step intern should contact everyone in the club to get familiar with them and make it easy to ask questions.
+ - Some tasks within steps so intern should ask something in StackOverflow
+ 
+ ## Technical Goals

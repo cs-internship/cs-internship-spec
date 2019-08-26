@@ -12,4 +12,11 @@ In CS Internship we mostly focus to *"Soft Skills"*. In fact the whole process o
 - Understanding remote working **communication tools**
 - Understanding the process of **remote team-working**: Sprints, Boards, ...
 
+### Integrity
+We practice integrity by being strict on these situations:
+ - Skype meeting times
+ - Step promises
+
+
+
 ## Technical Goals

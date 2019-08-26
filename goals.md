@@ -26,4 +26,9 @@ We practice asking skills by creating on these situations:
  - Running Step 0. In this step intern should contact everyone in the club to get familiar with them and make it easy to ask questions.
  - Some tasks within steps so intern should ask something in StackOverflow
  
+ ### Dare to Answer
+ We practice answering skills by creating on these situations:
+  - While in the club, other poeple will contact the intern asking some questions.
+  - Some tasks within steps so intern should answer something in StackOverflow.
+ 
  ## Technical Goals

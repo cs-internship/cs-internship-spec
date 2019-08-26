@@ -1,10 +1,8 @@
 # Goals
 
 ## Soft Skill Goals
-In CS Internship we mostly focus to *"Soft Skills"*. In fact the whole process of learning a new technology is just a tool to train these soft skills within the procedss. The list of soft skills we are working on is:
-- **Integrity**
-- Integrity!
-- Integrity!!
+In CS Internship we mostly focus on *"Soft Skills"*. In fact the whole process of learning a new technology is just a tool to train these soft skills during the process. The list of soft skills we are working on is:
+- **Integrity**, Integrity, Integrity!
 - **Dare to estimate**, reasonable estimations
 - **Dare to ask** questions, **Dare to answer**
 - The ability to share themselves on **social networks**
@@ -38,3 +36,9 @@ We practice asking skills by creating on these situations:
  To pass each step, interns must share their *"leanred lessons"*, *"achievements"* and *"feelings"* on Twitter and LinkedIn.
  
  ## Technical Goals
+Other than the language and technology itself, we are working on these technical skills:
+ - **Design**: Designing solutions
+ - **Software Architecture**: Maintablity, Testability, Extendability, Reusability, Readability
+ - **Test**: The philosophy of quality and test, Test Driven Development
+ - **Performance**: Data structures, algorithms, patterns and performance tunning tools
+ - **Debugging**: The various debugging utilities

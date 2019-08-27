@@ -13,8 +13,9 @@ In CS Internship our main focuses are:
 ## Overview
 This documentation is structured like this:
 - [Goals](/goals.md): The main goals of CS Internship.
-- [Tools](/tools.md): The main tools we use in CS Internship.
-- [Meetings](/meetings/readme.md): The how-to documents for different meetings we should have in the process.
 - [Courses](/courses/readme.md): The details of the courses and their structure.
-- [Training Process](/training-process.md): How interns should spend their training process.
+- [Meetings](/meetings/readme.md): The how-to documents for different meetings we should have in the process.
+- [Processes](/processes/readme.md): How interns should spend their training process.
+ - [Traning Process](/processes/process-training.md)
+- [Tools](/tools.md): The main tools we use in CS Internship.
 

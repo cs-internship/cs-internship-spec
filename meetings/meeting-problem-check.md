@@ -1,4 +1,4 @@
-# Problem Meeting
+# Problem Check Meeting
 
 At CS Internship we deeply believe in *Commitment* and *Integrity*.
 In our team, there is no place for someone without *Commitment* and *Integrity*. If such situation happens we call it a **"Problem"**!

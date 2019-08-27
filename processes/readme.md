@@ -1,4 +1,4 @@
-# Processes
+# CS InterProcesses
 
 The different processes in CS Internship program:
  - [Training Process](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/process-training.md)

@@ -18,3 +18,11 @@ we love our work, the process of helping the others. If it is not a joyful work 
 
 #### Dynamism
 We are dynamic in all aspects of our work. We continuously look at our work and process to improve it.
+
+
+## The Flow
+New mentors should pass some basic requirements to enter the program as a mentor.
+For each new member, there should be a previous successful *integrity situation* happened between the mentor and one of us. So we can make sure the level of integrity of the mentor.
+If so, the mentor should send a **Commitment Statement** to the mentors group, stating why is she/he joining the mentors and what is his commitment in the group. The commitment should contain the time that she/he is going to dedicate for this job weekly.
+
+The **first step** for mentors is to learn what is being a mentor, and it is her/his job to learn, by asking the other mentors, studying the documents.

@@ -5,13 +5,16 @@ We are open and enthuciastic to work with new mentors. We believe they can bring
 But hey! Mentoring is not an easy job at all. Mentors are going to be the evangelist of our culture. They are going the incept what they are to the interns, so they should be a true CSer to accompolish this critical job.
 
 ## Mentor Specifications
-We love to work with mentors having these specifications.
+We love to work with mentors having these specifications. Most of these items are based on [CS Culture](http://isazadeh.net/ayaz/announcements/CsCulture.pdf) by [Ayaz](http://isazadeh.net/ayaz/index.htm)
 
 #### Integrity
-A mentor must have integrity, must live the integrity through her/his life. The integrity must be a core value in her/his beliefs. We konw the integrity is not a state, it is a path. We should see the mentor during the integrity journey ini her/his life.
+we must have integrity, must live the integrity through our life. The integrity must be a core value in our beliefs. We konw the integrity is not a state, it is a path. We are a bunch of people living our integrity journey in our life life.
 
 #### Courage
-The mentors have courage, the courage to ask, the courage to answer, the courage to be criticized and ...
+We have courage, the courage to ask, the courage to answer, the courage to be criticized and ...
 
 #### Work
-The mentors must love their work, the process of helping the others. If it is not a joyful work there should be nothing making her/him to do so. So basically mentors should be volunteers to do the mentoring and volunteerly share their time to help the others.
+we love our work, the process of helping the others. If it is not a joyful work for us, there should be nothing making us to do so. So basically mentors should be volunteers to do the mentoring and volunteerly share their time to help the others.
+
+#### Dynamism
+We are dynamic in all aspects of our work. We continuously look at our work and process to improve it.

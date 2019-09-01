@@ -23,4 +23,4 @@
          - **Completed**: shows completed todos
       - Current filter button should have a different style from other filter buttons.
       - Each todo should have an Edit button in order to edit the todo title.
-    5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 191**.
+   5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 191**.

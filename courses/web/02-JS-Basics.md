@@ -3,7 +3,7 @@
 
 ### Study Items  <!-- omit in toc -->
 1. [W3Schools JavaScript](https://www.w3schools.com/js/default.asp)
-2. [You don’t know JS: Book 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+2. [You don’t know JS: Book 1 (Up & Going)](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20&%20going/README.md#you-dont-know-js-up--going)
 3. [JavaScript Debugging](https://link.medium.com/YRBvjadl3X)
 
 ### Tasks  <!-- omit in toc -->

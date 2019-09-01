@@ -11,8 +11,8 @@
 ### Tasks  <!-- omit in toc -->
 
 1. Download and Install latest version of Nodejs.
-2. Create a simple http server to serve static files and use it as a server for your Todo app and Calculator.
-3. Enhance the client side of Todo app to automatically store latest state of application in a client side storage.
-4. Enhance Todo app to implement an Upload functionality in order to store latest state of application in server.
-5. Enhance Todo app to implement a Download functionality in order to retrieve latest stored state of application from server.
+2. Create a simple **http server** to serve static files and use it as a server for your Todo app and Calculator.
+3. Enhance the client side of Todo app to automatically store latest state of application in a **client side storage**.
+4. Enhance Todo app to implement an **Upload** functionality in order to store latest state of application in server.
+5. Enhance Todo app to implement a **Download** functionality in order to retrieve latest stored state of application from server.
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 244**.

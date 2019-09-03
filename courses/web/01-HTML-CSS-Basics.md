@@ -3,7 +3,7 @@
 ### Study Items  <!-- omit in toc -->
 1. [W3Schools HTML](https://www.w3schools.com/html/default.asp)
 2. [W3Schools CSS](https://www.w3schools.com/css/default.asp)
-3. [Don't fear the internet](http://www.dontfeartheinternet.com/08-layout/)
+3. [Don't fear the internet - Layout](http://www.dontfeartheinternet.com/08-layout/)
 4. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
 ### Tasks  <!-- omit in toc -->

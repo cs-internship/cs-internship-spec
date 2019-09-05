@@ -6,7 +6,7 @@
 
 
 ### Study Items
-  1. Ref1, Part 1-1 : Getting Started
+  1. Ref1, Part 1 : Getting Started
   2. [PEP8](python.org/dev/peps/pep-0008/) Python manual
 
 ### Tasks

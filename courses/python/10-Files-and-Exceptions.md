@@ -1,11 +1,11 @@
-## Step 7. While Loops
+## Step 10. Files and Exceptions
 
 ### Study Items
-  1. Ref1, Part 7 : User Input and While Loops
+  1. Ref1, Part 10 : Files and Exceptions
 
 ### Tasks
 
- 1. Write an article about while loop.
+ 1. Write an article about files and exceptions.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

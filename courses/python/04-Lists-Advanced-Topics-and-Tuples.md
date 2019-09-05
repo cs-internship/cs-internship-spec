@@ -1,7 +1,7 @@
 ## Step 4. List advanced topics and Tuples
 
 ### Study Items
-  1. Ref1, Part 1-4 : Working with Lists
+  1. Ref1, Part 4 : Working with Lists
 
 ### Tasks
 

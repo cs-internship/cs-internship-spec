@@ -1,7 +1,7 @@
 ## Step 9. Classes
 
 ### Study Items
-  1. Ref1, Part 1-9 : Classes
+  1. Ref1, Part 9 : Classes
 
 ### Tasks
 

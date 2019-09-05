@@ -1,7 +1,7 @@
 ## Step 2. Variables and Data Types
 
 ### Study Items
-  1. Ref1, Part 1-2 : Variables and Simple Data Types
+  1. Ref1, Part 2 : Variables and Simple Data Types
 
 ### Tasks
 

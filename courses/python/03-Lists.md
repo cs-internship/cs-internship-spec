@@ -1,7 +1,7 @@
 ## Step 3. Lists
 
 ### Study Items
-  1. Ref1, Part 1-3 : Introducing Lists
+  1. Ref1, Part 3 : Introducing Lists
 
 ### Tasks
 

@@ -1,4 +1,4 @@
-## Step 5. Dictionaries
+## Step 6. Dictionaries
 
 ### Study Items
   1. Ref1, Part 1-6 : Dictionaries

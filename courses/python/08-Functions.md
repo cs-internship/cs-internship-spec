@@ -1,7 +1,7 @@
-## Step 5. Fuctions
+## Step 8. Fuctions
 
 ### Study Items
-  1. Ref1, Part 1-6 : Fuctions
+  1. Ref1, Part 1-8 : Fuctions
 
 ### Tasks
 

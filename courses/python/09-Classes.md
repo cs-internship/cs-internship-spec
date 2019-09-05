@@ -1,11 +1,11 @@
-## Step 7. While Loops
+## Step 9. Classes
 
 ### Study Items
-  1. Ref1, Part 1-7 : User Input and While Loops
+  1. Ref1, Part 1-9 : Classes
 
 ### Tasks
 
- 1. Write an article about while loop.
+ 1. Write an article about classes.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

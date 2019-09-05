@@ -1,7 +1,7 @@
 ## Step 13. Matplotlib
 
 ### Study Items
-  1. Ref2, Part 3 : Visualization with Matplotlib
+  1. Ref2, Part 4 : Visualization with Matplotlib
 
 ### Tasks
 

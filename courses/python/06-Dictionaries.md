@@ -1,7 +1,7 @@
 ## Step 6. Dictionaries
 
 ### Study Items
-  1. Ref1, Part 6 : Dictionaries
+  1. **Ref1**, Chapter 6 : Dictionaries
 
 ### Tasks
 

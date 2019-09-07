@@ -1,11 +1,11 @@
 ## Step 8. Fuctions
 
 ### Study Items
-  1. Ref1, Part 8 : Fuctions
+  1. **Ref1**, Chapter 8 : Fuctions
 
 ### Tasks
 
- 1. Write an article about function.
+ 1. Write an article about styling function in Python and its differences with other languages.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

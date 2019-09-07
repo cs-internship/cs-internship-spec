@@ -1,11 +1,11 @@
 ## Step 11. Numpy
 
 ### Study Items
-  1. Ref2, Part 2 : Introduction to Numpy
+  1. **Ref2**, Chapter 2 : Introduction to Numpy
 
 ### Tasks
 
- 1. Write an article about numpy.
+ 1. Write an article about broadcasting in Numpy.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

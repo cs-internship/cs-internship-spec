@@ -1,11 +1,11 @@
 ## Step 12. Pandas
 
 ### Study Items
-  1. Ref2, Part 3 : Data Manipulation with Pandas
+  1. **Ref2**, Chapter 3 : Data Manipulation with Pandas
 
 ### Tasks
 
- 1. Write an article about pandas.
+ 1. Write an article about different methods of data concatination in Panadas.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

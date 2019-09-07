@@ -8,6 +8,6 @@ This documentation is structured like this:
 - [C#](/courses/csharp/README.md)
 - Xamarin *[Soon]*<!-- - (/course-xamarin.md) -->
 - [Web](/courses/web/README.md)
-- [Python] *[Soon]*)
+- [Python](/courses/python/README.md)
 - [Team Leader] *[Soon]*<!-- - (/course-scrum-master.md) -->
 - [Neuro Science in Business] *[Soon]*

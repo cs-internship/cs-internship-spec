@@ -5,11 +5,12 @@
 
 ### Tasks
 
- 1. TODO
+ 1. Write an article about differences of Classes and Functions in Python.
  2. TODO
- 3. Pass these exercises at exercism.io:
+ 3. TODO
+ 4. Pass these exercises at exercism.io:
     - [*TODO*]
- 4. For each study item you should:  
+ 5. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python
- 5. You should give a 20-min presentation about the content of this step, on Twitch platform.
+ 6. You should give a 20-min presentation about the content of this step, on Twitch platform.

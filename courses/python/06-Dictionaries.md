@@ -5,7 +5,7 @@
 
 ### Tasks
 
- 1. Write an article about dictionaries and methods to set data on it.
+ 1. Write an article about dictionaries and different methods to set data on it.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

@@ -5,7 +5,7 @@
 
 ### Tasks
 
- 1. Write an article about matplotlib vs seaborn.
+ 1. Write an article about use cases of matplotlib vs seaborn.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

@@ -5,7 +5,7 @@
 
 ### Tasks
 
- 1. Write an article about styling function in Python and its differences with other languages.
+ 1. Write an article about styling function in Python and its differences in other languages.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

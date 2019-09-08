@@ -11,7 +11,7 @@
 
 1. Enhance Todo app to have an **authentication** system:
    - Add a **signup** page to Todo app.
-   - Add **signin** page to Todo app.
+   - Add a **signin** page to Todo app.
    - Use a method to apply authentication on all http requests.
 2. Enhance Todo app to store the state of app for each **user** separately. Enable Todo app to work for **anonymous** users too.
 3. Add a **header** to Todo app with the following functionality:

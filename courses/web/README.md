@@ -5,5 +5,6 @@ This course is designed to make the intern ready for the exciting market of web 
 ## Contents <!-- omit in toc -->
 - [Step 1. HTML/CSS Basics](01-HTML-CSS-Basics.md)
 - [Step 2. Javascript Basics](02-JS-Basics.md)
-- [Step 3. Web in practice I](03-Web-In-Practice-1.md)
-- [Step 4. Web in practice II](04-Web-In-Practice-2.md)
+- [Step 3. Web in practice I (Client)](03-Web-In-Practice-1-Client.md)
+- [Step 4. Web in practice II (Http & Server)](04-Web-In-Practice-2-Http-Server.md)
+- [Step 5. Web in practice III (Security)](05-Web-In-Practice-3-Security.md)

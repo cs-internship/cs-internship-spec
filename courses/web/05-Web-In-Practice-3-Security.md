@@ -19,6 +19,7 @@
    - A 'Sign up' button to navigate to **signup page**.
    - A 'Sign in' button to navigate to **signin page**.
    - A 'Sign out' button to log off current user.
+   - Apply visibility of each button based on current state of app.
 4. Achieve **Vox Populi** badge on StackOverflow.
 5. Achieve **Critic** badge on StackOverflow.
 6. Find at least 5 other online resources about **Authentication in Web** and explain why you chose them, then share them on Twitter and LinkedIn. 

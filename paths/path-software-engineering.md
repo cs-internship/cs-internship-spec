@@ -1,7 +1,7 @@
 # Software Engineering Path
-This path is designed to improve software engineering skills for interns. We believe that each inter should practice software engineering skills. Also, in each level the intern gets familiar with some design patterns.
+This path is designed to improve software engineering skills for interns. We believe that each intern should practice software engineering skills. Also, in each level the intern gets familiar with some design patterns.
 
-## Touch Typing Levels
+## Software Engineering Levels
 
 #### Level 1: Understanding the mess
 In this level, the intern can see and feel the mess in the code and the need for modularizing the code.

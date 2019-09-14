@@ -5,7 +5,7 @@
 
 ### Tasks
 
- 1. Write an article about approaches to read a "csv" file with Python.
+ 1. Write an article about different approaches to read a "csv" file with Python.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

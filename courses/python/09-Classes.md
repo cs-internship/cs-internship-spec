@@ -5,7 +5,7 @@
 
 ### Tasks
 
- 1. Write an article about differences of Classes and Functions in Python.
+ 1. Write an article about operator overloading for classes in Python.
  2. TODO
  3. TODO
  4. Pass these exercises at exercism.io:

@@ -6,11 +6,12 @@
 ### Tasks
 
  1. Write an article about broadcasting in Numpy.
- 2. TODO
+ 2. Write an article about linear algebra calculations (add, subtraction, and multiply for vectors and add, subtraction, multiply, inversion, determinant, transpose, and decomposition for matrixes) with Numpy package.
  3. TODO
- 4. Pass these exercises at exercism.io:
+ 4. TODO
+ 5. Pass these exercises at exercism.io:
     - [*TODO*]
- 5. For each study item you should:  
+ 6. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python
- 6. You should give a 20-min presentation about the content of this step, on Twitch platform.
+ 7. You should give a 20-min presentation about the content of this step, on Twitch platform.

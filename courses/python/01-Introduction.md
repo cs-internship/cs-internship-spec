@@ -3,7 +3,7 @@
 ### References
 - **Ref1:** [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
 - **Ref2:** [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057), [[Data](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks/data)]
-
+- **Note:** Sometimes through this course you may need to read some materials from the online or other references.
 
 ### Study Items
   1. **Ref1**, Chapter 1 : Getting Started

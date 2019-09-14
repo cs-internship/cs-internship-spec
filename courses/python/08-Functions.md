@@ -5,9 +5,9 @@
 
 ### Tasks
 
- 1. Write an article about styling function in Python and its differences in other languages.
- 2. TODO
- 3. TODO
+ 1. Write an article about decorator in Python and how to use it for decorating functions.
+ 2. Write an article about parameter overloading in functions.
+ 3. Write an article about using *args and **kwargs for functions.
  4. Pass these exercises at exercism.io:
     - [*TODO*]
  5. For each study item you should:  

@@ -15,7 +15,7 @@
 5. Create [Repl.it](https://repl.it/) account.
 6. Create [jsFiddle.net](https://jsfiddle.net/) account.
 7. Create [TypingClub.com](https://www.typingclub.com/) account.
-8. Implement a simple calculator layout just like windows 10 calculator and
+8. Implement a calculator layout exactly like windows 10  standard calculator, and
     - Use your GitHub as source control.
     - Publish it on your jsFiddle account.
 9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.

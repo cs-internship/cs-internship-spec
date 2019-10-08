@@ -1,6 +1,13 @@
 # Python
 
-This course is designed to make the intern ready for starting coding with Python programming language.
+## Outlook
+This course is designed for students who want to learn Python programming language to enter into the **DataScience** domain. Through this course you will learn several basic and mid-level topics about Python language, linear algebra theory, and some most useful Python packages to become a **DataScientist**.
+
+## References
+- **Ref1:** [The Quick Python Book, Second Edition 2nd Edition](https://www.amazon.com/Quick-Python-Book-Second/dp/193518220X)
+- **Ref2:** [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+- **Ref3:** [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057), [[Data](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks/data)]
+- **Note:** Some materials or exercises through this course may be not included in the mentioned references.
 
 ## Contents 
 

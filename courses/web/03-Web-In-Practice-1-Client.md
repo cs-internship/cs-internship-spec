@@ -33,4 +33,4 @@
 6. Achieve **Teacher** badge on StackOverflow.
 7. Answer at least 1 question on StackOverflow with more than **+2 votes**.
 8. Pass all lessons on TypingClub.com with 5 stars up to **lesson 191**.
-9. Find at least 5 other online resources about client side JS & Tooling, and explain why you chose them, then share them on Twitter and LinkedIn. 
+9. Find at least 5 other online resources about client side JS & Tooling, and explain why you chose them. 

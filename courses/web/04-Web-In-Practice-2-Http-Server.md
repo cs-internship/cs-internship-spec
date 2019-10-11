@@ -6,6 +6,7 @@
 1. [You don't know JS: Book 3 (this & Object Prototypes)](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 2. [Understanding HTTP Basics ](https://learn.onemonth.com/understanding-http-basics/)
 3. [W3Schools Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
+4. [An Overview of Client-Side Storage](https://bitsofco.de/an-overview-of-client-side-storage)
 
 
 ### Tasks  <!-- omit in toc -->

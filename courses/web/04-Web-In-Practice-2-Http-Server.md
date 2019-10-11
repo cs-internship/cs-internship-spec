@@ -18,9 +18,9 @@
 3. Enhance the client side of Todo app to automatically store latest state of application in a **client side storage**:
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
-4. Enhance Todo app to implement an **Upload** functionality in order to store latest state of application in server:
+4. Implement an **Upload** functionality in Todo app in order to store current state in server:
    - Use your GitHub as source control.
-5. Enhance Todo app to implement a **Download** functionality in order to retrieve latest stored state of application from server:
+5. Implement a **Download** functionality in Todo app in order to retrieve latest stored state from server:
    - Use your GitHub as source control.
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 244**.
 7. Achieve **Suffrage** badge on StackOverflow.

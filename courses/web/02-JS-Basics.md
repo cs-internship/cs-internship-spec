@@ -8,13 +8,12 @@
 
 ### Tasks  <!-- omit in toc -->
 1. Create [exercism.io](https://exercism.io/) account.
-2. Pass these at exercism.io:
+2. Pass these at exercism.io and publish your solutions on your jsFiddle account:
    - Hello world
    - Two Fer
    - Leap
    - Panagarm
    - Pascal's Triangle   
-and publish your solutions on your jsFiddle account.
 3. A simple web page with a single button on it to show a "Hello World!" alert:
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.

@@ -15,6 +15,8 @@
    - Leap
    - Panagarm
    - Pascal's Triangle
+   
+   and publish your solutions on your jsFiddle account.
 3. A simple web page with a single button on it to show a "Hello World!" alert:
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
@@ -22,6 +24,8 @@
    - An input HTML element
    - A button for adding a new todo.
    - Showing a list of all todos.
+   - Use your GitHub as source control.
+   - Publish it on your jsFiddle account.
 5. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
 6. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
 7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.

@@ -14,13 +14,13 @@
    - Leap
    - Panagarm
    - Pascal's Triangle   
-3. A simple web page with a single button on it to show a "Hello World!" alert:
+3. Create a simple web page with a single button on it to show a "Hello World!" alert:
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
-4. A simple Todo App: 
-   - An input HTML element
-   - A button for adding a new todo.
-   - Showing a list of all todos.
+4. Create a simple Todo App: 
+   - With an input HTML element to get todo's title
+   - With a button for adding a new todo
+   - With a list showing all added todos
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 5. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.

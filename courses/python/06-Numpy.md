@@ -1,7 +1,7 @@
 ## Step 11. Numpy
 
 ### Study Items
-  1. **Ref2**, Chapter 2 : Introduction to Numpy
+  1. **Ref3:** Chapter 2 : Introduction to Numpy
 
 ### Tasks
 

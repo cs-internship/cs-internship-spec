@@ -1,7 +1,7 @@
 ## Step 5. If Statements
 
 ### Study Items
-  1. **Ref1**, Chapter 5 : If Statements
+  1. **Ref2:** All chapters
 
 ### Tasks
 

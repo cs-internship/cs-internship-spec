@@ -12,13 +12,13 @@ This course is designed for students who want to learn Python programming langua
 
 ## Contents 
 
-- [Step &nbsp;1. Introduction](01-Introduction.md)
-- [Step &nbsp;2. Lists, Tuples, Sets, Dictionaries, Control Flows and Strings](02-Lists-Tuples-Sets-Dictionaries-ControlFlows-Strings.md)
-- [Step &nbsp;3. Functions, Modules, Scopes, and Classes](03-Functions-Modules-Scopes-Classes.md)
-- [Step &nbsp;4. File System, Read/Write Files, and Exceptions](04-FileSystem-ReadAndWriteFiles-Exceptions.md)
-- [Step &nbsp;5. Linear Algebra (LinAlg Theories)](05-LinearAlgebra.md)
-- [Step &nbsp;6. Numpy](06-Numpy.md)
-- [Step &nbsp;7. Pandas](07-Pandas.md)
-- [Step &nbsp;8. Matplotlib](08-Matplotlib.md)
+- [Step &nbsp;1 - Introduction](01-Introduction.md)
+- [Step &nbsp;2 - Lists, Tuples, Sets, Dictionaries, Control Flows and Strings](02-Lists-Tuples-Sets-Dictionaries-ControlFlows-Strings.md)
+- [Step &nbsp;3 - Functions, Modules, Scopes, and Classes](03-Functions-Modules-Scopes-Classes.md)
+- [Step &nbsp;4 - File System, Read/Write Files, and Exceptions](04-FileSystem-ReadAndWriteFiles-Exceptions.md)
+- [Step &nbsp;5 - Linear Algebra (Linalg Theories)](05-LinearAlgebra.md)
+- [Step &nbsp;6 - Numpy](06-Numpy.md)
+- [Step &nbsp;7 - Pandas](07-Pandas.md)
+- [Step &nbsp;8 - Matplotlib](08-Matplotlib.md)
 
 

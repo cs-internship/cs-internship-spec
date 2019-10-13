@@ -1,7 +1,7 @@
 ## Step 12. Pandas
 
 ### Study Items
-  1. **Ref2**, Chapter 3 : Data Manipulation with Pandas
+  1. **Ref3:** Chapter 3 : Data Manipulation with Pandas
 
 ### Tasks
 

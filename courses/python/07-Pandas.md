@@ -5,13 +5,10 @@
 
 ### Tasks
 
- 1. Write an article about different methods of data concatination in Panadas (with examples).
- 2. Write an article about differences of pandas vs SQL.
- 3. TODO
- 4. TODO
- 5. Pass these exercises at exercism.io:
+ 1. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson ??**.
+ 2. Pass these exercises at exercism.io:
     - [*TODO*]
- 6. For each study item you should:  
+ 3. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python
- 7. You should give a 20-min presentation about the content of this step, on Twitch platform.
+ 4. You should give a 20-min presentation about the content of this step, on Twitch platform.

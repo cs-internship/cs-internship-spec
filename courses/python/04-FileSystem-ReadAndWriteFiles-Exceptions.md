@@ -1,4 +1,4 @@
-## Step 4. List advanced topics and Tuples
+## Step 4. File System, Read/Write Files, and Exceptions
 
 ### Study Items
   1. **Ref1:** Chapter 12, 13, and 14

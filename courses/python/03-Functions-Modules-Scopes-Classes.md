@@ -1,4 +1,4 @@
-## Step 3. Lists
+## Step 3. Functions, Modules, Scopes, and Classes
 
 ### Study Items
   1. **Ref1:** Chapter 9, 10, and 15

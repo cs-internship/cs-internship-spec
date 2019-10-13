@@ -1,4 +1,4 @@
-## Step 5. If Statements
+## Step 5. Linear Algebra (Linalg Theories)
 
 ### Study Items
   1. **Ref2:** All chapters

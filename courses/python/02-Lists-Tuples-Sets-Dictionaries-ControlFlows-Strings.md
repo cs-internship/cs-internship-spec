@@ -1,4 +1,4 @@
-## Step 2. Variables and Data Types
+## Step 2. Lists, Tuples, Sets, Dictionaries, Control Flows and Strings
 
 ### Study Items
   1. **Ref1:** Chapter 5, 6, 7, and 8

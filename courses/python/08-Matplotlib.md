@@ -5,12 +5,10 @@
 
 ### Tasks
 
- 1. Write an article about use cases of matplotlib and seaborn.
- 2. TODO
- 3. TODO
- 4. Pass these exercises at exercism.io:
+ 1. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson ??**.
+ 2. Pass these exercises at exercism.io:
     - [*TODO*]
- 5. For each study item you should:  
+ 3. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python
- 6. You should give a 20-min presentation about the content of this step, on Twitch platform.
+ 4. You should give a 20-min presentation about the content of this step, on Twitch platform.

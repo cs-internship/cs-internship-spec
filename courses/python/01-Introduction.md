@@ -14,10 +14,10 @@
   4. Create [Twitter](https://twitter.com) account.
   7. Create [TypingClub.com](https://www.typingclub.com) account.
   5. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
-  6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
+  6. Pass all lessons on *TypingClub.com* with 5 stars up to **lesson 88**.
   7. Register at exercism.io. Join Python track in **independent mode**:
   8. pass these exercises at exercism.io:
-        - #todo
+        - **todo**
   9. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python

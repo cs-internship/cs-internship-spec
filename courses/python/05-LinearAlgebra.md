@@ -6,10 +6,10 @@
 ### Tasks
 
  1. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow
- 2. Write an article about iterators and generators in Python.
- 3. Pass all lessons on TypingClub.com up to lesson [*TODO*].
+ 2. Solve linear algebra questions on [this address]() and send your responses to your mentor and prepare yourself to twitch about them.
+ 3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson ??**.
  4. Pass these exercises at exercism.io:
-    - [*TODO*]
+    - **todo**
  5. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python

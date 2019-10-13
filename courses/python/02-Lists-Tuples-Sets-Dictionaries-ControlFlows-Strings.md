@@ -1,14 +1,14 @@
 ## Step 2. Variables and Data Types
 
 ### Study Items
-  1. **Ref1**, Chapter 2 : Variables and Simple Data Types
+  1. **Ref1:** Chapter 5, 6, 7, and 8
 
 ### Tasks
 
   1. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on Python.
   2. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
   3. Write an article about Python Zen .
-  4. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
+  4. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
   5. Pass these exercises at exercism.io:  
       - Two Fer  
       - Leap  

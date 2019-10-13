@@ -1,7 +1,7 @@
 ## Step 3. Lists
 
 ### Study Items
-  1. **Ref1**, Chapter 3 : Introducing Lists
+  1. **Ref1:** Chapter 9, 10, and 15
 
 ### Tasks
 

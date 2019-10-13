@@ -8,7 +8,7 @@ This course is designed for students who want to learn Python programming langua
 - **Ref2:** [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 - **Ref3:** [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057), [[Data](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks/data)]
 - **Ref4:** [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-- **Note:** Some materials or exercises through this course may be not included in the mentioned references.
+- **Note:** Some materials or exercises through this course may not be included in the mentioned references.
 
 ## Contents 
 

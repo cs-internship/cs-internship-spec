@@ -10,5 +10,7 @@ Contact every person in your club. Introduce yourself and ask them to introduce 
    1. Who is she/he? 
    2. What is her/his background? 
    3. What type of technical questions can you ask from she/he?
+ - Create [Twitter](https://twitter.com/) account.
+ - Create [LinkedIn](https://www.linkedin.com/) account.
  - Tweet your **feeling** about her/him.
  - Post a **brief** about her/him on LinkedIn (a brief on answers of 3 questoins above)

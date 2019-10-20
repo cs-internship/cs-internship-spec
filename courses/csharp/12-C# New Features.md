@@ -20,3 +20,4 @@
   2. In your opinion, what's the most big challenges in upgradint to C# 8.0?
   3. Find and introduce 2 libraries on GitHub which are C# 8.0 ready.
   4. Find a small GitHub project and help to make it to use C# 8.0 nullable reference types.
+  5. Describe the situations that Pattern Matching helps. How does it help?

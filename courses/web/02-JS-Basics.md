@@ -13,7 +13,9 @@
    - Two Fer
    - Leap
    - Panagarm
-   - Pascal's Triangle   
+   - Pascal's Triangle
+   Use **Practice Mode** (not Mentored Mode).
+   Learn how to run tests in these steps, and run all available tests in spec file (remove x from the start of each xtest).
 3. Create a simple web page with a single button on it to show a "Hello World!" alert:
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.

@@ -7,20 +7,20 @@
 3. [JavaScript Debugging](https://link.medium.com/YRBvjadl3X)
 
 ### Tasks  <!-- omit in toc -->
-1. Create [exercism.io](https://exercism.io/) account.
-
-2. Create a simple web page with a single button on it to show a "Hello World!" alert:
+1. Create a simple web page with a single button on it to show a "Hello World!" alert:
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 
-3. Create a simple Todo App: 
+2. Create a simple Todo App: 
    - With an input HTML element to get todo's title
    - With a button for adding a new todo
    - With a list showing all added todos
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 
-4. Pass these at exercism.io and publish your solutions on your jsFiddle account:
+3. Create [exercism.io](https://exercism.io/) account.
+
+4. Pass these at exercism.io:
    - Hello world
    - Two Fer
    - Leap
@@ -30,6 +30,9 @@
    Use **Practice Mode** (not Mentored Mode).
 
    Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
+   
+   - Use your GitHub as source control.
+   - Publish it on your jsFiddle account.
 
 5. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
 6. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.

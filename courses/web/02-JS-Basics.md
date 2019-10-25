@@ -16,9 +16,9 @@
    - Panagarm
    - Pascal's Triangle
 
-Use **Practice Mode** (not Mentored Mode).
+   Use **Practice Mode** (not Mentored Mode).
 
-Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
+   Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
 
 3. Create a simple web page with a single button on it to show a "Hello World!" alert:
    - Use your GitHub as source control.

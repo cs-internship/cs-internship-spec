@@ -6,7 +6,7 @@
 ### Tasks
 
  1. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson ??**.
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 191**.
  3. Pass these exercises at exercism.io:
     - Kindergarten Garden
     - Grade School

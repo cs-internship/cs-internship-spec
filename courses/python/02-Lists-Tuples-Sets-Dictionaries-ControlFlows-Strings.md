@@ -9,7 +9,13 @@
   2. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
   3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson ??**.
   4. Pass these exercises at exercism.io:  
-      - **todo**
+      - High Scores
+      - Matrix
+      - Hamming 
+      - Isogram
+      - Scrabble Score
+      - Acronym
+      
   5. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python

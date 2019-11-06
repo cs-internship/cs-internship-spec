@@ -8,7 +8,10 @@
  1. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson ??**.
  3. Pass these exercises at exercism.io:
-    - **todo**
+    - Kindergarten Garden
+    - Grade School
+    - Clock
+    - Tournament
  4. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python

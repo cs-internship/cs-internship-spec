@@ -16,6 +16,7 @@
 6. Create [jsFiddle.net](https://jsfiddle.net/) account.
 7. Create [TypingClub.com](https://www.typingclub.com/) account.
 8. Implement a calculator layout **exactly** like windows 10 calculator:
+    - Follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1)
     - Create it Without using any library.
     - Make it responsive just like the windows 10 calculator (Standard mode).    
     - Use your GitHub as source control.

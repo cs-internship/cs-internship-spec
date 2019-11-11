@@ -4,19 +4,12 @@ A good developer should have the right skills to ask questions and be able to ge
 Also a good developer should have a good resume of answering the others and helping the community.
 
 #### Goals:
- - **Integrity**, Integrity, Integrity!
- - The ability to **self-learning**
- - The ability to **ask effectively**
- - The ability to **answer effectively**
- - The ability to **teaching effectively**
- - The ability to **estimate effectively**
- - The ability to **present their knowledge**
- - The ability to **share themselves on social networks**
- - The ability to **set a meeting or an appoinment remotely**
- - The ability to work with **remote-working tools**
+ - The ability to explore StackOverflow
+ - The ability to ask on StackOverflow
+ - The commitment to help the StackOverflow community by answers
  
 
-## Soft Skill Levels
+## StackOverflow Levels
 
 #### Level 1: Hello StackOverflow!
 Create Account

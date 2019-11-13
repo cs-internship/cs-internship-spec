@@ -4,6 +4,7 @@
 
   1. **Ref1:** Chapter 1, 2, 3, and 4
   2. **[Let's get started with Python](https://github.com/mrhajbabaei/get-started-with-python)**
+  3. **Ref2:** Chapter 1, 2, 3
 
 ### Tasks
 

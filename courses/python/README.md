@@ -6,9 +6,9 @@ This course is designed for students who want to learn Python programming langua
 ## References
 - **Ref1:** [The Quick Python Book, Second Edition 2nd Edition](https://www.amazon.com/Quick-Python-Book-Second/dp/193518220X)
 - **Ref2:** [No bullshit guide to linear algebra 2nd Edition](https://www.amazon.com/No-bullshit-guide-linear-algebra/dp/0992001021)
-- **Ref3:** [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057), [[Data](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks/data)]
+- **Ref3:** [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057), [[Data Files](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks/data)]
 - **Ref4:** [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-- **Note:** Some materials or exercises through this course may not be included in the mentioned references.
+- **Note:** Some topics through the course maybe not included in above references. Based on every specific topic you should read some other articles which are mentioned on that topic. 
 
 ## Contents 
 

@@ -2,7 +2,7 @@
 
 ### Study Items
   1. **Ref1:** Chapter 12, 13, and 14
-
+  2. **Ref2:** Chapter 6, 7
 ### Tasks
 
  1. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow

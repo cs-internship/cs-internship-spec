@@ -1,7 +1,7 @@
 ## Step 6. Numpy
 
 ### Study Items
-  1. **Ref2:** Chapter 7 (part 7-7 is optional)
+  1. **Ref2:** Chapter 7 (part 7-7 is excluded and is optional)
   2. **Ref3:** Chapter 2 : Introduction to Numpy
 
 ### Tasks

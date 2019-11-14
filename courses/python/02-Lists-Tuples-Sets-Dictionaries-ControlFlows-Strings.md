@@ -2,7 +2,7 @@
 
 ### Study Items
   1. **Ref1:** Chapter 5, 6, 7, and 8
-
+  2. **Ref2:** Chapter 2, 3
 ### Tasks
 
   1. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on Python.

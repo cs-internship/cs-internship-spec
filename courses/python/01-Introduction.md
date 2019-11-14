@@ -20,7 +20,8 @@
       -   Hello World
       -   Two Fer
       -   Raindrops
-  9. For each study item you should:  
+  9. Solve problems 1, 2, 3, 4, 5, 6, 7, 8, 9, 24, 25, 34, 36, 43, 47, 58, and 59 from chapetr one in **Ref2**.
+  10. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python
-  10. You should give a 20-min presentation about the content of this step, on Twitch platform.
+  11. You should give a 20-min presentation about the content of this step, on Twitch platform.

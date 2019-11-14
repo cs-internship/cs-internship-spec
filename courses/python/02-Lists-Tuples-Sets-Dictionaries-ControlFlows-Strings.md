@@ -15,7 +15,7 @@
       - Isogram
       - Scrabble Score
       - Acronym
-  5. Solve problems 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, and 11 from chapetr two and problems 1, 3, and 4 from chapter three in **Ref2**.
+  5. Solve problems 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, and 2.11 from chapetr **two** and problems 3.1, 3.3, and 3.4 from chapter **three** in **Ref2**.
   6. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python

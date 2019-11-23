@@ -15,6 +15,10 @@
       - Isogram
       - Scrabble Score
       - Acronym
+      
+   - Use your GitHub as source control.
+   - Publish it on your jsFiddle account.
+
   5. Solve problems 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, and 2.11 from chapetr **two** and problems 3.1, 3.3, and 3.4 from chapter **three** in **Ref2**.
   6. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  

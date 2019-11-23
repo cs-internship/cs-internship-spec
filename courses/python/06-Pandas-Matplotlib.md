@@ -17,4 +17,6 @@
  //7. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python
- 8. You should give a 20-min presentation about the content of this step, on Twitch platform.
+     
+ 8. Find at least 5 other online resources about pandas & matplotlib, and explain why you chose them.
+ 9. You should give a 20-min presentation about the content of this step, on Twitch platform.

@@ -12,7 +12,7 @@
  5. Solve problems 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from chapetr **seven** in **Ref2**.
  
    - Use your GitHub as source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on online editor.
    
  //6. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  

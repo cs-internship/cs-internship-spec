@@ -1,4 +1,4 @@
-## Step 6. Numpy
+## Step 5. Numpy
 
 ### Study Items
   1. **Ref2:** Chapter 7 (part 7-7 is excluded and is optional)

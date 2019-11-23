@@ -8,7 +8,7 @@
 
   1. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
   2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 137**.
-  4. Pass these exercises at exercism.io:  
+  3. Pass these exercises at exercism.io:  
       - High Scores
       - Matrix
       - Hamming 

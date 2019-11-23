@@ -24,8 +24,9 @@
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
   
-  5. For each study item you should:  
+  //5. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python
+     
   6. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on Python.
   7. You should give a 20-min presentation about the content of this step, on Twitch platform.

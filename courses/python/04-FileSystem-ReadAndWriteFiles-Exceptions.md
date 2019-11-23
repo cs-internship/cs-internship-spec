@@ -10,6 +10,10 @@
  3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 233**.
  4. Download EURUSD forex data from [this](https://www.histdata.com/download-free-forex-historical-data/?/excel/1-minute-bar-quotes/eurusd/2018) link and then extract and open it with proper Python commands.
  5. Solve problems 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from chapetr **seven** in **Ref2**.
+ 
+   - Use your GitHub as source control.
+   - Publish it on your jsFiddle account.
+   
  6. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python

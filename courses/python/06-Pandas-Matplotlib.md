@@ -1,4 +1,4 @@
-## Step 7. Pandas and Matplotlib
+## Step 6. Pandas and Matplotlib
 
 ### Study Items
   1. **Ref3:** Chapter 3 : Data Manipulation with Pandas, Chapter 4 : Visualization with Matplotlib

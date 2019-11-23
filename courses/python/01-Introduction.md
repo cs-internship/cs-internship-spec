@@ -26,6 +26,7 @@
    - Publish it on your jsFiddle account.
    
   11. Solve problems 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.24, 1.25, 1.34, 1.36, 1.43, 1.47, 1.58, and 1.59 from chapetr **one** in **Ref2**.
+  
   //12. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python

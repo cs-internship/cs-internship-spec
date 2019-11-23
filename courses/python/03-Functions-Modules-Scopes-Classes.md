@@ -17,7 +17,9 @@
    - Publish it on your jsFiddle account.
    
   4. Solve problems 4.1, 4.6, 4.7, 4.8, 4.10, 4.11, 4.12, 4.13, 4.18, 4.21, and 4.26 from chapetr **four** in **Ref2**.
-  5. For each study item you should:  
+  
+  //5. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #python  
      - post a tweet on Twitter using #cs_internship #python
+     
   6. You should give a 20-min presentation about the content of this step, on Twitch platform.

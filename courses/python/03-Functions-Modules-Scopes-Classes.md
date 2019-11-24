@@ -20,9 +20,9 @@
   
    - Use your GitHub as source control.
    - Publish it on online editor.
-   
-  //5. For each study item you should:  
-     - post an update to LinkedIn using #cs_internship #python  
-     - post a tweet on Twitter using #cs_internship #python
+  5. For each study item you should:  
+  
+   - post an update to LinkedIn using #cs_internship #python  
+   - post a tweet on Twitter using #cs_internship #python
      
   6. You should give a 20-min presentation about the content of this step, on Twitch platform.

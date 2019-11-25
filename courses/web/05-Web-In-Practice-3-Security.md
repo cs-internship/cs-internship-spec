@@ -20,6 +20,9 @@
    - A 'Sign in' button to navigate to **signin page**.
    - A 'Sign out' button to log off current user.
    - Apply visibility of each button based on current state of app.
-4. Achieve **Vox Populi** badge on StackOverflow.
+4. Achieve **Vox Populi** badge on StackOverflow.  
+    In order to achieve this badge you need to use  the maximum 40 votes in a day.
+    This is a chance for you to observe the most useful questions and answers related to what you are learning.  
+    This [SO post](https://meta.stackexchange.com/questions/5212/what-are-the-limits-on-how-i-can-cast-change-and-retract-votes#answer-5213) can help you in case you get blocked from voting before reaching the 40 votes per day limitation.
 5. Achieve **Critic** badge on StackOverflow.
 6. Find at least 5 other online resources about **Authentication in Web** and explain why you chose them, then share them on Twitter and LinkedIn. 

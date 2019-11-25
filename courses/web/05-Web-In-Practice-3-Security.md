@@ -13,13 +13,16 @@
    - Add a **signup** page to Todo app.
    - Add a **signin** page to Todo app.
    - Use a method to apply authentication on all http requests.
+   - Use your GitHub as source control.
 2. Enhance Todo app to store the state of app for each **user** separately. Enable Todo app to work for **anonymous** users too.
+   - Use your GitHub as source control.
 3. Add a **header** to Todo app with the following functionality:
    - A label showing current user's **display name**.
    - A 'Sign up' button to navigate to **signup page**.
    - A 'Sign in' button to navigate to **signin page**.
    - A 'Sign out' button to log off current user.
    - Apply visibility of each button based on current state of app.
+   - Use your GitHub as source control.
 4. Achieve **Vox Populi** badge on StackOverflow.  
     In order to achieve this badge you need to use  the maximum 40 votes in a day.
     This is a chance for you to observe the most useful questions and answers related to what you are learning.  

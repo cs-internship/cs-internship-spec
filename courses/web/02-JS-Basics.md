@@ -40,3 +40,4 @@
 8. Follow at least 5 Twitter accounts which are active in Web technologies. Describe why they worth to follow.
 9. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
 10. Find at least 5 other online resources about JS and explain why you chose them.
+11. You should give a 20-min presentation about the content of this step, on Twitch platform.

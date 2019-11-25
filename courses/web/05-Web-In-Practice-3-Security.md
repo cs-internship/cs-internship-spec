@@ -26,3 +26,4 @@
     This [SO post](https://meta.stackexchange.com/questions/5212/what-are-the-limits-on-how-i-can-cast-change-and-retract-votes#answer-5213) can help you in case you get blocked from voting before reaching the 40 votes per day limitation.
 5. Achieve **Critic** badge on StackOverflow.
 6. Find at least 5 other online resources about **Authentication in Web** and explain why you chose them, then share them on Twitter and LinkedIn. 
+7. You should give a 20-min presentation about the content of this step, on Twitch platform.

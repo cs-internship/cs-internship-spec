@@ -8,7 +8,10 @@
 
 ### Tasks
 
-  1. Achieve Vox Populi badge on StackOverflow
+  1. Achieve Vox Populi badge on StackOverflow  
+      In order to achieve this badge you need to use  the maximum 40 votes in a day.
+    This is a chance for you to observe the most useful questions and answers related to what you are learning.  
+    This [SO post](https://meta.stackexchange.com/questions/5212/what-are-the-limits-on-how-i-can-cast-change-and-retract-votes#answer-5213) can help you in case you get blocked from voting before reaching the 40 votes per day limitation.
   2. Achieve Critic badge on StackOverflow
   3. For each study item you should:  
      - post an update to LinkedIn using #cs_internship #csharp  

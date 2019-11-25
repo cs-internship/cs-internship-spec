@@ -24,3 +24,4 @@
 9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
 10. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
 11. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.
+12. You should give a 20-min presentation about the content of this step, on Twitch platform.

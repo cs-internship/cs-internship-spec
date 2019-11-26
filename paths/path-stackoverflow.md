@@ -17,11 +17,11 @@ Also a good developer should have a good resume of answering the others and help
  - Informed:  Read the entire tour page
 
 #### Level 2: Beginner Questioner
- - Student: First question with score of 1 or more.
+ - Scholar: Ask a question and accept an answer
  - Supporter: First up vote
 
 #### Level 3: Brave Questioner
- - Scholar: Ask a question and accept an answer
+ - Student: First question with score of 1 or more.
  - Suffrage: Use 30 votes in a day
 
 #### Level 4: Beginner Answerer

@@ -6,7 +6,7 @@
   2. **The Quick Python Book:** Chapter 13
   3. **The Quick Python Book:** Chapter 14
   4. **No bullshit guide to linear algebra:** Chapter 6
-  **No bullshit guide to linear algebra:** 7 (Note that these two chapters are a little bit hard. But, these chapters are two of the most important parts Linear Algebra theories)
+  5. **No bullshit guide to linear algebra:** 7 (Note that these two chapters are a little bit hard. But, these chapters are two of the most important parts Linear Algebra theories)
   
   
 ### Tasks

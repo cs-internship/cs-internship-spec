@@ -16,10 +16,9 @@
       - Isogram
       - Scrabble Score
       - Acronym  
-      
 
-            Use your GitHub as source control.  
-            Publish it on online editor
+     Use your GitHub as source control.  
+     Publish it on online editor
 
   5. Solve problems 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, and 2.11 from chapetr **two** and problems 3.1, 3.3, and 3.4 from chapter **three** in **Ref2**.
       - Use your GitHub as source control.

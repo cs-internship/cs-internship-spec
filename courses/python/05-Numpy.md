@@ -12,6 +12,6 @@
    In order to achieve this badge you need to use the maximum 40 votes in a day. This is a chance for you to observe the most useful questions and answers related to what you are learning.
 This SO post can help you in case you get blocked from voting before reaching the 40 votes per day limitation.
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 274**.
- 3. Solve problems 4.10, 4.11, 4.13, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from **Ref2** with **Numpy** package and then compare your results wiht previous steps.
+ 3. Solve problems 4.10, 4.11, 4.13, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from **No bullshit guide to linear algebra** with **Numpy** package and then compare your results wiht previous steps.
     - Use your GitHub as source control.
  4. Find at least 5 other online resources about numpy, and explain why you chose them.

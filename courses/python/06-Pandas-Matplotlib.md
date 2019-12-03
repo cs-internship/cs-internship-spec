@@ -12,13 +12,8 @@
  5. Plot the generated moving average columns from previous excercise for first 100 data points in a single window.
  6. Solve problems 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from chapetr seven in **NBGLA**.
  
-   - Use your GitHub as source control.
-   - Publish it on online editor.
+      - Use your GitHub as source control.
+      - Publish it on online editor.
    
  7. Find at least 5 other online resources about pandas & matplotlib, and explain why you chose them.
- 8. For each study item you should:  
  
-   - post an update to LinkedIn using #cs_internship #python  
-   - post a tweet on Twitter using #cs_internship #python
-     
- 9. You should give a 20-min presentation about the content of this step, on Twitch platform.

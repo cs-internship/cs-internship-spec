@@ -9,21 +9,21 @@
   1. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
   2. Achieve [*Scholar*](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
   3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 137**.
-  4. Pass these exercises at exercism.io:  
+  4. Pass these exercises at exercism.io:
       - High Scores
       - Matrix
-      - Hamming 
+      - Hamming
       - Isogram
       - Scrabble Score
-      - Acronym
+      - Acronym  
       
-   - Use your GitHub as source control.
-   - Publish it on online editor
+
+            Use your GitHub as source control.  
+            Publish it on online editor
 
   5. Solve problems 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, and 2.11 from chapetr **two** and problems 3.1, 3.3, and 3.4 from chapter **three** in **Ref2**.
-  
-   - Use your GitHub as source control.
-   - Publish it on online editor 
+      - Use your GitHub as source control.
+      - Publish it on online editor 
    
   6. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on Python.
   7. For each study item you should:  

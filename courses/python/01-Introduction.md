@@ -2,9 +2,9 @@
 
 ### Study Items
 
-  1. **Ref1:** Chapter 1, 2, 3, and 4
+  1. **TQPB:** Chapter 1, 2, 3, and 4
   2. **[Let's get started with Python](https://github.com/mrhajbabaei/get-started-with-python)**
-  3. **Ref2:** Chapter 1
+  3. **NBGLA:** Chapter 1
 
 ### Tasks
 
@@ -26,7 +26,7 @@
    - Use your GitHub as source control.
    - Publish it on online editor
    
-  11. Solve problems 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.24, 1.25, 1.34, 1.36, 1.43, 1.47, 1.58, and 1.59 from chapetr **one** in **Ref2**.
+  11. Solve problems 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.24, 1.25, 1.34, 1.36, 1.43, 1.47, 1.58, and 1.59 from chapetr **one** in **NBGLA**.
   
    - Use your GitHub as source control.
    - Publish it on online editor

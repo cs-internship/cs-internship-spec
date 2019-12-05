@@ -3,7 +3,7 @@
 ### Study Items
 
   1. [No bullshit guide to linear algebra](README.md): Chapter 7 (part 7-7 is excluded and is optional)
-  2. [Python Data Science Handbook](README.md): Chapter 2 : Introduction to Numpy
+  2. [Python Data Science Handbook](README.md): Chapter 2 (Introduction to Numpy)
 
 
 ### Tasks

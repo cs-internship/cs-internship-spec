@@ -2,7 +2,7 @@
 
 ### Study Items
 
-  1.  **The Quick Python Book:** Chapter 1
+  1.  [[The Quick Python Book](README.md): Chapter 1
   2.  **The Quick Python Book:** Chapter 2
   3.  **The Quick Python Book:** Chapter 3
   4.  **The Quick Python Book:** Chapter 4

@@ -2,8 +2,8 @@
 
 ### Study Items
 
-  1. **Python Data Science Handbook:** Chapter 3 : Data Manipulation with Pandas
-  2. **Python Data Science Handbook:** Chapter 4 : Visualization with Matplotlib
+  1. [Python Data Science Handbook](README.md): Chapter 3 (Data Manipulation with Pandas)
+  2. [Python Data Science Handbook](README.md): Chapter 4 (Visualization with Matplotlib)
 
 
 ### Tasks

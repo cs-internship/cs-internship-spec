@@ -1,4 +1,4 @@
-## Step 4. File System, Read/Write Files, and Exceptions
+## Step 4. Files and Exceptions
 
 ### Study Items
 

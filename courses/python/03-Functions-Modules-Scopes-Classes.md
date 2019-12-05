@@ -2,11 +2,11 @@
 
 ### Study Items
 
-  1. **The Quick Python Book:** Chapter 9
-  2. **The Quick Python Book:** Chapter 10
-  3. **The Quick Python Book:** Chapter 15
-  4. **No bullshit guide to linear algebra:** Chapter 4
-  5. **No bullshit guide to linear algebra:** Chapter 5
+  1. [The Quick Python Book](README.md): Chapter 9
+  2. [The Quick Python Book](README.md): Chapter 10
+  3. [The Quick Python Book](README.md): Chapter 15
+  4. [No bullshit guide to linear algebra](README.md): Chapter 4
+  5. [No bullshit guide to linear algebra](README.md): Chapter 5
   
   
 ### Tasks

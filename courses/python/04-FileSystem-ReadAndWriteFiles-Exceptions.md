@@ -2,11 +2,11 @@
 
 ### Study Items
 
-  1. **The Quick Python Book:** Chapter 12
-  2. **The Quick Python Book:** Chapter 13
-  3. **The Quick Python Book:** Chapter 14
-  4. **No bullshit guide to linear algebra:** Chapter 6
-  5. **No bullshit guide to linear algebra:** Chapter 7 (Note that these two chapters are a little bit hard. But, these chapters are two of the most important parts Linear Algebra theories)
+  1. [The Quick Python Book](README.md): Chapter 12
+  2. [The Quick Python Book](README.md): Chapter 13
+  3. [The Quick Python Book](README.md): Chapter 14
+  4. [No bullshit guide to linear algebra](README.md): Chapter 6
+  5. [No bullshit guide to linear algebra](README.md): Chapter 7 (Note that these two chapters are a little bit hard. But, these chapters are two of the most important parts Linear Algebra theories)
   
   
 ### Tasks

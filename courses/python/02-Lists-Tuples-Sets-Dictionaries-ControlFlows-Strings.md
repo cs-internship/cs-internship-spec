@@ -1,4 +1,4 @@
-## Step 2. Lists, Tuples, Sets, Dictionaries, Control Flows and Strings
+## Step 2. Colection and Control Flows
 
 ### Study Items
 

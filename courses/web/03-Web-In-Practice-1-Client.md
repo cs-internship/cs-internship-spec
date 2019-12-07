@@ -30,8 +30,8 @@
    - Current filter button should have a different style from other filter buttons.
    - Each todo should have an Edit button in order to edit the todo title.
 5. Refactor Todo app to use **MVC** pattern.
-6. Achieve **Teacher** badge on StackOverflow.
-7. Answer at least 1 question on StackOverflow with more than **+2 votes**.
-8. Pass all lessons on TypingClub.com with 5 stars up to **lesson 191**.
-9. Find at least 5 other online resources about client side JS & Tooling, and explain why you chose them. 
-10. You should give a 20-min presentation about the content of this step, on Twitch platform.
+6. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
+7. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
+9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 191**.
+10. Find at least 5 other online resources about client side JS & Tooling, and explain why you chose them. 
+11. You should give a 20-min presentation about the content of this step, on Twitch platform.

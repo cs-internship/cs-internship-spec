@@ -1,4 +1,4 @@
-## Step 2. Colection and Control Flows
+## Step 2. Collection and Control Flows
 
 ### Study Items
 

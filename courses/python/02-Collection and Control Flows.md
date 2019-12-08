@@ -15,14 +15,12 @@
   1. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
   2. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
   3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 137**.
-  4. Pass these exercises at exercism.io:  
+  4. Pass these exercises at exercism.io (Use your GitHub as source control):  
       - High Scores
       - Matrix
       - Hamming 
       - Isogram
       - Scrabble Score
       - Acronym  
-      - Use your GitHub as source control.
   5. Solve problems 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, and 2.11 from chapter **two** and problems 3.1, 3.3, and 3.4 from chapter **three** in **[No bullshit guide to linear algebra](README.md)** **(Theorical problems)**.
-      - Use your GitHub as source control.
   6. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on Python.

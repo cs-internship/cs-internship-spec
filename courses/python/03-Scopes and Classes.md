@@ -2,9 +2,9 @@
 
 ### Study Items
 
-  1. [The Quick Python Book](README.md): Chapter 9
-  2. [The Quick Python Book](README.md): Chapter 10
-  3. [The Quick Python Book](README.md): Chapter 15
+  1. [The Quick Python Book](README.md): Chapter 9 (Functions)
+  2. [The Quick Python Book](README.md): Chapter 10 (Modules and scoping rules)
+  3. [The Quick Python Book](README.md): Chapter 15 (Classes and Object-Oriented programming)
   4. [No bullshit guide to linear algebra](README.md): Chapter 4 (Computational linear algebra)
 
   

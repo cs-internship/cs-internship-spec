@@ -21,11 +21,10 @@
   7. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow
   8. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
   9. Register at exercism.io. Join Python track in **independent mode**
-  10. pass these exercises at exercism.io:
-      -   Hello World
-      -   Two Fer
-      -   Raindrops
-      - Use your GitHub as source control.
+  10. Pass these exercises at exercism.io (Use your GitHub as source control):
+      - Hello World
+      - Two Fer
+      - Raindrops
   11. Solve problems 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.24, 1.25, 1.34, 1.36, 1.43, 1.47, 1.58, and 1.59 from chapter **one** in **[No bullshit guide to linear algebra](README.md)** **(Theorical problems)**.
       - Use your GitHub as source control.
   12. Find at least 5 other useful online resources for python and explain why you chose them.

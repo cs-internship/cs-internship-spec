@@ -14,6 +14,6 @@ This SO post can help you in case you get blocked from voting before reaching th
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 274**.
  3. Solve problems 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from chapetr **seven** in **[No bullshit guide to linear algebra](README.md)**.
     - Use your GitHub as source control **(Theorical problems)**.   
- 4. Solve problems 4.10, 4.11, 4.13, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from **[No bullshit guide to linear algebra](README.md)** with **Numpy** **package** and then compare your results with previous steps **(Code based problems)** .
+ 4. Solve problems 4.10, 4.11, 4.13, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from **[No bullshit guide to linear algebra](README.md)** with **Numpy** **package** and then compare your results with previous steps **(Code based problems)**.
     - Use your GitHub as source control.
  5. Find at least 5 other online resources about numpy, and explain why you chose them.

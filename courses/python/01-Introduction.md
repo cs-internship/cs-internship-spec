@@ -2,10 +2,10 @@
 
 ### Study Items
 
-  1. [The Quick Python Book](README.md): Chapter 1
-  2. [The Quick Python Book](README.md): Chapter 2
-  3. [The Quick Python Book](README.md): Chapter 3
-  4. [The Quick Python Book](README.md): Chapter 4
+  1. [The Quick Python Book](README.md): Chapter 1 (About Python) 
+  2. [The Quick Python Book](README.md): Chapter 2 (Getting started)
+  3. [The Quick Python Book](README.md): Chapter 3 (The Quick Python overview)
+  4. [The Quick Python Book](README.md): Chapter 4 (The absolute basics)
   5. [Let's get started with Python](https://github.com/mrhajbabaei/get-started-with-python)
   6. [No bullshit guide to linear algebra](README.md): Chapter 1 (Math Fundamentals)
 

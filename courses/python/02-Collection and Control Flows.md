@@ -2,10 +2,10 @@
 
 ### Study Items
 
-  1. [The Quick Python Book](README.md): Chapter 5
-  2. [The Quick Python Book](README.md): Chapter 6
-  3. [The Quick Python Book](README.md): Chapter 7
-  4. [The Quick Python Book](README.md): Chapter 8
+  1. [The Quick Python Book](README.md): Chapter 5 (Lists, tuples, and sets)
+  2. [The Quick Python Book](README.md): Chapter 6 (Strings)
+  3. [The Quick Python Book](README.md): Chapter 7 (Dictionaries)
+  4. [The Quick Python Book](README.md): Chapter 8 (Control Flow)
   5. [No bullshit guide to linear algebra](README.md): Chapter 2 (Vectors)
   6. [No bullshit guide to linear algebra](README.md): Chapter 3 (Intro to linear algebra)
   
@@ -23,6 +23,6 @@
       - Scrabble Score
       - Acronym  
       - Use your GitHub as source control.
-  5. Solve problems 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, and 2.11 from chapetr **two** and problems 3.1, 3.3, and 3.4 from chapter **three** in **[No bullshit guide to linear algebra](README.md)** **(Theorical problems)**.
+  5. Solve problems 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, and 2.11 from chapter **two** and problems 3.1, 3.3, and 3.4 from chapter **three** in **[No bullshit guide to linear algebra](README.md)** **(Theorical problems)**.
       - Use your GitHub as source control.
   6. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on Python.

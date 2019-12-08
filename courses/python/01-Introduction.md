@@ -16,13 +16,12 @@
   2. Create [LinkedIn](https://www.linkedin.com) account.
   3. Create [StackOverflow](https://stackoverflow.com) account.
   4. Create [Twitter](https://twitter.com) account.
-  5. Create [Repl.it](https://repl.it/) account.
-  6. Create [TypingClub.com](https://www.typingclub.com) account.
-  7. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
-  8. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow
-  9. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
-  10. Register at exercism.io. Join Python track in **independent mode**
-  11. pass these exercises at exercism.io:
+  5. Create [TypingClub.com](https://www.typingclub.com) account.
+  6. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
+  7. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow
+  8. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
+  9. Register at exercism.io. Join Python track in **independent mode**
+  10. pass these exercises at exercism.io:
       -   Hello World
       -   Two Fer
       -   Raindrops

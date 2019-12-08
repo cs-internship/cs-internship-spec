@@ -2,9 +2,9 @@
 
 ### Study Items
 
-  1. [The Quick Python Book](README.md): Chapter 12
-  2. [The Quick Python Book](README.md): Chapter 13
-  3. [The Quick Python Book](README.md): Chapter 14
+  1. [The Quick Python Book](README.md): Chapter 12 (Using the filesystem)
+  2. [The Quick Python Book](README.md): Chapter 13 (Reading and Writing files)
+  3. [The Quick Python Book](README.md): Chapter 14 (Exceptions)
   4. [No bullshit guide to linear algebra](README.md): Chapter 5 (Geometrical aspects of linear algebra) (Note that this chapter is a little bit hard. But, this chapter is one of the most important parts Linear Algebra theories)
   5. [No bullshit guide to linear algebra](README.md): Chapter 6 (Linear transformations) (Note that this chapter is a little bit hard. But, this chapter is one of the most important parts Linear Algebra theories)
   

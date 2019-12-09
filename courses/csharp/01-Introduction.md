@@ -14,7 +14,8 @@
   7. Register at exercism.io. Join C# track in **independent mode**:
   8. pass these exercises at exercism.io:
         - Hello world (exercise number 1)
-  9. For each study item you should:  
-     - post an update to LinkedIn using #cs_internship #csharp  
-     - post a tweet on Twitter using #cs_internship #csharp
+  9. For each study item and each task you should:  
+     - post an update to LinkedIn using #cs_internship #csharp tags.
+     - post a tweet on Twitter using #cs_internship #csharp tags.
+     - post on 'CS Internship - C# Club' telegram groupe using #cs_internship #csharp tags.
   10. You should give a 20-min presentation about the content of this step, on Twitch platform.

@@ -12,8 +12,9 @@
  1. Achieve Teacher badge on StackOverflow
  2. Pass these exercises at exercism.io:
     - Tournament
- 3. For each study item you should:  
-    post an update to LinkedIn using #cs_internship #csharp  
-    post a tweet on Twitter using #cs_internship #csharp
+ 3. For each study item and each task you should:  
+    - post an update to LinkedIn using #cs_internship #csharp  
+    - post a tweet on Twitter using #cs_internship #csharp
+    - post on 'CS Internship - C# Club' telegram groupe using #cs_internship #csharp tags.
  4. You should give a 20-min presentation about the content of this step, on Twitch platform.
 

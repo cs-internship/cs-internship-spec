@@ -16,7 +16,8 @@
     - Resistor Color
     - Nucleotide Count
     - Robot Name
- 5. For each study item you should:  
-    post an update to LinkedIn using #cs_internship #csharp  
-    post a tweet on Twitter using #cs_internship #csharp
+ 5. For each study item and each task you should:  
+    - post an update to LinkedIn using #cs_internship #csharp  
+    - post a tweet on Twitter using #cs_internship #csharp
+    - post on 'CS Internship - C# Club' telegram groupe using #cs_internship #csharp tags
  6. You should give a 20-min presentation about the content of this step, on Twitch platform.

@@ -9,7 +9,7 @@
 
 ### Tasks
 
- 1. Achieve Teacher badge on StackOverflow
+ 1. Achieve [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on StackOverflow.
  2. Pass these exercises at exercism.io:
     - Tournament
  3. For each study item and each task you should:  

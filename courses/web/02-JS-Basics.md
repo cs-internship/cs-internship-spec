@@ -34,10 +34,10 @@
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 
-5. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
 6. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
-7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
-8. Follow at least 5 Twitter accounts which are active in Web technologies. Describe why they worth to follow.
-9. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
-10. Find at least 5 other online resources about JS and explain why you chose them.
-11. You should give a 20-min presentation about the content of this step, on Twitch platform.
+7. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
+8. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
+9. Follow at least 5 Twitter accounts which are active in Web technologies. Describe why they worth to follow.
+10. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
+11. Find at least 5 other online resources about JS and explain why you chose them.
+12. You should give a 20-min presentation about the content of this step, on Twitch platform.

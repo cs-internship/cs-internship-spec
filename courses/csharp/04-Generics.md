@@ -10,13 +10,14 @@
 
 ### Tasks  <!-- omit in toc -->
 
-  1. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
-  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 45.
+  1. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
+  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 137.
   3. Pass these at exercism.io:
         - Circular Buffer
         - Panagarm
         - Pascal's Triangle
-  4. For each study item you should:  
+  4. For each study item and each task you should:  
      - post an update to LinkedIn using #cs_internship #csharp  
      - post a tweet on Twitter using #cs_internship #csharp
+     - post on 'CS Internship - C# Club' telegram groupe using #cs_internship #csharp tags.
   5. You should give a 20-min presentation about the content of this step, on Twitch platform.

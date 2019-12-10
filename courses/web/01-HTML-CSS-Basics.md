@@ -17,9 +17,12 @@
 7. Create [TypingClub.com](https://www.typingclub.com/) account.
 8. Implement a calculator layout **exactly** like windows 10 calculator:
     - Create it Without using any library.
-    - Make it responsive just like the windows 10 calculator (Standard mode).    
+    - Make it responsive just like the windows 10 calculator (Standard mode).
+    - Follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1)
     - Use your GitHub as source control.
     - Publish it on your jsFiddle account.
 9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
 10. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
-11. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.
+11. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
+12. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.
+13. You should give a 20-min presentation about the content of this step, on Twitch platform.

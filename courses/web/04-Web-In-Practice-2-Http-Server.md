@@ -24,5 +24,8 @@
 5. Implement a **Download** functionality in Todo app in order to retrieve latest stored state from server:
    - Use your GitHub as source control.
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 244**.
-7. Achieve **Suffrage** badge on StackOverflow.
-8. Find at least 5 other online resources about **Http** & **NodeJs** and explain why you chose them.
+7. Achieve [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on StackOverflow.
+8. Achieve [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
+9. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
+10. Find at least 5 other online resources about **Http** & **NodeJs** and explain why you chose them.
+11. You should give a 20-min presentation about the content of this step, on Twitch platform.

@@ -24,7 +24,7 @@
    - Hello world
    - Two Fer
    - Leap
-   - Panagarm
+   - Pangarm
    - Pascal's Triangle
 
    Use **Practice Mode** (not Mentored Mode).

@@ -7,7 +7,7 @@
 
 ### Tasks
 
- 1. Achieve Commentator badge on StackOverflow
+ 1. Achieve [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow
  2. For each study item and each task you should:  
      - post an update to LinkedIn using #cs_internship #csharp  
      - post a tweet on Twitter using #cs_internship #csharp

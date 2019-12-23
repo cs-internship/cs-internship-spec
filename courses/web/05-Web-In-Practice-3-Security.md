@@ -23,10 +23,11 @@
    - A 'Sign out' button to log off current user.
    - Apply visibility of each button based on current state of app.
    - Use your GitHub as source control.
-4. Achieve **Vox Populi** badge on StackOverflow.  
+4. Achieve [**Vox Populi**](https://stackoverflow.com/help/badges/1108/vox-populi) badge on StackOverflow.  
     In order to achieve this badge you need to use  the maximum 40 votes in a day.
     This is a chance for you to observe the most useful questions and answers related to what you are learning.  
     This [SO post](https://meta.stackexchange.com/questions/5212/what-are-the-limits-on-how-i-can-cast-change-and-retract-votes#answer-5213) can help you in case you get blocked from voting before reaching the 40 votes per day limitation.
-5. Achieve **Critic** badge on StackOverflow.
-6. Find at least 5 other online resources about **Authentication in Web** and explain why you chose them, then share them on Twitter and LinkedIn. 
-7. You should give a 20-min presentation about the content of this step, on Twitch platform.
+5. Achieve [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow.
+6. Achieve [**Self Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on StackOverflow.
+7. Find at least 5 other online resources about **Authentication in Web** and explain why you chose them, then share them on Twitter and LinkedIn. 
+8. You should give a 20-min presentation about the content of this step, on Twitch platform.

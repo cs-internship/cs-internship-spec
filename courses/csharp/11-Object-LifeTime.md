@@ -11,7 +11,7 @@
 ### Tasks
 
  1. Look for some famous memory leak inspection tools. Name them and a little comparison of their features.
- 2. Achieve Suffrage badge on StackOverflow
+ 2. Achieve [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
  3. Will start to see her/his profile
  4. For each study item and each task you should:  
      - post an update to LinkedIn using #cs_internship #csharp  

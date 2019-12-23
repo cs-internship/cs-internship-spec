@@ -6,6 +6,8 @@
 1. [You don’t know JS: Book 2 (Scope & Closures)](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 2. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
 3. [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+4. [How do I ask a good question on StackOverflow?](https://stackoverflow.com/help/how-to-ask) (Optional)
+5. [writing the perfect question on StackOverflow](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question) (Optional)
 
 
 ### Tasks  <!-- omit in toc -->
@@ -30,8 +32,8 @@
    - Current filter button should have a different style from other filter buttons.
    - Each todo should have an Edit button in order to edit the todo title.
 5. Refactor Todo app to use **MVC** pattern.
-6. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
-7. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
+6. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow. (Optional)
+7. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow. (Optional)
 9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 191**.
 10. Find at least 5 other online resources about client side JS & Tooling, and explain why you chose them. 
 11. You should give a 20-min presentation about the content of this step, on Twitch platform.

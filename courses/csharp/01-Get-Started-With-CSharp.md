@@ -19,7 +19,7 @@
   6. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
   7. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
   8. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
-  9.  Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
+  9. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
   10. Register at exercism.io. Join C# track in **independent mode**:
   11. pass these exercises at exercism.io:
         - Hello world (exercise number 1)
@@ -27,8 +27,9 @@
         - Leap  
         - RNA Transcription  
         - Gigaseconds
-  12. For each study item and each task you should:  
+  12. Search about *bubble sort* algorithm. Write a programe which has a method which receives a list of numbers and returns a sorted equivalent list. The method should be using bubble sort algorithm.
+  13. For each study item and each task you should:  
      - post an update to LinkedIn using #cs_internship #csharp tags.
      - post a tweet on Twitter using #cs_internship #csharp tags.
      - post on 'CS Internship - C# Club' telegram groupe using #cs_internship #csharp tags.
-  13. You should give a 20-min presentation about the content of this step, on Twitch platform.
+  14. You should give a 20-min presentation about the content of this step, on Twitch platform.

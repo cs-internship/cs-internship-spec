@@ -22,7 +22,7 @@
     - Use your GitHub as source control.
     - Publish it on your jsFiddle account.
 9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
-10. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
-11. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
+10. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow. (Optional)
+11. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow. (Optional)
 12. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.
 13. You should give a 20-min presentation about the content of this step, on Twitch platform.

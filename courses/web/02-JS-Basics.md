@@ -34,8 +34,8 @@
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 
-6. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
-7. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
+6. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow. (Optional)
+7. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow. (Optional)
 8. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 9. Follow at least 5 Twitter accounts which are active in Web technologies. Describe why they worth to follow.
 10. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.

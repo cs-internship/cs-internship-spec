@@ -12,7 +12,7 @@
   5. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
   6. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
   7. Pass all lessons on TypingClub.com up to lesson 88.
-  8. Register at exercism.io. Join C# track in **independent mode**:
+  8. Register at exercism.io. Join C# track in **Practice  mode**:
   9. pass these exercises at exercism.io:
         - Hello world (exercise number 1)
   10. For each study item and each task you should:  

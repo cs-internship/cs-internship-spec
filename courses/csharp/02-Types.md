@@ -1,7 +1,8 @@
-## Step 3. Types
+## Step 2. Types
 
 ### Study Items  <!-- omit in toc -->
  1. C# book, chapter 3 : Types
+ 2. Todo: some resource for basics of web structure, http and client-server architecture
 
 ### Tasks  <!-- omit in toc -->
  1. Choose 3 bloggers who write about C# and describe why they matter to you.

@@ -5,6 +5,7 @@
 1. C# book, chapter 5: Collections
 2. [Collections (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections) 
 3. [Covariance and Contravariance (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/)
+4. [Get started with Swashbuckle and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio)
 
 ### Tasks
 
@@ -15,8 +16,9 @@
     - Resistor Color
     - Nucleotide Count
     - Robot Name
- 4. For each study item and each task you should:  
+ 4. Configure your web api project to use swagger. Use swagger to test your web apis.
+ 5. For each study item and each task you should:  
     - post an update to LinkedIn using #cs_internship #csharp  
     - post a tweet on Twitter using #cs_internship #csharp
     - post on 'CS Internship - C# Club' telegram groupe using #cs_internship #csharp tags
- 5. You should give a 20-min presentation about the content of this step, on Twitch platform.
+ 6. You should give a 20-min presentation about the content of this step, on Twitch platform.

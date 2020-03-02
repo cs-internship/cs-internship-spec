@@ -1,4 +1,4 @@
-## Step 6. Inheritance
+## Step 5. Inheritance
 
 ### Study Items
 

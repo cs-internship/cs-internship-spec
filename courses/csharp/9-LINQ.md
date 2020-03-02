@@ -1,4 +1,4 @@
-## Step 10. LINQ
+## Step 9. LINQ
 
 ### Study Items
 

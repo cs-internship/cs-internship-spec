@@ -1,4 +1,4 @@
-## Step 6. Exceptions
+## Step 7. Exceptions
 
 ### Study Items
 

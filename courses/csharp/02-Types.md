@@ -1,4 +1,4 @@
-## Step 3. Types
+## Step 2. Types
 
 ### Study Items  <!-- omit in toc -->
  1. C# book, chapter 3 : Types

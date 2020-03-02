@@ -1,4 +1,4 @@
-## Step 4. Generics
+## Step 3. Generics
 
 ### Study Items  <!-- omit in toc -->
 

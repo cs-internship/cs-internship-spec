@@ -1,4 +1,4 @@
-## Step 9. Delegates, Lambdas and Events
+## Step 8. Delegates, Lambdas and Events
 
 ### Study Items
 

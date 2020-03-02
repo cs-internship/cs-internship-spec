@@ -1,4 +1,4 @@
-## Step 7. Object Lifetime
+## Step 6. Object Lifetime
 
 ### Study Items
 

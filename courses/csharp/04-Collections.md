@@ -1,4 +1,4 @@
-## Step 5. Collections
+## Step 4. Collections
 
 ### Study Items
 

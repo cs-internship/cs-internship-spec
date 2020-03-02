@@ -20,7 +20,7 @@
   7. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
   8. Achieve [**ُScholar**](https://stackoverflow.com/help/badges/6/scholar) badge on StackOverflow.
   9. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
-  10. Register at exercism.io. Join C# track in **independent mode**:
+  10. Register at exercism.io. Join C# track in **practice mode**:
   11. pass these exercises at exercism.io:
         - Hello world (exercise number 1)
         - Two Fer  

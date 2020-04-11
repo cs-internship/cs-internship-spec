@@ -8,6 +8,7 @@
   4. [The Quick Python Book](README.md): Chapter 4 (The absolute basics)
   5. [Let's get started with Python](https://github.com/mrhajbabaei/get-started-with-python)
   6. [No bullshit guide to linear algebra](README.md): Chapter 1 (Math Fundamentals)
+  7. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
 
 ### Tasks

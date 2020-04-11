@@ -4,7 +4,7 @@
 This course is designed for students who want to learn Python programming language in the **DataScience** approach. In this course, you will learn how to use Lists, Tuples, and Dictionaries. Besides, learning the Linear Algebra is one of the main parts of this course. By doing so, you will be able to work and solve linalg (linear algebra) exercises with the most popular Python **DataScience** packages like Numpy, Pandas, and Matplotlib.
 
 ## References
-- **Reference 1:** [The Quick Python Book, Third Edition ](https://www.amazon.com/Quick-Python-Book-Second/dp/193518220X) (downloda from [here](/courses/python/References&#32;Files/Naomi_Ceder_The_Quick_Python_Book-2018.pdf))
+- **Reference 1:** [The Quick Python Book, Third Edition ](https://www.amazon.com/Quick-Python-Book-Naomi-Ceder/dp/1617294039/) (downloda from [here](/courses/python/References&#32;Files/Naomi_Ceder_The_Quick_Python_Book-2018.pdf))
 - **Reference 2:** [No bullshit guide to linear algebra 2nd Edition](https://www.amazon.com/No-bullshit-guide-linear-algebra/dp/0992001021)
 - **Reference 3:** [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057), [[Data Files](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks/data)]
 - **Reference 4:** [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (This book is not a reference for this course. But, reading it for going deeper in some topics of Linear Algebra is highly recommended)

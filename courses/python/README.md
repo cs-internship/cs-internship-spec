@@ -5,9 +5,9 @@ This course is designed for students who want to learn Python programming langua
 
 ## References
 - **Reference 1:** [The Quick Python Book, Third Edition ](https://www.amazon.com/Quick-Python-Book-Naomi-Ceder/dp/1617294039/) (downloda from [here](/courses/python/References&#32;Files/Naomi_Ceder_The_Quick_Python_Book-2018.pdf))
-- **Reference 2:** [No bullshit guide to linear algebra 2nd Edition](https://www.amazon.com/No-bullshit-guide-linear-algebra/dp/0992001021)
-- **Reference 3:** [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057), [[Data Files](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks/data)]
-- **Reference 4:** [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (This book is not a reference for this course. But, reading it for going deeper in some topics of Linear Algebra is highly recommended)
+- **Reference 2:** [No bullshit guide to linear algebra 2nd Edition](https://www.amazon.com/No-bullshit-guide-linear-algebra/dp/0992001021) (download from [here](References&#32;Files/[Ivan_Savov]_No_Bullshit_Guide_to_Linear_Algebra(z-lib.org).pdf))
+- **Reference 3:** [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057), [[Data Files](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks/data)] ) (download book from [here](References&#32;Files/Jake_VanderPlas_Python_Data_Science_Handbook.pdf))
+- **Reference 4:** [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (download book from [here](References&#32;Files/matrixcookbook.pdf)) (This book is not a reference for this course. But, reading it for going deeper in some topics of Linear Algebra is highly recommended)
 - **Note:** Some topics through the course maybe not included in above references. Based on every specific topic you should read some other articles which are mentioned on that topic. 
 
 ## Contents 

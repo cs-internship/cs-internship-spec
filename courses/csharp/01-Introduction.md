@@ -19,7 +19,7 @@
      2. Create your first console app. Walk through [this tutorial](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install).
   7. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
   8. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
-  9. Achieve [**ُScholar**](https://stackoverflow.com/help/badges/6/scholar) badge on StackOverflow.
+  9. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
   10. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
   11. Register at exercism.io. Join C# track in **practice mode**:
   12. pass these exercises at exercism.io:

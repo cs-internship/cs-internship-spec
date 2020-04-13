@@ -16,3 +16,4 @@
  6. Solve problems 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from chapetr seven in **[No bullshit guide to linear algebra](README.md)** **(Code based problems)**.
     - Use your GitHub as source control.  
  7. Find at least 5 other online resources about pandas & matplotlib, and explain why you chose them.
+ 8. You should give a 20-min presentation about the content of this step, on Twitch platform.

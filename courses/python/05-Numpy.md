@@ -16,3 +16,4 @@ This SO post can help you in case you get blocked from voting before reaching th
  4. Solve problems 4.10, 4.11, 4.13, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, and 7.9 from **[No bullshit guide to linear algebra](README.md)** with **Numpy** **package** and then compare your results with previous steps **(Code based problems)**.
     - Use your GitHub as source control.
  5. Find at least 5 other online resources about numpy, and explain why you chose them.
+ 6. You should give a 20-min presentation about the content of this step, on Twitch platform.

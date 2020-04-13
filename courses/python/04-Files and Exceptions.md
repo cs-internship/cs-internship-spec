@@ -15,4 +15,5 @@
  3. Achieve [**Teacher**] (https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
  4. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 233**.
  5. Download EURUSD forex data from [this](https://www.histdata.com/download-free-forex-historical-data/?/excel/1-minute-bar-quotes/eurusd/2018) link and then extract and open it with proper Python commands.
+ 6. You should give a 20-min presentation about the content of this step, on Twitch platform.
 

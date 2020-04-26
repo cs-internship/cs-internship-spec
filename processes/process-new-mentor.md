@@ -10,6 +10,9 @@ We love to work with mentors having these specifications. Most of these items ar
 #### Integrity
 we must have integrity, must live the integrity through our life. The integrity must be a core value in our beliefs. We konw the integrity is not a state, it is a path. We are a bunch of people living our integrity journey in our life life.
 
+#### Advising
+Mentor means an experienced and trusted adviser. Not a mother or father. A mentor should always be there for the intern and give him advises but mentoring is not about interrupting the intern every minute.
+
 #### Courage
 We have courage, the courage to ask, the courage to answer, the courage to be criticized and ...
 
@@ -18,7 +21,6 @@ we love our work, the process of helping the others. If it is not a joyful work 
 
 #### Dynamism
 We are dynamic in all aspects of our work. We continuously look at our work and process to improve it.
-
 
 ## The Flow
 
@@ -31,3 +33,11 @@ If so, the mentor should send a **Commitment Statement** to the mentors group, s
 
 #### 3. Learning how to be a Mentor
 The **first task** for mentors is to learn what is being a mentor, and it is her/his job to learn, by asking the other mentors, studying the documents. The mentor should promise a time in which she/he is ready to start mentorship.
+
+#### 4. Participating in the weekly sprint session
+The mentor have to participate actively in the weekly session. By the means of Integrity the mentor should announce other mentors and send them a text including his tasks.
+
+#### 5. Check intern tasks
+The mentor should check intern's tasks regulary and update his page on one note
+
+

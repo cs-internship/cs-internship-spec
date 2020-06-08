@@ -12,7 +12,7 @@ This document aims to describe what the person in charge of queue during the spr
 
 ### general info
 
-- Order of applicants in queue is based on the time they announce they are done with talking with 5 people, **not** the time they entered the queue telegram group.
+- The applicants should be ordered based on the time they announce they have talked with 5 people and then the time they entered the queue telegram group.
 
 - states an applicant can have and documents should present are:
   - in pre-queue
@@ -45,9 +45,9 @@ Whenever queue executive finds out that there is a mentor who has less interns t
 
 ### Add an applicant to pre-queue
 
-A random person may happen to get interested in cs internship and want to enter one of the courses. Queue executive will be asked to add such a person to pre-queue by a mentor.  
+A random person may happen to get interested in cs internship and want to enter one of the courses. Queue executive will be asked to add such a person to pre-queue by either a mentor or the interns in the queue telegram group.  
 **1- add to telegram group**  
-Queue executive is responsible for adding that person to the telegram group (`CS Internship - Queue`). And greet the applicant.  
+Queue executive is responsible for adding that person to the telegram group (`CS Internship - Queue`). And greet the applicant by also introducing the cs-internship to them.  
 **2- ask to talk with 5 people**  
 Queue executive should ask that guy to talk with 5 people.  
 Queue executive is responsible for informing that guy about what he is supposed to ask others about and what kind of information he/she is needed to gather.  

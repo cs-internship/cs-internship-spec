@@ -21,7 +21,7 @@ This document aims to describe what the person in charge of queue during the spr
   - cancelled
   - in course
 
-- This document won't cover anything about how the OneNote documents should structured. This document will only describe the functionalities that OneNote documents are supposed to have. As an example the choice of merging pre-queue and queue in the same table or not, is not relevant to this doc.
+- This document won't cover anything about how the OneNote documents should be structured. This document will only describe the functionalities that OneNote documents are supposed to have. As an example, the choice of merging pre-queue and queue in the same table or not, is not relevant to this doc.
 
 ## Responsibilities
 
@@ -43,15 +43,16 @@ Whenever queue executive finds out that there is a mentor who has less interns t
 2- Find a mentor to be assigned the task of **organizing** the interview.  
 (Note that by *organizing* an interview we mean, to make sure that the interviewer is selected and notified, participating mentors are notified about interview time and they are informed about what they should do during the interview, make sure that interns already have talked with 5 others about the course and they are somehow familiar with the course, etc.)
 
-### Add a person to pre-queue
+### Add an applicant to pre-queue
 
 A random person may happen to get interested in cs internship and want to enter one of the courses. Queue executive will be asked to add such a person to pre-queue by a mentor.  
 **1- add to telegram group**  
 Queue executive is responsible for adding that person to the telegram group (`CS Internship - Queue`). And greet the applicant.  
 **2- ask to talk with 5 people**  
 Queue executive should ask that guy to talk with 5 people.  
-Queue executive is responsible for informing that guy about what he is supposed to ask others about and what kind of information he/she is needed gather.  
-Queue executive should inform the applicant, that whenever they are done with talking with people and gathering information, they should announce in the telegram group that he/she has talked with 5 people and is willing to enter the queue. Queue executive should inform them that queue is based on the time they announce they've talked with 5 people, not the time they entered the course.  
+Queue executive is responsible for informing that guy about what he is supposed to ask others about and what kind of information he/she is needed to gather.  
+Queue executive should inform the applicant, that whenever they are done with talking with people and gathering information, they should announce in the telegram group that he/she has talked with 5 people and is willing to enter the queue.  
+Queue executive should inform them that queue is based on the time they announce they've talked with 5 people, not the time they entered the course.  
 **3- update OneNote**  
 Queue executive is responsible for writing the information of the applicant and their state in OneNote.  
 OneNote documents should contain the state of each applicant (Are they in queue or in pre-queue? Have they been interviewed? ...) How data of queue and pre-queue is written, is not covered here. Ask other mentors to know about the convention and format of writing these info.
@@ -60,7 +61,7 @@ OneNote documents should contain the state of each applicant (Are they in queue 
 
 Whenever an applicant announces in the telegram group that they have talked with 5 people and are willing to enter a course:  
 1- Queue executive should update the queue document in OneNote. So that document shows that the applicant is in queue not pre-queue.  
-2- Queue executive should tell the applicant , their position in queue in telegram group and what course they are going to enter. Also, he/she should post an update in telegram group.  
+2- Queue executive should tell the applicant , their position in queue in telegram group and what course they are going to enter. Also, he/she should post an update in telegram group showing the order of applicants in the queue.
 
 ### remove from telegram group
 

@@ -12,7 +12,7 @@ This document aims to describe what the person in charge of queue during the spr
 
 ### general info
 
-- Order of applicants in queue is based on the time they announced they are done talking with 5 people, **not** the time they entered the queue telegram group.
+- Order of applicants in queue is based on the time they announce they are done with talking with 5 people, **not** the time they entered the queue telegram group.
 
 - states an applicant can have and documents should present are:
   - in pre-queue
@@ -20,6 +20,8 @@ This document aims to describe what the person in charge of queue during the spr
   - interviewed
   - cancelled
   - in course
+
+- This document won't cover anything about how the OneNote documents should structured. This document will only describe the functionalities that OneNote documents are supposed to have. As an example the choice of merging pre-queue and queue in the same table or not, is not relevant to this doc.
 
 ## Responsibilities
 
@@ -50,7 +52,8 @@ Queue executive is responsible for adding that person to the telegram group (`CS
 Queue executive should ask that guy to talk with 5 people.  
 Queue executive is responsible for informing that guy about what he is supposed to ask others about and what kind of information he/she is needed gather.  
 Queue executive should inform the applicant, that whenever they are done with talking with people and gathering information, they should announce in the telegram group that he/she has talked with 5 people and is willing to enter the queue. Queue executive should inform them that queue is based on the time they announce they've talked with 5 people, not the time they entered the course.  
-**3-** Queue executive is responsible for writing the information of the applicant and their state in OneNote.  
+**3- update OneNote**  
+Queue executive is responsible for writing the information of the applicant and their state in OneNote.  
 OneNote documents should contain the state of each applicant (Are they in queue or in pre-queue? Have they been interviewed? ...) How data of queue and pre-queue is written, is not covered here. Ask other mentors to know about the convention and format of writing these info.
 
 ### Add an applicant to queue
@@ -61,8 +64,9 @@ Whenever an applicant announces in the telegram group that they have talked with
 
 ### remove from telegram group
 
-After each interview meeting, one of the tasks to get done, is updating the telegram group and OneNote documents of queue.  After any interview, *interview organizer*, will ask queue executive to update those things and give him/her the needed information.  
-1- Queue executive, should update state of applicant in OneNote document. So that the document shows the applicant has been interviewed and possibly will enter one of the courses shortly.  
-2- Queue executive should post an update into telegram group and announce that the applicant has been interviewed, hence we are going to remove her/him from the group.
-3- Queue executive should post an update into telegram group and announce the updated order of applicants in the queue.
-4- Queue executive should tell the applicant at top of the course, he/she is the next one to be interviewed.
+After each interview meeting, one of the tasks to get done, is updating the telegram group and OneNote documents of queue.  After any interview, *interview organizer*, will ask queue executive to update those things and give him/her the needed information. Queue Executive:  
+1- should update state of applicant in OneNote document. So that the document shows the applicant has been interviewed and possibly will enter one of the courses shortly.  
+2- should post an update into telegram group and announce that the applicant has been interviewed, hence we are going to remove her/him from the group.  
+3- should remove the applicant from telegram group.  
+4- should post an update into telegram group and announce the updated order of applicants in the queue.  
+5- Queue executive should tell the applicant at top of the course, he/she is the next one to be interviewed.

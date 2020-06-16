@@ -37,3 +37,11 @@ The _Trainer_ is a [TO BE COMPLETED].
  3. **Basic PMI ACP:** Project Control Assistant -> Assistant Project Manager
  4. **In-Depth Scrum & TFS:** Assistant Project Manager -> Candidate Project Manager
  5. **PMI Curricula:** Candidate Project Manager -> Project Manager
+ 
+# Document Help
+## Qualified Instructors
+The qualified instructors for this document:
+ - Behzad Sadeghi
+ - Mehran Davoudi
+## Instructor Notes
+## FAQ

@@ -1,6 +1,6 @@
 
-# Transitions
-A _Transition_ is a process which helps a participant to advance to the next stage.
+# Trainings
+A _Training_ is a process which helps a participant to advance to the next stage.
 
 ## Basic Requirements
 The basic requirements are [TO BE COMPLETED].

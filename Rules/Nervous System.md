@@ -3,11 +3,11 @@ Decisions made in cs_internship are forgotten if they are not stored somewhere.
 These decisions can be new decisions that have not been made before or a change in the existing decision. All decisions made must be made in accordance with the following structure and rules.
 
 ## Structure and Rules
-* ### Storage in GateHub
-    GitHub is currently the best storage  because it has some amazing tools to do it. If you edit decisions, you can view the history of changesin that decision. if something is unclear you can use from issue tool.
+* ### Storage in GitHub
+    GitHub is currently the best storage  because it has some amazing tools to do it. If you edit decisions, you can view the history of changes in that decision. if something is unclear you can use from issue tool.
 
-* ### Notify In Telegram Channle
-    Any changes made to the GateHub decision section must be notified to everyone on the Telegram channel.
+* ### Notify In Telegram Channel
+    Any changes made to the GitHub decision section must be notified to everyone on the Telegram channel.
 
 * ### Find Instructors
     Storage a decision alone is not enough to make it happen. Communication must be established to make decisions. 
@@ -29,7 +29,7 @@ The problems that have existed in the cs_internship before should be noted and i
 1. [Hamed Hajiloo](https://github.com/hamedhajiloo)
 2. Pharaz
 3. Afshin
-4. Rebwar
+4. [Rebwar](https://github.com/rebwar)
 
 
 

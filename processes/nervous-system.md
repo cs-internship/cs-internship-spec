@@ -4,8 +4,8 @@ In CS Internship, we document everything, our decisions, our processes and every
 
 This document describes a standard format for all of our documents. It is designed based on our requirements for creating an effective *"Nervous System"* for our community.
 
-## Where To Publish?
-We have 3 main medias for publishing our contents:
+## The Anatomy
+We have 3 main medias for publishing our contents through the nervous system:
  - GitHub
  - Telegram
  - OneNote
@@ -47,7 +47,7 @@ OneNote is just a draft, but a great one. We start everything on OneNote. Whenev
 5. [Mehran](https://mehrandvd.me)
 
 # Instructor Notes
-Before starting to talk about the Nervous System, the instructor should completely describe the problem we had before. We were a brain, thinking, and finding great solutions, but there were no effective way to make the solution work! Just like a brain in a corpse! We knew what to do, but couldn't practice it.
+Before starting to talk about the Nervous System, the instructor should completely describe the problem we had before. We were a brain, thinking, and finding great solutions, but there was no effective way to make the solution work! Just like a brain in a corpse! We knew what to do, but couldn't make it work. To make it work we need something like the nervous system in our body. The nervous system knows how to deliver each valuable data to the organisms related to it. In fact, this nervous system turns a corpse to a living body. In CS Internship we designed the nervous system to turn our corpse to a living body too! And we are still working to improve it.
 
 # FAQ
 

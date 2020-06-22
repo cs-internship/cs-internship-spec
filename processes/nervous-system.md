@@ -40,11 +40,12 @@ We use *Telegram* for messaging and notifying system. For the mentors, we have t
 OneNote is just a draft, but a great one. We start everything on OneNote. Whenever it is structured enough, we move it to GitHub as a document.
 
 # Instructors
-1. [Hamed Hajiloo](https://github.com/hamedhajiloo)
-2. Pharaz
-3. Afshin
-4. [Rebwar](https://github.com/rebwar)
-5. [Mehran](https://mehrandvd.me)
+The qualified instructors for this document:
+ - [Hamed Hajiloo](https://github.com/hamedhajiloo)
+ - Pharaz
+ - Afshin
+ - [Rebwar](https://github.com/rebwar)
+ - [Mehran](https://mehrandvd.me)
 
 # Instructor Notes
 Before starting to talk about the Nervous System, the instructor should completely describe the problem we had before. We were a brain, thinking, and finding great solutions, but there was no effective way to make the solution work! Just like a brain in a corpse! We knew what to do, but couldn't make it work. To make it work we need something like the nervous system in our body. The nervous system knows how to deliver each valuable data to the organisms related to it. In fact, this nervous system turns a corpse to a living body. In CS Internship we designed the nervous system to turn our corpse to a living body too! And we are still working to improve it.

@@ -49,7 +49,6 @@ This is the frist and the most important interview with a new intern. If the int
 The qualified instructors for this document:
  - Mehran
  - Shahryar
- - Afshin
 
 # Instructor Notes
 [TO BE COMPLETED]

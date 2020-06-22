@@ -44,3 +44,13 @@ This is the frist and the most important interview with a new intern. If the int
    - The promise of ***Weekly hours***: Integrity starts here.
 7. **Think about it -** We ask them to NOT to answer the *promise question* now! They are now in a high energy level which could be temporary. Let them have their 2 days to think about the promises seriously.
 8. **Happy ending -** What animal are you!
+
+# Instructors
+The qualified instructors for this document:
+ - Mehran
+ - Shahryar
+ - Afshin
+
+# Instructor Notes
+[TO BE COMPLETED]
+# FAQ

@@ -71,3 +71,10 @@ After each interview meeting, one of the tasks to get done, is updating the tele
 3- should remove the applicant from telegram group.  
 4- should post an update into telegram group and announce the updated order of applicants in the queue.  
 5- Queue executive should tell the applicant at top of the queue, he/she is the next one to be interviewed.
+# Instructors
+The qualified instructors for this document:
+
+# Instructor Notes
+
+
+# FAQ

@@ -71,3 +71,22 @@ After each interview meeting, one of the tasks to get done, is updating the tele
 3- should remove the applicant from telegram group.  
 4- should post an update into telegram group and announce the updated order of applicants in the queue.  
 5- Queue executive should tell the applicant at top of the queue, he/she is the next one to be interviewed.
+
+
+
+# Instructors
+ - Elnaz Nasiri
+ - Mahsa Mohammad
+ - Shahryar Saljoughi
+
+# Instroctor Notes
+This role engages a lot of talking with new applicants and a lot of writing stuff into OneNote. make sure trainees :  
+ - know what peices of information matters the most and essentially need to be conveyed to applicants at different phases. 
+ - know what information needs to be saved into OneNote pages.
+ - know which OneNote documents they are gonna need to work with.
+# FAQ
+
+- **Which mentor should I ask to organize an interview?**  
+At the time of writing this docuemnt, we have not a predefined strict rule for this purpose. You need to talk in groups with other mentors to decide who organizes the meeting. However, it is recommended to choose from the mentors who are participating in the meeting.
+- **What is Organizing an interview?**  
+Though interview meetring is one of the most critical processes (as it is the first direct contact between `cs internship` and its interns) currently, there is no documentation for that process. You are supposed to talk in groups with other mentors to know more about organizing an interview. Don't do anything based on assumptions. Make sure anything you do is approved by others.

@@ -1,4 +1,4 @@
-## Step 5. Collections
+## Step 4. Collections
 
 ### Study Items
 
@@ -9,14 +9,14 @@
 ### Tasks
 
  1. Search for some more advanced collections available in BCL, name 3 of them and a little description about them.
- 2. Achieve [Student badge](https://stackoverflow.com/help/badges/2/student) on StackOverflow
- 3. Achieve [Scholar badge](https://stackoverflow.com/help/badges/10/scholar) on StackOverflow
- 4. Pass these exercises at exercism.io:
+ 2. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
+ 3. Pass these exercises at exercism.io:
     - High Scores
     - Resistor Color
     - Nucleotide Count
     - Robot Name
- 5. For each study item you should:  
-    post an update to LinkedIn using #cs_internship #csharp  
-    post a tweet on Twitter using #cs_internship #csharp
- 6. You should give a 20-min presentation about the content of this step, on Twitch platform.
+ 4. For each study item and each task you should:  
+    - post an update to LinkedIn using #cs_internship #csharp  
+    - post a tweet on Twitter using #cs_internship #csharp
+    - post on 'CS Internship - C# Club' telegram groupe using #cs_internship #csharp tags
+ 5. You should give a 20-min presentation about the content of this step, on Twitch platform.

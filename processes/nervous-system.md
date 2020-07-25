@@ -28,7 +28,7 @@ This document itself is a sample of such document. You can use this as a sample 
 If you want to study a document in GitHub you should:
  - **Find An Instructor:** Checking the *Instructors* section you should pick one and ask the instructor to tech the document to you.
  - **Check for Updates:** Document is a dynamic artifact. It would be updated by time. You can be notified about updates to the documents by a Telegram Channel: *"CS Internship - Mentors Feed"*. Make sure to get notified about the changes on documents.
- - **Request Updates:** If you feel something is wrong in a document or there is some update required for a document, you can simply submit an issue on GitHub for that document.Please enter the document link to the Issues comment that you want to update.
+ - **Request Updates:** If you feel something is wrong in a document or there is some update required for a document, you can simply submit an issue on GitHub for that document.Please enter the document link to the Issue comment that you want to update.
 
 #### How to update or add a document?
 If you need to update or add a document, it must be registered as an issue before sending a pull request.

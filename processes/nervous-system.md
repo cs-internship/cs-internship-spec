@@ -28,13 +28,23 @@ This document itself is a sample of such document. You can use this as a sample 
 If you want to study a document in GitHub you should:
  - **Find An Instructor:** Checking the *Instructors* section you should pick one and ask the instructor to tech the document to you.
  - **Check for Updates:** Document is a dynamic artifact. It would be updated by time. You can be notified about updates to the documents by a Telegram Channel: *"CS Internship - Mentors Feed"*. Make sure to get notified about the changes on documents.
- - **Request Updates:** If you feel something is wrong in a document or there is some update required for a document, you can simply submit an issue on GitHub for that document.
+ - **Request Updates:** If you feel something is wrong in a document or there is some update required for a document, you can simply submit an issue on GitHub for that document.Please enter the document link to the Issue comment that you want to update.
+
+#### How to update or add a document?
+If you need to update or add a document, it must be registered as an issue before sending a pull request.
+This issue must have the link of the document you changed.
+
+This is because after each issue is closed, a message goes to `CS Internship - Mentor Feed` channel in the Telegram (this possibility is provided by the [IFTTT](https://ifttt.com/) system) and there must be a link to the document in this message.
+
+If a special hashtag is to be added, the person who wants to close the issue, it must add that hashtag to the label. For example, if he wants to enter the hashtag cs_internship, he must add *#cs_internship* in the label and then close it.
+
 
 ### Telegram 
 We use *Telegram* for messaging and notifying system. For the mentors, we have these:
  - **CS Internship - Mentors**: A Telegram Group which mentors use to collaborate by messaging.
  - **CS Internship - Mentors Feed:** A Telegram Channel we use for notification. We notify about the document changes and all other announcemnts in this channel
     Any changes made to the GitHub decision section must be notified to everyone on the Telegram channel.
+    As mentioned earlier, this operation is not manual and is performed automatically by the [IFTTT](https://ifttt.com/)  system
 
 ### OneNote
 OneNote is just a draft, but a great one. We start everything on OneNote. Whenever it is structured enough, we move it to GitHub as a document.

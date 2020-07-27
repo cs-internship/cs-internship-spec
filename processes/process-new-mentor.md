@@ -54,3 +54,12 @@ The mentor have to participate actively in the weekly session. By the means of I
 #### 6. Check intern tasks
 
 The mentor should check intern's tasks regularly and update his page on one note
+
+
+#Instructors
+Negar Ghasemi
+Maryam Kamali
+
+
+#Instructor Notes
+Although this guidelines must be clear for the mentor and the mentor has to do all of them, everyone has their own mentorship style. We are not trying to copy/paste mentors. We want to have many mentoring styles, experiences, practices with the same rules and guidelines.

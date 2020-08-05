@@ -36,14 +36,18 @@ This is the frist and the most important interview with a new intern. If the int
    - Never ever break it!
    - 2 sides of the rule.
    - Applies to all aspects of our work: from a simple Skype meeting to accomplishing task within a sprint.
-5. **The process -** How do we work
+5. **The Mentorship Process** It should be clarified for them that they are required to contribute to this internship at some point due to two reasons (note that the reasons should be stated in this interview as well): 
+   1. A large portion of learning process (both for technology and soft skills) are acquired through mentorship which in turn includes helping the interns and also fulfilling some tasks assigned to them in the sprint sessions.
+   2. The interns should be told that this internship is free of charge, but we only request them to do one thing in return; to be part of this internship and help the new comers to learn. 
+6. **The Learning Process -** How do we work
    - Steps
    - Agree to be active on Twitter and LinkedIn
-6. **The promise -** Clarifying the required commitment:
+7. **The Promise -** Clarifying the required commitment:
    - The promise of ***9 months***: This plan will be the highest priority within this period.
    - The promise of ***Weekly hours***: Integrity starts here.
-7. **Think about it -** We ask them to NOT to answer the *promise question* now! They are now in a high energy level which could be temporary. Let them have their 2 days to think about the promises seriously.
-8. **Happy ending -** What animal are you!
+
+8. **Think about it -** We ask them to NOT to answer the *promise question* now! They are now in a high energy level which could be temporary. Let them have their 2 days to think about the promises seriously.
+9. **Happy Ending -** What animal are you!
 
 # Instructors
 The qualified instructors for this document:

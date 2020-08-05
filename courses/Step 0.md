@@ -1,16 +1,26 @@
 # Ice-Breaking Step
+
 You are totally new to the club, Welcome to the club! There are lots of people in this club willing to help you. But how? How can you get help from them? Who is who!? Who knows what!?
-This is your first task, you should talk (literaly talk on the phone or Skype) and get to know each other.
+This is your first task, you should talk (literally talk on the phone or Skype) and get to know each other.
 
 ## Tasks
+
+Throughout the course you need to be expressing yourself (emotions and knowledge) on social media. So go ahead and create some social media accounts if you don't already have:
+
+- Create a [Twitter](https://twitter.com/) account.
+- Create a [LinkedIn](https://www.linkedin.com/) account.
+
 Contact every person in your club. Introduce yourself and ask them to introduce themselves. Within each conversation you should achieve these goals:
- - Introduce yourself, so they can introduce you to the others later in the club.
- - You should ask (and convince) 5 of them to introduce you in the club (Writing and posting a paragraph about you)
- - Get to know everything about him/her
-   1. Who is she/he? 
-   2. What is her/his background? 
-   3. What type of technical questions can you ask from she/he?
- - Create [Twitter](https://twitter.com/) account.
- - Create [LinkedIn](https://www.linkedin.com/) account.
- - Tweet your **feeling** about her/him.
- - Post a **brief** about her/him on LinkedIn (a brief on answers of 3 questoins above)
+
+- Introduce yourself, so they will be able to introduce you to the others later in the club.
+- Get to know them by asking about:
+   1. Who they are,
+   2. What their background is (technical and non-technical),
+   3. What kinds of technical questions you can ask them.
+
+Then, after knowing each person, you should take your time and share your knowledge and feelings about them:
+
+- Post a **brief introduction** about them on Telegram (a summary of their answers to the 3 questions above).
+- Tweet about your **feelings** about them.
+
+And finally, you should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.

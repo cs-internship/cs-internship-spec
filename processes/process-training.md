@@ -59,3 +59,15 @@ Here is some notes about the twitch:
 - Initially the Twitch is organized by the mentor and the scrum master for the day which the intern will finish the step. If the intern can not make it to the date and step is not yet finished without postponing the deadline the intern himself should re organize the twitch with the people.
 - In case of emergancy if an intern can not set a time for the twitch he/she can record the twitch and publish it on YouTube.
 
+# Instructors
+The qualified instructors for this document:
+ - [Mehran](https://mehrandvd.me)
+ - Shahryar
+ - Maryam Kamali
+ - Hamed Hajiloo
+ - Elnaz Nasiri
+ - Fatemeh Khodaei
+
+# Instructor Notes
+[TO BE COMPLETED]
+# FAQ

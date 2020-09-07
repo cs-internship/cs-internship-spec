@@ -36,12 +36,16 @@ This is the frist and the most important interview with a new intern. If the int
    - Never ever break it!
    - 2 sides of the rule.
    - Applies to all aspects of our work: from a simple Skype meeting to accomplishing task within a sprint.
-5. **The Mentorship Process** It should be clarified for them that they are required to contribute to this internship at some point due to two reasons (note that the reasons should be stated in this interview as well): 
-   1. A large portion of learning process (both for technology and soft skills) are acquired through mentorship which in turn includes helping the interns and also fulfilling some tasks assigned to them in the sprint sessions.
-   2. The interns should be told that this internship is free of charge, but we only request them to do one thing in return; to be part of this internship and help the new comers to learn. 
-6. **The Learning Process -** How do we work
+
+5. **The Learning Process -** How do we work
    - Steps
    - Agree to be active on Twitter and LinkedIn
+
+6. **The Mentorship Process** It should be clarified for them that they are required to contribute to this internship at some point due to two reasons (note that the reasons should be stated in this interview as well): 
+   1. A large portion of learning process (both for technology and soft skills) are acquired through mentorship which in turn includes helping the interns and also fulfilling some tasks assigned to them in the sprint sessions.
+   2. The interns should be told that this internship is free of charge because of the help of mentors who were formerly interns. Having new interns contribute to the progress and evolution of cs internship by becoming mentors, is a necessity to have the course remain free. So new interns are required to be part of this internship and  help the new comers to learn.
+   
+   
 7. **The Promise -** Clarifying the required commitment:
    - The promise of ***9 months***: This plan will be the highest priority within this period.
    - The promise of ***Weekly hours***: Integrity starts here.
@@ -55,5 +59,12 @@ The qualified instructors for this document:
  - Shahryar
 
 # Instructor Notes
-[TO BE COMPLETED]
+1. Interviewers should first comprehense the goal of mentorship and values gained through it, to be successful interviewers. 
+2. Interviewers should clarify what is meant by the word mentorship. 
+3. Recommanded way to inform the intern about concepts of mentorship and integrity to  
+**first**: inform them what we want to achieve: having working teams.  
+**second**: inform them what we need to achieve our goal: soft skills.  
+**third**: inform them how we manage to gain those skills: mentorship and preserving integrity.  
+4. Attendees of this meeting should be informed that the meeting is being recorded. Mentors should record the meeting and upload it to _`Mentor's Feed`_ Telegram channel with the `#interview` hashtag
+
 # FAQ

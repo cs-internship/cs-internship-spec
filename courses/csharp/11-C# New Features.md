@@ -21,3 +21,5 @@
   3. Find and introduce 2 libraries on GitHub which are C# 8.0 ready.
   4. Find a small GitHub project and help to make it to use C# 8.0 nullable reference types.
   5. Describe the situations that Pattern Matching helps. How does it help?
+  6. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+  7. You should give a 20-min presentation about the content of this step, on Twitch platform.

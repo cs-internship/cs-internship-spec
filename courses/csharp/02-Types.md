@@ -15,4 +15,5 @@
      - post an update to LinkedIn using #cs_internship #csharp  
      - post a tweet on Twitter using #cs_internship #csharp
      - post on 'CS Internship - C# Club' telegram groupe using #cs_internship #csharp tags.
- 7. You should give a 20-min presentation about the content of this step, on Twitch platform.
+ 7. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 8. You should give a 20-min presentation about the content of this step, on Twitch platform.

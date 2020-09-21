@@ -40,4 +40,5 @@
 9. Follow at least 5 Twitter accounts which are active in Web technologies. Describe why they worth to follow.
 10. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
 11. Find at least 5 other online resources about JS and explain why you chose them.
-12. You should give a 20-min presentation about the content of this step, on Twitch platform.
+12. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+13. You should give a 20-min presentation about the content of this step, on Twitch platform.

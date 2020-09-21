@@ -25,4 +25,5 @@
 10. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
 11. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
 12. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.
-13. You should give a 20-min presentation about the content of this step, on Twitch platform.
+13. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+14. You should give a 20-min presentation about the content of this step, on Twitch platform.

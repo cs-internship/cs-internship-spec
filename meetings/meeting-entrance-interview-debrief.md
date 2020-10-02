@@ -34,4 +34,5 @@ The qualified instructors for this document:
 
 # Instructor Notes
 [TO BE COMPLETED]
+1. This meeting should be recorded and uploaded to `CS-Internship Mentor's Feed` telegram channel.
 # FAQ

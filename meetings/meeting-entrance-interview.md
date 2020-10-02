@@ -61,10 +61,10 @@ The qualified instructors for this document:
 # Instructor Notes
 1. Interviewers should first comprehense the goal of mentorship and values gained through it, to be successful interviewers. 
 2. Interviewers should clarify what is meant by the word mentorship. 
-3. Recommanded way to inform the intern about concepts of mentorship and integrity to  
+3. Recommanded way to inform the intern about the concepts of mentorship and integrity is to  
 **first**: inform them what we want to achieve: having working teams.  
 **second**: inform them what we need to achieve our goal: soft skills.  
 **third**: inform them how we manage to gain those skills: mentorship and preserving integrity.  
-4. Attendees of this meeting should be informed that the meeting is being recorded. Mentors should record the meeting and upload it to _`Mentor's Feed`_ Telegram channel with the `#interview` hashtag
+4. Attendees of this meeting should be informed that the meeting is being recorded. Mentors should record the meeting and upload it to _`Mentor's Feed`_ Telegram channel with the `#interview` hashtag.
 
 # FAQ

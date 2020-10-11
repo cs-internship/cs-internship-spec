@@ -5,7 +5,7 @@ Onboarding mentors is a very important task to be accomplished, what does it mea
 Well, certainly not. If this is how you think about it just stop there. Starting to be a mentor in CS internship is a new beginning for the new mentors themselves. They learn,
 experience and of course grow all the way through this mentorship phase. Yes this is a win-win game; they take this opportunity to learn and help others (either mentors or interns)
 to learn from them. It should be clarified why they want to become a mentor; do they understand the value of it, if not explain to them. We don't want people just to be mentors 
-without fully understanding its purposes and the reasons behind it. We need them to think of it as a value to reach, not just sth to get around with.
+without fully understanding its purposes and the reasons behind it. We need them to think of it as a value to reach, not just sth to evade.
 
 #### So here is what you should do when you take this role and aim to onboard someone who will be like your colleague and friend in this path:
 

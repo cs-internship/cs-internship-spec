@@ -7,11 +7,11 @@ experience and of course grow all the way through this mentorship phase. Yes thi
 to learn from them. It should be clarified why they want to become a mentor; do they understand the value of it, if not explain to them. We don't want people just to be mentors 
 without fully understanding its purposes and the reasons behind it. We need them to think of it as a value to reach, not just sth to get around with.
 
-So here is what you should do when you take this role and aim to onboard someone who will be like your colleague and friend in this path:
+#### So here is what you should do when you take this role and aim to onboard someone who will be like your colleague and friend in this path:
 
-#### 1. Start with a tinge of ice breaking and try to have a warm talk. Explain the values and goals of being a mentor in CS internship and what benefits it provides. If you think you
+1. Start with a tinge of ice breaking and try to have a warm talk. Explain the values and goals of being a mentor in CS internship and what benefits it provides. If you think you
 can't do this ask a more experienced mentor to help you.
 
-#### 2. There is a page in OneNote under this path: (Mentorship/Onboarding Mentors). Go there, use the template to make a new subpage for the new mentor. Do the items listed there
+2. There is a page in OneNote under this path: (Mentorship/Onboarding Mentors). Go there, use the template to make a new subpage for the new mentor. Do the items listed there
 and check each one when you're done. The title of this subpage should be the name of the new mentor. Don't forget to mention your own name here as a person who performs this 
 onboarding.

@@ -10,7 +10,7 @@ without fully understanding its purposes and the reasons behind it. We need them
 #### So here is what you should do when you take this role and aim to onboard someone who will be like your colleague and friend in this path:
 
 1. Start with a tinge of ice breaking and try to have a warm talk. Explain the values and goals of being a mentor in CS internship and what benefits it provides. If you think you
-can't do this ask a more experienced mentor to help you. Read the process-new-mentor document for a mentor's necessary specifications to have wihch will further guide you in this  talk.
+can't do this, ask a more experienced mentor to help you. Read the process-new-mentor document for a mentor's necessary specifications to have which will further guide you in this  talk.
 
 2. There is a page in OneNote under this path: (Mentorship/Onboarding Mentors). Go there, use the template to make a new subpage for the new mentor. Do the items listed there
 and check each one when you're done. The title of this subpage should be the name of the new mentor. Don't forget to mention your own name here as a person who performs this 
@@ -19,4 +19,5 @@ onboarding.
 
 ## Instructors:
 The qualified instructors for this document:
- - Mahsa
+ - [Mehran](https://mehrandvd.me)
+ - [Mahsa](https://github.com/Md23Mh)

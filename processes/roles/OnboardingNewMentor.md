@@ -15,3 +15,8 @@ can't do this ask a more experienced mentor to help you. Read the process-new-me
 2. There is a page in OneNote under this path: (Mentorship/Onboarding Mentors). Go there, use the template to make a new subpage for the new mentor. Do the items listed there
 and check each one when you're done. The title of this subpage should be the name of the new mentor. Don't forget to mention your own name here as a person who performs this 
 onboarding.
+
+
+## Instructors:
+The qualified instructors for this document:
+ - Mahsa

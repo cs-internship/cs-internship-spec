@@ -39,12 +39,12 @@
 12. You should give a 20-min presentation about the content of this step, on Twitch platform.
 
 
-## Instructors
+## Instructors <!-- omit in toc -->
 
 - [Maryam Heydarian](https://github.com/maryamhdr)
 
 
-## Instructor Notes
+## Instructor Notes <!-- omit in toc -->
 
 1. Mentors should give a detailed description about the scope and content of the step to intern and make sure that everything is clear for him/her and help him/her to set a more reliable deadline.
 2. First thing first, ask your intern to search about the **MVC** pattern and how to implement it using vanilla JS for task 6. You can give a brief explanation about the design patterns to him/her, but It's not the goal of this course to learn about the design patterns. After searching, you can give [this code](https://github.com/msynk/cs-internship/tree/master/web/step3) as a sample of mvc pattern to intern but make sure that he/she will not just copy the sample!

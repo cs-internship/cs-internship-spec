@@ -61,7 +61,7 @@ The qualified instructors for this document:
 Before starting to talk about the Nervous System, the instructor should completely describe the problem we had before. We were a brain, thinking, and finding great solutions, but there was no effective way to make the solution work! Just like a brain in a corpse! We knew what to do, but couldn't make it work. To make it work we need something like the nervous system in our body. The nervous system knows how to deliver each valuable data to the organisms related to it. In fact, this nervous system turns a corpse to a living body. In CS Internship we designed the nervous system to turn our corpse to a living body too! And we are still working to improve it.
 
 # FAQ
-
+hjjh
 
 
 

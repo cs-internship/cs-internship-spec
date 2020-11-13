@@ -14,21 +14,21 @@ Each of these medias are designed to use for some specific kind of documents.
 ### GitHub
 GitHub is the main media for CS Internship documents. We use it for its amazing collaboration mechanisms like versioning, history, branching, merging and...
 
-The documents in CS Internship are not designed in a way to be self descriptive. The need an instructor to deliver its contents properly. 
 
 Each GitHub document must have this structure:
  - **Main Content:** The main content of the document.
- - **Instructor Notes:** The notes which the instructor should check before starting to instruct the document to others. Notes about how do deliver the content properly, the prerequisite terminology or distinctions and ...
+ - **Instructor Notes:** The notes which the instructor should check before starting to instruct the document to others. Notes about how to deliver the content properly, the prerequisite terminology or distinctions and ...
  - **Instructors:** A list of qualified instructors for this document. Anyone can refer to one of these instructors to get instructed about the document.
  - **FAQ:** Frequently Asked Questions about the document comes in this section.
 
-This document itself is a sample of such document. You can use this as a sample document for structure and formattings.
+This document itself is a sample of such document. You can use this as a sample document for structure and formatting.
 
 #### How to Use a GitHub document?
 If you want to study a document in GitHub you should:
- - **Find An Instructor:** Checking the *Instructors* section you should pick one and ask the instructor to tech the document to you.
+ - **Read the document:** You should first read the document and write down your questions in a file.
+ - **Find An Instructor** Checking the Instructors section, you should pick one and ask the instructor to answer your questions about the document. You can send your question’s file in advance or share it during your session.
  - **Check for Updates:** Document is a dynamic artifact. It would be updated by time. You can be notified about updates to the documents by a Telegram Channel: *"CS Internship - Mentors Feed"*. Make sure to get notified about the changes on documents.
- - **Request Updates:** If you feel something is wrong in a document or there is some update required for a document, you can simply submit an issue on GitHub for that document.Please enter the document link to the Issue comment that you want to update.
+ - **Request Updates:** If you feel something is wrong in a document or there is some update required for a document, you can simply submit an issue on GitHub for that document. Please enter the document link to the Issue comment that you want to update.
 
 #### How to update or add a document?
 If you need to update or add a document, it must be registered as an issue before sending a pull request.
@@ -42,7 +42,7 @@ If a special hashtag is to be added, the person who wants to close the issue, it
 ### Telegram 
 We use *Telegram* for messaging and notifying system. For the mentors, we have these:
  - **CS Internship - Mentors**: A Telegram Group which mentors use to collaborate by messaging.
- - **CS Internship - Mentors Feed:** A Telegram Channel we use for notification. We notify about the document changes and all other announcemnts in this channel
+ - **CS Internship - Mentors Feed:** A Telegram Channel we use for notification. We notify about the document changes and all other announcements in this channel
     Any changes made to the GitHub decision section must be notified to everyone on the Telegram channel.
     As mentioned earlier, this operation is not manual and is performed automatically by the [IFTTT](https://ifttt.com/)  system
 
@@ -62,6 +62,8 @@ Before starting to talk about the Nervous System, the instructor should complete
 
 # FAQ
 
+-	What is IFTTT System?
+If This Then That (commonly known as IFTTT) is a web based service that allows users to create chains of conditional statements triggered by changes that occur within other web services. For example, after each issue is closed, a message goes to CS Internship - Mentor Feed channel in the Telegram.
 
 
 

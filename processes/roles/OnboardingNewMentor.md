@@ -54,7 +54,7 @@ The mentor should check intern's tasks regularly and update his page on one note
 
 #### 7. Read the new intern process document
 
-## So here is what you should do when you take this role and aim to onboard someone who will be like your colleague and friend in this path:
+## So here is what you should do when you take this role
 
 1. Start with a tinge of ice breaking and try to have a warm talk. Explain the values and goals of being a mentor in CS internship and what benefits it provides. If you think you
 can't do this, ask a more experienced mentor to help you.

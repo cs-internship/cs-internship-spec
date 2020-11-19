@@ -20,7 +20,7 @@ Contact every person in your club. Introduce yourself and ask them to introduce 
 
 Then, after knowing each person, you should take your time and share your knowledge and feelings about them:
 
-- Post a **brief introduction** about them on Telegram (a summary of their answers to the 3 questions above).
-- Tweet about your **feelings** about them.
+- Post a **brief introduction** about them on Telegram (a summary of their answers to the 3 questions above) using #معرفی #CS_Internship #CourseName #StepNumber tags and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
+- Tweet your **feelings** about them using #معرفی #CS_Internship #CourseName #StepNumber and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
 
 And finally, you should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.

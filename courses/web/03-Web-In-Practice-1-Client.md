@@ -36,7 +36,7 @@
 9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 191**.
 10. Find at least 5 other online resources about client side JS & Tooling, and explain why you chose them. 
 11. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-12. You should give a 20-min presentation about the content of this step, on Twitch platform.
+12. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your presentation live and give it to your mentor which will then be published on the CS Internship YouTube channel.
 
 
 ## Instructors <!-- omit in toc -->

@@ -31,4 +31,4 @@
 6. Achieve [**Self Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on StackOverflow.
 7. Find at least 5 other online resources about **Authentication in Web** and explain why you chose them, then share them on Twitter and LinkedIn.
 8. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day. 
-9. You should give a 20-min presentation about the content of this step, on Twitch platform.
+9. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your presentation live and give it to your mentor which will then be published on the CS Internship YouTube channel.

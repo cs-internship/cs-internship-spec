@@ -26,4 +26,4 @@
 11. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
 12. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.
 13. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-14. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your presentation live and give it to your mentor which will then be published on the CS Internship YouTube channel.
+14. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.

@@ -29,4 +29,4 @@
 9. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
 10. Find at least 5 other online resources about **Http** & **NodeJs** and explain why you chose them.
 11. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-12. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your presentation live and give it to your mentor which will then be published on the CS Internship YouTube channel.
+12. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.

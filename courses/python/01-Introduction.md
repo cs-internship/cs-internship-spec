@@ -29,4 +29,4 @@
   11. Solve problems 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.24, 1.25, 1.34, 1.36, 1.43, 1.47, 1.58, and 1.59 from chapter **one** in **[No bullshit guide to linear algebra](README.md)** **(Theorical problems)**.
   12. Find at least 5 other useful online resources for python and explain why you chose them.
   13. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-  14. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your presentation live and give it to your mentor which will then be published on the CS Internship YouTube channel.
+  14. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.

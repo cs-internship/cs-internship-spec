@@ -41,4 +41,4 @@
 10. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
 11. Find at least 5 other online resources about JS and explain why you chose them.
 12. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-13. You should give a 20-min presentation about the content of this step, on Twitch platform.
+13. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.

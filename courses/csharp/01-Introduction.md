@@ -11,7 +11,7 @@
   1. Link to all your posts during the last week specifying the relevant task or study item for each link
   2. How many hours did you spend on cs_internship last week?
   3. What percentage you are satisfied with what you did last week?
-You will have a session with your mentor based on your report
+- You will have a session with your mentor based on your report
 
 ### Study Items  <!-- omit in toc -->
 

@@ -44,3 +44,6 @@ We use Exercism.io as a tool for:
   
 ## Typing Club
 We use Typing Club as a tool to practice touch typing.
+
+## YouTube
+we use YouTube to upload our presentations and other videos in the CS_Internship channel.

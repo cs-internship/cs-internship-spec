@@ -2,7 +2,7 @@
 # Trainings
 A _Training_ is a process which helps a participant to advance to the next stage.
 
-## Basic Requirements
+## Basic Path: Stage 1
 The basic requirements are [TO BE COMPLETED].
 
  1. **Subject Matter Training:** Participant -> Graduate
@@ -11,7 +11,7 @@ The basic requirements are [TO BE COMPLETED].
  4. **Neurobiology of Relationships:** Subject Matter Mentor -> Mentor
  
  
- ## Intermediate Requirements
+ ## Basic Path: Stage 2
  The intermediate requirements are [TO BE COMPLETED].
  
  1. **Design Thinking:** Mentor -> Facilitator

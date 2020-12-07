@@ -9,5 +9,3 @@ This documentation is structured like this:
 - [Xamarin](/courses/xamarin/README.md)
 - [Web](/courses/web/README.md)
 - [Python](/courses/python/README.md)
-- [Team Leader] *[Soon]*<!-- - (/course-scrum-master.md) -->
-- [Neuro Science in Business] *[Soon]*

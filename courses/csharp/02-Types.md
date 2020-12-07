@@ -2,6 +2,7 @@
 
 ### Study Items  <!-- omit in toc -->
  1. C# book, chapter 3 : Types
+ 2. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
 ### Tasks  <!-- omit in toc -->
  1. Choose 3 bloggers who write about C# and describe why they matter to you.

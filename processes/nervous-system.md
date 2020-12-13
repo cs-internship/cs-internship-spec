@@ -65,6 +65,9 @@ Before starting to talk about the Nervous System, the instructor should complete
 -	What is IFTTT System?
 If This Then That (commonly known as IFTTT) is a web based service that allows users to create chains of conditional statements triggered by changes that occur within other web services. For example, after each issue is closed, a message goes to CS Internship - Mentor Feed channel in the Telegram.
 
+- What are the steps of making a document with structure of Nervous System?
+ You can refer to the video in the Mentor feed group of the Telegram channel.
+
 
 
 

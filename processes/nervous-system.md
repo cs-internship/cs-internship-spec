@@ -29,14 +29,18 @@ If you want to study a document in GitHub you should:
  - **Find An Instructor** Checking the Instructors section, you should pick one and ask the instructor to answer your questions about the document. You can send your question’s file in advance or share it during your session.
  - **Check for Updates:** Document is a dynamic artifact. It would be updated by time. You can be notified about updates to the documents by a Telegram Channel: *"CS Internship - Mentors Feed"*. Make sure to get notified about the changes on documents.
  - **Request Updates:** If you feel something is wrong in a document or there is some update required for a document, you can simply submit an issue on GitHub for that document. Please enter the document link to the Issue comment that you want to update.
-
+ 
 #### How to update or add a document?
-If you need to update or add a document, it must be registered as an issue before sending a pull request.
-This issue must have the link of the document you changed.
+If you need to update or add a document, you should follow these steps:
+- You have to fork the latest version of `cs-internship-spec` from the `cs-internship` GitHub. From now on, you will work on this repository in your own profile.
+- To edit a document, open the intended document, click the edit button, apply your changes. 
+- To add a document, navigate to the page you are going to add the document, click the *Add file* to create a new file.
+- Next step is to fill the *Commit changes* part. Choose an appropriate title and description that briefly reflects what you have done. At the end click the *Commit changes* button. 
+- You should go to the `cs-internship-spec` in the `cs-internship` Github and send a pull request. At this point an email will be send to the `cs-internship` GitHub owner which let him merge your changes to the master branch.
+- You also need to register an issue including the link of the document you added or changed. The reason for this is that after each issue is closed, a message goes to `CS Internship - Mentor Feed` channel in the Telegram (this possibility is provided by the [IFTTT](https://ifttt.com/) system). So, there must be a link to the document in this message.
 
-This is because after each issue is closed, a message goes to `CS Internship - Mentor Feed` channel in the Telegram (this possibility is provided by the [IFTTT](https://ifttt.com/) system) and there must be a link to the document in this message.
+If a special hashtag needs to be added, the person who wants to close the issue,  must add that hashtag to the label. For example, if he wants to enter the hashtag cs_internship, he must add `#cs_internship` in the label and then close it.
 
-If a special hashtag is to be added, the person who wants to close the issue, it must add that hashtag to the label. For example, if he wants to enter the hashtag cs_internship, he must add *#cs_internship* in the label and then close it.
 
 
 ### Telegram 
@@ -56,6 +60,7 @@ The qualified instructors for this document:
  - Afshin
  - [Rebwar](https://github.com/rebwar)
  - [Mehran](https://mehrandvd.me)
+ - [Roxana](https://github.com/roxanadhz)
 
 # Instructor Notes
 Before starting to talk about the Nervous System, the instructor should completely describe the problem we had before. We were a brain, thinking, and finding great solutions, but there was no effective way to make the solution work! Just like a brain in a corpse! We knew what to do, but couldn't make it work. To make it work we need something like the nervous system in our body. The nervous system knows how to deliver each valuable data to the organisms related to it. In fact, this nervous system turns a corpse to a living body. In CS Internship we designed the nervous system to turn our corpse to a living body too! And we are still working to improve it.

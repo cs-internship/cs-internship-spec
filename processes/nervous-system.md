@@ -36,7 +36,7 @@ If you need to update or add a document, you should follow these steps:
 - To edit a document, open the intended document, click the edit button, apply your changes. 
 - To add a document, navigate to the page you are going to add the document, click the *Add file* to create a new file.
 - Next step is to fill the *Commit changes* part. Choose an appropriate title and description that briefly reflects what you have done. At the end click the *Commit changes* button. 
-- You should go to the `cs-internship-spec` in the `cs-internship` Github and send a pull request. At this point an email will be send to the `cs-internship` GitHub owner which let him merge your changes to the master branch.
+- At this step you should send a pull request. This action causes an email to be sent to the `cs-internship` GitHub owner which let him merge your changes to the master branch.
 - You also need to register an issue including the link of the document you added or changed. The reason for this is that after each issue is closed, a message goes to `CS Internship - Mentor Feed` channel in the Telegram (this possibility is provided by the [IFTTT](https://ifttt.com/) system). So, there must be a link to the document in this message.
 
 If a special hashtag needs to be added, the person who wants to close the issue,  must add that hashtag to the label. For example, if he wants to enter the hashtag cs_internship, he must add `#cs_internship` in the label and then close it.

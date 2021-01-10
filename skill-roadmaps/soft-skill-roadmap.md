@@ -3,15 +3,20 @@ This path is one of the most important paths in this program. It is designed to 
 
 #### Goals:
  - **Integrity**, Integrity, Integrity!
- - The ability to **self-learning**
- - The ability to **ask effectively**
- - The ability to **answer effectively**
- - The ability to **teaching effectively**
- - The ability to **estimate effectively**
- - The ability to **present their knowledge**
- - The ability to **share themselves on social networks**
- - The ability to **set a meeting or an appoinment remotely**
- - The ability to work with **remote-working tools**
+ - **Self-learning**
+ - **Active listening**
+ - **Self Awareness**
+ - **Ask effectively**
+ - **Answer effectively**
+ - **Teaching effectively**
+ - **Estimate effectively**
+ - **Present their knowledge**
+ - **Share themselves on social networks**
+ - **Set a meeting or an appoinment remotely**
+ - **Work with remote-working tools**
+ - **Conduct a meeting**
+ - **Analysis and Design a meeting**
+ - **Make an Interview**
  
 
 ## Soft Skill Levels

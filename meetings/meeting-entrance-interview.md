@@ -57,6 +57,8 @@ This is the frist and the most important interview with a new intern. If the int
 The qualified instructors for this document:
  - Mehran
  - Shahryar
+ - Maryam Heydarian
+ - Fatemeh Khodaie
 
 # Instructor Notes
 1. Interviewers should first comprehense the goal of mentorship and values gained through it, to be successful interviewers. 

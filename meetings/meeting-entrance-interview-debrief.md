@@ -31,6 +31,9 @@ After a while when the mentor feels ready for being the interviewer, she/he will
 # Instructors
 The qualified instructors for this document:
  - [Mehran](https://mehrandvd.me)
+ - Shahryar
+ - Maryam Heydarian
+ - Fatemeh Khodaei
 
 # Instructor Notes
 [TO BE COMPLETED]

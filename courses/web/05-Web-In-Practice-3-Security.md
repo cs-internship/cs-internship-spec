@@ -1,6 +1,20 @@
 ## Step 5. Web in practice III (Security)
 
+### Guideline
 
+- For each study item and each task you should post an update to LinkedIn, Twitter and Telegram using the following hashtags:
+`#cs_internship`
+`#[courseName]`
+`#[stepNumber]`
+
+- At the end of each week, you are supposed to give your mentor a report including the following items:
+  1. Link to all your posts during the last week, specifying the relevant task or study item for each link
+  2. How many hours did you spend on cs_internship last week?
+  3. What percentage you are satisfied with what you did last week?
+  
+  You will have a session with your mentor based on your report
+  
+  
 ### Study Items  <!-- omit in toc -->
 
 1. [You don't know JS: Book 4 (Types & Grammar)](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)

@@ -45,7 +45,7 @@ Whenever queue executive finds out that there is a mentor who has less interns t
 
 ### Add an applicant to pre-queue
 
-A random person may happen to get interested in cs internship and want to enter one of the courses. Queue executive will be asked to add such a person to pre-queue by either a mentor or the interns in the queue telegram group.  
+A random person may happen to get interested in cs internship and want to enter one of the courses. Queue executive will be asked to add such a person to pre-queue.
 **1- add to telegram group**  
 Queue executive is responsible for adding that person to the telegram group (`CS Internship - Queue`). And greet the applicant by also introducing the cs-internship to them.  
 **2- ask to talk with 5 people**  

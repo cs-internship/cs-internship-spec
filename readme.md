@@ -16,6 +16,5 @@ This documentation is structured like this:
 - [Courses](/courses/readme.md): The details of the courses and their structure.
 - [Meetings](/meetings/readme.md): The how-to documents for different meetings we should have in the process.
 - [Processes](/processes/readme.md): How interns should spend their training process.
-  - [Traning Process](/processes/process-training.md)
 - [Tools](/tools.md): The main tools we use in CS Internship.
 

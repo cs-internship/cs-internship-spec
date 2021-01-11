@@ -10,13 +10,13 @@ We use [TypingClub.com](www.typingclub.com) courses as a tool and reference to i
 ## Touch Typing Levels
 
 #### Level 1
-The Intern by passing up to level 137 with 5 stars traversed all of the alphabetical keys on the keyboard.
+The Intern will traverse all the alphabet keyboard by passing 137 levels with 5 stars. 
 
 #### Level 2
-The Intern by passing up to level 244 with 5 stars traversed all of the capital alphabetical keys on the keyboard.
+The Intern will traverse all the capital alphabet keyboard by passing 244 levels with 5 stars. 
 
 #### Level 3
-The Intern by passing up to level 316 with 5 stars traversed all of the numeric keys on the keyboard.
+The Intern will traverse all the numeric alphabet keyboard by passing 316 levels with 5 stars.
 
 #### Level 4
-The Intern by passing up to level 429 with 5 stars traversed all of the symbol keys on the keyboard.
+The Intern will traverse all the symbol keys on the keyboard by passing 429 levels with 5 stars.

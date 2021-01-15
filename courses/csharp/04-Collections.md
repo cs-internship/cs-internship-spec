@@ -24,7 +24,8 @@
 
  1. Search for some more advanced collections available in BCL, name 3 of them and a little description about them.
  2. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
- 3. Pass these exercises at exercism.io:
+ 3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 244.
+ 4. Pass these exercises at exercism.io:
     - High Scores
     - Resistor Color
     - Nucleotide Count

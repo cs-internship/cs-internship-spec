@@ -25,7 +25,7 @@
 ### Tasks  <!-- omit in toc -->
 
   1. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
-  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 137.
+  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 202.
   3. Pass these at exercism.io:
         - Circular Buffer
         - Panagarm

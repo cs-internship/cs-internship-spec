@@ -33,7 +33,7 @@
 8. Implement a calculator layout **exactly** like windows 10 calculator:
     - Create it Without using any library.
     - Make it responsive just like the windows 10 calculator (Standard mode).
-    - Follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1)
+    - For more information about responsive rules, sizes and etc, follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1) and [this](https://youtu.be/zddyn5_KCj8) video
     - Use your GitHub as source control.
     - Publish it on your jsFiddle account.
 9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.

@@ -36,7 +36,7 @@
     - For more information about responsive rules, sizes and etc, follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1) and [this](https://youtu.be/zddyn5_KCj8) video
     - Use your GitHub as source control.
     - Publish it on your jsFiddle account.
-9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
+9. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 10. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
 11. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
 12. Find at least 5 other useful online resources for each HTML/CSS and Git/Github and explain why you chose them.

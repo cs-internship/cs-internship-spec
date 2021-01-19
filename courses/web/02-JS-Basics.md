@@ -50,7 +50,7 @@
 
 6. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
 7. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
-8. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
+8. Pass all lessons on TypingClub.com with 5 stars up to **lesson 244**.
 9. Follow at least 5 Twitter accounts which are active in Web technologies. Describe why they worth to follow.
 10. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
 11. Find at least 5 other online resources about JS and explain why you chose them.

@@ -35,7 +35,7 @@
   5. Create [TypingClub.com](https://www.typingclub.com) account.
   6. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
   7. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow
-  8. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
+  8. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 137**.
   9. Register at exercism.io. Join Python track in **independent mode**
   10. Pass these exercises at exercism.io (Use your GitHub as source control):
       - Hello World

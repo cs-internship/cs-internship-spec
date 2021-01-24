@@ -29,7 +29,7 @@
 
   1. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
   2. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
-  3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 137**.
+  3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 202**.
   4. Pass these exercises at exercism.io (Use your GitHub as source control):  
       - High Scores
       - Matrix

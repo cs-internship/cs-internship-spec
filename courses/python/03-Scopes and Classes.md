@@ -28,7 +28,7 @@
 
   1. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
   2. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
-  3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 191**.
+  3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 244**.
   4. Pass these exercises at exercism.io (Use your GitHub as source control):
       - Kindergarten Garden
       - Grade School

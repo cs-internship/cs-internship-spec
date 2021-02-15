@@ -44,9 +44,13 @@ The **first task** for mentors is to learn what is being a mentor, and it is her
 #### 4. Getting to know the other mentors
 
 After being qualified for mentorship, the new mentor should introduce him/herself to other mentors through one-to-one conversation and get to know them.
+
 Each conversation should meet these goals:
+
 -They should be able to introduce you to the other club members.
+
 -Get to know them by asking questions about their technical and non-technical background.
+
 -What kind of technical questions they can answer?
 
 After knowing each mentor, the new mentor should send a post about them on LinkedIn expressing his/her feeling.

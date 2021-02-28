@@ -64,7 +64,7 @@ Whenever an applicant announces in the telegram group that they have talked with
 ### Remove from Telegram group
 After each interview meeting, one of the tasks to get done is to update the Telegram group and OneNote pages. Hence the interview organizer will ask queue executive to update the required information. The details of accomplishing this task are as follows:
 
-1- Updating state of the applicant in OneNote pages. So that the document shows the applicant has been interviewed and possibly will enter one of the courses shortly. if they enter one of the courses queue executive should be add to the course table in OneNote
+1- Updating state of the applicant in OneNote pages. So that the document shows the applicant has been interviewed in queue page on the OneNot and possibly will enter one of the courses shortly. if they enter one of the courses queue executive should be add to the course table in OneNote
 
 2- Posting an announcement in the Telegram group that the applicant has been interviewed, hence they are going to be removed from the group.
 
@@ -94,3 +94,5 @@ This role engages a lot of talking with new applicants and a lot of writing stuf
 At the time of writing this document, we have not a predefined strict rule for this purpose. You need to talk in groups with other mentors to decide who organizes the meeting. However, it is recommended to choose from the mentors who are participating in the meeting.
 - **What does "organizing an interview" mean?**  
 Although interview meeting is one of the most critical processes (as it is the first direct contact between cs internship and the interns), there is no documentation for that process yet. You are supposed to talk in groups with other mentors to know more about organizing an interview. Don't do anything based on assumptions. Make sure anything you do is approved by others.
+- **What should we do if the applicant is not accepted after the interview?**
+he or she Will be removed from this course, so the queue executive must delete the person's information from in queue page on the OneNote and move to dropped page on the OneNote

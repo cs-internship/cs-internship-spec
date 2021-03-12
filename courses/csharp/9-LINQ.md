@@ -25,7 +25,7 @@
     In order to achieve this badge you need to use  the maximum 40 votes in a day.
     This is a chance for you to observe the most useful questions and answers related to what you are learning.  
     This [SO post](https://meta.stackexchange.com/questions/5212/what-are-the-limits-on-how-i-can-cast-change-and-retract-votes#answer-5213) can help you in case you get blocked from voting before reaching the 40 votes per day limitation.
- 3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 418.
+ 3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 388.
  4. Pass these exercises at exercism.io:
     - Grade School
  5. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.

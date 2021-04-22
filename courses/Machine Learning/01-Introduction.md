@@ -9,21 +9,21 @@
 `#[stepNumber]`
 
 - At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Link to all your posts during the last week, specifying the relevant task or study item for each link
+  1. Link to all your posts during the last week, specifying the relevant task or study item for each link.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage you are satisfied with what you did last week?
   
-  You will have a session with your mentor based on your report
+  You will have a session with your mentor based on your report.
 
 
 ### Study Items
 
-  1. [The Quick Python Book](README.md): Chapter 1 (About Python) 
-  2. [The Quick Python Book](README.md): Chapter 2 (Getting started)
-  3. [The Quick Python Book](README.md): Chapter 3 (The Quick Python overview)
-  4. [The Quick Python Book](README.md): Chapter 4 (The absolute basics)
-  5. [Let's get started with Python](https://github.com/mrhajbabaei/get-started-with-python)
-  6. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+  1. [The Quick Python Book](README.md): Chapter 1 (About Python).
+  2. [The Quick Python Book](README.md): Chapter 2 (Getting started).
+  3. [The Quick Python Book](README.md): Chapter 3 (The Quick Python overview).
+  4. [The Quick Python Book](README.md): Chapter 4 (The absolute basics).
+  5. [Let's get started with Python](https://github.com/mrhajbabaei/get-started-with-python).
+  6. [Git Handbook](https://guides.github.com/introduction/git-handbook/).
 
 
 ### Tasks

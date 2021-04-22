@@ -8,18 +8,18 @@
 `#[stepNumber]`
 
 - At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Link to all your posts during the last week, specifying the relevant task or study item for each link
+  1. Link to all your posts during the last week, specifying the relevant task or study item for each link.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage you are satisfied with what you did last week?
   
-  You will have a session with your mentor based on your report
+  You will have a session with your mentor based on your report.
   
   
 ### Study Items
 
-  1. Python Machine Learning: Chapter 1 (Giving Computers the Ability to Learn from Data)
-  2. Python Machine Learning: Chapter 2 (Training Simple Machine Learning Algorithms for Classification)
-  3. Python Machine Learning: Chapter 3 (A Tour of Machine Learning Classifiers Using scikit-learn)
+  1. [Python Machine Learning](README.md): Chapter 1 (Giving Computers the Ability to Learn from Data).
+  2. [Python Machine Learning](README.md): Chapter 2 (Training Simple Machine Learning Algorithms for Classification).
+  3. [Python Machine Learning](README.md): Chapter 3 (A Tour of Machine Learning Classifiers Using scikit-learn).
 
 
 ### Tasks

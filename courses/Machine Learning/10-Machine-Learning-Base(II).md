@@ -1,4 +1,4 @@
-## Step 10. Machine Learning Base (II)
+## Step 10. Machine Learning Base(II)
 
 ### Guideline
 
@@ -8,7 +8,7 @@
 `#[stepNumber]`
 
 - At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Link to all your posts during the last week, specifying the relevant task or study item for each link
+  1. Link to all your posts during the last week, specifying the relevant task or study item for each link.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage you are satisfied with what you did last week?
   
@@ -17,9 +17,9 @@
   
 ### Study Items
 
-  1. Python Machine Learning: Chapter 4 (Building Good Training Datasets – Data Preprocessing).
-  2. Python Machine Learning: Chapter 5 (Compressing Data via Dimensionality Reduction).
-  3. Python Machine Learning: Chapter 6 (Learning Best Practices for Model Evaluation and Hyperparameter Tuning).
+  1. [Python Machine Learning](README.md): Chapter 4 (Building Good Training Datasets – Data Preprocessing).
+  2. [Python Machine Learning](README.md): Chapter 5 (Compressing Data via Dimensionality Reduction).
+  3. [Python Machine Learning](README.md): Chapter 6 (Learning Best Practices for Model Evaluation and Hyperparameter Tuning).
 
 ### Tasks
 

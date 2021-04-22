@@ -4,32 +4,35 @@ A good developer should have the right skills to ask questions and be able to ge
 Also a good developer should have a good resume of answering the others and helping the community.
 
 #### Goals:
- - The ability to explore StackOverflow
- - The ability to ask on StackOverflow
- - The commitment to help the StackOverflow community by answers
+ - The ability to explore StackOverflow.
+ - The ability to ask on StackOverflow.
+ - The commitment to help the StackOverflow community by answers.
  
 
 ## StackOverflow Levels
 
 #### Level 1: Hello StackOverflow!
- - Create Account
- - Autobiographer: Complete "About Me" section of user profile
- - Informed:  Read the entire tour page
+ - Create Account.
+ - Autobiographer: Complete "About Me" section of user profile.
+ - Informed:  Read the entire tour page.
 
 #### Level 2: Beginner Questioner
- - Scholar: Ask a question and accept an answer
- - Supporter: First up vote
+ - Scholar: Ask a question and accept an answer.
+ - Supporter: First up vote.
 
 #### Level 3: Brave Questioner
  - Student: First question with score of 1 or more.
- - Suffrage: Use 30 votes in a day
+ - Suffrage: Use 30 votes in a day.
+ - Nice Question: Ask question with score of 10 or more.
 
 #### Level 4: Beginner Answerer
- - Commentator: Leave 10 comments
- - Critic: First down vote
- - Teacher: Answer a question with score of 1 or more
+ - Commentator: Leave 10 comments.
+ - Critic: First down vote.
+ - Teacher: Answer a question with score of 1 or more.
 
 #### Level 5: Warrior
- - Nice Answer: Answer score of 10 or more
- - Vox Populi: Use the maximum 40 votes in a day
+ - Nice Answer: Answer score of 10 or more.
+ - Vox Populi: Use the maximum 40 votes in a day.
  - Self-Learner: Answer your own question with score of 3 or more.
+ - Enlightened: First Answer a question and get accept with score of 10 or more.
+ - Explainer: Edit and answer a question should be together in 12 hours.

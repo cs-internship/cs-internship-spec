@@ -8,24 +8,24 @@
 `#[stepNumber]`
 
 - At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Link to all your posts during the last week, specifying the relevant task or study item for each link
+  1. Link to all your posts during the last week, specifying the relevant task or study item for each link.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage you are satisfied with what you did last week?
   
-  You will have a session with your mentor based on your report
+  You will have a session with your mentor based on your report.
 
 
 ### Study Items
 
-  1. [The Quick Python Book](README.md): Chapter 5 (Lists, tuples, and sets)
-  2. [The Quick Python Book](README.md): Chapter 6 (Strings)
-  3. [The Quick Python Book](README.md): Chapter 7 (Dictionaries)
-  4. [The Quick Python Book](README.md): Chapter 8 (Control Flow)
+  1. [The Quick Python Book](README.md): Chapter 5 (Lists, tuples, and sets).
+  2. [The Quick Python Book](README.md): Chapter 6 (Strings).
+  3. [The Quick Python Book](README.md): Chapter 7 (Dictionaries).
+  4. [The Quick Python Book](README.md): Chapter 8 (Control Flow).
   
   
 ### Tasks
 
-  1. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow
+  1. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
   2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 137**.
   3. Pass these exercises at exercism.io (Use your GitHub as source control):  
       - High Scores

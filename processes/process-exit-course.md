@@ -1,6 +1,6 @@
 
 
-# Saying Goodbye Process
+# Exit Course Process
 
 Goodbye (Farewell) is a bitter and painful word that we have all experienced many times in different ways.
 Here is the process of saying goodbye to the course and the farewell message.

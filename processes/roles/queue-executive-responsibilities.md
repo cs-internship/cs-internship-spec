@@ -96,3 +96,6 @@ At the time of writing this document, we have not a predefined strict rule for t
 Although interview meeting is one of the most critical processes (as it is the first direct contact between cs internship and the interns), there is no documentation for that process yet. You are supposed to talk in groups with other mentors to know more about organizing an interview. Don't do anything based on assumptions. Make sure anything you do is approved by others.
 - **What should we do if the applicant is not accepted after the interview?**
 he or she Will be removed from this course, so the queue executive must delete the person's information from in queue page on the OneNote and move to dropped page on the OneNote
+ - **What if applicant says they are not ready to enter the course**
+ If queue executive talks with the applicant in order to prepare them for interview meeting and inform them that they can now enter the course and the applicant says that they can't enter the course now, then:  
+ queue executive must remove the applicant from queue. If the applicant still wants to enter the course in some other time, they can ask the queue executive to add them to end of the queue after they are removed.

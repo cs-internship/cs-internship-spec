@@ -43,6 +43,6 @@
         - Leap  
         - RNA Transcription  
         - Gigaseconds
-  13. Search about *bubble sort* algorithm. Write a programe which has a method which receives a list of numbers and returns a sorted equivalent list. The method should be using bubble sort algorithm.
+  13. Search about *bubble sort* algorithm. Write a program which has a method which receives a list of numbers and returns a sorted equivalent list. The method should be using bubble sort algorithm.
   15. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
   16. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.

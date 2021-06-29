@@ -40,8 +40,6 @@ Whenever queue executive finds out that there is a mentor who has less interns t
 
 A random person may happen to get interested in cs internship and want to enter one of the courses and will be added to pre-queue.
 
-Note that regarding Python applicants, queue executive should warn the people who want to join Python queue that they can join only on their own responsibility because they cannot start the course until the practical phase is designed.  
-
 **1- Add to telegram group**  
 Queue executive is responsible for adding that person to the telegram group (CS Internship - Queue). And greet the applicant by also introducing cs-internship to them.
 

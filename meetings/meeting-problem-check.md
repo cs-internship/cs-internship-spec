@@ -5,6 +5,10 @@ In our team, there is no place for someone without *Commitment* and *Integrity*.
 
 This meeting will be hold if we believe someone is threatenting our team's integrity. In another word, we hold this meeting if we feel a crisis in our team. 
 
+Interns attending a problem check session fit into one of these two categories:
+1. Those who are considered as having commitment and integrity issues.
+2. Those who had been attending a course in the CS Internship before, but had to leave due to integrity failure, and now are willing to join again.
+
 ## Goals
 This meeting has specific goals as described below. The intern:
  - Should understand the complete story of her/his problem.

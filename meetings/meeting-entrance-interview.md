@@ -9,10 +9,15 @@
 ## Interview Process
 This is the frist and the most important interview with a new intern. If the intern says yes he/she should really mean it based on a really important decsion in her/his life!
 
-1. Initiates by a mentor: 
+- Initiates by a mentor: 
    1. Mentor arranges a Skype meeting.
    2. While arranging a meeting, mentor has the chance to break the ice with the intern and get friends.
-2. Attendees: Interviewer, Observer (Mentor), Intern 1, Intern 2 (optional)
+
+- Attendees: Interviewer, Observer (Mentor), Intern 1, Intern 2 (optional)
+
+- Interns attending the interview fit into one of these two categories:
+     1. Those who are being interviewed for the first time. Based on the order of applicants in the queue, it's now their turn to start the process of entering a course.
+     2. Those who had been interviewed before, but their statement commitment had not been verified successfully.
 
 ## Interview Meeting Content
 ### Goals

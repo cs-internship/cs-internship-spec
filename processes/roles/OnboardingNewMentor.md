@@ -58,6 +58,7 @@ After knowing each mentor, the new mentor should send a post about them on Linke
 #### 5. Participating in the weekly sprint session
 
 The mentor have to participate actively in the weekly session. By the means of Integrity the mentor should announce other mentors and send them a text including his tasks.
+If The mentor could not attend the weekly sprint session he/she should write the sprint report and send it with  گزارش_اسپرینت_شماره اسپرینت# hashtag in the group of mentors.
 
 #### 6. Check intern tasks
 The mentor should check intern's tasks regularly and update his page on one note

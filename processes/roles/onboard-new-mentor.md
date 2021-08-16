@@ -70,7 +70,7 @@ As you know, one of the tasks each intern does in each step, is giving a live pr
 - The mentor should get the video of their intern's twitch, and upload it in the CS Internship YouTube channel.
 - The mentor, should write the link to the video in intern's profile in OneNote. So that anyone could find out that the twitch task is done and the link to video of the twitch is accessible.
 
-#### 7. Read the new intern process document
+#### 8. Read the new intern process document
 
 ## So here is what you should do when you take this role
 

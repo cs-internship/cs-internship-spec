@@ -25,7 +25,7 @@
 ### Tasks  <!-- omit in toc -->
 1. Make your calculator responsive:
 	- Make it responsive just like the windows 10 calculator.
-	- For more information about responsive rules, sizes and etc, follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step2) and this [video](https://youtu.be/zddyn5_KCj8).
+	- For more information about responsive rules, sizes and etc, follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8).
 	- Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 

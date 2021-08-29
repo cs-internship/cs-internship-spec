@@ -54,6 +54,6 @@ The mentor should check intern's tasks regularly and update his page on one note
 #### 7. Read the new intern process document
 
 
-# Re-entry in a course
+## Re-entry in a course
 
 if a mentor from CS Internship wants to enter another course in CS Internship, there is no need to officially enter a course and have a mentor assigned to him/her. That person can join all of the groups and participate in all of the meetings, additionally they can use all of the resources and move forward in the course, how they progress in the course is up to them(for example whether they want to post or not, or do a twitch stream or not).

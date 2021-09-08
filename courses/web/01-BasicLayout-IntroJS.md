@@ -18,7 +18,7 @@
 ### Study Items  <!-- omit in toc -->
 1. [W3Schools HTML](https://www.w3schools.com/html/default.asp)
 2. [W3Schools CSS](https://www.w3schools.com/css/default.asp)
-3. [Css Reference](https://cssreference.io/) (Study these collections: Box model, flexbox, positioning, transition)
+3. [Css Reference](https://cssreference.io/) (Study these collections: Box model, flexbox, CSS Grid, positioning, transition)
 4. [Don't fear the internet - Layout](http://www.dontfeartheinternet.com/08-layout/)
 5. [YDKJS, Chapter Book 1: Intro Programming](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch1.md)
 6. [Git Handbook](https://guides.github.com/introduction/git-handbook/)

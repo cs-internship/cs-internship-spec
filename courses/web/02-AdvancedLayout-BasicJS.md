@@ -17,10 +17,11 @@
   
 ### Study Items  <!-- omit in toc -->
 1. [Responsive web design](https://www.youtube.com/watch?v=zF6VSky4SIc)
-2. [W3Schools JavaScript](https://www.w3schools.com/js/default.asp)
-3. [YDKJS Book 1, Chapter 2: Into JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch2.md)
-3. [YDKJS Book 1, Chapter 3: Into YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch3.md)
-4. [JavaScript Debugging](https://link.medium.com/YRBvjadl3X)
+2. [Getting more familiar with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
+3. [W3Schools JavaScript](https://www.w3schools.com/js/default.asp)
+4. [YDKJS Book 1, Chapter 2: Into JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch2.md)
+5. [YDKJS Book 1, Chapter 3: Into YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch3.md)
+6. [JavaScript Debugging](https://link.medium.com/YRBvjadl3X)
 
 ### Tasks  <!-- omit in toc -->
 1. Make your calculator responsive:

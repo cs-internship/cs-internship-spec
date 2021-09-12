@@ -5,7 +5,7 @@ This is your first task, you should talk (literally talk on the phone or Skype) 
 
 ## Tasks
 
-Throughout the course you need to be expressing yourself (emotions and knowledge) on social media. So go ahead and create some social media accounts if you don't already have:
+Throughout the course you need to be expressing yourself (emotions and knowledge) on social media. So go ahead and create some social media accounts if you don't already have. For each social media accounts you should post an update to LinkedIn, Twitter and Telegram using the following hashtags: #cs_internship #courseName #stepNumber.
 
 - Create a [Twitter](https://twitter.com/) account.
 - Create a [LinkedIn](https://www.linkedin.com/) account.
@@ -20,7 +20,7 @@ Contact every person in your club. Introduce yourself and ask them to introduce 
 
 Then, after knowing each person, you should take your time and share your knowledge and feelings about them:
 
-- Post a **brief introduction** about them on Telegram (a summary of their answers to the 3 questions above) using #معرفی #CS_Internship #CourseName #StepNumber tags and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
-- Tweet your **feelings** about them using #معرفی #CS_Internship #CourseName #StepNumber and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
+- Post a **brief introduction** about them on Telegram (a summary of their answers to the 3 questions above) using #معرفی #cs_internship #courseName #stepNumber tags and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
+- Tweet your **feelings** about them using #معرفی #cs_internship #courseName #stepNumber and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
 
 And finally, you should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.

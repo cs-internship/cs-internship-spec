@@ -29,17 +29,15 @@
 
 2. Make your calculator responsive:
 	- Make it responsive just like the windows 10 calculator.
-	- For more information about responsive rules, sizes and etc, follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8).
+	- For more information about responsive rules, sizes and etc, follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8).
 	- Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 
-3. Create [exercism.io](https://exercism.io/) account.
+3. Create [exercism.io](https://exercism.io/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exersicm-disable-learning-mode.png).
 
 4. Pass these at exercism.io:
    - Hello world
    - Two Fer
-
-   Use **Practice Mode** (not Mentored Mode).
 
    Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
    

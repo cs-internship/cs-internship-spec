@@ -33,7 +33,7 @@
 	- Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 
-3. Create [exercism.io](https://exercism.io/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exersicm-disable-learning-mode.png).
+3. Create [exercism.io](https://exercism.io/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).
 
 4. Pass these at exercism.io:
    - Hello world

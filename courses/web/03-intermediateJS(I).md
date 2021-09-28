@@ -26,7 +26,7 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Make your calculator Themable:
+1. Make your calculator themable:
 
    - Add two themes using these [images](https://google.com).
    - Add another themes using your creativity.
@@ -41,9 +41,9 @@
 
 3. Create a simple Todo App:
 
-   - With an input HTML element to get todo's title
-   - With a button for adding a new todo
-   - With a list showing all added todos
+   - With an input HTML element to get todo's title.
+   - With a button for adding a new todo.
+   - With a list showing all added todos.
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 

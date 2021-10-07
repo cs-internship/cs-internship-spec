@@ -1,4 +1,4 @@
-## Step 5. HTTP and Storage
+## Step 5. DesignPattern
 
 ### Guideline
 

@@ -1,4 +1,4 @@
-## Step 1. Basic layout - Intro JS
+## Step 1. BasicLayout - IntroJS
 
 ### Guideline
 
@@ -31,9 +31,9 @@
 4. Create [jsFiddle.net](https://jsfiddle.net/) account.
 5. Create [TypingClub.com](https://www.typingclub.com/) account.
 6. Implement a calculator layout **exactly** like windows 10 calculator in maximum size (Standard mode):
-    - Create it without responsive but resizeable (resizable view is a view that can tolerate resizing from desktop view to tablet view):
-    - Create it Without using any library.
-    - Based on these [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1)
+    - Create it without responsive but resizeable (a resizable view is a view that can tolerate resizing from desktop view to tablet view):
+    - Create it without using any library.
+    - Based on these [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1) and this [video](https://youtu.be/k-kNYeOyX4c).
     - Use your GitHub as source control.
     - Publish it on your jsFiddle account.
 7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.

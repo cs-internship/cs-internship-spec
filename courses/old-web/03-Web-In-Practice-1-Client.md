@@ -54,15 +54,3 @@
 10. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
 11. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 12. It's time to be a mentor. Ask your mentor to start your onboarding process for mentorship.
-
-
-
-## Instructors <!-- omit in toc -->
-
-- [Maryam Heydarian](https://github.com/maryamhdr)
-
-
-## Instructor Notes <!-- omit in toc -->
-
-1. Mentors should give a detailed description about the scope and content of the step to intern and make sure that everything is clear for him/her and help him/her to set a more reliable deadline.
-2. First thing first, ask your intern to search about the **MVC** pattern and how to implement it using vanilla JS for task 6. You can give a brief explanation about the design patterns to him/her, but It's not the goal of this course to learn about the design patterns. After searching, you can give [this code](https://github.com/msynk/cs-internship/tree/master/web/step3) as a sample of mvc pattern to intern but make sure that he/she will not just copy the sample!

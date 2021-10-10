@@ -1,4 +1,4 @@
-## Step 3. intermediate JS I
+## Step 3. IntermediateJS(I)
 
 ### Guideline
 
@@ -29,7 +29,7 @@
 1. Make your calculator themable:
 
    - Add two themes using these [images](https://google.com).
-   - Add another themes using your creativity.
+   - Add another theme using your creativity.
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 
@@ -61,7 +61,7 @@
 
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 202**.
 
-7. Follow at least 5 Twitter accounts which are active in Web technologies. Describe why they worth to follow.
+7. Follow at least 5 Twitter accounts which are active in web technologies. Describe why they worth to follow.
 
 8. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
 

@@ -31,7 +31,7 @@
 
    - Each todo should have a remove button to remove the todo from todo list.
    - Each todo should have a complete button to toggle completion of the todo.
-   - Each todo should have an Edit button in order to edit the todo title.
+   - Each todo should have an edit button in order to edit the todo title.
    - Completed todos should have a different style from other todos.
    - Add 3 new buttons in order to filter todos in todo list:
      - **All**: shows all todos

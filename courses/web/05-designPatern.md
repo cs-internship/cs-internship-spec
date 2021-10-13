@@ -25,7 +25,7 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Refactor Todo app to use knockout js. Use [this tutorial](http://learn.knockoutjs.com/#/?tutorial=intro).
+1. Refactor Todo app to use Knockout.js and use [this tutorial](http://learn.knockoutjs.com/#/?tutorial=intro).
 
 2. Pass these at exercism.org:
 

@@ -39,7 +39,7 @@
      - **Completed**: shows completed todos
    - Current filter button should have a different style from other filter buttons.
 
-5. Pass these at exercism.org:
+5. Pass this at exercism.org:
 
    - Pascal's Triangle
 

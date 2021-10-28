@@ -37,7 +37,7 @@
 
 3. Create [exercism.org](https://exercism.org/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).
 
-4. Pass these at exercism.org:
+4. Join to **JavaScript Tracks** Pass these at exercism.org:
 
    - Hello world
    - Two Fer

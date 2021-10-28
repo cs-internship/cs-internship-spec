@@ -43,7 +43,7 @@
 5. Implement a **Download** functionality in Todo app in order to retrieve latest stored state from server:
    - Use your GitHub as source control.
 
-5. Pass these at exercism.org:
+5. Pass this at exercism.org:
 
    - Pascal's Triangle
 

@@ -27,7 +27,7 @@
 
 1. Refactor Todo app to use Knockout.js and use [this tutorial](http://learn.knockoutjs.com/#/?tutorial=intro).
 
-2. Pass these at exercism.org:
+2. Pass this at exercism.org:
 
    - Resistor Color
 

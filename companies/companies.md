@@ -5,7 +5,7 @@ Companies are playing a very important role in CS Internship ecosystem.
 
 We have 2 levels of partnership with companies:
  1. **Hiring from CS Internship:** This is the first phase we start the partnership with a company. In this phase, we have conducted a clear path for the company to meet CS Internship requirements in *Processes*, *Technologies* and *Standards* in the near future. Hiring from CS Internship Program we are facilitating this process for the company.
- 2. **A Target for practical internship:** When company meets the required standards, it is ready to accept practical interns from the program.
+ 2. **Accepting Interns:** When company meets the required standards, it is ready to accept practical interns from the program.
 
  # Partner Companies
  Here are the partner companies and their current state:

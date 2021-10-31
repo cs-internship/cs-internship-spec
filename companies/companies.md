@@ -15,19 +15,20 @@ We have 2 levels of partnership with companies:
   - **CS Internship Employees**: 15+
   - **Contact Mentor:** Maryam Davoudi
   - **Technologies:** 
-    - Backend: C#, ASP.NET Core
+    - Backend: C#, ASP.NET Core, EF Core
     - Frontend: TypeScript, Angular, Blazor
     - DevOps: Azure, Azure DevOps, Arvan, Fandogh
-    - Database: Azure SQL Server, CosmosDB, Azure Storage
+    - Other: Azure SQL Server, CosmosDB, Azure Storage
 
   ## JabizParda
   - **State:** Hiring, Accepting interns
   - **CS Internship Employees**: 5
   - **Contact Mentor:** Hassan Usefi
   - **Technologies:** 
-    - Backend: C#, ASP.NET Core
+    - Backend: C#, ASP.NET Core, SignalR, ADO.NET, Stored Procedure
     - Frontend: TypeScript, Angular
     - DevOps: Azure DevOps, IIS
+    - Other: SQL Server, T/SQL, Redis
 
 
 ## Beyond Gplus
@@ -36,5 +37,5 @@ We have 2 levels of partnership with companies:
   - **Contact Mentor:** Fatima Khodaie
   - **Technologies:** 
     - Backend: C#, ASP.NET Core
-    - Frontend: Xamarin, Blazor
+    - Mobile: Android, Xamarin, Blazor
     - DevOps: Azure DevOps, AppCenter

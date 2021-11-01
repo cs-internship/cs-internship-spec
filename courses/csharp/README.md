@@ -14,7 +14,7 @@ This course is designed to make the intern ready for the exciting market of C# d
 - [Step 8. Delegates, Lambdas and Events](08-Delegates-Lambdas-Events.md)
 - [Step 9. LINQ](09-LINQ.md)
 - [Step 10. Asynchronous Language Features](10-Asynchronous-Language-Features.md)
-- [Step 11. C# New Features](11-C# New Features.md)
+- [Step 11. C# New Features](11-C#-New-Features.md)
 
 ## Goals
 

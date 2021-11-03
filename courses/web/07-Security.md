@@ -1,4 +1,4 @@
-## Step 6. Http - Storage
+## Step 7. Security
 
 ### Guideline
 
@@ -17,7 +17,7 @@
 
 <!-- TODO change the numbers -->
 
-- For Task 4, Task 5 you can use the server we have prepared for you [here]().
+- For apply authentication in Task 1 you can use the server we have prepared for you [here](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/servers/step7/server-step-7.rar).
 
 ### Study Items <!-- omit in toc -->
 
@@ -41,10 +41,6 @@
 
 3. Add a header to Todo app with the following functionality:
 
-   - Use your GitHub as source control.
-
-4. Implement a **Download** functionality in Todo app in order to retrieve latest stored state from server:
-
    - A label showing current user's display name.
    - A 'Sign up' button to navigate to signup page.
    - A 'Sign in' button to navigate to signin page.
@@ -52,7 +48,7 @@
    - Apply visibility of each button based on current state of app.
    - Use your GitHub as source control.
 
-5. Pass this at exercism.org:
+5. Pass these at exercism.org:
 
    - ETL
    - Grade School

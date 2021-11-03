@@ -30,7 +30,7 @@
    - ETL
    - Grade School
 
-   Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
+   Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xit).
 
 - Use your GitHub as source control.
 - Publish it on your jsFiddle account.

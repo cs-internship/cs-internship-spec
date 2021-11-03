@@ -57,12 +57,20 @@ After knowing each mentor, the new mentor should send a post about them on Linke
 
 #### 5. Participating in the weekly sprint session
 
-The mentor have to participate actively in the weekly session. By the means of Integrity the mentor should announce other mentors and send them a text including his tasks.
+The mentor has to participate actively in the weekly structural and operational meetings. By the means of Integrity the mentor should announce other mentors and send them a text including his tasks.
+If The mentor could not attend any of those two weekly meetings, he/she should:  
+- watch the video of the meetings carefully, before the next weekly meetings are held.
+- write the report of then meetings they have been absent in, and share it in *CS Internship - Mentors* telegram group before the next weekly meetings are held . Sent message(s) should have a specific hashtag whose format is #گزارش_اسپرینت_<sprint_number>, for exmaple:  #گزارش_اسپرینت_104.
 
 #### 6. Check intern tasks
 The mentor should check intern's tasks regularly and update his page on one note
 
-#### 7. Read the new intern process document
+#### 7. Upload intern twitches in YouTube
+As you know, one of the tasks each intern does in each step, is giving a live presentation on Twitch Platform. 
+- The mentor should get the video of their intern's twitch, and upload it in the CS Internship YouTube channel.
+- The mentor, should write the link to the video in intern's profile in OneNote. So that anyone could find out that the twitch task is done and the link to video of the twitch is accessible.
+
+#### 8. Read the new intern process document
 
 ## So here is what you should do when you take this role
 

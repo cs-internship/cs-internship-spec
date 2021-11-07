@@ -33,8 +33,8 @@
 
    Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
 
-- Use your GitHub as source control.
-- Publish it on your jsFiddle account.
+   - Use your GitHub as source control.
+   - Publish it on your jsFiddle account.
 
 2. Pass all lessons on TypingClub.com with 5 stars up to **lesson 374**.
 3. Achieve [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow.

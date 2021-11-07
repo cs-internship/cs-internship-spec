@@ -54,8 +54,8 @@
 
    Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
 
-- Use your GitHub as source control.
-- Publish it on your jsFiddle account.
+   - Use your GitHub as source control.
+   - Publish it on your jsFiddle account.
 
 5. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
 

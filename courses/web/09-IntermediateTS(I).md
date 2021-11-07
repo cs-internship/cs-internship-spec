@@ -32,8 +32,8 @@
 
    Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xit).
 
-- Use your GitHub as source control.
-- Publish it on your jsFiddle account.
+   - Use your GitHub as source control.
+   - Publish it on your jsFiddle account.
 
 2. Pass all lessons on TypingClub.com with 5 stars up to **lesson 388**.
 3. Achieve [**Vox Populi**](https://stackoverflow.com/help/badges/1108/vox-populi) badge on StackOverflow.

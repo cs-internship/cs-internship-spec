@@ -39,21 +39,21 @@
      - **Completed**: shows completed todos
    - Current filter button should have a different style from other filter buttons.
 
-5. Pass this at exercism.org:
+3. Pass this at exercism.org:
 
    - Pascal's Triangle
 
    Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
 
-- Use your GitHub as source control.
-- Publish it on your jsFiddle account.
+   - Use your GitHub as source control.
+   - Publish it on your jsFiddle account.
 
-6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 244**.
-7. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
-8. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
-9. Find at least 5 other online resources about JS and explain why you chose them.
-10. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-11. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+4. Pass all lessons on TypingClub.com with 5 stars up to **lesson 244**.
+5. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
+6. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
+7. Find at least 5 other online resources about JS and explain why you chose them.
+8. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+9. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
 
 ### Mentors Training

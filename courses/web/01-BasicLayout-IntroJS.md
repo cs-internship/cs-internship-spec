@@ -41,7 +41,7 @@
 7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
 8. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
 9. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
-10. Find at least 5 more useful online resources for HTML/CSS. Then explain why you chose them.
-11. Find at least 5 more useful online resources for Git/Github. Then explain why you chose them.
+10. Find at least 5 extra useful online resources for HTML/CSS. Then explain why you chose them.
+11. Find at least 5 extra useful online resources for Git/Github. Then explain why you chose them.
 12. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
 13. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.

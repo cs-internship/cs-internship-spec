@@ -1,4 +1,4 @@
-## Step 4. IntermediateJS(II)
+## Step 4. Intermediate JS (II)
 
 ### Guideline
 

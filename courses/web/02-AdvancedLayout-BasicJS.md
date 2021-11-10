@@ -51,8 +51,8 @@
 5. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
 6. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
 7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
-8. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch time for you on your deadline day.
-9. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your Twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+8. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+9. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.
 
 
 ### Mentors Training
@@ -67,6 +67,6 @@
 
   What you should do in this part could simply be abbreviated into four main sequentially tasks: **Watch**, **Think**, **Write** and **Talk**
   1. **Watch** the specified video. Watch it deeply! Make sure you have settled a proper environment and situation to watch it. In this way, you can have the highest of your focus on it.
-  2. **Think** about the discussed concepts in this video in your daily attitudes. Your task is to observe and find the concepts that you heard in the video in your daily life. 
+  2. **Think** about the discussed concepts in this video. Your task is to observe and find the appointed issues in this video in your daily life and attitudes.
   3. **Write** a report about what you understood from this video. This report should contain your experience and observations during the week.
-  4.  Finally, after a week, set a time with a Mentor and **Talk** about these concepts and your observations.
+  4. Finally, after a week, set a time with a Mentor and **Talk** about these concepts and your observations.

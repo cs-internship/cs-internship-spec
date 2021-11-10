@@ -36,9 +36,9 @@
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 
-3. Create a [exercism.org](https://exercism.org/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).
+3. Create an [exercism.org](https://exercism.org/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).
 
-4. Join to **JavaScript Tracks** on exercism.org and pass these exercises:
+4. Join Exercism’s **JavaScript** Track and pass these exercises:
 
    - Hello world
    - Two Fer

@@ -1,18 +1,20 @@
-## Step 1. BasicLayout - IntroJS
+## Step 1. Basic Layout - Introduction to JS
 
 ### Guideline
 
-- For each study item and each task you should post an update to LinkedIn, Twitter and Telegram using the following hashtags:
+- Ask your mentor for a detailed description of the step content before setting a deadline.
+
+- For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
 
 - At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Link to all your posts during the last week, specifying the relevant task or study item for each link
+  1. Links to all your posts during the last week, specifying the relevant task or study item for each link.
   2. How many hours did you spend on cs_internship last week?
-  3. What percentage you are satisfied with what you did last week?
+  3. What percentage are you satisfied with what you did last week?
   
-  You will have a session with your mentor based on your report
+  You will have a session with your mentor based on your report.
   
 
 ### Study Items  <!-- omit in toc -->
@@ -25,21 +27,21 @@
 
 ### Tasks  <!-- omit in toc -->
 
-1. Create [GitHub](https://github.com/) account.
-2. Create [StackOverflow](https://stackoverflow.com/) account.
-3. Create [Repl.it](https://repl.it/) account.
-4. Create [jsFiddle.net](https://jsfiddle.net/) account.
-5. Create [TypingClub.com](https://www.typingclub.com/) account.
-6. Implement a calculator layout **exactly** like windows 10 calculator in maximum size (Standard mode):
-    - Create it without responsive but resizeable (a resizable view is a view that can tolerate resizing from desktop view to tablet view):
+1. Create a [GitHub](https://github.com/) account.
+2. Create a [StackOverflow](https://stackoverflow.com/) account.
+3. Create a [Repl.it](https://repl.it/) account.
+4. Create a [jsFiddle.net](https://jsfiddle.net/) account.
+5. Create a [TypingClub.com](https://www.typingclub.com/) account.
+6. Implement a calculator layout **exactly** like the Windows 10 calculator in maximum size (Standard mode):
+    - Create it unresponsive but resizeable (a resizable view is a view that can tolerate resizing from desktop view to tablet view):
     - Create it without using any library.
-    - Based on these [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1) and this [video](https://youtu.be/k-kNYeOyX4c).
-    - Use your GitHub as source control.
+    - Create it based on these [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1) and this [video](https://youtu.be/k-kNYeOyX4c).
+    - Use your GitHub as your source control.
     - Publish it on your jsFiddle account.
 7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
 8. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
 9. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
-10. Find at least 5 other useful online resources for HTML/CSS and explain why you chose them.
-11. Find at least 5 other useful online resources for Git/Github and explain why you chose them.
+10. Find at least 5 extra useful online resources for HTML/CSS. Then explain why you chose them.
+11. Find at least 5 extra useful online resources for Git/Github. Then explain why you chose them.
 12. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-13. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+13. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.

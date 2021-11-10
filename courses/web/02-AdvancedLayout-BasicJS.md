@@ -33,7 +33,7 @@
 
    - Make it responsive just like the Windows 10 calculator.
    - Get more information about responsive rules, sizes, and more by following the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8) 
-   - Use your GitHub as source control.
+   - Use GitHub as your source control.
    - Publish it on your jsFiddle account.
 
 3. Create an [exercism.org](https://exercism.org/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).

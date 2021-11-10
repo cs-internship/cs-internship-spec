@@ -1,4 +1,4 @@
-## Step 5. DesignPattern
+## Step 5. Design Pattern
 
 ### Guideline
 

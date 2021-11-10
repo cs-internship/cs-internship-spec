@@ -1,4 +1,4 @@
-## Step 2. Advanced Layout - BasicJS
+## Step 2. Advanced Layout - Basic JS
 
 ### Guideline
 

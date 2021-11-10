@@ -2,6 +2,8 @@
 
 ### Guideline
 
+- Ask your mentor for a detailed description of the step content before setting a deadline.
+
 - For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`

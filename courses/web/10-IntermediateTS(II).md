@@ -1,4 +1,4 @@
-## Step 10. IntermediateTS(II)
+## Step 10. Intermediate TS (II)
 
 ### Guideline
 

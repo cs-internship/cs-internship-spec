@@ -40,7 +40,7 @@
 
 4. Join Exercism’s **JavaScript** Track and pass these exercises:
 
-   - Hello world
+   - Hello World
    - Two Fer
 
    Learn how to run tests for these steps, and run all available tests in spec file (remove x from the begining of each xtest).

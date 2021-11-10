@@ -26,7 +26,7 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Join to the **TypeScript Track** at exercism.org and Pass these exercises:
+1. Join Exercism’s **TypeScript** Track and pass these exercises:
 
    - ETL
    - Grade School

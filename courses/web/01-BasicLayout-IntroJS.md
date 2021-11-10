@@ -1,4 +1,4 @@
-## Step 1. Basic Layout - IntroJS
+## Step 1. Basic Layout - Introduction to JS
 
 ### Guideline
 

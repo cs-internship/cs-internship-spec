@@ -58,11 +58,11 @@
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"third"** and **"fourth"** video of the 8 videos for the "Communication Training" course. Here are the links:
+- In the mentoring training path, you should watch the **"fifth"** and **"sixth"** videos of the 8 videos for the "Communication Training" course. Here are the links:
 
-  Link to [video3](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing)
+  Link to [video5](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing)
 
-  Link to [video4](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing)
+  Link to [video6](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing)
 
   (If you do not have access to these links please inform your Mentoring Intern.)
 

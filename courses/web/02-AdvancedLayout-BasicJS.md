@@ -27,12 +27,12 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Download and Install latest the versions of VS Code & Google Chrome.
+1. Download and Install the latest versions of VS Code & Google Chrome.
 
-2. Design your calculator considering these features:
+2. Implement your calculator considering these features:
 
    - Make it responsive just like the Windows 10 calculator.
-   - For more information about responsive rules, sizes, etc, follow the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8).
+   - Get more information about responsive rules, sizes, and more by following the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8) 
    - Use your GitHub as source control.
    - Publish it on your jsFiddle account.
 

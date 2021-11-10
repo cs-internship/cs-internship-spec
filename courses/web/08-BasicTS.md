@@ -1,4 +1,4 @@
-## Step 8. BasicTS
+## Step 8. Basic TS
 
 ### Guideline
 

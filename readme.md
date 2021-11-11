@@ -2,7 +2,7 @@
 
 CS Internship is an online open-source and free education program to help enthuciastic people to learn new technologies and get ready to work professionally.
 
-CS stands for ***Crystaline Society***. You can study more about the ***Declaration of CS Culture*** [here](https://www.linkedin.com/pulse/what-cs-culture-mehran-davoudi/) which is initiated by its original creator [Prof. Ayaz Isazadeh](https://www.linkedin.com/in/ayazisazadeh/).
+CS stands for ***Crystalline Society***. You can study more about the ***Declaration of CS Culture*** [here](https://www.linkedin.com/pulse/what-cs-culture-mehran-davoudi/) which is initiated by its original creator [Prof. Ayaz Isazadeh](https://www.linkedin.com/in/ayazisazadeh/).
 
 In CS Internship our main focuses are:
  - Train essential **soft skills** required to be a professional at work (and life!).

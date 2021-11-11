@@ -16,10 +16,11 @@ In CS Internship our main focuses are:
 The details of the courses and their structure:
 - [C#](/courses/csharp/README.md)
 - [Web (Javascript)](/courses/web/README.md)
-- [Machine Learning](/courses/Machine%20Learning/README.md)
+- [Machine Learning (Python)](/courses/Machine%20Learning/README.md)
 - [Mobile (Xamarin)](/courses/xamarin/README.md)
 - Web (Blazor): *(Will be available soon...)*
 - Cross Platform (.NET MAUI): *(Will be available soon...)*
+- Machine Learning (ML.NET): *(Will be available soon...)*
 
 ## Goals
 In CS Internship we mostly focus on *"Soft Skills"*. In fact the whole process of learning a new technology is just a tool to train these soft skills during the process. The list of soft skills we are working on is:

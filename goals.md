@@ -11,9 +11,10 @@ In CS Internship we mostly focus on *"Soft Skills"*. In fact the whole process o
 - Understanding the process of **remote team-working**: Sprints, Boards, ...
 
 ### Integrity
-We practice integrity by being strict on these situations:
- - Skype meeting times
- - Step promises
+Integrity is a core value for us. We learn how integrity works in our life and career.
+The integrity model we are using is based on Werner Erhard and Michael Jensen's model of integrity.
+There's a lot to study on (SSRN)[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1511274]
+We practice integrity everyday in every aspect of our work and our program is designed in a way so the interns can practice it in lots of situations.
  
 ### Dare to Estimate
 We practice estimation skills by creating on these situations:

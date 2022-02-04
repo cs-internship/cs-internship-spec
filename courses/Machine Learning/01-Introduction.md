@@ -38,6 +38,7 @@
       - Hello World
       - Two Fer
       - Raindrops
-  8. Find at least 5 other useful online resources for python and explain why you chose them.
-  9. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-  10. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+  8. Do the exercises in Study Item 4 marked with the keywords TRY THIS, QUICK CHECK, and LAB (Use your GitHub as source control).
+  9. Find at least 5 other useful online resources for python and explain why you chose them.
+  10. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+  11. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.

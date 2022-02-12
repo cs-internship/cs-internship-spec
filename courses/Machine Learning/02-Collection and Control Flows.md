@@ -34,9 +34,10 @@
       - Isogram
       - Scrabble Score
       - Acronym  
-  4. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on Python.
-  5. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-  6. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+  4. Do the exercises in study items 1, 2, 3 and 4 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
+  5. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on Python.
+  6. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+  7. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
 
 ### Mentors Training

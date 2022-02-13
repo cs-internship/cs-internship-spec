@@ -12,8 +12,8 @@ Throughout the course you need to be expressing yourself (emotions and knowledge
 
 You should contact these people:
 
-1- All the assistant mentors
-2- All interns in your club
+-  All the assistant mentors
+-  All interns in your club
 
 Yon can find the information of assistant mentors in **CS - Crystal Society** telegram group.
 

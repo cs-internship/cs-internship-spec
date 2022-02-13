@@ -10,7 +10,14 @@ Throughout the course you need to be expressing yourself (emotions and knowledge
 - Create a [Twitter](https://twitter.com/) account.
 - Create a [LinkedIn](https://www.linkedin.com/) account.
 
-Contact every person in your club. Introduce yourself and ask them to introduce themselves. Within each conversation you should achieve these goals:
+You should contact these people:
+
+1- All the assistant mentors
+2- All interns in your club
+
+Yon can find the information of assistant mentors in **CS - Crystal Society** telegram group.
+
+Introduce yourself and ask them to introduce themselves. Within each conversation you should achieve these goals:
 
 - Introduce yourself, so they will be able to introduce you to the others later in the club.
 - Get to know them by asking about:

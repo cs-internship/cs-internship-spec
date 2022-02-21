@@ -20,7 +20,7 @@
  2. [Object Lifetime (Wikipedia article)](https://en.wikipedia.org/wiki/Object_lifetime)
  3. [Garbage Collection (Microsoft .Net Guid)](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/index) - All sublinks are needed to be studied
  4. [Finalizers (Microsoft C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/destructors)
- 5. [dotMemory — .NET memory profiler by JetBrains (Youtube video)](https://www.youtube.com/watch?v=jnxn-vZM-Lg)
+ 5. [dotMemory — .NET memory profiler by JetBrains (Youtube video)](https://youtube.com/playlist?list=PLQ176FUIyIUbEfA-XkqEBBNaU28RvtWEL)
 
 ### Tasks
 

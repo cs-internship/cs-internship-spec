@@ -14,6 +14,7 @@ You should contact these people:
 
 -  All the assistant mentors
 -  All interns in your club
+-  Your own mentoring intern
 
 Yon can find the information of assistant mentors in **CS - Crystal Society** telegram group.
 

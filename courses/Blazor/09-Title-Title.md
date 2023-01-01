@@ -17,11 +17,8 @@
 
 ### Study Items <!-- omit in toc -->
 
-1. [SASS/SCSS and LESS intro](https://www.ionos.com/digitalguide/websites/web-development/sass/)
-2. [SCSS tutorial](https://www.w3schools.com/sass/default.php)
-3. [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-4. Blazor Book , chapter 7 : Creating more reusable components
-5. Blazor Book , chapter 8 : Use js introp for scroll to top action
+1. Blazor Book , chapter 7 : Creating more reusable components
+2. Blazor Book , chapter 8 : Use js introp for scroll to top action
 
 ### Tasks <!-- omit in toc -->
 

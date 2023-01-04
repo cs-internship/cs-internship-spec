@@ -42,6 +42,7 @@
 5. Find at least 5 other online resources about client-side JS & Tooling, and explain why you chose them.
 6. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
 7. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.
+8. It's time to be a mentor. Ask your mentor to start your onboarding process for mentorship.
 
 ### Mentors Training
 

@@ -30,3 +30,20 @@
  5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
 
+### Mentors Training
+
+- In the mentoring training path, you should watch the **"Ninth"**  and  **"Tenth"** video of the 16 videos for the "Coaching" course.  Here's the links:
+
+  Link to  [video9]( https://drive.google.com/drive/folders/1lBqfqw7Th-zyc3XherR2GLCK3HtK2VaK?usp=share_link)
+  
+  Link to [video10]( https://drive.google.com/drive/folders/1_uRxg9mzKYycKT05O93r0-9Lh2McLjSb?usp=sharing)
+
+
+  (If you do not have access to the links please inform your Mentoring Intern.)
+
+  What you should do in this part could simply abbreviated into four main sequentially tasks: **Watch**, **Think**, **Write** and **Talk**
+  1. **Watch** the specified video. Watch it deeply! Make you sure you have settled a proper environment and situation to watch it. In this way, you can have the highest of your focus on it.
+  2. **Think** about the discussed concepts in this video in your daily attitudes. Your task is to observe and find the concepts that you heard in the video in you daily life. 
+  3. **Write** a report about what you understood from this video. This report should contain your experience and observations during the week.
+  4.  Finally, after a week, set a time with a Mentor and **Talk** about these concepts and your observations.
+

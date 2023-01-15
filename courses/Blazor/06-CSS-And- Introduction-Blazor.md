@@ -1,4 +1,4 @@
-## Step 6. [Title]
+## Step 6. CSS And Introduction Blazor
 
 ### Guideline
 

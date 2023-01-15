@@ -1,4 +1,4 @@
-## Step 10. [Title]
+## Step 9. JS Interop
 
 ### Guideline
 
@@ -17,12 +17,12 @@
 
 ### Study Items <!-- omit in toc -->
 
-1. Blazor Book , chapter 9 :  Securing Blazor applications
-2. Blazor Book , chapter 10 :  Managing state
+1. Blazor Book , chapter 7 : Creating more reusable components
+2. Blazor Book , chapter 8 : Integrating with Javascript libraries
 
 ### Tasks <!-- omit in toc -->
 
-1. Achieve [**Self-Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on StackOverflow.
-2. Pass all lessons on TypingClub.com with 5 stars up to lesson 429.
+1. Achieve [**Vox Populi**](https://stackoverflow.com/help/badges/1108/vox-populi) badge on StackOverflow.
+2. Pass all lessons on TypingClub.com with 5 stars up to lesson 388.
 3. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
 4. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.

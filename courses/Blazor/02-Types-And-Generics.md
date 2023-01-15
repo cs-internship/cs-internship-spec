@@ -1,4 +1,4 @@
-## Step 3. [Title]
+## Step 2. Types And Generics
 
 ### Guideline
 
@@ -17,25 +17,34 @@
 
 ### Study Items <!-- omit in toc -->
 
-1.  C# book, chapter 5 : Collections
-2.  C# book, chapter 6 : Inheritance
+1.  C# book, chapter 3 : Types
+2.  C# book, chapter 4 : Generics
+3.  [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
 ### Tasks <!-- omit in toc -->
 
-1. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
-2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 202.
-3. Pass these exercises at exercism.io:
-   - Tournament
-4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+1.  Choose 3 bloggers who write about C# and describe why they matter to you.
+2.  Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
+3.  Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow
+4.  Pass all lessons on TypingClub.com **with 5 stars** up to lesson 137.
+5.  Pass these exercises at exercism.io:
+    - Circular Buffer
+    - Panagarm
+    - Pascal's Triangle
+    - High Scores
+    - Resistor Color
+    - Nucleotide Count
+    - Robot Name
+6.  Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+7.  You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"third"** and **"fourth"** video of the 8 videos for the "Communication Training" course. Here's the links:
+- In the mentoring training path, you should watch the **"first"** and **"second"** video of the 8 videos for the "Communication Training" course. Here's the links:
 
-  Link to [video3](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing)
+  Link to [video1](https://drive.google.com/file/d/1IlQ7RtcyMt3WOApAnw5EluRauyhmKksi/view?usp=sharing)
 
-  Link to [video4](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing)
+  Link to [video2](https://drive.google.com/file/d/1xV1DX8sZ7sEcH4pBVrOno_V4IHQFj6xF/view?usp=sharing)
 
   (If you do not have access to the links please inform your Mentoring Intern.)
 

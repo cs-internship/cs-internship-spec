@@ -1,4 +1,4 @@
-## Step 12. Unsupervised Learning Task
+## Step 8. Supervised Learning Task
 
 ### Guideline
 
@@ -17,24 +17,25 @@
   
 ### Study Items
 
-  1. [Python Machine Learning](README.md): Chapter 11 (Working with Unlabeled Data – Clustering Analysis).
+  1. [Python Machine Learning](README.md): Chapter 8 (Applying Machine Learning to Sentiment Analysis).
+  2. [Python Machine Learning](README.md): Chapter 10 (Predicting Continuous Target Variables with Regression Analysis).
+
 
 ### Tasks
 
- 1. Achieve [**Vox Populi**](https://stackoverflow.com/help/badges/1108/vox-populi) badge on StackOverflow.  
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 374**.
- 3. Build a model to detect fraudulent activities [(data)](https://www.cs.cmu.edu/~enron/).
+ 1. Achieve [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow.
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 285**.
+ 3. Prepare a Sentiment Analyzer!(Classify texts based on sentiments into two categories: positive and negative) [(data)](http://help.sentiment140.com/for-students/).
  4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
  5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
-
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"Thirteenth"** and **"Fourteenth"**  video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the **"seventh"**, **"eighth"**, and **"ninth"** videos of the 16 videos for the **"Coaching"** course.  Here's the links:
 
-  Link to [video13]
-
-  Link to [video14]
+  - Link to [video7](https://drive.google.com/drive/folders/16fch6aIfZL1laupMDYruy3HjmxV8WA-p)
+  - Link to [video8](https://drive.google.com/drive/folders/1REyXmFfCWTDpCrsbNoJojHjH9ZQEXzqx)
+  - Link to [video9](https://drive.google.com/drive/folders/1lBqfqw7Th-zyc3XherR2GLCK3HtK2VaK)
   
   (If you do not have access to the links please inform your Mentoring Intern.)
 
@@ -43,4 +44,3 @@
   2. **Think** about the discussed concepts in this video in your daily attitudes. Your task is to observe and find the concepts that you heard in the video in you daily life. 
   3. **Write** a report about what you understood from this video. This report should contain your experience and observations during the week.
   4.  Finally, after a week, set a time with a Mentor and **Talk** about these concepts and your observations.
-

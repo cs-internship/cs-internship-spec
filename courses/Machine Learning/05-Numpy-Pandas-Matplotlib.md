@@ -1,4 +1,4 @@
-## Step 5. Numpy and Pandas and Matplotlib
+## Step 5. Numpy, Pandas and Matplotlib
 
 ### Guideline
 
@@ -23,21 +23,22 @@
 
 ### Tasks
 
- 1. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 223**.
- 3. Do the exercise 3 in step 4 again but open the CSV file with **Pandas** **package** as a dataframe and add new four columns to it with name **MA1, MA2, MA3, and MA4** and for these columns calculate the [Moving Average](https://en.wikipedia.org/wiki/Moving_average) of close price for durations of 5, 10, 15, and 30 (N=5, 10, 15, and 30).
- 4. Find at least 5 other online resources about numpy & pandas & matplotlib, and explain why you chose them.
- 5. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
- 6. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+ 1. Achieve [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on StackOverflow.
+ 2. Achieve [**Nice Question**](https://stackoverflow.com/help/badges/20/nice%20question) badge on StackOverflow.
+ 3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 223**.
+ 4. Do the exercise 3 in step 4 again but open the CSV file with **Pandas package** as a dataframe and add new four columns to it with name **MA1, MA2, MA3, and MA4** and for these columns calculate the [Moving Average](https://en.wikipedia.org/wiki/Moving_average) of close price for durations of 5, 10, 15, and 30 (N=5, 10, 15, and 30).
+ 5. Find at least 5 other online resources about numpy & pandas & matplotlib, and explain why you chose them.
+ 6. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 7. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+ 8. It's time to **be a mentor**. Ask your mentor to start your onboarding process for mentorship.
 
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"seventh"** and **"eighth"** video of the 8 videos for the "Communication Training" course.  Here's the links:
+- In the mentoring training path, you should watch the **"seventh"** and **"eighth"** videos of the 8 videos for the **"Communication Training"** course.  Here's the links:
 
-  Link to [video7](https://drive.google.com/file/d/167Io_enDD8FHxwt5LBc7YNXCzfIuRC8D/view?usp=sharing)
-
-  Link to [video8](https://drive.google.com/file/d/1KcyLrVv_CBgSwF6kFpGSvQ9D5SjFT0Gt/view?usp=sharing)
+  - Link to [video7](https://drive.google.com/file/d/167Io_enDD8FHxwt5LBc7YNXCzfIuRC8D/view?usp=sharing)
+  - Link to [video8](https://drive.google.com/file/d/1KcyLrVv_CBgSwF6kFpGSvQ9D5SjFT0Gt/view?usp=sharing)
   
   (If you do not have access to the links please inform your Mentoring Intern.)
 

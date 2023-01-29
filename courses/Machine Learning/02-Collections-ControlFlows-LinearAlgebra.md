@@ -1,4 +1,4 @@
-## Step 2. Collection and Control Flows
+## Step 2. Collections, Control Flows, and Linear Algebra
 
 ### Guideline
 
@@ -21,11 +21,13 @@
   2. [The Quick Python Book](README.md): Chapter 6 (Strings).
   3. [The Quick Python Book](README.md): Chapter 7 (Dictionaries).
   4. [The Quick Python Book](README.md): Chapter 8 (Control Flow).
-  
+  5. [Mathematics for Machine Learning](README.md): Chapter 2 (Linear Algebra).
+  6. [Mathematics for Machine Learning](README.md): Chapter 3 (Analytic Geometry)
+
   
 ### Tasks
 
-  1. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
+  1. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
   2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 137**.
   3. Pass these exercises at exercism.io (Use your GitHub as source control):  
       - High Scores
@@ -42,11 +44,10 @@
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"first"** and **"second"** video of the 8 videos for the "Communication Training" course.  Here's the links:
+- In the mentoring training path, you should watch the **"first"** and **"second"** videos of the 8 videos for the **"Communication Training"** course.  Here's the links:
 
-  Link to [video1](https://drive.google.com/file/d/1IlQ7RtcyMt3WOApAnw5EluRauyhmKksi/view?usp=sharing)
-
-  Link to [video2](https://drive.google.com/file/d/1xV1DX8sZ7sEcH4pBVrOno_V4IHQFj6xF/view?usp=sharing)
+  - Link to [video1](https://drive.google.com/file/d/1IlQ7RtcyMt3WOApAnw5EluRauyhmKksi/view?usp=sharing)
+  - Link to [video2](https://drive.google.com/file/d/1xV1DX8sZ7sEcH4pBVrOno_V4IHQFj6xF/view?usp=sharing)
   
   (If you do not have access to the links please inform your Mentoring Intern.)
 

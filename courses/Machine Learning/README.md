@@ -1,3 +1,6 @@
+Sunday, 29 January, 2023
+14:52
+
 # Machine Learning
 
 ## Outlook
@@ -13,19 +16,15 @@ This course is designed for students who want to learn **Machine Learning**. In 
 
 ## Contents 
 
-- [Step 1 - Introduction](01-Introduction.md)
-- [Step 2 - Colection and Control Flows](02-Lists-Tuples-Sets-Dictionaries-ControlFlows-Strings.md)
-- [Step 3 - Scopes and Classes](03-Functions-Modules-Scopes-Classes.md)
-- [Step 4 - Files and Exceptions](04-FileSystem-ReadAndWriteFiles-Exceptions.md)
-- [Step 5 - Numpy and Pandas and Matplotlib](05-Numpy-Pandas-Matplotlib.md)
-- [Step 6 - Linear Algebra](06-Linear-Algebra.md)
-- [Step 7 - Probability](07-Probability.md)
-- [Step 8 - Convex Optimization](08-Convex-Optimization.md)
-- [Step 9 - Machine Learning Base(I)](09-Machine-Learning-Base(I).md)
-- [Step 10 - Machine Learning Base(II)](10-Machine-Learning-Base(II).md)
-- [Step 11 - Supervised Learning Task](11-Supervised-Learning-Task.md)
-- [Step 12 - Unsupervised Learning Task](12-Unsupervised-Learning-Task.md)
-- [Step 13 - Neural Networks Definition](13-Neural-Networks-Definition.md)
-- [Step 14 - Implementation Tools](14-Implementation-Tools.md)
-- [Step 15 - Neural Networks Models](15-Neural-Networks-Models.md)
-
+- [Step 01 - Introduction](01-Introduction.md)
+- [Step 02 - Colections, Control Flows, and Linear Algebra](02-Collections-ControlFlows-LinearAlgebra.md)
+- [Step 03 - Functions, Classes, and Matrix Calculations](03-Functions-Classes-MatrixCalculations.md)
+- [Step 04 - Files, Exceptions, Probability, and Optimization](04-Files-Exceptions-Probability-Optimization.md)
+- [Step 05 - Numpy, Pandas and Matplotlib](05-Numpy-Pandas-Matplotlib.md)
+- [Step 06 - Machine Learning Basics(I)](06-Machine-Learning-Basics(I).md)
+- [Step 07 - Machine Learning Basics(II)](07-Machine-Learning-Basics(II).md)
+- [Step 08 - Supervised Learning Task](08-Supervised-Learning-Task.md)
+- [Step 09 - Unsupervised Learning Task](09-Unsupervised-Learning-Task.md)
+- [Step 10 - Neural Networks Definition](10-Neural-Networks-Definition.md)
+- [Step 11 - Implementation Tools](11-Implementation-Tools.md)
+- [Step 12 - Neural Networks Models](12-Neural-Networks-Models.md)

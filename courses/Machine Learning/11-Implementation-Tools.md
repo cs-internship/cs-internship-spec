@@ -1,4 +1,5 @@
-## Step 13. Neural Networks Definition
+## Step 11.  Implementation Tools
+
 
 ### Guideline
 
@@ -17,23 +18,23 @@
   
 ### Study Items
 
-  1. [Python Machine Learning](README.md): Chapter 12 (Implementing a Multilayer Artificial Neural Network from Scratch).
+  1. [Python Machine Learning](README.md): Chapter 13 (Parallelizing Neural Network Training with TensorFlow).
+  2. [Python Machine Learning](README.md): Chapter 14 (Going Deeper – The Mechanics of TensorFlow).
+
 
 ### Tasks
 
- 1. Achieve [**Self-Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 388**.
- 3. Create a neural network by Machine Learning to read your handwriting [(data)](https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits).
- 4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
- 5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+ 1. Achieve [**Enlightened**](https://stackoverflow.com/help/badges/19/enlightened) badge on StackOverflow.
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 418**.
+ 3. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 4. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"Fifteenth"** and **"Sixteenth"**  video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the **"fifteenth"** and **"sixteenth"** videos of the 16 videos for the **"Coaching"** course.  Here's the links:
 
-  Link to [video15]
-  
-  Link to [video16]
+  - Link to [video15]()
+  - Link to [video16]()
 
   (If you do not have access to the links please inform your Mentoring Intern.)
 
@@ -42,7 +43,4 @@
   2. **Think** about the discussed concepts in this video in your daily attitudes. Your task is to observe and find the concepts that you heard in the video in you daily life. 
   3. **Write** a report about what you understood from this video. This report should contain your experience and observations during the week.
   4.  Finally, after a week, set a time with a Mentor and **Talk** about these concepts and your observations.
-
-
-
 

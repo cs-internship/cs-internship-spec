@@ -1,4 +1,4 @@
-## Step 10. Machine Learning Base(II)
+## Step 6. Machine Learning Basics (I)
 
 ### Guideline
 
@@ -17,28 +17,27 @@
   
 ### Study Items
 
-  1. [Python Machine Learning](README.md): Chapter 4 (Building Good Training Datasets – Data Preprocessing).
-  2. [Python Machine Learning](README.md): Chapter 5 (Compressing Data via Dimensionality Reduction).
-  3. [Python Machine Learning](README.md): Chapter 6 (Learning Best Practices for Model Evaluation and Hyperparameter Tuning).
+  1. [Python Machine Learning](README.md): Chapter 1 (Giving Computers the Ability to Learn from Data).
+  2. [Python Machine Learning](README.md): Chapter 2 (Training Simple Machine Learning Algorithms for Classification).
+  3. [Python Machine Learning](README.md): Chapter 3 (A Tour of Machine Learning Classifiers Using scikit-learn).
+
 
 ### Tasks
 
- 1. Achieve [**Teacher**] (https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 346**.
- 3. Follow at least 3 people on LinkedIn and (or accounts) on Twitter that are active and famous on Machine Learning.
- 4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
- 5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
-
+ 1. Achieve [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 285**.
+ 3. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 4. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+ 
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"Ninth"**  and  **"Tenth"** video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the **"first"**, **"second"**, and **"third"**  videos of the 16 videos for the **"Coaching"** course.  Here're the links:
 
-  Link to  [video9]( https://drive.google.com/drive/folders/1lBqfqw7Th-zyc3XherR2GLCK3HtK2VaK?usp=share_link)
-  
-  Link to [video10]( https://drive.google.com/drive/folders/1_uRxg9mzKYycKT05O93r0-9Lh2McLjSb?usp=sharing)
-
-
+  - Link to [video1](https://drive.google.com/drive/folders/1O__WMdInuPReT-vxaCvBZXLIboJJxbzq?usp=share_link)
+  - Link to [video2](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link)
+  - Link to [video3](https://drive.google.com/drive/folders/1O4JD5_fs6ako8-kvxhjv7_1qg6eoawvN?usp=share_link)
+   
   (If you do not have access to the links please inform your Mentoring Intern.)
 
   What you should do in this part could simply abbreviated into four main sequentially tasks: **Watch**, **Think**, **Write** and **Talk**

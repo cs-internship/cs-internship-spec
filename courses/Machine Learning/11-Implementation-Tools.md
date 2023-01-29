@@ -1,4 +1,5 @@
-## Step 11. Supervised Learning Task
+## Step 11.  Implementation Tools
+
 
 ### Guideline
 
@@ -17,24 +18,24 @@
   
 ### Study Items
 
-  1. [Python Machine Learning](README.md): Chapter 8 (Applying Machine Learning to Sentiment Analysis).
-  2. [Python Machine Learning](README.md): Chapter 10 (Predicting Continuous Target Variables with Regression Analysis).
+  1. [Python Machine Learning](README.md): Chapter 13 (Parallelizing Neural Network Training with TensorFlow).
+  2. [Python Machine Learning](README.md): Chapter 14 (Going Deeper – The Mechanics of TensorFlow).
+
 
 ### Tasks
 
- 1. Achieve [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 357**.
- 3. Prepare an Sentiment analyzer!( Sentiment in the texts into two categories, positive and negative) [(data)](http://help.sentiment140.com/for-students/).
+ 1. Achieve [**Enlightened**](https://stackoverflow.com/help/badges/19/enlightened) badge on StackOverflow.
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 418**.
+ 3. Prepare a Sentiment Analyzer.(Categorize texts into positive and negative based on the sentimental statements) [(data)](http://help.sentiment140.com/for-students/).
  4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
  5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"Eleventh"** and **"Twelfth"** video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the **"fifteenth"** and **"sixteenth"** videos of the 16 videos for the **"Coaching"** course.  Here's the links:
 
-  Link to [video11]( https://drive.google.com/drive/folders/1MnqRETVZgXRqUUYlCsiEs1SNUVSTkgyV?usp=share_link)
-   
-  Link to [video12]
+  - Link to [video15]()
+  - Link to [video16]()
 
   (If you do not have access to the links please inform your Mentoring Intern.)
 

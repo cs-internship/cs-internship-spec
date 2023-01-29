@@ -1,4 +1,4 @@
-## Step 8. Convex Optimization
+## Step 8. Supervised Learning Task
 
 ### Guideline
 
@@ -17,23 +17,24 @@
   
 ### Study Items
 
-  1. [Mathematics for Machine Learning](README.md): Chapter 7 (Continuous Optimization)
+  1. [Python Machine Learning](README.md): Chapter 8 (Applying Machine Learning to Sentiment Analysis).
+  2. [Python Machine Learning](README.md): Chapter 10 (Predicting Continuous Target Variables with Regression Analysis).
+
 
 ### Tasks
 
- 1. Achieve [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on StackOverflow.
+ 1. Achieve [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow.
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 285**.
- 3. Solve problems exercise from chapter **Seven** in **Mathematics for Machine Learning** **(Theorical problems)**.
- 4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
- 5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+ 3. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 4. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"Fifth"** and **"Sixth"** video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the **"seventh"**, **"eighth"**, and **"ninth"** videos of the 16 videos for the **"Coaching"** course.  Here's the links:
 
-  Link to [video5]( https://drive.google.com/drive/folders/1MBTCHtzWzmGqQEKe6U86jjzxUxxEtUn4?usp=share_link)
-   
-  Link to [video6]( https://drive.google.com/drive/folders/1EjO3sPNeiq8c0nKGB_oUyelM2jxVZRd1?usp=share_link)
+  - Link to [video7](https://drive.google.com/drive/folders/16fch6aIfZL1laupMDYruy3HjmxV8WA-p)
+  - Link to [video8](https://drive.google.com/drive/folders/1REyXmFfCWTDpCrsbNoJojHjH9ZQEXzqx)
+  - Link to [video9](https://drive.google.com/drive/folders/1lBqfqw7Th-zyc3XherR2GLCK3HtK2VaK)
   
   (If you do not have access to the links please inform your Mentoring Intern.)
 

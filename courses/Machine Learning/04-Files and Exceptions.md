@@ -20,10 +20,13 @@
   1. [The Quick Python Book](README.md): Chapter 12 (Using the filesystem).
   2. [The Quick Python Book](README.md): Chapter 13 (Reading and Writing files).
   3. [The Quick Python Book](README.md): Chapter 14 (Exceptions).
+  4. [Mathematics for Machine Learning](README.md): Chapter 6 (Probability and Distributions).
+  5. [Mathematics for Machine Learning](README.md): Chapter 7 (Continuous Optimization).
+
   
 ### Tasks
 
- 1. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
+ 1. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 202**.
  3. Download EURUSD forex data from [this](https://www.histdata.com/download-free-forex-historical-data/?/excel/1-minute-bar-quotes/eurusd/2018) link and then extract and open it with proper Python commands.
  4. Do the exercises in study items 1, 2 and 3 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
@@ -33,11 +36,10 @@
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"fifth"** and **"sixth"** video of the 8 videos for the "Communication Training" course.  Here's the links:
+- In the mentoring training path, you should watch the **"fifth"** and **"sixth"** videos of the 8 videos for the **"Communication Training"** course.  Here's the links:
 
-  Link to [video5](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing)
-
-  Link to [video6](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing)
+  - Link to [video5](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing)
+  - Link to [video6](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing)
   
   (If you do not have access to the links please inform your Mentoring Intern.)
 

@@ -20,12 +20,15 @@
   1. [The Quick Python Book](README.md): Chapter 9 (Functions).
   2. [The Quick Python Book](README.md): Chapter 10 (Modules and scoping rules).
   3. [The Quick Python Book](README.md): Chapter 15 (Classes and Object-Oriented programming).
+  4. [Mathematics for Machine Learning](README.md): Chapter 4 (Matrix Decompositions).
+  5. [Mathematics for Machine Learning](README.md): Chapter 5 (Vector Calculus).
+
 
   
   
 ### Tasks
 
-  1. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
+  1. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
   2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 169**.
   3. Pass these exercises at exercism.io (Use your GitHub as source control):
       - Kindergarten Garden
@@ -39,11 +42,10 @@
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"third"** and **"fourth"** video of the 8 videos for the "Communication Training" course.  Here's the links:
+- In the mentoring training path, you should watch the **"third"** and **"fourth"** videos of the 8 videos for the **"Communication Training"** course.  Here's the links:
 
-  Link to [video3](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing)
-
-  Link to [video4](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing)
+  - Link to [video3](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing)
+  - Link to [video4](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing)
   
   (If you do not have access to the links please inform your Mentoring Intern.)
 

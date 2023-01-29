@@ -1,4 +1,4 @@
-## Step 6. Linear Algebra
+## Step 6. Machine Learning Basics (I)
 
 ### Guideline
 

@@ -1,4 +1,4 @@
-## Step 3. Scopes and Classes
+## Step 3. Functions, Classes, and Matrix Calculations
 
 ### Guideline
 

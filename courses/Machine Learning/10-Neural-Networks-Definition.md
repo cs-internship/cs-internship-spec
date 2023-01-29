@@ -1,4 +1,4 @@
-## Step 10. Machine Learning Base(II)
+## Step 10. Neural Networks Definition
 
 ### Guideline
 
@@ -17,27 +17,24 @@
   
 ### Study Items
 
-  1. [Python Machine Learning](README.md): Chapter 4 (Building Good Training Datasets – Data Preprocessing).
-  2. [Python Machine Learning](README.md): Chapter 5 (Compressing Data via Dimensionality Reduction).
-  3. [Python Machine Learning](README.md): Chapter 6 (Learning Best Practices for Model Evaluation and Hyperparameter Tuning).
+  1. [Python Machine Learning](README.md): Chapter 12 (Implementing a Multilayer Artificial Neural Network from Scratch)
+
 
 ### Tasks
 
- 1. Achieve [**Teacher**] (https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 346**.
- 3. Follow at least 3 people on LinkedIn and (or accounts) on Twitter that are active and famous on Machine Learning.
+ 1. Achieve [**Self-Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on StackOverflow.
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 388**.
+ 3. Create a neural network by machine learning to read and detect [handwriting data](https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits).
  4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
  5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"Ninth"**  and  **"Tenth"** video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the **"thirteenth"**  and  **"fourteenth"** videos of the 16 videos for the **"Coaching"** course.  Here's the links:
 
-  Link to  [video9]( https://drive.google.com/drive/folders/1lBqfqw7Th-zyc3XherR2GLCK3HtK2VaK?usp=share_link)
-  
-  Link to [video10]( https://drive.google.com/drive/folders/1_uRxg9mzKYycKT05O93r0-9Lh2McLjSb?usp=sharing)
-
+  - Link to [video13](https://drive.google.com/drive/folders/17JGtioq-HIPP6FQ3pbzZ59SuZQbcvNTQ)
+  - Link to [video14]()
 
   (If you do not have access to the links please inform your Mentoring Intern.)
 

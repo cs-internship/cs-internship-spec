@@ -1,4 +1,4 @@
-## Step 9. Machine Learning Base(I)
+## Step 9. Unsupervised Learning Task
 
 ### Guideline
 
@@ -17,25 +17,24 @@
   
 ### Study Items
 
-  1. [Python Machine Learning](README.md): Chapter 1 (Giving Computers the Ability to Learn from Data).
-  2. [Python Machine Learning](README.md): Chapter 2 (Training Simple Machine Learning Algorithms for Classification).
-  3. [Python Machine Learning](README.md): Chapter 3 (A Tour of Machine Learning Classifiers Using scikit-learn).
+  1. [Python Machine Learning](README.md): Chapter 11 (Working with Unlabeled Data – Clustering Analysis).
 
 
 ### Tasks
 
- 1. Achieve [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 316**.
+ 1. Achieve [**Vox Populi**](https://stackoverflow.com/help/badges/1108/vox-populi) badge on StackOverflow.
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 374**.
  3. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
  4. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
+
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"Seventh"** and **"Eighth"** video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the **"tenth"**, **"eleventh"**, and **"twelfth"** videos of the 16 videos for the **"Coaching"** course.  Here's the links:
 
-  Link to [video7]( https://drive.google.com/drive/folders/16fch6aIfZL1laupMDYruy3HjmxV8WA-p?usp=share_link)
-
-  Link to [video8]( https://drive.google.com/drive/folders/1REyXmFfCWTDpCrsbNoJojHjH9ZQEXzqx?usp=share_link)
+  - Link to [video10](https://drive.google.com/drive/folders/1_uRxg9mzKYycKT05O93r0-9Lh2McLjSb)
+  - Link to [video11](https://drive.google.com/drive/folders/1MnqRETVZgXRqUUYlCsiEs1SNUVSTkgyV)
+  - Link to [video12](https://drive.google.com/drive/folders/1rF1CBqvjDmeV4_AW1HH1BCxsPZdbFz9L)
    
 
   (If you do not have access to the links please inform your Mentoring Intern.)

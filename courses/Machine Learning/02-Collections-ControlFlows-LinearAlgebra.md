@@ -1,4 +1,4 @@
-## Step 2. Collection and Control Flows
+## Step 2. Collections, Control Flows, and Linear Algebra
 
 ### Guideline
 

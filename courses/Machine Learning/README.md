@@ -17,9 +17,9 @@ This course is designed for students who want to learn **Machine Learning**. In 
 ## Contents 
 
 - [Step 01 - Introduction](01-Introduction.md)
-- [Step 02 - Colection and Control Flows](02-Lists-Tuples-Sets-Dictionaries-ControlFlows-Strings.md)
-- [Step 03 - Scopes and Classes](03-Functions-Modules-Scopes-Classes.md)
-- [Step 04 - Files and Exceptions](04-FileSystem-ReadAndWriteFiles-Exceptions.md)
+- [Step 02 - Colections, Control Flows, and Linear Algebra](02-Collections-ControlFlows-LinearAlgebra.md)
+- [Step 03 - Functions, Classes, and Matrix Calculations](03-Functions-Classes-MatrixCalculations.md)
+- [Step 04 - Files, Exceptions, Probability, and Optimization](04-Files-Exceptions-Probability-Optimization.md)
 - [Step 05 - Numpy, Pandas and Matplotlib](05-Numpy-Pandas-Matplotlib.md)
 - [Step 06 - Machine Learning Basics(I)](06-Machine-Learning-Basics(I).md)
 - [Step 07 - Machine Learning Basics(II)](07-Machine-Learning-Basics(II).md)

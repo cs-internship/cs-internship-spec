@@ -17,30 +17,26 @@
   
 ### Study Items
 
-  1. [Mathematics for Machine Learning](README.md): Chapter 2 (Linear Algebra).
-  2. [Mathematics for Machine Learning](README.md): Chapter 3 (Analytic Geometry).
-  3. [Mathematics for Machine Learning](README.md): Chapter 4 (Matrix Decompositions).
-  4. [Mathematics for Machine Learning](README.md): Chapter 5 (Vector Calculus).
+  1. [Python Machine Learning](README.md): Chapter 1 (Giving Computers the Ability to Learn from Data).
+  2. [Python Machine Learning](README.md): Chapter 2 (Training Simple Machine Learning Algorithms for Classification).
+  3. [Python Machine Learning](README.md): Chapter 3 (A Tour of Machine Learning Classifiers Using scikit-learn).
+
 
 ### Tasks
 
- 1. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 244**.
- 3. Solve problems exercise from chapter **Two** in **Mathematics for Machine Learning** **(Theorical problems)**.
- 4. Solve problems exercise from chapter **Three** in **Mathematics for Machine Learning** **(Theorical problems)**.
- 5. Solve problems exercise from chapter **Four** in **Mathematics for Machine Learning** **(Theorical problems)**. 
- 6. Solve problems exercise from chapter **Five** in **Mathematics for Machine Learning** **(Theorical problems)**.
- 7. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
- 8. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
- 9. It's time to be a mentor. Ask your mentor to start your onboarding process for mentorship.
+ 1. Achieve [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 285**.
+ 3. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 4. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+ 5. It's time to **be a mentor**. Ask your mentor to start your onboarding process for mentorship.
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"First"** and **"Second"**  video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the **"first"**, **"second"**, and **"third"**  videos of the 16 videos for the **"Coaching"** course.  Here're the links:
 
-  Link to [video1]( https://drive.google.com/drive/folders/1O__WMdInuPReT-vxaCvBZXLIboJJxbzq?usp=share_link)
-
-  Link to [video2]( https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link)
+  - Link to [video1](https://drive.google.com/drive/folders/1O__WMdInuPReT-vxaCvBZXLIboJJxbzq?usp=share_link)
+  - Link to [video2](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link)
+  - Link to [video3](https://drive.google.com/drive/folders/1O4JD5_fs6ako8-kvxhjv7_1qg6eoawvN?usp=share_link)
    
   (If you do not have access to the links please inform your Mentoring Intern.)
 

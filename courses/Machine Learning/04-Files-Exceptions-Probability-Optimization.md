@@ -1,4 +1,4 @@
-## Step 4. Files and Exceptions
+## Step 4. Files, Exceptions, Probablity and Optimization
 
 ### Guideline
 

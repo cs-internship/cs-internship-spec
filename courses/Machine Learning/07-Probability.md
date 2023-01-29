@@ -1,4 +1,4 @@
-## Step 7. Probability
+## Step 7. Machine Learning Basics II
 
 ### Guideline
 
@@ -17,25 +17,27 @@
   
 ### Study Items
 
-  1. [Mathematics for Machine Learning](README.md): Chapter 6 (Probability and Distributions).
+  1. [Python Machine Learning](README.md): Chapter 4 (Building Good Training Datasets – Data Preprocessing).
+  2. [Python Machine Learning](README.md): Chapter 5 (Compressing Data via Dimensionality Reduction).
+  3. [Python Machine Learning](README.md): Chapter 6 (Learning Best Practices for Model Evaluation and Hyperparameter Tuning).
+
 
 ### Tasks
 
- 1. Achieve [**Nice Question**](https://stackoverflow.com/help/badges/20/nice%20question) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 274**.
- 3. Solve problems exercise from chapter **Six** in **Mathematics for Machine Learning** **(Theorical problems)**.
+ 1. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 316**.
+ 3. Follow at least 3 people or accounts on LinkedIn and Twitter that are active and famous on Machine Learning.
  4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
  5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the  **"Third"** and **"Fourth"** video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the  **"fourth"**, **"fifth"**, and **"sixth"** videos of the 16 videos for the **"Coaching"** course.  Here's the links:
 
-  Link to  [video3]( https://drive.google.com/drive/folders/1O4JD5_fs6ako8-kvxhjv7_1qg6eoawvN?usp=share_link)
-  
-  Link to [video4]( https://drive.google.com/drive/folders/1v38qtor7nZ00mPQDNbke8BNwgHK_vb6K?usp=share_link)
-
+  - Link to [video4](https://drive.google.com/drive/folders/1v38qtor7nZ00mPQDNbke8BNwgHK_vb6K)
+  - Link to [video5](https://drive.google.com/drive/folders/1MBTCHtzWzmGqQEKe6U86jjzxUxxEtUn4)
+  - Link to [video6](https://drive.google.com/drive/folders/1EjO3sPNeiq8c0nKGB_oUyelM2jxVZRd1)
 
   (If you do not have access to the links please inform your Mentoring Intern.)
 

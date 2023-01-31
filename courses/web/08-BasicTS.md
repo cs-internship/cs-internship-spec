@@ -44,7 +44,7 @@
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"Ninth"**  and  **"Tenth"** and **"Eleventh"** and **"Twelfth"** video of the 16 videos for the "Coaching" course.  Here's the links:
+- In the mentoring training path, you should watch the **"Ninth"**  and  **"Tenth"** and **"Eleventh"** and **"Twelfth"** video of the 16 videos for the "Coaching" course.  Here are the links:
 
   - Link to  [video9]( https://drive.google.com/drive/folders/1lBqfqw7Th-zyc3XherR2GLCK3HtK2VaK?usp=share_link)
   - Link to [video10]( https://drive.google.com/drive/folders/1_uRxg9mzKYycKT05O93r0-9Lh2McLjSb?usp=sharing)

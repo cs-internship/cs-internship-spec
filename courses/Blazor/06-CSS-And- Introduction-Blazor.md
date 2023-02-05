@@ -26,8 +26,9 @@
 ### Tasks <!-- omit in toc -->
 
 1. Create a blazor project.
-2. Pass all lessons on TypingClub.com with 5 stars up to lesson 316.
-3. Pass these exercises at exercism.io:
+2. Implement Home page (Desktop 1 in [figma](https://www.figma.com/file/qOOsgKH45ixM9RFKhKcEXZ/Pizza?node-id=0%3A1&t=kF5UFJvgzQO8JAWA-0)) of CS Pizza Delivery.
+3. Pass all lessons on TypingClub.com with 5 stars up to lesson 316.
+4. Pass these exercises at exercism.io:
    - Grade School
-4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-5. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+5. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+6. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.

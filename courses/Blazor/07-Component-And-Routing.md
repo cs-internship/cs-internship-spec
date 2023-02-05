@@ -27,9 +27,10 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Configure component model and create them.
-2. Configure main layout and nested layout Home.
-3. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
-4. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
-5. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-6. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.
+1. Configure component model and create them and set route for pages.
+2. Refactor Home page with use layout pattern.
+3. Implement Transaction Receipt (Desktop 4 in [figma](https://www.figma.com/file/qOOsgKH45ixM9RFKhKcEXZ/Pizza?node-id=0%3A1&t=kF5UFJvgzQO8JAWA-0)) page.
+4. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
+5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
+6. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+7. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.

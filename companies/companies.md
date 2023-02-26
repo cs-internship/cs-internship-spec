@@ -30,8 +30,19 @@ We have 2 levels of partnership with companies:
     - DevOps: Azure DevOps, IIS
     - Other: SQL Server, T/SQL, Redis
 
+# Archived Companies
 
-## Beyond Gplus
+## Functionland (NOT ACTIVE)
+- **Reason:** Project Finished
+- **State:** Hiring
+- **CS Internship Employees**: 12
+- **Contact Mentor:** Maryam Davoudi
+- **Technologies:** 
+  - Mobile: C#, Maui Blazor (Android, macOS, Windows)
+  - DevOps: Azure DevOps, AppCenter
+  
+## Beyond Gplus (NOT ACTIVE)
+  - **Reason:** Project Finished
   - **State:** Hiring
   - **CS Internship Employees**: 4
   - **Contact Mentor:** Fatima Khodaie

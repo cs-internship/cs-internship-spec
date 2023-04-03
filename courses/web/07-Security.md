@@ -14,7 +14,7 @@
   2. How many hours did you spend on cs_internship last week?
   3. What percentage are you satisfied with what you did last week?
   
-  You will have a session with your mentor based on your report.
+  You will have a session with a mentor based on your report.
 
 <!-- TODO change the numbers -->
 

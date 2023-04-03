@@ -3,7 +3,15 @@
 You are totally new to the club, Welcome to the club! There are lots of people in this club willing to help you. But how? How can you get help from them? Who is who!? Who knows what!?
 This is your first task, you should talk (literally talk on the phone or Skype) and get to know each other.
 
-## Tasks
+### Guideline
+
+At the end of each week, you are supposed to give your mentor a report including the following items:
+
+- Link to all your posts during the last week specifying the relevant task item for each link, and also mention the exact date that each one of them were posted.
+- How many hours did you spend on cs_internship last week?
+- What percentage are you satisfied with what you did last week?
+
+### Tasks
 
 Throughout the course you need to be expressing yourself (emotions and knowledge) on social media. So go ahead and create some social media accounts if you don't already have. For each social media accounts you should post an update to LinkedIn, Twitter and Telegram using the following hashtags: #cs_internship #courseName #stepNumber.
 

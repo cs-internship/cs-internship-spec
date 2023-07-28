@@ -23,10 +23,10 @@ In each step's file, there is a section called **"Mentorship Path Training"**. T
 	  - write at least three paragraphs about your related experience and observations to the concepts in the video.
   4. Finally, send your report to your mentoring intern to set a meeting for the next sprint. In this meeting, try to **Talk** about your observations you had during the current sprint.
 
-  ## How to participate in the mentors training workshops?
-  - After you have watched each video, then you should write your report about it, and send it to your mentoring intern.
-  - You should ask your mentoring intern to set a workshop reservation for each video's report.
-  - Since you have already gained access to the desired workshop group, you must be present at the specified time and day for the session as scheduled.
+## How to participate in the mentors training workshops?
+- After you have watched each video, then you should write your report about it, and send it to your mentoring intern.
+- You should ask your mentoring intern to set a workshop reservation for each video's report.
+- Since you have already gained access to the desired workshop group, you must be present at the specified time and day for the session as scheduled.
 
 
   

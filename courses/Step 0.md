@@ -40,3 +40,13 @@ Then, after knowing each person, you should take your time and share your knowle
 - Tweet your **feelings** about them using #معرفی #cs_internship #courseName #stepNumber and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
 
 And finally, you should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.
+
+
+### Mentors Training
+
+In the mentoring training path, you should watch the **"first"** and **"second"** videos of the 8 videos for the **"Communication Training"** course.  Here're the links:
+
+  - Link to [video1](https://drive.google.com/file/d/1IlQ7RtcyMt3WOApAnw5EluRauyhmKksi/view?usp=sharing)
+  - Link to [video2](https://drive.google.com/file/d/1xV1DX8sZ7sEcH4pBVrOno_V4IHQFj6xF/view?usp=sharing)  
+
+To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 

@@ -25,7 +25,7 @@ In each step's file, there is a section called **"Mentorship Path Training"**. T
 
 ## How to participate in the mentors training workshops?
 - After you have watched each video, then you should write your report about it, and send it to your mentoring intern.
-- You should ask your mentoring intern to set a workshop reservation for each video's report.
+- You should ask your mentoring intern to set a workshop reservation for each video's report. You will attend each mentorship workshop only for one report.
 - Since you have already gained access to the desired workshop group, you must be present at the specified time and day for the session as scheduled.
 
 

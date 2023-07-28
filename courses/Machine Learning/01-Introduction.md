@@ -44,3 +44,13 @@
   11. Find at least 5 other useful online resources for python and explain why you chose them.
   12. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
   13. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+
+
+### Mentors Training
+
+In the mentoring training path, you should watch the **"third"** and **"fourth"** videos of the 8 videos for the **"Communication Training"** course.  Here're the links:
+
+  - Link to [video3](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing)
+  - Link to [video4](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing)
+  
+To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 

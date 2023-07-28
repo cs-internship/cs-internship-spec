@@ -38,8 +38,8 @@
 
 In the mentoring training path, you should watch the **"first"**, and **"second"** videos of the 12 videos for the **"Coaching"** course.  Here're the links:
 
-  - Link to [video1](https://drive.google.com/drive/folders/1O__WMdInuPReT-vxaCvBZXLIboJJxbzq?usp=share_link)
-  - Link to [video2](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link)
+- Link to [video1](https://drive.google.com/drive/folders/1O__WMdInuPReT-vxaCvBZXLIboJJxbzq?usp=share_link)
+- Link to [video2](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link)
   
 To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
 

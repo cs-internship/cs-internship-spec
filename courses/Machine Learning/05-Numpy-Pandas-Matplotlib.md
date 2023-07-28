@@ -35,7 +35,8 @@
 
 ### Mentors Training
 
-In the mentoring training path, you should watch the **"thrid"**, and **"forth"** videos of the 12 videos for the **"Coaching"** course.  Here're the links:
+In the mentoring training path, you should watch the **"thrid"**, and **"forth"** videos of the 12 videos for the **"Coaching"** course. Here're the links:
+
 - Link to [video3](https://drive.google.com/drive/folders/1O4JD5_fs6ako8-kvxhjv7_1qg6eoawvN?usp=share_link)
 - Link to [video4](https://drive.google.com/drive/folders/1v38qtor7nZ00mPQDNbke8BNwgHK_vb6K)
   

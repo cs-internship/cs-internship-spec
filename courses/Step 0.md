@@ -44,9 +44,9 @@ And finally, you should ask (and convince) 5 of them to introduce you in the clu
 
 ### Mentors Training
 
-In the mentoring training path, you should watch the **"first"** and **"second"** videos of the 8 videos for the **"Communication Training"** course.  Here're the links:
+In the mentoring training path, you should watch the **"first"** and **"second"** videos of the 8 videos for the **"Communication Training"** course. Please watch the **speaker view and shared screen version** of the video. Here're the links:
 
-- Link to [video1](https://drive.google.com/file/d/1EHNym_sO9EkdN059a0TkXlGVx1ZwSVp4/view?usp=drive_link)
-- Link to [video2](https://drive.google.com/file/d/1xV1DX8sZ7sEcH4pBVrOno_V4IHQFj6xF/view?usp=sharing)  
+- Link to [video1](https://drive.google.com/drive/folders/1ZLSZVmDmz-v3st-KlCsGaBTxj-0tiz3V). 
+- Link to [video2](https://drive.google.com/drive/folders/1xtL1OZnY2DrNd5MOqgxdChT0HMEzpE4L)  
 
 To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 

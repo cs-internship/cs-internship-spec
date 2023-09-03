@@ -28,5 +28,26 @@ In each step's file, there is a section called **"Mentorship Path Training"**. T
 - You should ask your mentoring intern to set a workshop reservation for each video's report. You will attend each mentorship workshop only for one report.
 - Since you have already gained access to the desired workshop group, you must be present at the specified time and day for the session as scheduled.
 
+## Is it possible for an intern to participate with two reports in a single workshop, if desired?
+### Yes. To participate with two reports related to consecutive videos in a single workshop, follow these steps for easier understanding:
 
-  
+1. Begin by watching the first video.
+2. Send the report of the first video to your mentoring intern.
+3. Request your mentoring intern to schedule a mentorship session for your report.
+4. Request your mentoring intern to forward the report of the first video for evaluation by an available mentor.
+   - Note: Your mentoring intern will help in transferring your request to a mentor based on their availability.
+5. The mentoring intern informs the intern of the mentor's assessment of the report.
+
+### The outcome of this evaluation will fall into one of two scenarios:
+
+#### A - If the mentor thinks the first report is good enough:
+
+1. You (the intern) can watch the second video after at least 7 days from viewing the first video.
+  After watching the second video, you can prepare the report for the second video and send it to your mentoring intern.
+2. Request your mentoring intern to schedule a session for both your reports.
+   - Note: Keep in mind that if you write the report in the current sprint, the session can be scheduled for the next sprint or later.
+
+####  B -  If the mentor believes the first report does not meet the desired quality standards:
+- You will participate in the pre-scheduled session with the same first report and won't be able to use this opportunity.
+
+### **Important Note:** Please keep in mind that mentor availability to review your reports is not guaranteed. Furthermore, the deadline for reviewing your reports may be set in a way that it doesn't affect the scheduling of mentorship sessions to be held sooner.

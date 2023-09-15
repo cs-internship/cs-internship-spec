@@ -17,9 +17,8 @@ The details of the courses and their structure:
 - [C#](/courses/csharp/README.md)
 - [Web (Javascript)](/courses/web/README.md)
 - [Machine Learning (Python)](/courses/Machine%20Learning/README.md)
-- [Mobile (Xamarin)](/courses/xamarin/README.md)
 - Web (Blazor): *(Will be available soon...)*
-- Cross Platform (.NET MAUI): *(Will be available soon...)*
+- Cross Platform ( MAUI Blazor): *(Will be available soon...)*
 - Machine Learning (ML.NET): *(Will be available soon...)*
 
 ## Goals

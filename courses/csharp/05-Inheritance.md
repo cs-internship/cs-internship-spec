@@ -17,7 +17,7 @@
 ### Study Items
 
  1. C# book, chapter 6 : Inheritance
- 2. [Covariant and Contravariant (Dot Philosophy)](http://mehrandvd.me/2016/06/18/covariant-and-contravariant/) 
+ 2. [Covariant and Contravariant (Dot Philosophy)](https://mehrandvd.com/2016/06/18/covariant-and-contravariant/) 
  3. [Differences between generics in C# and Java and Templates in C++](https://stackoverflow.com/questions/31693/what-are-the-differences-between-generics-in-c-sharp-and-java-and-templates-i)
 
 ### Tasks

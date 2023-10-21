@@ -4,7 +4,7 @@
 
 - Ask your mentor for a detailed description of the step content before setting a deadline.
 
-- For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
+- For each study item and each task, you should post an update on LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
@@ -20,7 +20,7 @@
 
 ### Study Items <!-- omit in toc -->
 
-1. [YDKJS Book 3, Chapter 4: Mixing (Up) "Class" Objetcs](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch4.md)
+1. [YDKJS Book 3, Chapter 4: Mixing (Up) "Class" Objects](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch4.md)
 2. [YDKJS Book 3, Chapter 5: Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch5.md)
 3. [YDKJS Book 3, Appendix A: ES6 class](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/apA.md)
 4. [Understanding HTTP Basics](https://learn.onemonth.com/understanding-http-basics/)
@@ -36,7 +36,7 @@
    - Use GitHub as your source control.
    - Publish it on your jsFiddle account.
 
-2. Implement an **Upload** functionality in the Todo App to store the current state in the server:
+2. Implement an **Upload** functionality in the Todo App to store the current state on the server:
 
    - Use GitHub as your source control.
 
@@ -48,26 +48,26 @@
 
    - Sum Of Multiples
 
-   Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
+   Learn how to run tests for these steps, and run all available tests in the spec file (remove "x" from the start of each "xtest").
 
    - Use GitHub as your source control.
    - Publish it on your jsFiddle account.
 
 5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 316**.
 
-6. Achieve [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
+6. Achieve the [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
 
 7. Find at least 5 other online resources about **HTTP** and explain why you chose them.
 
-8. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+8. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
 
-9. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.
+9. You should give a 20-minute presentation about the content of this step on the Twitch platform. You should record your live Twitch stream and send it to your mentor with a brief explanation of its content. All Twitch streams will be published on the CS Internship YouTube channel.
 
 ### Mentors Training
 
-In the mentoring training path, you should watch the **"fifth"**, and **"sixth"** videos of the 12 videos for the **"Coaching"** course.  Here're the links:
+In the mentoring training path, you should watch the **"fifth"** and **"sixth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:
 
 - Link to [video5](https://drive.google.com/drive/folders/1MBTCHtzWzmGqQEKe6U86jjzxUxxEtUn4)
 - Link to [video6](https://drive.google.com/drive/folders/1EjO3sPNeiq8c0nKGB_oUyelM2jxVZRd1)
-  
-To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
+
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).

@@ -4,7 +4,7 @@
 
 - Ask your mentor for a detailed description of the step content before setting a deadline.
 
-- For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
+- For each study item and each task, you should post an update on LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
@@ -40,7 +40,7 @@
 
    - Use your GitHub as source control.
 
-3. Add a header in the Todo App with the following functionalities:
+3. Add a header to the Todo App with the following functionalities:
 
    - A label to show the current user's display name.
    - A 'Sign up' button to navigate to the 'Sign up' page.
@@ -54,26 +54,26 @@
    - ETL
    - Grade School
 
-   Learn how to run tests for these steps, and run all available tests in spec file (remove x from the start of each xtest).
+   Learn how to run tests for these steps, and run all available tests in the spec file (remove "x" from the start of each "xtest").
 
    - Use GitHub as your source control.
    - Publish it on your jsFiddle account.
 
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
 
-7. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
+7. Achieve the [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
 
 8. Find at least 5 other online resources about Authentication on the Web and explain why you chose them, then share them on Twitter and LinkedIn.
 
-9. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+9. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
 
-10. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All Twitches will be published on the CS Internship YouTube channel.
+10. You should give a 20-minute presentation about the content of this step on the Twitch platform. You should record your live Twitch stream and send it to your mentor with a brief explanation of its content. All Twitch streams will be published on the CS Internship YouTube channel.
 
 ### Mentors Training
 
-In the mentoring training path, you should watch the **"seventh"**, and **"eighth"** videos of the 12 videos for the **"Coaching"** course.  Here're the links:
+In the mentoring training path, you should watch the **"seventh"** and **"eighth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:
 
 - Link to [video7](https://drive.google.com/drive/folders/16fch6aIfZL1laupMDYruy3HjmxV8WA-p)
 - Link to [video8](https://drive.google.com/drive/folders/1REyXmFfCWTDpCrsbNoJojHjH9ZQEXzqx)
-  
-To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
+
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).

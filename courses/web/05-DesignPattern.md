@@ -4,7 +4,7 @@
 
 - Ask your mentor for a detailed description of the step content before setting a deadline.
 
-- For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
+- For each study item and each task, you should post an update on LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
@@ -38,17 +38,22 @@
    - Publish it on your jsFiddle account.
 
 3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 285**.
-4. Achieve [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on StackOverflow.
+
+4. Achieve the [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on StackOverflow.
+
 5. Find at least 5 other online resources about client-side JS & Tooling, and explain why you chose them.
-6. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-7. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.
+
+6. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
+
+7. You should give a 20-minute presentation about the content of this step on the Twitch platform. You should record your live Twitch stream and send it to your mentor with a brief explanation of its content. All Twitch streams will be published on the CS Internship YouTube channel.
+
 8. It's time to be a mentor. Ask your mentor to start your onboarding process for mentorship.
 
 ### Mentors Training
 
-In the mentoring training path, you should watch the **"thrid"**, and **"forth"** videos of the 12 videos for the **"Coaching"** course. Here're the links:
+In the mentoring training path, you should watch the **"third"** and **"fourth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:
 
 - Link to [video3](https://drive.google.com/drive/folders/1O4JD5_fs6ako8-kvxhjv7_1qg6eoawvN?usp=share_link)
 - Link to [video4](https://drive.google.com/drive/folders/1v38qtor7nZ00mPQDNbke8BNwgHK_vb6K)
-  
-To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
+
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).

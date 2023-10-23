@@ -48,8 +48,8 @@
 
    - Sum Of Multiples
 
-   Learn how to run tests for these steps, and run all available tests in the spec file (remove "x" from the start of each "xtest").
-
+   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xtest").
+   
    - Use GitHub as your source control.
    - Publish it on your jsFiddle account.
 

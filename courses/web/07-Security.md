@@ -49,25 +49,25 @@
    - Apply visibility of each button based on the current state of the app.
    - Use GitHub as your source control.
 
-5. Pass these exercises at exercism.org:
+4. Pass these exercises at exercism.org:
 
    - ETL
    - Grade School
 
-   Learn how to run tests for these steps, and run all available tests in the spec file (remove "x" from the start of each "xtest").
+   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xtest").
 
    - Use GitHub as your source control.
    - Publish it on your jsFiddle account.
 
-6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
+5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
 
-7. Achieve the [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
+6. Achieve the [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
 
-8. Find at least 5 other online resources about Authentication on the Web and explain why you chose them, then share them on Twitter and LinkedIn.
+7. Find at least 5 other online resources about Authentication on the Web and explain why you chose them, then share them on Twitter and LinkedIn.
 
-9. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
+8. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
 
-10. You should give a 20-minute presentation about the content of this step on the Twitch platform. You should record your live Twitch stream and send it to your mentor with a brief explanation of its content. All Twitch streams will be published on the CS Internship YouTube channel.
+9. You should give a 20-minute presentation about the content of this step on the Twitch platform. You should record your live Twitch stream and send it to your mentor with a brief explanation of its content. All Twitch streams will be published on the CS Internship YouTube channel.
 
 ### Mentors Training
 

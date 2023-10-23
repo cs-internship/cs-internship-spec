@@ -1,10 +1,10 @@
 # Web Program <!-- omit in toc -->
 
-This course is designed to make the intern ready for the exciting market of web developers out there. In this course interns get familiar with HTML/CSS, JavaScript and TypeScript syntax so they can leverage it for building web applications.
+This course is designed to prepare interns for the exciting market of web development. In this course, interns become familiar with HTML/CSS, JavaScript, and TypeScript syntax, enabling them to leverage these skills for building web applications.
 
 ## Contents <!-- omit in toc -->
 - [Step 1. Basic Layout - Intro JavaScript](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/01-BasicLayout-IntroJS.md)
-- [Step 2. Advanced Layout - Basic JavaScript ](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/02-AdvancedLayout-BasicJS.md)
+- [Step 2. Advanced Layout - Basic JavaScript](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/02-AdvancedLayout-BasicJS.md)
 - [Step 3. Intermediate JavaScript (I)](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/03-intermediateJS(I).md)
 - [Step 4. Intermediate JavaScript (II)](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/04-intermediateJS(II).md)
 - [Step 5. Design Pattern](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/05-DesignPattern.md)

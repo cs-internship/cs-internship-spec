@@ -3,7 +3,15 @@
 You are totally new to the club, Welcome to the club! There are lots of people in this club willing to help you. But how? How can you get help from them? Who is who!? Who knows what!?
 This is your first task, you should talk (literally talk on the phone or Skype) and get to know each other.
 
-## Tasks
+### Guideline
+
+At the end of each week, you are supposed to give your mentor a report including the following items:
+
+- Link to all your posts during the last week specifying the relevant task item for each link, and also mention the exact date that each one of them were posted.
+- How many hours did you spend on cs_internship last week?
+- What percentage are you satisfied with what you did last week?
+
+### Tasks
 
 Throughout the course you need to be expressing yourself (emotions and knowledge) on social media. So go ahead and create some social media accounts if you don't already have. For each social media accounts you should post an update to LinkedIn, Twitter and Telegram using the following hashtags: #cs_internship #courseName #stepNumber.
 
@@ -32,3 +40,13 @@ Then, after knowing each person, you should take your time and share your knowle
 - Tweet your **feelings** about them using #معرفی #cs_internship #courseName #stepNumber and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
 
 And finally, you should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.
+
+
+### Mentors Training
+
+In the mentoring training path, you should watch the **"first"** and **"second"** videos of the 8 videos for the **"Communication Training"** course. Here're the links:
+
+- Link to [video1](https://drive.google.com/file/d/1EHNym_sO9EkdN059a0TkXlGVx1ZwSVp4/view?usp=drive_link).
+- Link to [video2](https://drive.google.com/file/d/1qIUCdSuSUP9_ULkW5BuZrEkGsrMi3hIb/view?usp=drive_link). 
+
+To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 

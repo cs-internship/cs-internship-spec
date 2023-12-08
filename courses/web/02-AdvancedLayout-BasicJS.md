@@ -10,11 +10,11 @@
 `#[stepNumber]`
 
 - At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Links to all your posts during the last week, specifying the relevant task or study item for each link.
+  1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage are you satisfied with what you did last week?
-  
-  You will have a session with your mentor based on your report.
+
+  You will have a session with a mentor based on your report.
 
 ### Study Items <!-- omit in toc -->
 
@@ -32,7 +32,7 @@
 2. Implement your calculator considering these features:
 
    - Make it responsive just like the Windows 10 calculator.
-   - Get more information about responsive rules, sizes, and more by following the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8) 
+   - Get more information about responsive rules, sizes, and more by following the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8).
    - Use GitHub as your source control.
    - Publish it on your jsFiddle account.
 
@@ -43,30 +43,26 @@
    - Hello World
    - Two Fer
 
-   Learn how to run tests for these steps, and run all available tests in spec file (remove x from the begining of each xtest).
+   Learn how to run tests for these steps, and run all available tests in spec file (remove the "x" from the beginning of each "xtest").
 
    - Use GitHub as your source control.
    - Publish it on your jsFiddle account.
 
-5. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
-6. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
-7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
-8. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-9. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.
+5. Achieve the [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
 
+6. Achieve the [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
+
+7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
+
+8. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
+
+9. You should give a 20-minute presentation about the content of this step on the Twitch platform. You should record your live Twitch stream and send it to your mentor with a brief explanation of its content. All Twitch streams will be published on the CS Internship YouTube channel.
 
 ### Mentors Training
 
-- In the mentoring training path, you should watch the **"first"** and **"second"** video of the 8 videos for the "Communication Training" course.  Here are the links:
+In the mentoring training path, you should watch the **"fifth"** and **"sixth"** videos out of the 8 videos for the **"Communication Training"** course. Here are the links:
 
-  Link to [video1](https://drive.google.com/file/d/1IlQ7RtcyMt3WOApAnw5EluRauyhmKksi/view?usp=sharing)
+- Link to [video5](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing)
+- Link to [video6](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing)
 
-  Link to [video2](https://drive.google.com/file/d/1xV1DX8sZ7sEcH4pBVrOno_V4IHQFj6xF/view?usp=sharing)
-
-  (If you do not have access to the links please inform your Mentoring Intern.)
-
-  What you should do in this part could simply be abbreviated into four main sequentially tasks: **Watch**, **Think**, **Write** and **Talk**
-  1. **Watch** the specified video. Watch it deeply! Make sure you have settled a proper environment and situation to watch it. In this way, you can have the highest of your focus on it.
-  2. **Think** about the discussed concepts in this video. Your task is to observe and find the appointed issues in this video in your daily life and attitudes.
-  3. **Write** a report about what you understood from this video. This report should contain your experience and observations during the week.
-  4. Finally, after a week, set a time with a Mentor and **Talk** about these concepts and your observations.
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).

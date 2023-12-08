@@ -8,9 +8,9 @@
 `#stepNumber`
 
 - At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Link to all your posts during the last week specifying the relevant task or study item for each link
+  1. Link to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
-  3. What percentage you are satisfied with what you did last week?
+  3. What percentage are you satisfied with what you did last week?
 
   You will have a session with your mentor based on your report
 
@@ -38,3 +38,4 @@
   6. Describe the situations that Pattern Matching helps. How does it help?
   7. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
   8. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your twitch at the time of the presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+

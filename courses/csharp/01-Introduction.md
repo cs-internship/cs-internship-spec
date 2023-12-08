@@ -8,11 +8,11 @@
 `#stepNumber`
 
 - At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Link to all your posts during the last week specifying the relevant task or study item for each link
+  1. Link to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
-  3. What percentage you are satisfied with what you did last week?
+  3. What percentage are you satisfied with what you did last week?
 
-  You will have a session with your mentor based on your report
+  You will have a session with a mentor based on your report
 
 ### Study Items  <!-- omit in toc -->
 
@@ -44,3 +44,12 @@
   11. Search about *bubble sort* algorithm. Write a program which has a method which receives a list of numbers and returns a sorted equivalent list. The method should be using bubble sort algorithm.
   12. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
   13. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+
+### Mentors Training
+
+In the mentoring training path, you should watch the **"third"** and **"fourth"** videos of the 8 videos for the **"Communication Training"** course.  Here're the links:
+
+- Link to [video3](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing)
+- Link to [video4](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing)
+  
+To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 

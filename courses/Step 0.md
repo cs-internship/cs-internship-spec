@@ -17,6 +17,7 @@ Throughout the course you need to be expressing yourself (emotions and knowledge
 
 - Create a [Twitter](https://twitter.com/) account.
 - Create a [LinkedIn](https://www.linkedin.com/) account.
+- Watch the [Prepairing For Live Presentation](https://youtu.be/MM47EKwACy4) video.
 
 You should contact these people:
 

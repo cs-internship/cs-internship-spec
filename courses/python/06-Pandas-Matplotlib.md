@@ -30,5 +30,5 @@
  5. Plot the generated moving average columns from previous excercise for first 100 data points in a single window. 
  6. Find at least 5 other online resources about pandas & matplotlib, and explain why you chose them.
  7. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
- 8. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+ 8. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 

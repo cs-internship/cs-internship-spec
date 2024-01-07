@@ -43,7 +43,7 @@
   10. Do the exercises in study item 4 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
   11. Find at least 5 other useful online resources for python and explain why you chose them.
   12. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
-  13. You should give a 20-min presentation about the content of this step, on Twitch platform. You should record your twitch at the time of presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
+  13. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 
 
 ### Mentors Training

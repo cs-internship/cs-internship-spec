@@ -34,7 +34,7 @@
    - Add a 'Sign up' page to the Todo App.
    - Add a 'Sign in' page to the Todo App.
    - Use a method to apply authentication on all HTTP requests.
-   - Use your GitHub as source control.
+   - Use your GitHub as source control and showcase it on GitHub Pages.
 
 2. Enhance the Todo App to store the state of the app for each user separately. Enable the Todo App to work for anonymous users too.
 

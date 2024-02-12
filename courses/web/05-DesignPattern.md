@@ -28,6 +28,8 @@
 
 1. Refactor the Todo app to use Knockout.js and use [this tutorial](http://learn.knockoutjs.com/#/?tutorial=intro).
 
+   - Use GitHub as your source control and showcase it on GitHub Pages.
+
 2. Pass this at exercism.org:
 
    - Resistor Color

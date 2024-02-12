@@ -45,7 +45,7 @@
    - With a button for adding a new todo.
    - With a list showing all added todos.
    - Use your GitHub as source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on your [GitHub Page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
 4. Pass these exercises at exercism.org:
 

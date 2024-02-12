@@ -2,19 +2,19 @@
 
 ### Guideline
 
-- Ask your mentor for a detailed description of the step content before setting a deadline.
+- Ask your coordinator for a detailed description of the step content before setting a deadline.
 
 - For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
 
-- At the end of each week, you are supposed to give your mentor a report including the following items:
+- At the end of each week, you are supposed to give your coordinator a report including the following items:
   1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage are you satisfied with what you did last week?
 
-  You will have a session with a mentor based on your report.
+  You will have a session with a technical mentor based on your report.
 
 ### Study Items <!-- omit in toc -->
 
@@ -34,7 +34,7 @@
    - Make it responsive just like the Windows 10 calculator.
    - Get more information about responsive rules, sizes, and more by following the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8).
    - Use GitHub as your source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on your JSFiddle account.
 
 3. Create an [exercism.org](https://exercism.org/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).
 
@@ -46,7 +46,7 @@
    Learn how to run tests for these steps, and run all available tests in spec file (remove the "x" from the beginning of each "xtest").
 
    - Use GitHub as your source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on your JSFiddle account.
 
 5. Achieve the [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
 
@@ -54,9 +54,9 @@
 
 7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 
-8. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
+8. Exactly **7 days** before your deadline, ask your coordinator to schedule a Twitch session for you on your deadline day.
 
-9. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
+9. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).
 
 ### Mentors Training
 

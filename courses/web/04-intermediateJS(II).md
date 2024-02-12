@@ -39,7 +39,7 @@
      - **Active**: shows not-completed todos
      - **Completed**: shows completed todos
    - Current filter button should have a different style from the other filtering buttons.
-  - Use GitHub as your source control and showcase it on GitHub Pages.
+   - Use GitHub as your source control and showcase it on GitHub Pages.
 
 3. Pass this exercise at exercism.org:
 

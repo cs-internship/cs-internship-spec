@@ -11,13 +11,14 @@ At the end of each week, you are supposed to give your mentor a report including
 - How many hours did you spend on cs_internship last week?
 - What percentage are you satisfied with what you did last week?
 
+Watch the [Prepairing For Live Presentation](https://youtu.be/MM47EKwACy4) video.
+
 ### Tasks
 
 Throughout the course you need to be expressing yourself (emotions and knowledge) on social media. So go ahead and create some social media accounts if you don't already have. For each social media accounts you should post an update to LinkedIn, Twitter and Telegram using the following hashtags: #cs_internship #courseName #stepNumber.
 
 - Create a [Twitter](https://twitter.com/) account.
 - Create a [LinkedIn](https://www.linkedin.com/) account.
-- Watch the [Prepairing For Live Presentation](https://youtu.be/MM47EKwACy4) video.
 
 You should contact these people:
 

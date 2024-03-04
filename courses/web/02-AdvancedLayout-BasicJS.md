@@ -27,18 +27,16 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Download and Install the latest versions of VS Code & Google Chrome.
-
-2. Implement your calculator considering these features:
+1. Implement your calculator considering these features:
 
    - Make it responsive just like the Windows 10 calculator.
    - Get more information about responsive rules, sizes, and more by following the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8).
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-3. Create an [exercism.org](https://exercism.org/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).
+2. Create an [exercism.org](https://exercism.org/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).
 
-4. Join Exercism’s **JavaScript** Track and pass these exercises:
+3. Join Exercism’s **JavaScript** Track and pass these exercises:
 
    - Hello World
    - Two Fer
@@ -48,15 +46,15 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-5. Achieve the [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
+4. Achieve the [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
 
-6. Achieve the [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
+5. Achieve the [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
 
-7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
+6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 
-8. Exactly **7 days** before your deadline, ask your coordinator to schedule a Twitch session for you on your deadline day.
+7. Exactly **7 days** before your deadline, ask your coordinator to schedule a Twitch session for you on your deadline day.
 
-9. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).
+8. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).
 
 ### Mentors Training
 

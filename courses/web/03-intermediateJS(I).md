@@ -35,6 +35,7 @@
 2. Enhance the Standard Calculator (from the previous step):
 
    - Use JS to add calculation functionalities.
+   - Implement memory and history functionality, as well as all calculation buttons in your calculator.
    - Implement it without using any library.
    - Use your GitHub as source control.
    - Publish it on your JSFiddle account.
@@ -45,7 +46,7 @@
    - With a button for adding a new todo.
    - With a list showing all added todos.
    - Use your GitHub as source control.
-   - Publish it on your [GitHub Page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+   - Publish it on your [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
 4. Pass these exercises at exercism.org:
 
@@ -57,7 +58,7 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-5. Achieve the [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
+5. Achieve the [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on Stack Overflow.
 
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 202**.
 

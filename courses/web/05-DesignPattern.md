@@ -28,7 +28,7 @@
 
 1. Refactor the Todo app to use Knockout.js and use [this tutorial](http://learn.knockoutjs.com/#/?tutorial=intro).
 
-   - Use GitHub as your source control and showcase it on GitHub Pages.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 2. Pass this at exercism.org:
 
@@ -41,7 +41,7 @@
 
 3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 285**.
 
-4. Achieve the [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on StackOverflow.
+4. Achieve the [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on Stack Overflow.
 
 5. Find at least 5 other online resources about client-side JS & Tooling, and explain why you chose them.
 

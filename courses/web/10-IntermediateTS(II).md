@@ -31,15 +31,18 @@
 
    - Simple Cipher
 
-   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xtest").
+   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xit").
 
    - Use your GitHub as source control.
    - Publish it on your JSFiddle account.
 
-2. Pass all lessons on TypingClub.com with 5 stars up to **lesson 429**.
+2. Enhance the project you developed in previous step by adding functionality for sorting and categorization buttons. You can refer to [this](LINK) video as a guide for how it should operate.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
+   
+3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 429**.
 
-3. Achieve the [**Self-Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on StackOverflow.
+4. Achieve the [**Self-Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on Stack Overflow.
 
-4. Exactly **7 days** before your deadline, ask your coordinator to schedule a Twitch session for you on your deadline day.
+5. Exactly **7 days** before your deadline, ask your coordinator to schedule a Twitch session for you on your deadline day.
 
-5. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).
+6. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).

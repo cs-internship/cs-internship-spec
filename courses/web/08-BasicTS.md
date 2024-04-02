@@ -31,14 +31,14 @@
 
    - Simple Cipher
 
-   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xtest").
+   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xit").
 
    - Use your GitHub as source control.
    - Publish it on your JSFiddle account.
 
 2. Pass all lessons on TypingClub.com with 5 stars up to **lesson 374**.
 
-3. Achieve the [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow.
+3. Achieve the [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on Stack Overflow.
 
 4. Exactly **7 days** before your deadline, ask your coordinator to schedule a Twitch session for you on your deadline day.
 

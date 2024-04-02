@@ -46,9 +46,9 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-4. Achieve the [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
+4. Achieve the [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on Stack Overflow.
 
-5. Achieve the [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow.
+5. Achieve the [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on Stack Overflow.
 
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 

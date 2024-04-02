@@ -39,7 +39,7 @@
      - **Active**: shows not-completed todos
      - **Completed**: shows completed todos
    - Current filter button should have a different style from the other filtering buttons.
-   - Use GitHub as your source control and showcase it on GitHub Pages.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 3. Pass this exercise at exercism.org:
 
@@ -52,7 +52,7 @@
 
 4. Pass all lessons on TypingClub.com with 5 stars up to **lesson 244**.
 
-5. Achieve the [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
+5. Achieve the [**Student**](https://stackoverflow.com/help/badges/2/student) badge on Stack Overflow.
 
 6. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
 

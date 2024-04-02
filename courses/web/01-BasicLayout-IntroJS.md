@@ -30,7 +30,7 @@
 ### Tasks  <!-- omit in toc -->
 
 1. Create a [GitHub](https://github.com/) account.
-2. Create a [StackOverflow](https://stackoverflow.com/) account.
+2. Create a [Stack Overflow](https://stackoverflow.com/) account.
 3. Create a [JSFiddle.net](https://JSFiddle.net/) account.
 4. Create a [TypingClub.com](https://www.typingclub.com/) account.
 5. Download and Install the latest versions of VS Code.
@@ -41,8 +41,8 @@
     - Use your GitHub as your source control.
     - Publish it on your JSFiddle account.
 7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
-8. Achieve the [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
-9. Achieve the [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
+8. Achieve the [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on Stack Overflow.
+9. Achieve the [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on Stack Overflow.
 10. Find at least 5 extra useful online resources for HTML/CSS. Then explain why you chose them.
 11. Find at least 5 extra useful online resources for Git/Github. Then explain why you chose them.
 12. Exactly **7 days** before your deadline, ask your coordinator to schedule a Twitch session for you on your deadline day.

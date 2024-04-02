@@ -34,7 +34,7 @@
    - Add a 'Sign up' page to the Todo App.
    - Add a 'Sign in' page to the Todo App.
    - Use a method to apply authentication on all HTTP requests.
-   - Use your GitHub as source control and showcase it on GitHub Pages.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 2. Enhance the Todo App to store the state of the app for each user separately. Enable the Todo App to work for anonymous users too.
 
@@ -61,7 +61,7 @@
 
 5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
 
-6. Achieve the [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
+6. Achieve the [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on Stack Overflow.
 
 7. Find at least 5 other online resources about Authentication on the Web and explain why you chose them, then share them on Twitter and LinkedIn.
 

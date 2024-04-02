@@ -33,15 +33,15 @@
 
 1. Enhance the client-side of the Todo App to automatically store the latest state of the application in a **client-side storage**:
 
-   - Use GitHub as your source control and showcase it on GitHub Pages.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 2. Implement an **Upload** functionality in the Todo App to store the current state on the server:
 
-   - Use GitHub as your source control and showcase it on GitHub Pages.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 3. Implement a **Download** functionality in the Todo App to retrieve the latest stored state from the server:
 
-   - Use GitHub as your source control and showcase it on GitHub Pages.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 4. Pass this exercise at exercism.org:
 
@@ -54,7 +54,7 @@
 
 5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 316**.
 
-6. Achieve the [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
+6. Achieve the [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on Stack Overflow.
 
 7. Find at least 5 other online resources about **HTTP** and explain why you chose them.
 

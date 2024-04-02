@@ -38,7 +38,7 @@
 
 2. Enhance the Todo App to store the state of the app for each user separately. Enable the Todo App to work for anonymous users too.
 
-   - Use your GitHub as source control.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 3. Add a header to the Todo App with the following functionalities:
 
@@ -47,7 +47,7 @@
    - A 'Sign in' button to navigate to the 'Sign in' page.
    - A 'Sign out' button to log off the current user.
    - Apply visibility of each button based on the current state of the app.
-   - Use GitHub as your source control.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 4. Pass these exercises at exercism.org:
 

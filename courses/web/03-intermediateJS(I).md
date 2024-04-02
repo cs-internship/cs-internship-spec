@@ -46,7 +46,7 @@
    - With a button for adding a new todo.
    - With a list showing all added todos.
    - Use your GitHub as source control.
-   - Publish it on your [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+   - Publish it on the [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) of your repository.
 
 4. Pass these exercises at exercism.org:
 

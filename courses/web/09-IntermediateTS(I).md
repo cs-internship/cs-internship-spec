@@ -35,7 +35,7 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
   
-2. Create a project that can showcase products on a webpage by fetching data from [this API](https://fakestoreapi.com/products). You can use [this design scratch](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step9) we have provided. The sorting and category buttons do not need to be functional at this step.
+2. Create a project that can showcase products by fetching data from [this API](https://fakestoreapi.com/products). You can use [this design scratch](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step9) that we have provided. The sorting and category buttons do not need to be functional at this step.
    
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 

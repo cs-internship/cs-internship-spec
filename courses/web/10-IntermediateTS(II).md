@@ -20,7 +20,7 @@
 
 1. [TypeScript Handbook: Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
 2. [TypeScript Handbook: Modules](https://www.typescriptlang.org/docs/handbook/2/modules.html)
-3. [TypeScript tutorial](https://www.youtube.com/watch?v=NjN00cM18Z4)
+3. [TypeScript Overview](https://www.youtube.com/watch?v=NjN00cM18Z4)
 4. [TypeScript cheat sheet](https://www.sitepen.com/blog/typescript-cheat-sheet)
 5. [Comparison of 5 popular front-end frameworks](https://www.sitepoint.com/most-popular-frontend-frameworks-compared/)
 6. [A simple app with 10 different JavaScript frameworks](https://www.youtube.com/watch?v=cuHDQhDhvPE)
@@ -36,7 +36,7 @@
    - Use your GitHub as source control.
    - Publish it on your JSFiddle account.
 
-2. Enhance the project you developed in previous step by adding functionality for sorting and categorization buttons. You can refer to [this](LINK) video as a guide for how it should operate.
+2. Enhance the project you developed in previous step by adding functionality for sorting and categorization buttons. You can refer to [this video](LINK) as a guide for how it should operate.
    - Use GitHub as your source control and showcase your project on GitHub Pages.
    
 3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 429**.

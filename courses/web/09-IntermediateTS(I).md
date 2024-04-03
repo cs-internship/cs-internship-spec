@@ -18,10 +18,9 @@
 
 ### Study Items <!-- omit in toc -->
 
-1. [TypeScript Handbook: Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html)
-2. [TypeScript Handbook: More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
-3. [TypeScript Handbook: Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html)
-4. [TypeScript Handbook: Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)
+1. [TypeScript Handbook: Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+2. [TypeScript Handbook: Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)
+3. [TypeScript Handbook: Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
 
 ### Tasks <!-- omit in toc -->
 
@@ -35,7 +34,7 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
   
-2. Create a project that can showcase products by fetching data from [this API](https://fakestoreapi.com/products). You can use [this design scratch](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step9) that we have provided. The sorting and category buttons do not need to be functional at this step.
+2. Create a project that can showcase products by fetching data from [this API](https://fakestoreapi.com/products). You **can** use [this base design](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step9) that we have provided. The sorting and category buttons do not need to be functional at this step.
    
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 

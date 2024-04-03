@@ -28,6 +28,7 @@
 
 1. Refactor the Todo app to use Knockout.js and use [this tutorial](http://learn.knockoutjs.com/#/?tutorial=intro).
 
+   - Knockout is a JavaScript library that allows you to create user interfaces with a clean underlying data model. It is based on the MVVM (Model-View-ViewModel) pattern and offers a great tutorial with a playground that helps you easily understand MVVM. We use Knockout.js to gain a better understanding of the MVVM design pattern.
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 2. Pass this at exercism.org:

@@ -24,6 +24,8 @@
 4. [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 5. [TypeScript Handbook: The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 6. [TypeScript Handbook: Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+7. [TypeScript Handbook: Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html)
+8. [TypeScript Handbook: More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
 
 ### Tasks <!-- omit in toc -->
 

@@ -21,6 +21,7 @@
 1. [TypeScript Handbook: Object Types](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 2. [TypeScript Handbook: Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)
 3. [TypeScript Handbook: Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html)
+4. [TypeScript Handbook: Modules](https://www.typescriptlang.org/docs/handbook/2/modules.html)
 
 ### Tasks <!-- omit in toc -->
 

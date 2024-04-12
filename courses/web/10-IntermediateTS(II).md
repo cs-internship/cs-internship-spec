@@ -18,11 +18,10 @@
 
 ### Study Items <!-- omit in toc -->
 
-1. [TypeScript Handbook: Modules](https://www.typescriptlang.org/docs/handbook/2/modules.html)
-2. [TypeScript Overview](https://www.youtube.com/watch?v=NjN00cM18Z4)
-3. [TypeScript cheat sheet](https://www.sitepen.com/blog/typescript-cheat-sheet)
-4. [Comparison of 5 popular front-end frameworks](https://www.sitepoint.com/most-popular-frontend-frameworks-compared/)
-5. [A simple app with 10 different JavaScript frameworks](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+1. [TypeScript overview](https://www.youtube.com/watch?v=NjN00cM18Z4)
+2. [TypeScript cheat sheet](https://www.sitepen.com/blog/typescript-cheat-sheet)
+3. [Comparison of 5 popular front-end frameworks](https://www.sitepoint.com/most-popular-frontend-frameworks-compared/)
+4. [A simple app with 10 different JavaScript frameworks](https://www.youtube.com/watch?v=cuHDQhDhvPE)
 
 ### Tasks <!-- omit in toc -->
 

@@ -55,3 +55,4 @@ In the mentoring training path, you should watch the **"eleventh"** and **"twelf
 - Link to [video12](https://drive.google.com/drive/folders/1rF1CBqvjDmeV4_AW1HH1BCxsPZdbFz9L)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+ 

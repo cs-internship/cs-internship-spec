@@ -52,7 +52,7 @@
 
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 
-7. Exactly **7 days** before your deadline, ask your coordinator to schedule a Twitch session for you on your deadline day.
+7. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 
 8. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).
 

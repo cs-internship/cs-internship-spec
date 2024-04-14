@@ -34,7 +34,7 @@
    - Use your GitHub as source control.
    - Publish it on your JSFiddle account.
 
-2. Enhance the project you developed in previous step by adding functionality for sorting and categorization buttons. You can refer to [this video](LINK) as a guide for how it should operate.
+2. Enhance the project you developed in previous step by adding functionality for sorting and categorization buttons. You can refer to [this video](https://youtu.be/jYQa_VE_fVo?si=UG_qa_ZTdUfhYjVU) as a guide for how it should operate.
    - Use GitHub as your source control and showcase your project on GitHub Pages.
    
 3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 429**.

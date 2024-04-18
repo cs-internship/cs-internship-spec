@@ -2,19 +2,19 @@
 
 ### Guideline
 
-- Ask your mentor for a detailed description of the step content before setting a deadline.
+- Ask your coordinator for a detailed description of the step content before setting a deadline.
 
 - For each study item and each task, you should post an update on LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
 
-- At the end of each week, you are supposed to give your mentor a report including the following items:
+- At the end of each week, you are supposed to give your coordinator a report including the following items:
   1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage are you satisfied with what you did last week?
   
-  You will have a session with a mentor based on your report.
+  You will have a session with a technical mentor based on your report.
 
 <!-- TODO change the numbers -->
 
@@ -34,11 +34,11 @@
    - Add a 'Sign up' page to the Todo App.
    - Add a 'Sign in' page to the Todo App.
    - Use a method to apply authentication on all HTTP requests.
-   - Use your GitHub as source control.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 2. Enhance the Todo App to store the state of the app for each user separately. Enable the Todo App to work for anonymous users too.
 
-   - Use your GitHub as source control.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 3. Add a header to the Todo App with the following functionalities:
 
@@ -47,7 +47,7 @@
    - A 'Sign in' button to navigate to the 'Sign in' page.
    - A 'Sign out' button to log off the current user.
    - Apply visibility of each button based on the current state of the app.
-   - Use GitHub as your source control.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
 
 4. Pass these exercises at exercism.org:
 
@@ -57,17 +57,17 @@
    Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xtest").
 
    - Use GitHub as your source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on your JSFiddle account.
 
 5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
 
-6. Achieve the [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
+6. Achieve the [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on Stack Overflow.
 
 7. Find at least 5 other online resources about Authentication on the Web and explain why you chose them, then share them on Twitter and LinkedIn.
 
-8. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
+8. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 
-9. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
+9. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).
 
 ### Mentors Training
 
@@ -77,3 +77,4 @@ In the mentoring training path, you should watch the **"seventh"** and **"eighth
 - Link to [video8](https://drive.google.com/drive/folders/1REyXmFfCWTDpCrsbNoJojHjH9ZQEXzqx)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+ 

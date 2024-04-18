@@ -2,19 +2,19 @@
 
 ### Guideline
 
-- Ask your mentor for a detailed description of the step content before setting a deadline.
+- Ask your coordinator for a detailed description of the step content before setting a deadline.
 
 - For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
 
-- At the end of each week, you are supposed to give your mentor a report including the following items:
+- At the end of each week, you are supposed to give your coordinator a report including the following items:
   1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage are you satisfied with what you did last week?
 
-  You will have a session with a mentor based on your report.
+  You will have a session with a technical mentor based on your report.
 
 ### Study Items <!-- omit in toc -->
 
@@ -24,6 +24,8 @@
 4. [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 5. [TypeScript Handbook: The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 6. [TypeScript Handbook: Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+7. [TypeScript Handbook: Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html)
+8. [TypeScript Handbook: More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
 
 ### Tasks <!-- omit in toc -->
 
@@ -31,18 +33,18 @@
 
    - Simple Cipher
 
-   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xtest").
+   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xit").
 
    - Use your GitHub as source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on your JSFiddle account.
 
 2. Pass all lessons on TypingClub.com with 5 stars up to **lesson 374**.
 
-3. Achieve the [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow.
+3. Achieve the [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on Stack Overflow.
 
-4. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
+4. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 
-5. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
+5. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).
 
 ### Mentors Training
 
@@ -52,3 +54,4 @@ In the mentoring training path, you should watch the **"ninth"** and **"tenth"**
 - Link to [video10](https://drive.google.com/drive/folders/1_uRxg9mzKYycKT05O93r0-9Lh2McLjSb)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+ 

@@ -2,19 +2,19 @@
 
 ### Guideline
 
-- Ask your mentor for a detailed description of the step content before setting a deadline.
+- Ask your coordinator for a detailed description of the step content before setting a deadline.
 
 - For each study item and each task, you should post an update on LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
 
-- At the end of each week, you are supposed to give your mentor a report including the following items:
+- At the end of each week, you are supposed to give your coordinator a report including the following items:
   1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage are you satisfied with what you did last week?
   
-  You will have a session with a mentor based on your report.
+  You will have a session with a technical mentor based on your report.
 
 ### Study Items <!-- omit in toc -->
 
@@ -28,6 +28,9 @@
 
 1. Refactor the Todo app to use Knockout.js and use [this tutorial](http://learn.knockoutjs.com/#/?tutorial=intro).
 
+   - Knockout is a JavaScript library that allows you to create user interfaces with a clean underlying data model. It is based on the MVVM (Model-View-ViewModel) pattern and offers a great tutorial with a playground that helps you easily understand MVVM. We use Knockout.js to gain a better understanding of the MVVM design pattern.
+   - Use GitHub as your source control and showcase your project on GitHub Pages.
+
 2. Pass this at exercism.org:
 
    - Resistor Color
@@ -35,19 +38,21 @@
    Learn how to run tests for these steps, and run all available tests in spec file (remove the "x" from the beginning of each "xtest").
    
    - Use GitHub as your source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on your JSFiddle account.
 
 3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 285**.
 
-4. Achieve the [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on StackOverflow.
+4. Achieve the [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on Stack Overflow.
 
 5. Find at least 5 other online resources about client-side JS & Tooling, and explain why you chose them.
 
-6. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
+6. Find at least 5 other design patterns similar to MVVM, and explain why you chose them.
+   
+7. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 
-7. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
+8. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).
 
-8. It's time to be a mentor. Ask your mentor to start your onboarding process for mentorship.
+9.  It's time to begin your journey as a mentoring intern. Ask your coordinator to start your onboarding process for mentorship.
 
 ### Mentors Training
 
@@ -57,3 +62,4 @@ In the mentoring training path, you should watch the **"third"** and **"fourth"*
 - Link to [video4](https://drive.google.com/drive/folders/1v38qtor7nZ00mPQDNbke8BNwgHK_vb6K)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+ 

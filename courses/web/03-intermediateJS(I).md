@@ -2,19 +2,19 @@
 
 ### Guideline
 
-- Ask your mentor for a detailed description of the step content before setting a deadline.
+- Ask your coordinator for a detailed description of the step content before setting a deadline.
 
 - For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
 
-- At the end of each week, you are supposed to give your mentor a report including the following items:
+- At the end of each week, you are supposed to give your coordinator a report including the following items:
   1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage are you satisfied with what you did last week?
 
-  You will have a session with a mentor based on your report.
+  You will have a session with a technical mentor based on your report.
 
 ### Study Items <!-- omit in toc -->
 
@@ -30,14 +30,15 @@
    - Add two themes using this [video](https://youtu.be/gimpZg_2yY8).
    - Add another theme using your creativity.
    - Use GitHub as your source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on your JSFiddle account.
 
 2. Enhance the Standard Calculator (from the previous step):
 
    - Use JS to add calculation functionalities.
+   - Implement memory and history functionality, as well as all calculation buttons in your calculator.
    - Implement it without using any library.
    - Use your GitHub as source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on your JSFiddle account.
 
 3. Create a simple Todo App:
 
@@ -45,7 +46,7 @@
    - With a button for adding a new todo.
    - With a list showing all added todos.
    - Use your GitHub as source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on the [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) of your repository.
 
 4. Pass these exercises at exercism.org:
 
@@ -55,17 +56,17 @@
    Learn how to run tests for these steps, and run all available tests in spec file (remove the "x" from the beginning of each "xtest").
 
    - Use GitHub as your source control.
-   - Publish it on your jsFiddle account.
+   - Publish it on your JSFiddle account.
 
-5. Achieve the [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
+5. Achieve the [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on Stack Overflow.
 
 6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 202**.
 
 7. Follow at least 5 Twitter accounts that are active in web technologies. Describe why they are worth following.
 
-8. Exactly **7 days** before your deadline, ask your mentor to arrange a Twitch session for you on your deadline day.
+8. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 
-9. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
+9. You should give a 20-minute presentation about the content of this step on the LinkedIn Live platform. Record your Live presentation at the time of the presentation and then send it to your coordinator with a brief explanation of the topic. All LinkedIn Live presentations will be published on the [CS Internship YouTube channel](https://www.youtube.com/@csinternship8859).
 
 ### Mentors Training
 
@@ -75,3 +76,4 @@ In the mentoring training path, you should watch the **"seventh"** and **"eighth
 - Link to [video8](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz/view?usp=drive_link)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+ 

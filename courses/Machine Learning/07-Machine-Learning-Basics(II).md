@@ -2,17 +2,23 @@
 
 ### Guideline
 
-- For each study item and each task you should post an update to LinkedIn, Twitter and Telegram using the following hashtags:
+- Ask your coordinator for a detailed description of the step content before setting a deadline.
+
+- For each study item and each task, you should post an update on LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
 
-- At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Link to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
+- At the end of each week, you are supposed to give your coordinator a report including the following items:
+  1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage are you satisfied with what you did last week?
   
-  You will have a session with a mentor based on your report.
+  You will have a session with a technical mentor based on your report.
+
+<!-- TODO change the numbers -->
+
+- To apply authentication in Task 1, you can use the server we have prepared for you [here](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/servers/step7/server-step-7.rar).
   
   
 ### Study Items
@@ -33,9 +39,9 @@
 
 ### Mentors Training
 
-In the mentoring training path, you should watch the **"seventh"**, and **"eighth"** videos of the 12 videos for the **"Coaching"** course.  Here're the links:
+In the mentoring training path, you should watch the **"seventh"** and **"eighth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:
 
 - Link to [video7](https://drive.google.com/drive/folders/16fch6aIfZL1laupMDYruy3HjmxV8WA-p)
 - Link to [video8](https://drive.google.com/drive/folders/1REyXmFfCWTDpCrsbNoJojHjH9ZQEXzqx)
-  
-To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
+
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).

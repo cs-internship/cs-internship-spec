@@ -2,17 +2,22 @@
 
 ### Guideline
 
-- For each study item and each task you should post an update to LinkedIn, Twitter and Telegram using the following hashtags:
+- Ask your coordinator for a detailed description of the step content before setting a deadline.
+
+- For each study item and each task, you should post an update on LinkedIn, Twitter, and Telegram using the following hashtags:
 `#cs_internship`
 `#[courseName]`
 `#[stepNumber]`
 
-- At the end of each week, you are supposed to give your mentor a report including the following items:
-  1. Link to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
+- At the end of each week, you are supposed to give your coordinator a report including the following items:
+  1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
   2. How many hours did you spend on cs_internship last week?
   3. What percentage are you satisfied with what you did last week?
   
-  You will have a session with a mentor based on your report.
+  You will have a session with a technical mentor based on your report.
+
+- For Task 4 and Task 5, you can use the server we have prepared for you [here](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/servers/step6/server-step-6.rar).
+
   
   
 ### Study Items
@@ -32,10 +37,10 @@
 
 ### Mentors Training
 
-In the mentoring training path, you should watch the **"fifth"**, and **"sixth"** videos of the 12 videos for the **"Coaching"** course.  Here're the links:
+In the mentoring training path, you should watch the **"fifth"** and **"sixth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:
 
 - Link to [video5](https://drive.google.com/drive/folders/1MBTCHtzWzmGqQEKe6U86jjzxUxxEtUn4)
 - Link to [video6](https://drive.google.com/drive/folders/1EjO3sPNeiq8c0nKGB_oUyelM2jxVZRd1)
-  
-To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
+
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
 

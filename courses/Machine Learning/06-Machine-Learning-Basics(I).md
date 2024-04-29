@@ -16,9 +16,6 @@
   
   You will have a session with a technical mentor based on your report.
 
-- For Task 4 and Task 5, you can use the server we have prepared for you [here](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/servers/step6/server-step-6.rar).
-
-  
   
 ### Study Items
 

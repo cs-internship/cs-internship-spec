@@ -31,7 +31,6 @@
  3. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
  4. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
  
-
 ### Mentors Training
 
 In the mentoring training path, you should watch the **"fifth"** and **"sixth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:

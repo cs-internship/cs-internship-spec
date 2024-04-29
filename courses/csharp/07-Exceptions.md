@@ -15,10 +15,7 @@
   3. What percentage are you satisfied with what you did last week?
   
   You will have a session with a technical mentor based on your report.
-
-<!-- TODO change the numbers -->
-
-- To apply authentication in Task 1, you can use the server we have prepared for you [here](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/servers/step7/server-step-7.rar).
+  
 
 ### Study Items
 

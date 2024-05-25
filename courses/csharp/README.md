@@ -2,6 +2,9 @@
 
 This course is designed to make the intern ready for the exciting market of C# developers out there. In this course interns get familiar with C# syntax so they can leverage it for Web, Mobile and Desktop applications.
 
+## References <!-- omit in toc -->
+- [Programming C# 10.0 by Ian Griffiths](https://www.oreilly.com/library/view/programming-c-10/9781098117801/)
+
 ## Contents <!-- omit in toc -->
 - [Goals](#Goals)
 - [Step 1. Introduction](01-Introduction.md)

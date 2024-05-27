@@ -19,7 +19,9 @@
 
 ### Study Items
 
- 1. C# book, chapter 18 : Asynchronous Language Features
+ 1. C# book, chapter 16 : Multithreading
+ 2. C# book, chapter 17 : Asynchronous Language Features
+ 3. [Asynchronous programming with async and await](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)
 
 ### Tasks
 

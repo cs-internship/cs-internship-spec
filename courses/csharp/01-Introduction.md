@@ -23,7 +23,6 @@
   3. [Introduction to Programming with CSharp](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/local-environment)
      1. Read all the four tutorials.
      2. Run the codes locally while reading.
-  4. [C# tuple types](https://docs.microsoft.com/en-us/dotnet/csharp/tuples)
   
 ### Tasks  <!-- omit in toc -->
 

@@ -39,6 +39,6 @@
   4. Find and introduce 2 libraries on GitHub which are C# 8.0 ready.
   5. Find a small GitHub project and help to make it use C# 8.0 nullable reference types.
   6. Describe the situations that Pattern Matching helps. How does it help?
-  7. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+  7. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
   8. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your twitch at the time of the presentation and send it to your mentor with a brief explanation of the topic. All twitches will be published on the CS Internship YouTube channel.
 

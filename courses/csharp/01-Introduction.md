@@ -23,6 +23,9 @@
   3. [Introduction to Programming with CSharp](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/local-environment)
      1. Read all the four tutorials.
      2. Run the codes locally while reading.
+  4. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)
+  5. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+  6. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
   
 ### Tasks  <!-- omit in toc -->
 

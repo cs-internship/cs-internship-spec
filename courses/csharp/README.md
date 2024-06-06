@@ -6,7 +6,6 @@ This course is designed to make the intern ready for the exciting market of C# d
 - [Programming C# 10.0 by Ian Griffiths](https://www.oreilly.com/library/view/programming-c-10/9781098117801/)
 
 ## Contents <!-- omit in toc -->
-- [Goals](#Goals)
 - [Step 1. Introduction](01-Introduction.md)
 - [Step 2. Types](02-Types.md)
 - [Step 3. Generics](03-Generics.md)
@@ -19,6 +18,5 @@ This course is designed to make the intern ready for the exciting market of C# d
 - [Step 10. Asynchronous Language Features](10-Asynchronous-Language-Features.md)
 - [Step 11. C# New Features](11-C%23-New-Features.md)
 
-## Goals
 
 <hr/>

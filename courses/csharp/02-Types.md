@@ -19,6 +19,12 @@
 ### Study Items  <!-- omit in toc -->
 
  1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 3 : Types
+ 2. [What is debugging?](https://learn.microsoft.com/en-us/visualstudio/debugger/what-is-debugging?view=vs-2022)
+ 3. [Tutorial: Learn to debug C# code using Visual Studio](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-debugger?view=vs-2022&toc=%2Fvisualstudio%2Fdebugger%2Ftoc.json)
+ 4. [First look at the Visual Studio Debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour?view=vs-2022)
+ 5. [Use breakpoints in the Visual Studio debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022)
+ 6. [C# Breakpoints and Conditions](https://www.youtube.com/watch?v=YEL92u-3cRY)
+ 7. [How to Debug in Visual Studio](https://www.youtube.com/watch?v=__3wlUxMXlA)
 
 ### Tasks  <!-- omit in toc -->
  1. Choose 3 bloggers who write about C# and describe why they matter to you.

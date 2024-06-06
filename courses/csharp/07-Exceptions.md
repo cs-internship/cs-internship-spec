@@ -19,7 +19,7 @@
 
 ### Study Items
 
-  1.  C# book, chapter 8 : Exceptions
+  1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 8 : Exceptions
   2. [Checked or Unchecked Exceptions?](http://tutorials.jenkov.com/java-exception-handling/checked-or-unchecked-exceptions.html)
   3. [C# Exception Handling Best Practices](https://stackify.com/csharp-exception-handling-best-practices/)
 

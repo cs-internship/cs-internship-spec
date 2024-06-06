@@ -18,7 +18,7 @@
   
 ### Study Items
 
-1. C# book, chapter 10 : LINQ
+1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 10 : LINQ
 
 ### Tasks
 

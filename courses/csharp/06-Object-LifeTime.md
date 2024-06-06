@@ -20,7 +20,7 @@
 
 ### Study Items
 
- 1. C# book, chapter 7 : Object Lifetime
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 7 : Object Lifetime
  2. [Object Lifetime (Wikipedia article)](https://en.wikipedia.org/wiki/Object_lifetime)
  3. [Garbage Collection (Microsoft .Net Guid)](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/index) - All sublinks are needed to be studied
  4. [Finalizers (Microsoft C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/destructors)

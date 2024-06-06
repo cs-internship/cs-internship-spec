@@ -18,7 +18,7 @@
 
 ### Study Items  <!-- omit in toc -->
 
- 1. C# book, chapter 4 : Generics
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 4 : Generics
  2. [Constraints on type parameters (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
  3. [Differences Between C++ Templates and C# Generics (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)
 

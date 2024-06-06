@@ -17,7 +17,7 @@
   You will have a session with a technical mentor based on your report.
 ### Study Items
 
- 1. C# book, chapter 9 : Delegates, Lambdas and Events
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 9 : Delegates, Lambdas and Events
  2. [5 Techniques to avoid Memory Leaks by Events in C# .NET you should know](https://web.archive.org/web/20220519175107/https://michaelscodingspot.com/5-techniques-to-avoid-memory-leaks-by-events-in-c-net-you-should-know/)
 
 ### Tasks

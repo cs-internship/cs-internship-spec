@@ -18,7 +18,7 @@
 
 ### Study Items  <!-- omit in toc -->
 
- 1. C# book, chapter 3 : Types
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 3 : Types
 
 ### Tasks  <!-- omit in toc -->
  1. Choose 3 bloggers who write about C# and describe why they matter to you.

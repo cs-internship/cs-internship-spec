@@ -26,7 +26,7 @@
 2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 244.
 3. Pass these exercises at exercism.io:
    - Tournament
-4. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+4. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 5. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 
 ### Mentors Training

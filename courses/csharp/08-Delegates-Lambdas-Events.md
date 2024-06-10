@@ -17,14 +17,14 @@
   You will have a session with a technical mentor based on your report.
 ### Study Items
 
- 1. C# book, chapter 9 : Delegates, Lambdas and Events
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 9 : Delegates, Lambdas and Events
  2. [5 Techniques to avoid Memory Leaks by Events in C# .NET you should know](https://web.archive.org/web/20220519175107/https://michaelscodingspot.com/5-techniques-to-avoid-memory-leaks-by-events-in-c-net-you-should-know/)
 
 ### Tasks
 
  1. Achieve [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow
  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 374.
- 3. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 3. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
  4. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 
 

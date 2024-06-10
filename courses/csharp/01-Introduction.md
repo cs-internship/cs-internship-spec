@@ -18,11 +18,14 @@
 
 ### Study Items  <!-- omit in toc -->
 
-  1. C# book, chapter 1 : C# Introduction
-  2. C# book, chapter 2 : Basic Coding in C#
+  1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 1 : C# Introduction
+  2. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 2 : Basic Coding in C#
   3. [Introduction to Programming with CSharp](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/local-environment)
      1. Read all the four tutorials.
      2. Run the codes locally while reading.
+  4. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)
+  5. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+  6. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
   
 ### Tasks  <!-- omit in toc -->
 
@@ -44,7 +47,7 @@
         - RNA Transcription  
         - Gigaseconds
   11. Search about *bubble sort* algorithm. Write a program which has a method which receives a list of numbers and returns a sorted equivalent list. The method should be using bubble sort algorithm.
-  12. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+  12. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
   13. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 
 ### Mentors Training

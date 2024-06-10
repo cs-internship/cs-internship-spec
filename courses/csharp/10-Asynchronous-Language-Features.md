@@ -19,8 +19,8 @@
 
 ### Study Items
 
- 1. C# book, chapter 16 : Multithreading
- 2. C# book, chapter 17 : Asynchronous Language Features
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 16 : Multithreading
+ 2. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 17 : Asynchronous Language Features
  3. [Asynchronous programming with async and await](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)
 
 ### Tasks
@@ -29,5 +29,5 @@
  2. Achieve [**Self Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on StackOverflow.
  3. [Improve App Responsiveness: A Guide to C# Async/Await](https://www.youtube.com/watch?v=2moh18sh5p4)
  4. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 418.
- 5. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
  6. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.

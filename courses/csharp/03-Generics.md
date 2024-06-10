@@ -18,7 +18,7 @@
 
 ### Study Items  <!-- omit in toc -->
 
- 1. C# book, chapter 4 : Generics
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 4 : Generics
  2. [Constraints on type parameters (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
  3. [Differences Between C++ Templates and C# Generics (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)
 
@@ -30,7 +30,7 @@
         - Circular Buffer
         - Pangram
         - Pascal's Triangle
-  5. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+  5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
   6. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 
 

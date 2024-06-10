@@ -19,7 +19,7 @@
 
 ### Study Items
 
-  1.  C# book, chapter 8 : Exceptions
+  1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 8 : Exceptions
   2. [Checked or Unchecked Exceptions?](http://tutorials.jenkov.com/java-exception-handling/checked-or-unchecked-exceptions.html)
   3. [C# Exception Handling Best Practices](https://stackify.com/csharp-exception-handling-best-practices/)
 
@@ -27,7 +27,7 @@
 
   1. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.  
   2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 357.
-  3. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+  3. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
   4. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 
 ### Mentors Training

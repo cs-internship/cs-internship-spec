@@ -20,7 +20,7 @@
 
 ### Study Items
 
- 1. C# book, chapter 7 : Object Lifetime
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 7 : Object Lifetime
  2. [Object Lifetime (Wikipedia article)](https://en.wikipedia.org/wiki/Object_lifetime)
  3. [Garbage Collection (Microsoft .Net Guid)](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/index) - All sublinks are needed to be studied
  4. [Finalizers (Microsoft C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/destructors)
@@ -32,7 +32,7 @@
  2. Achieve [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
  3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 316.
  4. Will start to see her/his profile
- 5. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
  6. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 
 ### Mentors Training

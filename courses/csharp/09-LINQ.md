@@ -18,7 +18,7 @@
   
 ### Study Items
 
-1. C# book, chapter 10 : LINQ
+1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 10 : LINQ
 
 ### Tasks
 
@@ -30,7 +30,7 @@
  3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 388.
  4. Pass these exercises at exercism.io:
     - Grade School
- 5. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+ 5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
  6. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 
 ### Mentors Training

@@ -33,7 +33,7 @@
    1. You can find the **Receipt** page design from desktop 4 in [Figma design panel](https://www.figma.com/file/qOOsgKH45ixM9RFKhKcEXZ/Pizza?node-id=0%3A1&t=kF5UFJvgzQO8JAWA-0).
 4. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
 5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
-6. Exactly **7 days** before your deadline, ask your mentor to arrange a twitch time for you on your deadline day.
+6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 7. You should give a 20-min presentation about the content of this step, on the Twitch platform. You should record your live twitch and send it to your mentor with a brief explanation about its content. All twitches will be published on the CS Internship YouTube channel.
 
 ### Mentors Training

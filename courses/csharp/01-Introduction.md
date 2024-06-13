@@ -48,8 +48,7 @@
         - Gigaseconds
   11. Search about *bubble sort* algorithm. Write a program which has a method which receives a list of numbers and returns a sorted equivalent list. The method should be using bubble sort algorithm.
   12. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
-  13. Hold your step presentation on LinkedIn. For guidelines on holding your LinkedIn Live presentation, see [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
-  14. Hold your step presentation on LinkedIn. For guidelines on holding your LinkedIn Live presentation, see [this page](https://github.com/ali-sdg90/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+  13. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
 ### Mentors Training
 

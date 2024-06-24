@@ -74,6 +74,8 @@ Internship
 
 تصویر ۲. بخش‌های Students و Dropped در وان‌نوت
 
+![image](https://github.com/zahra-ahangari/cs-internship-spec/assets/29492005/a38ca070-6df8-4858-b194-3608579d9109)
+
 
 تصویر ۳. مسیر قرار گیری جدول Dropped Interns’Info در وان‌نوت
 
@@ -89,7 +91,11 @@ Internship
 3. حذف اینترن از برخی گروه‌ها و کانال‌های برنامه. کوردینیتور، اینترن را از تمامی گروه‌ها و کانال‌های رسمی برنامه، بجز گروه «Type Racing» و «Crystalline Society» حذف می‌کند.
 
 
+![image](https://github.com/zahra-ahangari/cs-internship-spec/assets/29492005/355cb73e-5b45-4f4f-9871-8c8a5cf7bc84)
+
 تصویر ۴. نحوه دسترسی به کانال Mentorship Workshop تیمز
+
+![image](https://github.com/zahra-ahangari/cs-internship-spec/assets/29492005/19a2b640-4dad-4284-bfc5-b390086fa97c)
 
 
 تصویر ۵. حذف اکانت اینترن در حال خروج

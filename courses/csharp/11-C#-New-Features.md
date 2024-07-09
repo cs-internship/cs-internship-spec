@@ -19,17 +19,12 @@
 
 ### Study Items
 
-  1. [What's new in C# 6.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-60)
-  2. [What's new in C# 7.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7)
-  3. [What's new in C# 7.1](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-1)
-  4. [What's new in C# 7.2](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2)
-  5. [What's new in C# 7.3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-3)
-  6. [What's new in C# 8.0](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
-  7. https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references
-  8. https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/nullable-reference-types
-  9. https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/upgrade-to-nullable-references
-  10. https://devblogs.microsoft.com/dotnet/try-out-nullable-reference-types/
-  11. https://devblogs.microsoft.com/dotnet/introducing-net-5/
+  1. [What's new in C# 13.0](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-13)
+  2. [What's new in C# 13.0 Video](https://build.microsoft.com/en-US/sessions/689e5104-72e9-4d02-bb52-77676d1ec5bc)
+  3. [Nullable Reference Types in C#](https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references)
+  4. [Tutorial: Embracing Nullable Reference Types in C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/nullable-reference-types)
+  5. [Upgrading Your Codebase with C# Nullable Reference Types](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/upgrade-to-nullable-references)
+  6. [Exploring Nullable Reference Types: A Practical Guide](https://devblogs.microsoft.com/dotnet/try-out-nullable-reference-types)
 
 ### Tasks
 

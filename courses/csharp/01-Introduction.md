@@ -18,8 +18,8 @@
 
 ### Study Items  <!-- omit in toc -->
 
-  1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 1 : C# Introduction
-  2. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 2 : Basic Coding in C#
+  1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 1 : C# Introduction
+  2. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 2 : Basic Coding in C#
   3. [Introduction to Programming with CSharp](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/local-environment)
      1. Read all the four tutorials.
      2. Run the codes locally while reading.

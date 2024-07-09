@@ -18,7 +18,7 @@
 
 ### Study Items
 
-1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 5: Collections
+1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 5: Collections
 2. [Collections (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections) 
 3. [Covariance and Contravariance (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/)
 

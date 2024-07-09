@@ -18,7 +18,7 @@
 
 ### Study Items  <!-- omit in toc -->
 
- 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 3 : Types
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 3 : Types
  2. [What is debugging?](https://learn.microsoft.com/en-us/visualstudio/debugger/what-is-debugging?view=vs-2022)
  3. [Tutorial: Learn to debug C# code using Visual Studio](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-debugger?view=vs-2022&toc=%2Fvisualstudio%2Fdebugger%2Ftoc.json)
  4. [First look at the Visual Studio Debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour?view=vs-2022)

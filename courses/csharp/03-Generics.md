@@ -30,8 +30,13 @@
         - Circular Buffer
         - Pangram
         - Pascal's Triangle
-  5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
-  6. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
+  4. Project: Create a simple library system to store and manage different types of library items (e.g., books, magazines, DVDs). (This project will help you understand and work with generics in C#)
+      - Your project should have the following components:
+          - `LibraryItem<T>`: A generic class representing an item in the library.
+          - `Library`: A class containing a generic method to add items to a collection.
+          - `LibraryManager`: The main class to manage library items and demonstrate the use of generic collections.
+  6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+  7. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 
 
 ### Mentors Training

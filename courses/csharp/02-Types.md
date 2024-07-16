@@ -39,8 +39,7 @@
       - The application should prompt the user to enter two numbers.
       - The application should then prompt the user to choose an operation: addition, subtraction, multiplication, or division.
       - The application should perform the chosen operation and display the result.
-      - The application should handle invalid inputs gracefully (e.g., division by zero).
-The application should perf
+      - The application should handle invalid inputs (e.g., division by zero).
  7. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
  8. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
 

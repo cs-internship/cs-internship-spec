@@ -18,7 +18,7 @@
 
 ### Study Items  <!-- omit in toc -->
 
- 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 4 : Generics
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 4 : Generics
  2. [Constraints on type parameters (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
  3. [Differences Between C++ Templates and C# Generics (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)
 
@@ -30,8 +30,13 @@
         - Circular Buffer
         - Pangram
         - Pascal's Triangle
-  5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
-  6. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+  4. Project: Create a simple library system to store and manage different types of library items (e.g., books, magazines, DVDs). (This project will help you understand and work with generics in C#)
+      - Your project should have the following components:
+          - `LibraryItem<T>`: A generic class representing an item in the library.
+          - `Library`: A class containing a generic method to add items to a collection.
+          - `LibraryManager`: The main class to manage library items and demonstrate the use of generic collections.
+  6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+  7. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
 
 ### Mentors Training

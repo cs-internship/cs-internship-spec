@@ -11,7 +11,7 @@ At the end of each week, you are supposed to give your mentor a report including
 - How many hours did you spend on cs_internship last week?
 - What percentage are you satisfied with what you did last week?
 
-Watch the [Prepairing For Live Presentation](https://youtu.be/MM47EKwACy4) video.
+Watch the [Preparing For Live Presentation](https://youtu.be/MM47EKwACy4) video.
 
 ### Tasks
 
@@ -22,11 +22,11 @@ Throughout the course you need to be expressing yourself (emotions and knowledge
 
 You should contact these people:
 
--  All the assistant mentors
+-  All the technical mentors
 -  All interns in your club
--  Your own mentoring intern
+-  Your own coordinator
 
-Yon can find the information of assistant mentors in **CS - Crystal Society** telegram group.
+Yon can find the information of technical mentors in **CS Internship - Coordination** telegram group.
 
 Introduce yourself and ask them to introduce themselves. Within each conversation you should achieve these goals:
 
@@ -46,9 +46,9 @@ And finally, you should ask (and convince) 5 of them to introduce you in the clu
 
 ### Mentors Training
 
-In the mentoring training path, you should watch the **"first"** and **"second"** videos of the 8 videos for the **"Communication Training"** course. Here're the links:
+In the mentoring training path, you should watch the **"first"** and **"second"** videos of the 8 videos for the **"Communication Training"** course. Here are the links:
 
 - Link to [video1](https://drive.google.com/file/d/1EHNym_sO9EkdN059a0TkXlGVx1ZwSVp4/view?usp=drive_link).
 - Link to [video2](https://drive.google.com/file/d/1qIUCdSuSUP9_ULkW5BuZrEkGsrMi3hIb/view?usp=drive_link). 
 
-To do this part, please follow the instructions provided in [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
+To do this part, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 

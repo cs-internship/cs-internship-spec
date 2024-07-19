@@ -32,4 +32,4 @@
  3. [Improve App Responsiveness: A Guide to C# Async/Await](https://www.youtube.com/watch?v=2moh18sh5p4)
  4. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 418.
  5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
- 6. You should give a 20-min presentation about the content of this step, on Linkedin live platform. You should record your Linkedin live at the time of presentation and send it to your mentor with a brief explanation of the topic. All Linkedin live presentations will be published on the CS Internship YouTube channel.
+ 6. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).

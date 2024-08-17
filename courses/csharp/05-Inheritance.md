@@ -28,9 +28,16 @@
  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 285.
  3. Pass these exercises at exercism.io:
     - Tournament
- 4. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
- 5. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
- 6.	It's time to be a mentor. Ask your mentor to start your onboarding process for mentorship.
+ 4. Project: Animal Hierarchy with Covariance and Contravariance<br>
+    Project Description:
+    - In this mini-project, you'll build an animal hierarchy system to deepen your understanding of inheritance, polymorphism, covariance, and contravariance in C#.
+    - You'll start by creating a base `Animal` class with common properties like Name and Age, along with methods such as `Eat()`, `Sleep()`, and `MakeSound()`. 
+    - Then, you'll create derived classes like `Mammal`, `Bird`, and `Fish`, each with additional properties and behaviors.
+    - Specific animals like `Dog`, `Eagle`, and `Shark` will further extend these classes, overriding methods to provide specialized behavior.
+    - You’ll also implement generic interfaces to demonstrate covariance and contravariance, allowing different animal types to be managed in a flexible and type-safe way.
+ 6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+ 7. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+ 8.	It's time to be a mentor. Ask your mentor to start your onboarding process for mentorship.
 
 
 ### Mentors Training

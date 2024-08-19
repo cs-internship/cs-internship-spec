@@ -18,7 +18,7 @@
 
 ### Study Items
 
-1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 5: Collections
+1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 5: Collections
 2. [Collections (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections) 
 3. [Covariance and Contravariance (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/)
 
@@ -32,8 +32,10 @@
     - Resistor Color
     - Nucleotide Count
     - Robot Name
- 5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
- 6. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+ 5. **Mini Project - Task Management System**  
+    - **Project Overview:** In this mini-project, you will develop a Task Management System using C# collections. You’ll manage tasks using `List<T>`, `Dictionary<TKey, TValue>`, and `Queue<T>` collections. The system should allow adding, removing, editing, and categorizing tasks.
+ 6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+ 7. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
 
 ### Mentors Training

@@ -18,7 +18,7 @@
 
 ### Study Items  <!-- omit in toc -->
 
- 1. [C# book](https://www.oreilly.com/library/view/programming-c-10/9781098117801/), chapter 3 : Types
+ 1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 3 : Types
  2. [What is debugging?](https://learn.microsoft.com/en-us/visualstudio/debugger/what-is-debugging?view=vs-2022)
  3. [Tutorial: Learn to debug C# code using Visual Studio](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-debugger?view=vs-2022&toc=%2Fvisualstudio%2Fdebugger%2Ftoc.json)
  4. [First look at the Visual Studio Debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour?view=vs-2022)
@@ -34,6 +34,12 @@
  5. Pass these exercises at exercism.io:
     - Allergies
     - Clock
+ 6. Project: Calculator Console Application
+    - Create a console application that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers entered by the user.
+      - The application should prompt the user to enter two numbers.
+      - The application should then prompt the user to choose an operation: addition, subtraction, multiplication, or division.
+      - The application should perform the chosen operation and display the result.
+      - The application should handle invalid inputs (e.g., division by zero).
  7. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
  8. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 

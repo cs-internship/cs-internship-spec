@@ -1,14 +1,5 @@
-مستند آشنایی با برنامه CS Internship
+# مستند آشنایی با برنامه CS Internship
 
-**CS**
-
-Internship
-
-| تاریخ این نسخه | 1400/07/13 | شماره این نسخه | 0.237 |     |     |
-| --- | --- | --- | --- | --- | --- |
-| عنوان مستند | مستند آشنایی با برنامه CS Internship |     |     |     |     |
-| نام فایل | CSI - White Paper - Introduction to CS Internship - Farsi.docx |     |     |     |     |
-| توضیحات | هدف این مستند ایجاد آشنایی اولیه با برنامه CS Internship و مکانیسم‌های آن برای افرادی است که قرار است به عنوان اینترن وارد دوره شوند. |     |     |     |     |
 
 # برنامه در یک نگاه
 
@@ -40,7 +31,7 @@ Internship
 
 دو مرحله هر دوره عبارتند از مرحله «خودآموزی» و مرحله «کارآموزی عملی».
 
-![image](https://github.com/zahra-ahangari/cs-internship-spec/assets/29492005/c7cba66d-9845-443b-b64e-d36f6013c374)
+![image](https://github.com/user-attachments/assets/7f75bc66-3666-4b59-b945-ea009113c4b1)
 
 
 ## مرحله خودآموزی
@@ -73,7 +64,8 @@ Internship
 - «مسیر یادگیری مهارت‌های کسب و کاری»
 - «مسیر خدمت به جامعه CS Internship»
   
-![image](https://github.com/zahra-ahangari/cs-internship-spec/assets/29492005/81e6988a-3cc9-4ff4-8648-ffb2dc7885b9)
+![image](https://github.com/user-attachments/assets/e6945d5f-d3ad-4240-9778-6dc6da753f61)
+
 
 ## مسیر یادگیری مهارت‌های فنی
 

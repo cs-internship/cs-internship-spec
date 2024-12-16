@@ -9,9 +9,9 @@
 ## What prerequisits you should have?
 In each step's file, there is a section called **"Mentors Training"**. This section contains links to at least one video. You should follow the instructions below and watch each of the videos when you reach the corresponding step. 
 
-- First of all, please check your access to the videos. If you don't have access, inform your mentoring intern. Before proceeding, ensure that you have access to the specified videos.
-- Secondly, ask your mentoring intern to add you to the **"CS Internship - Mentorship Workshop"** group in MS Teams. Set a session with you mentoring intern to make sure that you have access to this group. 
-- Thirdly, you have to ask your mentoring intern to send you the report template to wirte your reports about the videos.
+- First of all, please check your access to the videos. If you don't have access, inform your coordinator. Before proceeding, ensure that you have access to the specified videos.
+- Secondly, ask your coordinator to add you to the **"CS Internship - Mentorship Workshop"** group in MS Teams. Set a session with you coordinator to make sure that you have access to this group. 
+- Thirdly, You can access the report template through this [link](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/CSI%20-%20Template%20-%20Mentor%20Training%20Report%20-%20Farsi.docx)
   
 ## How to watch videos? 
 - In the mentoring training path, you should watch the videos provided in your step's file. What you should do in this part could simply abbreviated into four main sequentially tasks: **Watch**, **Think**, **Write** and **Talk**
@@ -21,29 +21,30 @@ In each step's file, there is a section called **"Mentors Training"**. This sect
 	  - write your understandings of the proposed concepts in the video.
 	  - write your answers to the questions asked in the video.
 	  - write at least three paragraphs about your related experience and observations to the concepts in the video.
-  4. **Talk** about your observations you had between watching the video and attending in a mentorship workshop. When you send your report to your mentoring intern, they will set a meeting for the next sprint. In this meeting, you have a chance to share your observation and understandings about the concepts proposed in the video.
+  4. **Talk** about your observations you had between watching the video and attending in a mentorship workshop. You send your report to your coordinator,and then set up a meeting for yourself. You can see how to set up a meeting through this [video](https://www.youtube.com/watch?v=pRCOpFa5XlI). In this meeting, you have a chance to share your observation and understandings about the concepts proposed in the video.
 
 ## How to participate in the mentors training workshops?
 ### Default Instruction: 
-1. After you have watched each video, then you should write your report about it, and send it to your mentoring intern.
-2. You should ask your mentoring intern to set a workshop reservation for each video's report. You will attend each mentorship workshop only for one report.
-	- **Note**: If you think that you are ready to watch the next video and attend in a single mentoring workshop for two reports, then you can use the alternative instruction explained in the next part. 
-3. Since you have already gained access to the desired workshop group, you must be present at the specified time and day for the session as scheduled.
-4. You can watch the next video at least 7 days after the first one, and repeat the default instruction for it.
+1. After you have watched each video, then you should write your report about it, and send it to your coordinator.
+2. You should set up a meeting for yourself. You will attend each mentorship workshop only for one report. 
+    - **Note**: In mentorship workshop meetings, you need to turn on your camera, and the meetings will be held visually. 
+	- **Note**: If you think that you are ready to watch the next video and attend in a single mentoring workshop for two reports, then you can use the alternative instruction explained in the next part.
+4. Since you have already gained access to the desired workshop group, you must be present at the specified time and day for the session as scheduled.
+5. You can watch the next video at least 7 days after the first one, and repeat the default instruction for it.
 
 ### Alternative Instruction:
 - If you want to pass the mentorship workshops faster, it is possible to participate with two reports in a single workshop. For this purpose, please follow the instructions below:
   
 1. Watch the first mentorship workshop video in your step.
-2. Send the report of the first video to your mentoring intern and request your mentoring intern to schedule a mentorship session for your report.
-3. If you are ready to start the next video, then ask your mentoring intern to forward your first report to a mentor to check for its quality.
+2. Send the report of the first video to your coordinator and set up a meeting for yourself.
+3. If you are ready to start the next video, then ask your coordinator to forward your first report to a mentor to check for its quality.
 	- **Attention Please!**
-    	- Your mentoring intern will choose a mentor based on their availability.
        	- There is no guaranty that mentors will have time to check the report in the current sprint.
        	- So, it is almost 50-50 to get a chance to participate in a workshop for two reports.
-5. The mentor will set a deadline to say their assessment result about your report to your mentoring intern.
+5. The mentor will set a deadline to say their assessment result about your report to your coordinator.
 	- **Positive** assessment result, means then you can start to watch the next video, wirte its report and send it to your mentoring inter before the setteled mentorship workshop. 
 	- **Negative** assessment result, means that you have to attend in separate workshops for each mentorship videos. It helps the concepts proposed in the videos to be more clarify for you. 
 
 #### **Important Note:** 
 - Please keep in mind that mentor availability to review your reports is not guaranteed. Furthermore, the deadline for reviewing your reports may be set in a way that it doesn't affect the scheduling of mentorship sessions to be held sooner.
+- For the first video of the communication ,you cannot use the Alternative mode, and you must set up a meeting for it

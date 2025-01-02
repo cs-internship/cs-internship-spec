@@ -31,9 +31,7 @@
 # مراحل دوگانه برنامه
 
 دو مرحله هر دوره عبارتند از مرحله «خودآموزی» و مرحله «کارآموزی عملی».
-
-![image](https://github.com/user-attachments/assets/7f75bc66-3666-4b59-b945-ea009113c4b1)
-
+  <img align="right" width="100%" src="https://github.com/user-attachments/assets/7f75bc66-3666-4b59-b945-ea009113c4b1"/>
 
 ## مرحله خودآموزی
 

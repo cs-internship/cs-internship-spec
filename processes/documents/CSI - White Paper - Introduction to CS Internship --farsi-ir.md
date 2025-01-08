@@ -3,7 +3,7 @@
 
 ## مقدمه
 در این مستند به معرفی پیش‌نیازها و قسمتی از فرآیندهای اصلی برنامه CS Internship می‌پردازیم که لازم است قبل از ورود به برنامه با آنها آشنا باشید. با فرآیندهای دیگری که در برنامه وجود دارد، در ادامه مسیر آشنا خواهید شد.
-این مستند برای کسی مناسب است که مستند CS Internship Overview را مطالعه کرده و ویدیو [کارگاه آشنایی با برنامه CS Internship](https://drive.google.com/file/d/1HmBSP01EdYrL841hELM0hVfX2E3hprzx/view?usp=sharing) را دیده است.
+این مستند برای کسی مناسب است که مستند [CS Internship Overview](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/CS%20Internship%20Overview%20--farsi-ir.md) را مطالعه کرده و ویدیو [کارگاه آشنایی با برنامه CS Internship](https://drive.google.com/file/d/1HmBSP01EdYrL841hELM0hVfX2E3hprzx/view?usp=sharing) را دیده است.
 
 ## پیش‌نیازها برای ورود
 این برنامه کاملاً به صورت ریموت برگزار می‌شود و اساسا از ابتدا طوری طراحی شده است تا شرکت‌کنندگان را برای کار در تیم‌های ریموت ایرانی و خارجی آماده کند. برای ورود به آن، افراد به یک کامپیوتر مناسب برای برنامه‌نویسی و یک خط اینترنت که از پهنای باند لازم برای شرکت در جلسات تصویری برخوردار است، نیاز دارند.

@@ -3,6 +3,23 @@
 You are totally new to the club, Welcome to the club! There are lots of people in this club willing to help you. But how? How can you get help from them? Who is who!? Who knows what!?
 This is your first task, you should talk (literally talk on the phone or Skype) and get to know each other.
 
+### Essential Documents to Read First
+
+Before engaging with others in the club, it is essential to first familiarize yourself with the guidelines and processes for your internship journey. The following documents must be read in the specified order before you can proceed further.
+
+1. [Program Step Contents](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/CSI%20-%20Process%20-%20Program%20Step%20Contents%20--farsi-ir.md) (This is not the final version)
+   - This document explains the structure of the program steps, helping you understand what to expect at each stage.
+2. Introduction to Meetings & Working with Azure Boards (Link will be provided soon)
+   - Learn how meetings are structured and how to effectively use Azure Boards for project management.
+3. Workshop Session Setup Guide (Link will be provided soon)
+   - Understand how workshop sessions are organized, including setting up and participating in them.
+4. [Penalty System Document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/CSI%20-%20Process%20-%20Penalty--farsi-ir.md)
+   - Learn about the rules and penalties in place to ensure accountability and consistency throughout the internship.
+
+### Schedule a Q&A Session with Your Coordinator
+
+After studying these documents, you must arrange a session with your coordinator in the Coordination group. This session is called "Q&A Session", where you can ask any questions regarding the documents above.
+
 ### Guideline
 
 At the end of each week, you are supposed to give your mentor a report including the following items:

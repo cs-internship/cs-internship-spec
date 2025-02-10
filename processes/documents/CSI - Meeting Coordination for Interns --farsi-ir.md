@@ -71,6 +71,7 @@ Internship
 ## دسترسی به Azure Board
 
 دسترسی لازم به Azure Board از طریق ایمیل Outlook شما فراهم شده است. لینکی که برایتان ارسال شده است، شما را مستقیماً به صفحه‌ی مربوط به برنامه CS Internship هدایت می‌کند. با کلیک بر روی این [لینک](https://dev.azure.com/cs-internship)، وارد محیط Azure Board خواهید شد.
+
 ![image](https://github.com/user-attachments/assets/186d0769-2503-4445-ac7c-9a7acac8ba64)
 
 

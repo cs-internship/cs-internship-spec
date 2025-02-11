@@ -7,18 +7,19 @@ This is your first task, you should talk (literally talk on the phone or Skype) 
 
 Before engaging with others in the club, it is essential to first familiarize yourself with the guidelines and processes for your internship journey. The following documents must be read in the specified order before you can proceed further.
 
-1. [Program Step Contents](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/CSI%20-%20Process%20-%20Program%20Step%20Contents%20--farsi-ir.md) (This is not the final version)
-   - This document explains the structure of the program steps, helping you understand what to expect at each stage.
+1. [Program Step Contents](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Program%20Step%20Contents%20--fa.md)
+   - This document explains the structure of the program steps, helping you understand what to expect at each step.
 2. Introduction to Meetings & Working with Azure Boards (Link will be provided soon)
-   - Learn how meetings are structured and how to effectively use Azure Boards for project management.
+   - Learn how meetings are structured and how to effectively use Azure Boards to coordinate your meetings.
 3. Workshop Session Setup Guide (Link will be provided soon)
    - Understand how workshop sessions are organized, including setting up and participating in them.
-4. [Penalty System Document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/CSI%20-%20Process%20-%20Penalty--farsi-ir.md)
+4. [Penalty System Document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Penalty%20--fa.md)
    - Learn about the rules and penalties in place to ensure accountability and consistency throughout the internship.
 
 ### Schedule a Q&A Session with Your Coordinator
 
-After studying these documents, you must arrange a session with your coordinator in the Coordination group. This session is called "Q&A Session", where you can ask any questions regarding the documents above.
+After studying these documents, you must arrange a session with your coordinator in the Coordination group. This session is called "Q&A Session", where you can ask any questions regarding the documents above.<br>
+To schedule this session, mention your coordinator in the Meeting topic of the Coordination group and coordinate a suitable time. In your message, specify the days and times that work for you so that you and your coordinator can agree on a schedule. The Q&A session should be planned for 30 minutes.
 
 ### Guideline
 
@@ -27,8 +28,6 @@ At the end of each week, you are supposed to give your mentor a report including
 - Link to all your posts during the last week specifying the relevant task item for each link, and also mention the exact date that each one of them were posted.
 - How many hours did you spend on cs_internship last week?
 - What percentage are you satisfied with what you did last week?
-
-Watch the [Preparing For Live Presentation](https://youtu.be/MM47EKwACy4) video.
 
 ### Tasks
 
@@ -43,9 +42,9 @@ You should contact these people:
 -  All interns in your club
 -  Your own coordinator
 
-Yon can find the information of technical mentors in **CS Internship - Coordination** telegram group.
+Yon can find the information of technical mentors in [**CS Internship - Coordination**](https://t.me/c/2034114419/1/311) telegram group.
 
-Introduce yourself and ask them to introduce themselves. Within each conversation you should achieve these goals:
+At the beginning of the meeting, introduce yourself and ask them to introduce themselves. Within each conversation, you should achieve these goals:
 
 - Introduce yourself, so they will be able to introduce you to the others later in the club.
 - Get to know them by asking about:

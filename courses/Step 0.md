@@ -3,6 +3,24 @@
 You are totally new to the club, Welcome to the club! There are lots of people in this club willing to help you. But how? How can you get help from them? Who is who!? Who knows what!?
 This is your first task, you should talk (literally talk on the phone or Skype) and get to know each other.
 
+### Essential Documents to Read First
+
+Before engaging with others in the club, it is essential to first familiarize yourself with the guidelines and processes for your internship journey. The following documents must be read in the specified order before you can proceed further.
+
+1. [Program Step Contents](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Program%20Step%20Contents%20--fa.md)
+   - This document explains the structure of the program steps, helping you understand what to expect at each step.
+2. Introduction to Meetings & Working with Azure Boards (Link will be provided soon)
+   - Learn how meetings are structured and how to effectively use Azure Boards to coordinate your meetings.
+3. Workshop Session Setup Guide (Link will be provided soon)
+   - Understand how workshop sessions are organized, including setting up and participating in them.
+4. [Penalty System Document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Penalty%20--fa.md)
+   - Learn about the rules and penalties in place to ensure accountability and consistency throughout the internship.
+
+### Schedule a Q&A Session with Your Coordinator
+
+After studying these documents, you must arrange a session with your coordinator in the Coordination group. This session is called "Q&A Session", where you can ask any questions regarding the documents above.<br>
+To schedule this session, mention your coordinator in the Meeting topic of the Coordination group and coordinate a suitable time. In your message, specify the days and times that work for you so that you and your coordinator can agree on a schedule. The Q&A session should be planned for 30 minutes.
+
 ### Guideline
 
 At the end of each week, you are supposed to give your mentor a report including the following items:
@@ -10,8 +28,6 @@ At the end of each week, you are supposed to give your mentor a report including
 - Link to all your posts during the last week specifying the relevant task item for each link, and also mention the exact date that each one of them were posted.
 - How many hours did you spend on cs_internship last week?
 - What percentage are you satisfied with what you did last week?
-
-Watch the [Preparing For Live Presentation](https://youtu.be/MM47EKwACy4) video.
 
 ### Tasks
 
@@ -26,9 +42,9 @@ You should contact these people:
 -  All interns in your club
 -  Your own coordinator
 
-Yon can find the information of technical mentors in **CS Internship - Coordination** telegram group.
+Yon can find the information of technical mentors in [**CS Internship - Coordination**](https://t.me/c/2034114419/1/311) telegram group.
 
-Introduce yourself and ask them to introduce themselves. Within each conversation you should achieve these goals:
+At the beginning of the meeting, introduce yourself and ask them to introduce themselves. Within each conversation, you should achieve these goals:
 
 - Introduce yourself, so they will be able to introduce you to the others later in the club.
 - Get to know them by asking about:
@@ -46,9 +62,8 @@ And finally, you should ask (and convince) 5 of them to introduce you in the clu
 
 ### Mentors Training
 
-In the mentoring training path, you should watch the **"first"** and **"second"** videos of the 8 videos for the **"Communication Training"** course. Here are the links:
+In the mentoring training path, you should watch the **"second"** video of the 8 videos for the **"Communication Training"** course. Here is the link:
 
-- Link to [video1](https://drive.google.com/file/d/1EHNym_sO9EkdN059a0TkXlGVx1ZwSVp4/view?usp=drive_link).
 - Link to [video2](https://drive.google.com/file/d/1qIUCdSuSUP9_ULkW5BuZrEkGsrMi3hIb/view?usp=drive_link). 
 
 To do this part, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 

@@ -1,12 +1,7 @@
-<<<<<<< HEAD:processes/documents/CSI - Process - Approval Process for an Applicant Commitment --farsi-ir.md
-
-# مقدمه
-=======
 # فرایند بررسی متن تعهد داوطلب ورود به برنامه CS Internship
 
 
 ## مقدمه
->>>>>>> origin/master:processes/documents/Approval Process for an Applicant Commitment --fa.md
 
 هر داوطلب ورود به برنامه CS Internship فردی است که در جلسه‌ای تحت عنوان «جلسه مصاحبه» شرکت کرده است. یکی از موضوعاتی که در جلسه مصاحبه از داوطلب خواسته می‌شود، نوشتن و ارسال «متن تعهد» به کوردینیتور خود است. محتوای متن تعهد در جلسه مصاحبه مشخص می‌شود. هر داوطلب پس از اتمام جلسه مصاحبه، حداکثر تا ۴۸ ساعت پس از پایان جلسه مصاحبه (زمان دقیق در جلسه مصاحبه اعلام می‌شود) فرصت دارد تا متن تعهد خود را ارسال کند. 
 
@@ -51,9 +46,6 @@
 `Finalize Commitment Statement - [First Interviewee Name]`  
 شرح وضعیت تعهد داوطلب را یادداشت کرده و آن را در حالت **Done (انجام شده)** قرار می‌دهد.
 
-<<<<<<< HEAD:processes/documents/CSI - Process - Approval Process for an Applicant Commitment --farsi-ir.md
-### **پیام اتمام بازه زمانی برای ارسال متن تعهد**
-=======
 1. **حالت اول:** داوطلب متن تعهد خود را ارسال می‌کند، ولی بعد از زمان اعلام شده در جلسه مصاحبه.
 2. **حالت دوم:** داوطلب به موقع و قبل از زمان اعلام شده در جلسه مصاحبه متن تعهد خود را ارسال می‌کند.
 
@@ -68,7 +60,6 @@
 در این حالت، کوردینیتور بلافاصله «پیام اتمام بازه زمانی برای ارسال متن تعهد» را برای داوطلب ارسال می‌کند. همچنین بلافاصله در قسمت توضیحات تسکFinalize \[First Intern’s Name\] Commitment Statement شرح وضعیت تعهد داوطلب را یادداشت و آن را در حالت انجام شده (Done) قرار می‌دهد.
 
 **پیام اتمام بازه زمانی برای ارسال متن تعهد**
->>>>>>> origin/master:processes/documents/Approval Process for an Applicant Commitment --fa.md
 
 ```plaintext
 سلام،
@@ -114,10 +105,7 @@ CS Internship – Interview Commitment Check
 پس از اعلام نظر نهایی توسط **دو منتور**، دو حالت ممکن است رخ دهد:
 
 
-<<<<<<< HEAD:processes/documents/CSI - Process - Approval Process for an Applicant Commitment --farsi-ir.md
-=======
 ### بخش دوم: داوطلب متن تعهد خود را به هر دلیلی به کوردینیتور خود ارسال نمی‌کند
->>>>>>> origin/master:processes/documents/Approval Process for an Applicant Commitment --fa.md
 
 ### **شرایط اول: متن تعهد داوطلب توسط هر دو منتور تأیید شده است**  
 در این صورت، کوردینیتور **بلافاصله پس از تأیید متن تعهد**، قبول شدن تعهد را به داوطلب اطلاع می‌دهد.  

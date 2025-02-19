@@ -71,7 +71,7 @@
 - در این پیام باید ذکر شود که متقاضی در هر زمان که بخواهد، **بدون هیچ شرطی** می‌تواند دوباره به صف موردنظر خود بازگردد.  
 - اطلاعات فرد از **جدول مسیر `Program Courses => [CourseName] => Queue` در OneNote** حذف می‌ کند.
 
-+ **انتقال صف متقاضی:**
++ #### **انتقال صف متقاضی:**
   اگر متقاضیان در هر زمانی، پیش یا پس از دعوت به مصاحبه، درخواست انتقال از صف دوره‌ای به دوره‌ی دیگر داشتند، مسئول صف، مطابق توضیحات بخش [حذف متقاضی از صف](https://github.com/nargesghan/cs-internship-spec/blob/official/documentation/processes/documents/Queue%20Check%20--fa.md#%D8%AD%D8%B0%D9%81-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C-%D8%A7%D8%B2-%D8%B5%D9%81)، شخص را از صف دوره‌ای که در آن حضور دارد حذف و مطابق توضیحات بخش [اضافه کردن متقاضی به صف](https://github.com/nargesghan/cs-internship-spec/blob/official/documentation/processes/documents/Queue%20Check%20--fa.md#%D8%A7%D8%B6%D8%A7%D9%81%D9%87-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C-%D8%A8%D9%87-%D8%B5%D9%81)، شخص را به صف دوره دلخواهش اضافه کند.
 
 

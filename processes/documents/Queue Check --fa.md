@@ -72,7 +72,7 @@
 - اطلاعات فرد از **جدول مسیر `Program Courses => [CourseName] => Queue` در OneNote** حذف می‌ کند.
 
 + **انتقال صف متقاضی:**
-  اگر متقاضیان در هر زمانی، پیش یا پس از دعوت به مصاحبه، درخواست انتقال از صف دوره‌ای به دوره‌ی دیگر داشتند، مسئول صف، مطابق توضیحات بخش [حذف متقاضی از صف](https://github.com/nargesghan/cs-internship-spec/blob/official/documentation/processes/documents/CSI%20-%20Process%20-%20Queue%20Check%20--farsi-ir.md#حذف-متقاضی-از-صف)، شخص را از صف دوره‌ای که در آن حضور دارد حذف و مطابق توضیحات بخش [اضافه کردن متقاضی به صف](https://github.com/nargesghan/cs-internship-spec/blob/official/documentation/processes/documents/CSI%20-%20Process%20-%20Queue%20Check%20--farsi-ir.md#اضافه-کردن-متقاضی-به-صف)، شخص را به صف دوره دلخواهش اضافه کند.
+  اگر متقاضیان در هر زمانی، پیش یا پس از دعوت به مصاحبه، درخواست انتقال از صف دوره‌ای به دوره‌ی دیگر داشتند، مسئول صف، مطابق توضیحات بخش [حذف متقاضی از صف](https://github.com/nargesghan/cs-internship-spec/blob/official/documentation/processes/documents/Queue%20Check%20--fa.md#%D8%AD%D8%B0%D9%81-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C-%D8%A7%D8%B2-%D8%B5%D9%81)، شخص را از صف دوره‌ای که در آن حضور دارد حذف و مطابق توضیحات بخش [اضافه کردن متقاضی به صف](https://github.com/nargesghan/cs-internship-spec/blob/official/documentation/processes/documents/Queue%20Check%20--fa.md#%D8%A7%D8%B6%D8%A7%D9%81%D9%87-%DA%A9%D8%B1%D8%AF%D9%86-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C-%D8%A8%D9%87-%D8%B5%D9%81)، شخص را به صف دوره دلخواهش اضافه کند.
 
 
 
@@ -85,7 +85,7 @@
      
   2. اگر فردی پس از عضو شدن در گروه CS Internship - Interview Onboarding از شرکت در مصاحبه انصراف داد، مسئول صف باید آن را از گروه CS Internship - Interview Onboarding حذف کند و به برنامه ریز مصاحبه این مورد را اطلاع بدهد.
      
-  3. در صورتی که فردی 3 روز پس از عضو شدن در گروه CS Internship - Interview Onboarding به پیام پین شده پاسخی نداد، این فرد انصراف داده شده تلقی میشود. نیاز هست که مسئول صف این مورد را به برنامه ریز مصاحبه اطلاع بدهد و در صورت تایید برنامه ریز مصاحبه، فرد را از گروه CS Internship - Interview Onboarding حذف کند. سپس طبق توضیحات بخش [حذف متقاضی از صف](https://github.com/nargesghan/cs-internship-spec/blob/official/documentation/processes/documents/CSI%20-%20Process%20-%20Queue%20Check%20--farsi-ir.md#حذف-متقاضی-از-صف)، شخص را از صف حذف کند.
+  3. در صورتی که فردی 3 روز پس از عضو شدن در گروه CS Internship - Interview Onboarding به پیام پین شده پاسخی نداد، این فرد انصراف داده شده تلقی میشود. نیاز هست که مسئول صف این مورد را به برنامه ریز مصاحبه اطلاع بدهد و در صورت تایید برنامه ریز مصاحبه، فرد را از گروه CS Internship - Interview Onboarding حذف کند. سپس طبق توضیحات بخش [حذف متقاضی از صف](https://github.com/nargesghan/cs-internship-spec/blob/official/documentation/processes/documents/Queue%20Check%20--fa.md#%D8%AD%D8%B0%D9%81-%D9%85%D8%AA%D9%82%D8%A7%D8%B6%DB%8C-%D8%A7%D8%B2-%D8%B5%D9%81)، شخص را از صف حذف کند.
   
 ### 4. مدیریت بات تلگرام صف
 در گروه صف رباتی طراحی شده که پس از ورود اعضا به گروه، این ربات وظیفه خوشامدگویی و ثبت نام افراد را به عهده دارد. اگر کسی وارد بات شد اما پیام خوشامدگویی در گروه ارسال نشد، به این معنی است که سروری که بات روی آن میزبانی شده نیاز به ریستارت دستی دارد. این اتفاق معمولاً هر سه ماه یک‌بار ممکن است رخ دهد.

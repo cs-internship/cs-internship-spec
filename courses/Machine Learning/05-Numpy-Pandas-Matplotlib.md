@@ -19,15 +19,15 @@
   
 ### Study Items
 
-  1. [Python Data Science Handbook](README.md): Chapter 2 (Introduction to Numpy).
-  2. [Python Data Science Handbook](README.md): Chapter 3 (Data Manipulation with Pandas).
-  3. [Python Data Science Handbook](README.md): Chapter 4 (Visualization with Matplotlib).
+  1. [Python Data Science Handbook](README.md): Part II, Chapters 4 to 12 (Introduction to Numpy).
+  2. [Python Data Science Handbook](README.md): Part III, Chapters 13 to 24 (Data Manipulation with Pandas).
+  3. [Python Data Science Handbook](README.md): Part IV, Chapters 25 to 36 (Visualization with Matplotlib).
 
 ### Tasks
 
  1. Achieve [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on StackOverflow.
  2. Achieve [**Nice Question**](https://stackoverflow.com/help/badges/20/nice%20question) badge on StackOverflow.
- 3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 223**.
+ 3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 244**.
  4. Do the exercise 3 in step 4 again but open the CSV file with **Pandas package** as a dataframe and add new four columns to it with name **MA1, MA2, MA3, and MA4** and for these columns calculate the [Moving Average](https://en.wikipedia.org/wiki/Moving_average) of close price for durations of 5, 10, 15, and 30 (N=5, 10, 15, and 30).
  5. Find at least 5 other online resources about numpy & pandas & matplotlib, and explain why you chose them.
  6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.

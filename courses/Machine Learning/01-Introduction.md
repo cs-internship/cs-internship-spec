@@ -25,7 +25,9 @@
   3. [The Quick Python Book](README.md): Chapter 3 (The Quick Python overview).
   4. [The Quick Python Book](README.md): Chapter 4 (The absolute basics).
   5. [Let's get started with Python](https://github.com/mrhajbabaei/get-started-with-python).
-  6. [Git Handbook](https://guides.github.com/introduction/git-handbook/).
+  6. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)
+  7. [Git Handbook](https://guides.github.com/introduction/git-handbook/).
+  8. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
 
 
 ### Tasks

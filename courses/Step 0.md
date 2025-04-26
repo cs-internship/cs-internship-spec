@@ -54,8 +54,8 @@ At the beginning of the meeting, introduce yourself and ask them to introduce th
 
 Then, after knowing each person, you should take your time and share your knowledge and feelings about them:
 
-- Post a **brief introduction** about them on Telegram (a summary of their answers to the 3 questions above) using #معرفی #cs_internship #courseName #stepNumber tags and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
-- Tweet your **feelings** about them using #معرفی #cs_internship #courseName #stepNumber and mention name of the person you introduce using @NameOfThePersonYouIntroduce.
+- Post a **brief introduction** about them on Telegram (a summary of their answers to the 3 questions above) using #معرفی #cs_internship #courseName #stepNumber tags and mention name of the person you introduce using Telegram @username of the person you introduce.
+- Tweet your **feelings** about them using #معرفی #cs_internship #courseName #stepNumber and mention name of the person you introduce using Twitter @username of the person you introduce.
 
 And finally, you should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.
 

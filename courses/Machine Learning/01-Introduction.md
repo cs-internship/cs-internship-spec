@@ -39,7 +39,7 @@
   5. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
   6. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
   7. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
-  8. Register at exercism.io. Join Python track in **independent mode**
+  8. Register at exercism.io. Join Python track in **Practice Mode**
   9. Pass these exercises at exercism.io (Use your GitHub as source control):
       - Hello World
       - Two Fer

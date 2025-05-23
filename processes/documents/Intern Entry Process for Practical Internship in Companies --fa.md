@@ -45,7 +45,7 @@
 
 ### ثبت فرایند در Azure
 
-کوردینیتور مطابق شکل زیر وارد [فیچرهای بورد عملیاتی](https://dev.azure.com/cs-internship/CS%20Internship%20Program/_backlogs/backlog/Operations%20Team/Features/?showParents=true) در Azure می‌شود. ابتدا به بخش Backlogs (فلش 1) رفته و Feature (فلش 2) را انتخاب می‌کند. سپس فیچر `Joining to CS Job Network` را انتخاب کرده و قالب `[Template] Add Intern to CS Job Network: [Intern full name]` را کپی و ویرایش می‌کند.
+کوردینیتور مطابق شکل زیر وارد [فیچرهای بورد عملیاتی](https://dev.azure.com/cs-internship/CS%20Internship%20Program/_backlogs/backlog/Operations%20Team/Features/?showParents=true) در Azure می‌شود. ابتدا به بخش Backlogs (تصویر۱-۱) رفته و Feature (تصویر۱-۲) را انتخاب می‌کند. سپس فیچر `Joining to CS Job Network` را انتخاب کرده و قالب `[Template] Add Intern to CS Job Network: [Intern full name]` را کپی و ویرایش می‌کند.
 
 ![image_2025-05-20_23-39-44](https://github.com/user-attachments/assets/bf258921-e28a-492b-9c7c-4bb80a30ce45)
 

@@ -11,6 +11,7 @@ Before engaging with others in the club, it is essential to first familiarize yo
    - This document explains the structure of the program steps, helping you understand what to expect at each step.
 2. [Introduction to Meetings & Working with Azure Boards](https://www.youtube.com/watch?v=pRCOpFa5XlI&list=PLSQ2VqVf5QiAy2HzIvjN271CUUeIQYQ3s&index=3&ab_channel=CSInternship) (Document coming soon)
    - Learn how meetings are structured and how to effectively use Azure Boards to coordinate your meetings.
+   - [Link to the CS Internship Azure Board](https://dev.azure.com/cs-internship/CS%20Internship%20Program/_sprints/taskboard/Operations%20Team/CS%20Internship%20Program/Operational/)
 3. Workshop Session Setup Guide (Document coming soon)
    - Understand how workshop sessions are organized, including setting up and participating in them.
 4. [Penalty System Document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Penalty%20--fa.md)

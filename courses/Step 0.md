@@ -47,6 +47,9 @@ Throughout the course, it’s important to express both your emotions and knowle
 - All interns in your club
 - Your coordinator (If you want, you can set up a meeting with your coordinator to get to know them and have a Q&A session about the onboarding documents—all in one meeting instead of two separate ones.)
 
+**Note:** All communication related to the program should take place within the official program groups. Please avoid sending private messages to other program members. To schedule your meetings, use the **"meetings"** topic in the **CS Internship – Coordination** Telegram group.
+
+
 You can find the contact details for technical mentors in the [**CS Internship - Coordination**](https://t.me/c/2034114419/1/311) Telegram group.
 At the start of your meeting with each person, introduce yourself and ask them to introduce themselves. The main objectives for each conversation are:
 

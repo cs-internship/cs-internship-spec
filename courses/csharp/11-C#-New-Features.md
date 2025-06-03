@@ -20,7 +20,7 @@
 ### Study Items
 
   1. [What's new in C# 13.0](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-13)
-  2. [What's new in C# 13.0 Video](https://build.microsoft.com/en-US/sessions/689e5104-72e9-4d02-bb52-77676d1ec5bc)
+  2. [What's new in C# 13.0 Video](https://www.youtube.com/watch?v=japXYFS9YPQ)
   3. [Nullable Reference Types in C#](https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references)
   4. [Tutorial: Embracing Nullable Reference Types in C#](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/nullable-reference-types)
   5. [Upgrading Your Codebase with C# Nullable Reference Types](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/upgrade-to-nullable-references)

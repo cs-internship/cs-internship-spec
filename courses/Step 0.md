@@ -50,7 +50,7 @@ Throughout the course, it’s important to express both your emotions and knowle
 **Note:** All communication related to the program should take place within the official program groups. Please avoid sending private messages to other program members. To schedule your meetings, use the **"meetings"** topic in the **CS Internship – Coordination** Telegram group.
 
 
-You can find the contact details for technical mentors in the [**CS Internship - Coordination**](https://t.me/c/2034114419/1/311) Telegram group.
+You can find the contact details for technical mentors in the [**CS Internship - Coordination**](https://t.me/c/2034114419/1/4796) Telegram group.
 At the start of your meeting with each person, introduce yourself and ask them to introduce themselves. The main objectives for each conversation are:
 
 - **Introduce yourself** so they can later introduce you to others in the club.

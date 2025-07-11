@@ -1,5 +1,4 @@
-<img width="127" height="19" alt="image" src="https://github.com/user-attachments/assets/5682341c-84ab-495c-9578-fc8a6089f7b9" /># محتوای استپ‌های برنامه CS Internship
-
+# محتوای استپ‌های برنامه CS Internship
 
 ## **مقدمه**
 

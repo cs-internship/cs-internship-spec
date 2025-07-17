@@ -86,14 +86,15 @@
 
 ۱-۱- اگر اینترن قرار است همیارفنی شود:
 
-باید برای او یک تسک در فیچر Technical Sessions در بکلاگ TEMP Hold Technical Sessions - Technical Assistant Level 1 ایجاد شود:
+باید برای او یک تسک در فیچر Technical Sessions در بکلاگ TEMPLATE Hold Technical Sessions - Technical Assistant Level 1 ایجاد شود:
 
 عنوان تسک شامل مسیر آموزشی مانند "C#" یا "ML" به همراه روز و ساعت پیشنهادی از طرف اینترن (مطابق تصویر پایین) تنطیم می شود و در آخر تسک به نام اینترن اساین می شود.
 
 ۱-۲-	اگر فقط تغییر سطح همیارفنی انجام می‌شود:
 
 تسک‌ مرتبط با اینترن به بکلاگ سطح جدید (مثلاً Level 2) منتقل می‌شوند.
-![image](https://github.com/user-attachments/assets/ccfa988f-992a-4f55-9214-9934b654f844)
+<img width="1880" height="1006" alt="image" src="https://github.com/user-attachments/assets/251fb9b8-49df-41aa-aff7-2ed8e19248c0" />
+با توجه به آماده بودن بورد Azure برای سه اسپرینت آینده، ضروری است که برای همیار فنی جدید، تسک‌های مربوط به برگزاری جلسات فنی در هر سه اسپرینت ایجاد شوند.
 
 ۲- ایجاد لینک جلسه ثابت در Microsoft Teams
 

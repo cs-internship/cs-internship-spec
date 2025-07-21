@@ -159,3 +159,5 @@ Boards > Backlogs > Operations Team > (Feature) Operaional part for RFC
 
 
 ## واژه‌نامه
+
+RFC : Request For Change

@@ -124,7 +124,7 @@
 
 باید برای او یک تسک در فیچر Technical Sessions در بکلاگ TEMPLATE Hold Technical Sessions - Technical Assistant Level 1 ایجاد شود:
 
-عنوان تسک شامل مسیر آموزشی مانند "C#" یا "ML" به همراه روز و ساعت پیشنهادی از طرف اینترن (مطابق تصویر پایین) تنطیم می شود و در آخر تسک به نام اینترن اساین می شود.
+عنوان تسک شامل مسیر آموزشی مانند "C#" یا "ML" به همراه روز و ساعت پیشنهادی از طرف اینترن (مطابق تصویر پایین) تنظیم می شود و در آخر تسک به نام اینترن اساین می شود.
 
 ۱-۲-	اگر فقط تغییر سطح همیارفنی انجام می‌شود:
 
@@ -180,7 +180,7 @@ Azure Boards → Backlogs → Attending Operational Meetings
 
 ۳- پیام پین‌شده در گروه Coordination Meeting
 
-اگر همیار فنی بصورت موردی، زمان جلسه در یک هفته را بخواهد تغییر دهد، کارهای لازم برای آن را باید خودش انجام دهد. مراحل آن در داکیومنت [«راهنمای نقش همیار فنی و دستورالعمل‌های آن»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Technical%20Assistant%20Role%20and%20Guidelines%20--fa.md) آمده ست.
+اگر همیار فنی بصورت موردی، زمان جلسه در یک هفته را بخواهد تغییر دهد، کارهای لازم برای آن را باید خودش انجام دهد. مراحل آن در داکیومنت [«راهنمای نقش همیار فنی و دستورالعمل‌های آن»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Technical%20Assistant%20Role%20and%20Guidelines%20--fa.md) آمده است.
 
 ### وظایف کوردینیتور در پایان فاز خودآموزی
 
@@ -189,7 +189,7 @@ Azure Boards → Backlogs → Attending Operational Meetings
 
 ۲. **اقدامات لازم برای اضافه شدن اینترن به گروه تلگرامی CS Job Network:**  
   پس از اتمام فاز خودآموزی، کوردینیتور باید اقدامات لازم جهت ورود اینترن به گروه تلگرامی CS Job Network را انجام دهد.  
-  جزییات کامل مربوط به این مرحله در مستند [«فرایند ورود اینترن‌ها به دوره کارآموزی عملی»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Intern%20Entry%20Process%20for%20Practical%20Internship%20in%20Companies%20--fa.md) شرح داده شده است.
+  جزئیات کامل مربوط به این مرحله در مستند [«فرایند ورود اینترن‌ها به دوره کارآموزی عملی»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Intern%20Entry%20Process%20for%20Practical%20Internship%20in%20Companies%20--fa.md) شرح داده شده است.
 
 
 ## آموزش‌دهنده‌ها

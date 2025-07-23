@@ -170,10 +170,10 @@ Azure Boards → Backlogs → Attending Operational Meetings
 
 ### وظایف کوردینیتور در پایان فاز خودآموزی
 
-- **انتقال پروفایل اینترن به پوشه Graduates:**  
+۱. **انتقال پروفایل اینترن به پوشه Graduates:**  
   پس از پایان دورهٔ خودآموزی، کوردینیتور موظف است پروفایل اینترن را در OneNote به مسیر Program Course > Course Name > Graduates منتقل کند.
 
-- **اقدامات لازم برای اضافه شدن اینترن به گروه تلگرامی CS Job Network:**  
+۲. **اقدامات لازم برای اضافه شدن اینترن به گروه تلگرامی CS Job Network:**  
   پس از اتمام فاز خودآموزی، کوردینیتور باید اقدامات لازم جهت ورود اینترن به گروه تلگرامی CS Job Network را انجام دهد.  
   جزییات کامل مربوط به این مرحله در مستند [«فرایند ورود اینترن‌ها به دوره کارآموزی عملی»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Intern%20Entry%20Process%20for%20Practical%20Internship%20in%20Companies%20--fa.md) شرح داده شده است.
 

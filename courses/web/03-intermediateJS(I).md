@@ -2,7 +2,7 @@
 
 ## Weekly Activity & Reporting Guideline
 
-### Posting Guidelines
+### Activity Guidelines
 
 - For each study item and task, you must publish at least one post on **LinkedIn**, **Twitter (X)**, and **Telegram**.
 - Your posts should reflect your actual activity. You’re expected to stay active and post on a **weekly basis**.
@@ -14,29 +14,13 @@
 - Every LinkedIn post must also include the following link:  
   https://virgool.io/cs-internship/cs-internship-k3j2hx4wgvga
 
-### Why This Is Important
-
-In professional environments, **consistency and quality** are what set individuals apart.  
-How often and how well you post is entirely up to you — but this is your chance to **stand out**.
-
-By posting regularly, you will:
-- Build a visible and credible **personal brand**
-- Grow your **professional network**
-- Show your **dedication**, **growth mindset**, and **communication skills**
-- Gain visibility within and beyond the program
-- Document your journey in a way that helps others and inspires yourself
-
 ### Weekly Report
 
 You must submit a weekly report to your coordinator using the official template.
-
 Instructions and the template are available in the  
 [Program Step Contents document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Program%20Step%20Contents%20--fa.md).
 
-Weekly reports help track your progress, keep you accountable, and show your consistency — a key trait in any professional setting.
-
-
-### Technical Sessions
+### Technical Assistant Sessions
 
 After spending 15 hours on activities since your last Technical Assistant Session, you should schedule a Technical Assistant Session.
 Details are available in the [Program Step Contents document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Program%20Step%20Contents%20--fa.md).

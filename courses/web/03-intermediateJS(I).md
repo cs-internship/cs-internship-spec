@@ -1,29 +1,54 @@
-## Step 3. Intermediate JS (I)
+# Step 3. Intermediate JS (I)
 
-### Guideline
+## Weekly Activity & Reporting Guideline
 
-- Ask your coordinator for a detailed description of the step content before setting a deadline.
+### Posting Guidelines
 
-- For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
-`#cs_internship`
-`#[courseName]`
-`#[stepNumber]`
+- For each study item and task, you must publish at least one post on **LinkedIn**, **Twitter (X)**, and **Telegram**.
+- Your posts should reflect your actual activity. You’re expected to stay active and post on a **weekly basis**.
+- Posting is the **primary way your progress is tracked**. It’s not necessary to have completed the item — you can share your **learning process** or **ongoing progress** in your posts.
+- Include the following hashtags in all posts:  
+  `#cs_internship`  
+  `#[courseName]`  
+  `#[stepNumber]`
+- Every LinkedIn post must also include the following link:  
+  https://virgool.io/cs-internship/cs-internship-k3j2hx4wgvga
 
-- At the end of each week, you are supposed to give your coordinator a report including the following items:
-  1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
-  2. How many hours did you spend on cs_internship last week?
-  3. What percentage are you satisfied with what you did last week?
+### Why This Is Important
 
-  You will have a session with a technical mentor based on your report.
+In professional environments, **consistency and quality** are what set individuals apart.  
+How often and how well you post is entirely up to you — but this is your chance to **stand out**.
 
-### Study Items <!-- omit in toc -->
+By posting regularly, you will:
+- Build a visible and credible **personal brand**
+- Grow your **professional network**
+- Show your **dedication**, **growth mindset**, and **communication skills**
+- Gain visibility within and beyond the program
+- Document your journey in a way that helps others and inspires yourself
+
+### Weekly Report
+
+You must submit a weekly report to your coordinator using the official template.
+
+Instructions and the template are available in the  
+[Program Step Contents document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Program%20Step%20Contents%20--fa.md).
+
+Weekly reports help track your progress, keep you accountable, and show your consistency — a key trait in any professional setting.
+
+
+### Technical Sessions
+
+After spending 15 hours on activities since your last Technical Assistant Session, you should schedule a Technical Assistant Session.
+Details are available in the [Program Step Contents document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Program%20Step%20Contents%20--fa.md).
+
+## Study Items <!-- omit in toc -->
 
 1. [YDKJS Book 2, Chapter 1: What is Scope?](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch1.md)
 2. [YDKJS Book 2, Chapter 2: Lexical Scope](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch2.md)
 3. [YDKJS Book 2, Chapter3: Function vs. Block Scope](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch3.md)
 4. [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 
-### Tasks <!-- omit in toc -->
+## Tasks <!-- omit in toc -->
 
 1. Make your calculator themeable:
 
@@ -53,7 +78,7 @@
    - Leap
    - Pangram
 
-   Learn how to run tests for these steps, and run all available tests in spec file (remove the "x" from the beginning of each "xtest").
+   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xtest").
 
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
@@ -64,11 +89,18 @@
 
 7. Follow at least 5 Twitter accounts that are active in web technologies. Describe why they are worth following.
 
-8. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+8. You are now eligible and it is time to proceed with your promotion to **Level 1 Technical Assistant**.
+Read the following document and follow the instructions provided to complete the role transition.
+[Technical Assistant Role and Guidelines](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Technical%20Assistant%20Role%20and%20Guidelines%20--fa.md)
 
-9. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+9. You must have a session with a technical assistant on your step. In this session, the assistant will review your reports and activities.
+It is recommended to schedule this session during the final week of your step.
 
-### Mentors Training
+10. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+
+11. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+
+## Mentors Training
 
 In the mentoring training path, you should watch the **"seventh"** and **"eighth"** videos out of the 8 videos for the **"Communication Training"** course. Here are the links:
 

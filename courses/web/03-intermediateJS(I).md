@@ -4,9 +4,9 @@
 
 ### Activity Guidelines
 
-- For each study item and task, you must publish at least one post on **LinkedIn**, **Twitter (X)**, and **Telegram**.
+- For every study item and task, you are required to publish at least one post on each of the following platforms: **LinkedIn**, **Twitter (X)**, and **Telegram**, which means at least three posts for each item.
 - Your posts should reflect your actual activity. You’re expected to stay active and post on a **weekly basis**.
-- Posting is the **primary way your progress is tracked**. It’s not necessary to have completed the item — you can share your **learning process** or **ongoing progress** in your posts.
+- Posting is the **primary way your progress is tracked**. It’s not necessary to have completed the item; you **should** share your **learning process** or **ongoing progress** in your posts.
 - Include the following hashtags in all posts:  
   `#cs_internship`  
   `#[courseName]`  
@@ -16,13 +16,13 @@
 
 ### Weekly Report
 
-You must submit a weekly report to your coordinator using the official template.
+You must submit a weekly report to your coordinator using the [official template](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Weekly%20Report%20-%20Intern's%20Name%20-%20Week%20Number.docx).
 Instructions and the template are available in the  
 [Program Step Contents document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Program%20Step%20Contents%20--fa.md).
 
 ### Technical Assistant Sessions
 
-After spending 15 hours on activities since your last Technical Assistant Session, you should schedule a Technical Assistant Session.
+After spending 15 hours on activities since your last Technical Assistant Session, you **should** schedule a Technical Assistant Session.
 Details are available in the [Program Step Contents document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Program%20Step%20Contents%20--fa.md).
 
 ## Study Items <!-- omit in toc -->
@@ -62,7 +62,7 @@ Details are available in the [Program Step Contents document](https://github.com
    - Leap
    - Pangram
 
-   Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xtest").
+Learn how to run tests for these steps, and run all available tests in the spec file (remove the "x" from the beginning of each "xtest").
 
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
@@ -73,11 +73,11 @@ Details are available in the [Program Step Contents document](https://github.com
 
 7. Follow at least 5 Twitter accounts that are active in web technologies. Describe why they are worth following.
 
-8. You are now eligible and it is time to proceed with your promotion to **Level 1 Technical Assistant**.
+8. You are now eligible and it is time to proceed with your promotion to **Technical Assistant, Level 1**.
 Read the following document and follow the instructions provided to complete the role transition.
 [Technical Assistant Role and Guidelines](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Technical%20Assistant%20Role%20and%20Guidelines%20--fa.md)
 
-9. You must have a session with a technical assistant on your step. In this session, the assistant will review your reports and activities.
+9. You must have a session with a Technical Assistant on your step. In this session, the assistant will review your reports and activities.
 It is recommended to schedule this session during the final week of your step.
 
 10. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.

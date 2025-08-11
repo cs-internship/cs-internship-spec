@@ -43,7 +43,7 @@
 پس از تهیه‌ی پروپزال، اینترن باید آن را در همان تاپیک برای کوردینیتور خود ارسال کند.  
 
 کوردینیتور پس از دریافت پروپزال، یک بکلاگ جدید براساس تمپلیت زیر ایجاد می‌کند:  
-‌`Backlogs (Operational Team) > Feature: Proposal for Change > Backlog: [TEMPLATE] Proposal: [Proposer Name] - [Proposal Name]`  
+`Backlogs (Operational Team) > Feature: Proposal for Change > Backlog: [TEMPLATE] Proposal: [Proposer Name] - [Proposal Name]`  
 
 این بکلاگ شامل دو تسک است:  
 - Primary Checking and announcing in the operational meeting  

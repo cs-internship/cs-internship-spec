@@ -25,7 +25,7 @@
 
 ### Tasks
 
- 1. Reach **50 reputation** on Stack Overflow, then achieve the **[Commentator](https://stackoverflow.com/help/badges/19/commentator)** badge. 
+ 1. Reach **50 reputation** on Stack Overflow, then achieve the **[Commentator](https://stackoverflow.com/help/badges/31/commentator)** badge. 
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 244**.
  3. Do the exercise 3 in step 4 again but open the CSV file with **Pandas package** as a dataframe and add new four columns to it with name **MA1, MA2, MA3, and MA4** and for these columns calculate the [Moving Average](https://en.wikipedia.org/wiki/Moving_average) of close price for durations of 5, 10, 15, and 30 (N=5, 10, 15, and 30).
  4. Find at least 5 other online resources about numpy & pandas & matplotlib, and explain why you chose them.

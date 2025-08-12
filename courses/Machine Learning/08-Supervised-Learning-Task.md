@@ -25,7 +25,7 @@
 
 ### Tasks
 
- 1. Achieve [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow.
+ 1. Reach **125 reputation** on Stack Overflow, then achieve the **[Critic](https://stackoverflow.com/help/badges/20/critic)** badge.
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 346**.
  3. Prepare a Sentiment Analyzer! (Classify texts based on sentiments into two categories: positive and negative)  [(data)](https://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip).
     About the data: [(HuggingFace)](https://huggingface.co/datasets/stanfordnlp/sentiment140) and [(Kaggle)](https://www.kaggle.com/datasets/kazanova/sentiment140).

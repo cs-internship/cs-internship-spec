@@ -25,8 +25,8 @@
 
 ### Tasks
 
- 1. Achieve the **[Teacher](https://stackoverflow.com/help/badges/21/teacher)** badge on Stack Overflow.
- 2. Achieve the **[Student](https://stackoverflow.com/help/badges/22/student)** badge on Stack Overflow.
+ 1. Achieve the **[Teacher](https://stackoverflow.com/help/badges/1/teacher)** badge on Stack Overflow.
+ 2. Achieve the **[Student](https://stackoverflow.com/help/badges/2/student)** badge on Stack Overflow.
  3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 374**.
  4. Build a model to detect fraudulent activities [(data)](https://www.cs.cmu.edu/~enron/).
  5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.

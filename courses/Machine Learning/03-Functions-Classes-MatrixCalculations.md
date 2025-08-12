@@ -30,8 +30,8 @@
   
 ### Tasks
 
-  1. Achieve the **[Suffrage](https://stackoverflow.com/help/badges/15/suffrage)** badge on Stack Overflow.
-  2. Achieve the **[Editor](https://stackoverflow.com/help/badges/16/editor)** badge on Stack Overflow. 
+  1. Achieve the **[Suffrage](https://stackoverflow.com/help/badges/804/suffrage)** badge on Stack Overflow.
+  2. Achieve the **[Editor](https://stackoverflow.com/help/badges/3/editor)** badge on Stack Overflow. 
   3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 169**.
   4. Pass these exercises at exercism.io (Use your GitHub as source control):
       - Kindergarten Garden

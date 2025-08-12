@@ -24,9 +24,8 @@
 
 ### Tasks
 
- 1. Achieve [**Self-Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 388**.
- 3. Create a neural network by machine learning to read and detect [handwriting data](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits).
- 4. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
- 5. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+ 1. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 388**.
+ 2. Create a neural network by machine learning to read and detect [handwriting data](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits).
+ 3. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+ 4. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 

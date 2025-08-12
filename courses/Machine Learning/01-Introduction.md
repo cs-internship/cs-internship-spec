@@ -37,17 +37,17 @@
   3. Create [TypingClub.com](https://www.typingclub.com) account.
   4. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
   5. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
-  6. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
-  7. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
-  8. Register at exercism.io. Join Python track in **Practice Mode**
-  9. Pass these exercises at exercism.io (Use your GitHub as source control):
+     - Follow the tags related to your course or area of study to make it easier to find relevant questions. 
+  6. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
+  7. Register at exercism.io. Join Python track in **Practice Mode**
+  8. Pass these exercises at exercism.io (Use your GitHub as source control):
       - Hello World
       - Two Fer
       - Raindrops
-  10. Do the exercises in study item 4 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
-  11. Find at least 5 other useful online resources for python and explain why you chose them.
-  12. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
-  13. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+  9. Do the exercises in study item 4 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
+  10. Find at least 5 other useful online resources for python and explain why you chose them.
+  11. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+  12. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
 
 ### Mentors Training

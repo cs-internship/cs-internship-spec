@@ -29,7 +29,7 @@
   
 ### Tasks
 
-  1. Reach **15 reputation** on Stack Overflow by answering questions, then achieve the **[Supporter](https://stackoverflow.com/help/badges/12/supporter)** badge.  
+  1. Reach **15 reputation** on Stack Overflow by answering questions, then achieve the **[Supporter](https://stackoverflow.com/help/badges/6/supporter)** badge.  
   2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 137**.
   3. Pass these exercises at exercism.io (Use your GitHub as source control):  
       - High Scores

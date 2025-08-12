@@ -38,7 +38,7 @@
       - Grade School
       - Clock
       - Tournament
-  5. Do the exercises in study items 1, 2 and 3 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
+  5. Do the exercises in study items 1, 2 and 3 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control.
   6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
   7. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 

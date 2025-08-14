@@ -41,11 +41,13 @@
 
 3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 388**.
 
-4. Achieve the [**Vox Populi**](https://stackoverflow.com/help/badges/1108/vox-populi) badge on Stack Overflow.
+4. Achieve the **[Teacher](https://stackoverflow.com/help/badges/1/teacher)** badge on Stack Overflow.
 
-5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+5. Achieve the **[Student](https://stackoverflow.com/help/badges/2/student)** badge on Stack Overflow.
 
-6. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+
+7. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
 ### Mentors Training
 

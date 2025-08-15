@@ -45,10 +45,10 @@
 8. Achieve the **[Autobiographer](https://stackoverflow.com/help/badges/9/autobiographer)** badge on Stack Overflow.
 9. Achieve the **[Informed](https://stackoverflow.com/help/badges/2600/informed)** badge on Stack Overflow.
     - Follow the tags related to your course or area of study to make it easier to find relevant questions.  
-11. Find at least 5 extra useful online resources for HTML/CSS. Then explain why you chose them.
-12. Find at least 5 extra useful online resources for Git/Github. Then explain why you chose them.
-13. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
-14. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+10. Find at least 5 extra useful online resources for HTML/CSS. Then explain why you chose them.
+11. Find at least 5 extra useful online resources for Git/Github. Then explain why you chose them.
+12. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+13. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
 ### Mentors Training
 

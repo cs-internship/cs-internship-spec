@@ -54,7 +54,7 @@
 
 5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 316**.
 
-6. Achieve the [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on Stack Overflow.
+6. Reach **75 reputation** on Stack Overflow.  
 
 7. Find at least 5 other online resources about **HTTP** and explain why you chose them.
 

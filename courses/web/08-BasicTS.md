@@ -40,7 +40,7 @@
 
 2. Pass all lessons on TypingClub.com with 5 stars up to **lesson 374**.
 
-3. Achieve the [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on Stack Overflow.
+3. Reach **125 reputation** on Stack Overflow, then achieve the **[Critic](https://stackoverflow.com/help/badges/7/critic)** badge.
 
 4. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 

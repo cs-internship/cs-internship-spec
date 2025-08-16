@@ -46,15 +46,13 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-4. Achieve the [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on Stack Overflow.
+4. Reach **15 reputation** on Stack Overflow by answering questions, then achieve the **[Supporter](https://stackoverflow.com/help/badges/6/supporter)** badge.
 
-5. Achieve the [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on Stack Overflow.
+5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 
-6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
+6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 
-7. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
-
-8. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+7. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
 ### Mentors Training
 

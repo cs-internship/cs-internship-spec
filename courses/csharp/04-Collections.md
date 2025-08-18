@@ -25,7 +25,7 @@
 ### Tasks
 
  1. Search for some more advanced collections available in BCL, name 3 of them and a little description about them.
- 2. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
+ 2. Achieve the **[Scholar](https://stackoverflow.com/help/badges/10/scholar)** badge on Stack Overflow.
  3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 244.
  4. Pass these exercises at exercism.io:
     - High Scores
@@ -33,7 +33,7 @@
     - Nucleotide Count
     - Robot Name
  5. **Mini Project - Task Management System**  
-    - **Project Overview:** In this mini-project, you will develop a Task Management System using C# collections. You’ll manage tasks using `List<T>`, `Dictionary<TKey, TValue>`, and `Queue<T>` collections. The system should allow adding, removing, editing, and categorizing tasks.
+    - **Project Overview:** In this mini-project, you will develop a Task Management System using C# collections. Youâ€™ll manage tasks using `List<T>`, `Dictionary<TKey, TValue>`, and `Queue<T>` collections. The system should allow adding, removing, editing, and categorizing tasks.
  6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
  7. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
@@ -46,3 +46,4 @@ In the mentoring training path, you should watch the **"first"** and **"second"*
 - Link to [video2](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+

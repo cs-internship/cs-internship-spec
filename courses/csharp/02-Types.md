@@ -29,7 +29,7 @@
 ### Tasks  <!-- omit in toc -->
  1. Choose 3 bloggers who write about C# and describe why they matter to you.
  2. Search for dotPeek, what is it? Open and investigate one of your program dlls that you have written so far.
- 3. Achieve [**Supporter**](https://stackoverflow.com/help/badges/6/supporter) badge on StackOverflow
+ 3. Reach **15 reputation** on Stack Overflow by answering questions, then achieve the **[Supporter](https://stackoverflow.com/help/badges/6/supporter)** badge.
  4. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 137.
  5. Pass these exercises at exercism.io:
     - Allergies
@@ -52,3 +52,4 @@ In the mentoring training path, you should watch the **"fifth"** and **"sixth"**
 - Link to [video6](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+

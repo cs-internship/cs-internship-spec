@@ -22,7 +22,7 @@
 
 ### Tasks
 
- 1. Achieve [**Nice Answer**](https://stackoverflow.com/help/badges/23/nice-answer) badge on StackOverflow
+ 1. Reach **125 reputation** on Stack Overflow, then achieve the **[Critic](https://stackoverflow.com/help/badges/7/critic)** badge.  
  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 374.
  3. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
  4. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
@@ -36,3 +36,4 @@ In the mentoring training path, you should watch the **"ninth"** and **"tenth"**
 - Link to [video10](https://drive.google.com/drive/folders/1_uRxg9mzKYycKT05O93r0-9Lh2McLjSb)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+

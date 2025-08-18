@@ -37,7 +37,7 @@
   3. Create [TypingClub.com](https://www.typingclub.com) account.
   4. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
   5. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
-    - Follow the tags related to your course or area of study to make it easier to find relevant questions.
+      - Follow the tags related to your course or area of study to make it easier to find relevant questions.
   6. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
   7. Register at exercism.io. Join Python track in **Practice Mode**
   8. Pass these exercises at exercism.io (Use your GitHub as source control):

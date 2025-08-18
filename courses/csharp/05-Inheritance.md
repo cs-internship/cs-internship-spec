@@ -24,7 +24,7 @@
 
 ### Tasks
 
- 1. Achieve the **[Scholar](https://stackoverflow.com/help/badges/10/scholar)** badge on Stack Overflow.
+ 1. Reach **50 reputation** on Stack Overflow, then achieve the **[Commentator](https://stackoverflow.com/help/badges/31/commentator)** badge.  
  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 285.
  3. Pass these exercises at exercism.io:
     - Tournament

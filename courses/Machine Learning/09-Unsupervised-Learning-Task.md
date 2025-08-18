@@ -25,11 +25,12 @@
 
 ### Tasks
 
- 1. Achieve [**Vox Populi**](https://stackoverflow.com/help/badges/1108/vox-populi) badge on StackOverflow.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 374**.
- 3. Build a model to detect fraudulent activities [(data)](https://www.cs.cmu.edu/~enron/).
- 4. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
- 5. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+ 1. Achieve the **[Teacher](https://stackoverflow.com/help/badges/1/teacher)** badge on Stack Overflow.
+ 2. Achieve the **[Student](https://stackoverflow.com/help/badges/2/student)** badge on Stack Overflow.
+ 3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 374**.
+ 4. Build a model to detect fraudulent activities [(data)](https://www.cs.cmu.edu/~enron/).
+ 5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+ 6. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
 
 ### Mentors Training

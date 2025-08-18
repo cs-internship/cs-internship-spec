@@ -61,7 +61,7 @@
 
 5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
 
-6. Achieve the [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on Stack Overflow.
+6. Reach **100 reputation** on Stack Overflow.  
 
 7. Find at least 5 other online resources about Authentication on the Web and explain why you chose them, then share them on Twitter and LinkedIn.
 

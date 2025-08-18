@@ -29,7 +29,7 @@
   
 ### Tasks
 
- 1. Achieve [**Suffrage**](https://stackoverflow.com/help/badges/804/suffrage) badge on StackOverflow.
+ 1. Achieve the **[Scholar](https://stackoverflow.com/help/badges/10/scholar)** badge on Stack Overflow.
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 202**.
  3. Download EURUSD forex data from [this](https://www.histdata.com/download-free-forex-historical-data/?/excel/1-minute-bar-quotes/eurusd/2018) link and then extract and open, after that, show the content with proper Python commands, excluding the use of Pandas, Numpy and Matplotlib.
  4. Do the exercises in study items 1, 2 and 3 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control

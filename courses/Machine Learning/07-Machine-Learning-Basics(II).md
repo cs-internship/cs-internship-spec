@@ -27,7 +27,7 @@
 
 ### Tasks
 
- 1. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.
+ 1. Reach **100 reputation** on Stack Overflow.
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 316**.
  3. Follow at least 3 people or accounts on LinkedIn and Twitter that are active and famous on Machine Learning.
  4. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.

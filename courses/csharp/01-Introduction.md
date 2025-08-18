@@ -30,23 +30,23 @@
 ### Tasks  <!-- omit in toc -->
 
   1. Create GitHub account
-  2. Create StackOverflow account
+  2. Create Stack Overflow account
   3. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on C#.
   4. Set up your development environment
      1. [Download](https://dotnet.microsoft.com/download) .Net core sdk and install it.
      2. Create your first console app. Walk through [this tutorial](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install).
   5. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow
   6. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
-  7. Achieve [**Scholar**](https://stackoverflow.com/help/badges/10/scholar) badge on StackOverflow.
+        - Follow the tags related to your course or area of study to make it easier to find relevant questions.
   8. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
   9. Register at exercism.io. Join C# track in **practice mode**:
-  10. pass these exercises at exercism.io:
+  10. Pass these exercises at exercism.io:
         - Hello world (exercise number 1)
         - Two Fer  
         - Leap  
         - RNA Transcription  
         - Gigaseconds
-  11. Search about *bubble sort* algorithm. Write a program which has a method which receives a list of numbers and returns a sorted equivalent list. The method should be using bubble sort algorithm.
+  11. Search about *bubble sort* algorithm. Write a program that has a method that receives a list of numbers and returns a sorted equivalent list. The method should be the bubble sort algorithm.
   12. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
   13. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
@@ -58,3 +58,5 @@ In the mentoring training path, you should watch the **"third"** and **"fourth"*
 - Link to [video4](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+
+

@@ -30,16 +30,17 @@
   
 ### Tasks
 
-  1. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
-  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 169**.
-  3. Pass these exercises at exercism.io (Use your GitHub as source control):
+  1. Achieve the **[Suffrage](https://stackoverflow.com/help/badges/804/suffrage)** badge on Stack Overflow.
+  2. Achieve the **[Editor](https://stackoverflow.com/help/badges/3/editor)** badge on Stack Overflow. 
+  3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 169**.
+  4. Pass these exercises at exercism.io (Use your GitHub as source control):
       - Kindergarten Garden
       - Grade School
       - Clock
       - Tournament
-  4. Do the exercises in study items 1, 2 and 3 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
-  5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
-  6. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+  5. Do the exercises in study items 1, 2 and 3 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control.
+  6. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+  7. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
 
 ### Mentors Training

@@ -28,8 +28,7 @@
 ### Tasks
 
  1. Should permit us to share her/his profile with others.
- 2. Achieve [**Self Learner**](https://stackoverflow.com/help/badges/14/self-learner) badge on StackOverflow.
- 3. [Improve App Responsiveness: A Guide to C# Async/Await](https://www.youtube.com/watch?v=2moh18sh5p4)
- 4. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 418.
- 5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
- 6. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+ 2. [Improve App Responsiveness: A Guide to C# Async/Await](https://www.youtube.com/watch?v=2moh18sh5p4)
+ 3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 418.
+ 4. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+ 5. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).

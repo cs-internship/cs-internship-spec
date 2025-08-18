@@ -26,7 +26,7 @@
 
 ### Tasks
 
- 1. Achieve [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
+ 1. Reach **75 reputation** on Stack Overflow.
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 285**.
  3. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
  4. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).

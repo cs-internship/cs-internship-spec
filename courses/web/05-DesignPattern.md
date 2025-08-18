@@ -42,7 +42,7 @@
 
 3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 285**.
 
-4. Achieve the [**Commentator**](https://stackoverflow.com/help/badges/31/commentator) badge on Stack Overflow.
+4. Reach **50 reputation** on Stack Overflow, then achieve the **[Commentator](https://stackoverflow.com/help/badges/31/commentator)** badge.
 
 5. Find at least 5 other online resources about client-side JS & Tooling, and explain why you chose them.
 

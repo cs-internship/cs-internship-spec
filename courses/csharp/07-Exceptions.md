@@ -25,7 +25,7 @@
 
 ### Tasks
 
-  1. Achieve [**Teacher**](https://stackoverflow.com/help/badges/1/teacher) badge on StackOverflow.  
+  1. Reach **100 reputation** on Stack Overflow.  
   2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 357.
   3. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
   4. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
@@ -38,3 +38,4 @@ In the mentoring training path, you should watch the **"seventh"** and **"eighth
 - Link to [video8](https://drive.google.com/drive/folders/1REyXmFfCWTDpCrsbNoJojHjH9ZQEXzqx)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+

@@ -29,7 +29,7 @@
 ### Tasks
 
  1. Look for some famous memory leak inspection tools. Name them and a little comparison of their features.
- 2. Achieve [**Critic**](https://stackoverflow.com/help/badges/7/critic) badge on StackOverflow.
+ 2. Reach **75 reputation** on Stack Overflow.
  3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 316.
  4. Will start to see her/his profile
  5. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
@@ -43,3 +43,4 @@ In the mentoring training path, you should watch the **"fifth"** and **"sixth"**
 - Link to [video6](https://drive.google.com/drive/folders/1EjO3sPNeiq8c0nKGB_oUyelM2jxVZRd1)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+

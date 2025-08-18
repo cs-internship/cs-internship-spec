@@ -24,13 +24,14 @@
 
 ### Tasks  <!-- omit in toc -->
 
-  1. Achieve [**Student**](https://stackoverflow.com/help/badges/2/student) badge on StackOverflow.
-  2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 202.
-  3. Pass these at exercism.io:
+  1. Achieve the **[Suffrage](https://stackoverflow.com/help/badges/804/suffrage)** badge on Stack Overflow.
+  2. Achieve the **[Editor](https://stackoverflow.com/help/badges/3/editor)** badge on Stack Overflow.
+  3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 202.
+  4. Pass these at exercism.io:
         - Circular Buffer
         - Pangram
         - Pascal's Triangle
-  4. Project: Create a simple library system to store and manage different types of library items (e.g., books, magazines, DVDs). (This project will help you understand and work with generics in C#)
+  5. Project: Create a simple library system to store and manage different types of library items (e.g., books, magazines, DVDs). (This project will help you understand and work with generics in C#)
       - Your project should have the following components:
           - `LibraryItem<T>`: A generic class representing an item in the library.
           - `Library`: A class containing a generic method to add items to a collection.
@@ -47,3 +48,4 @@ In the mentoring training path, you should watch the **"seventh"** and **"eighth
 - Link to [video8](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz/view?usp=drive_link)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+

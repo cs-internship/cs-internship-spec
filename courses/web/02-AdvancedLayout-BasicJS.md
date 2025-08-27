@@ -24,6 +24,7 @@
 4. [YDKJS Book 1, Chapter 2: Into JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch2.md)
 5. [YDKJS Book 1, Chapter 3: Into YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch3.md)
 6. [JavaScript Debugging](https://link.medium.com/YRBvjadl3X)
+7. [Large Language Models (LLMs) - Everything You NEED To know](https://www.youtube.com/watch?v=osKyvYJ3PRM)
 
 ### Tasks <!-- omit in toc -->
 

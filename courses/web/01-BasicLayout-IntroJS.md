@@ -27,6 +27,7 @@
 7. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 8. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
 9. [Generative AI in a Nutshell - How to survive and thrive in the age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+10. [Large Language Models (LLMs) - Everything You NEED To know](https://www.youtube.com/watch?v=osKyvYJ3PRM)
 
 ### Tasks  <!-- omit in toc -->
 

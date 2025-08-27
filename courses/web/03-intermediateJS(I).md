@@ -22,6 +22,7 @@
 2. [YDKJS Book 2, Chapter 2: Lexical Scope](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch2.md)
 3. [YDKJS Book 2, Chapter3: Function vs. Block Scope](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch3.md)
 4. [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+5. [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ### Tasks <!-- omit in toc -->
 

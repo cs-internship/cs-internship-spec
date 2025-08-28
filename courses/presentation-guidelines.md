@@ -22,7 +22,7 @@ To check if you already have access:
 
 ## 3. After Your Presentation
 1. **Record your presentation** and share it along with the **title and description** in the *"CS Internship - Coordination -> General"* group, tagging your coordinator. These recordings will later be published on YouTube.  
-2. After your live session, **take a screenshot of the comments** on your live post and share it in the same group and tagging your coordinator. This helps your coordinator track attendance of your live presentation.  
+2. After your live session, **take a screenshot of the comments** on your live post and share it in the same group and tag your coordinator. This helps your coordinator track attendance of your live presentation.  
 
 ## 4. Why LinkedIn Live Matters
 Presenting on LinkedIn is not just about sharing content:  

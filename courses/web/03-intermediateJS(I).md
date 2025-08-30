@@ -22,7 +22,8 @@
 2. [YDKJS Book 2, Chapter 2: Lexical Scope](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch2.md)
 3. [YDKJS Book 2, Chapter3: Function vs. Block Scope](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch3.md)
 4. [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-5. [The past, present, and future of AI for application developers, Steve Sanderson](https://youtu.be/awztkr8n0AA?si=U7BpYtq6WfYjnPaP)
+5. Watch The Past, Present, and Future of AI for Application Developers by Steve Sanderson. It’s strongly recommended to explore the latest videos on this topic to stay informed with the most current insights and developments.
+   - [The past, present, and future of AI for application developers, Steve Sanderson](https://youtu.be/awztkr8n0AA?si=U7BpYtq6WfYjnPaP)
 
 ### Tasks <!-- omit in toc -->
 

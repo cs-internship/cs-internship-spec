@@ -29,8 +29,8 @@
 9. AI is the new electricity and will transform and improve nearly all areas of human lives.
 To begin exploring the profound impact of large language models (LLMs) on society and software development, start by watching these two insightful videos.
 For the latest perspectives, it's also highly recommended to check out the most recently published videos on this topic.
-- [Generative AI in a Nutshell - How to survive and thrive in the age of AI - Henrik Kniberg, 2024](https://www.youtube.com/watch?v=2IK3DFHRFfw)
-- [Large Language Models (LLMs) - Everything You NEED To know - Matthew Berman, 2024](https://www.youtube.com/watch?v=osKyvYJ3PRM)
+    - [Generative AI in a Nutshell - How to survive and thrive in the age of AI - Henrik Kniberg, 2024](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+    - [Large Language Models (LLMs) - Everything You NEED To know - Matthew Berman, 2024](https://www.youtube.com/watch?v=osKyvYJ3PRM)
 
 ### Tasks  <!-- omit in toc -->
 

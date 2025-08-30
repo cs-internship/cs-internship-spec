@@ -24,7 +24,7 @@
 4. [YDKJS Book 2, Chapter 4: Hoisting](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch4.md)
 5. [YDKJS Book 2, Chapter 5: Scope Closures](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch5.md)
 6. Watch this video to learn how to harness the power of large language models with ChatGPT Prompt Engineering.
-  - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)
+    - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)
 
 ### Tasks <!-- omit in toc -->
 

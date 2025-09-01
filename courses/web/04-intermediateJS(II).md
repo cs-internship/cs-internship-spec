@@ -23,6 +23,8 @@
 3. [SCSS tutorial](https://www.w3schools.com/sass/default.php)
 4. [YDKJS Book 2, Chapter 4: Hoisting](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch4.md)
 5. [YDKJS Book 2, Chapter 5: Scope Closures](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch5.md)
+6. Watch this video to learn how to harness the power of large language models with ChatGPT Prompt Engineering.For the latest developments, you can also check the most recently published content on this topic.
+    - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)
 
 ### Tasks <!-- omit in toc -->
 

@@ -21,6 +21,8 @@
  1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 4 : Generics
  2. [Constraints on type parameters (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
  3. [Differences Between C++ Templates and C# Generics (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)
+ 4. Watch The Past, Present, and Future of AI for Application Developers by Steve Sanderson. It’s strongly recommended to explore the latest videos on this topic to stay informed with the most current insights and developments.
+   - [The past, present, and future of AI for application developers, Steve Sanderson](https://youtu.be/awztkr8n0AA?si=U7BpYtq6WfYjnPaP)
 
 ### Tasks  <!-- omit in toc -->
 
@@ -48,4 +50,5 @@ In the mentoring training path, you should watch the **"seventh"** and **"eighth
 - Link to [video8](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz/view?usp=drive_link)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+
 

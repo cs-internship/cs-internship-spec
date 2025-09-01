@@ -26,6 +26,11 @@
   4. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)
   5. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
   6. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
+  7. AI is the new electricity and will transform and improve nearly all areas of human lives.
+To begin exploring the profound impact of large language models (LLMs) on society and software development, start by watching these two videos as a starting point.
+For the latest perspectives, it's also highly recommended to check out the most recently published videos on this topic.
+    - [Generative AI in a Nutshell - How to survive and thrive in the age of AI - Henrik Kniberg, 2024](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+    - [Large Language Models (LLMs) - Everything You NEED To know - Matthew Berman, 2024](https://www.youtube.com/watch?v=osKyvYJ3PRM)
   
 ### Tasks  <!-- omit in toc -->
 
@@ -58,5 +63,6 @@ In the mentoring training path, you should watch the **"third"** and **"fourth"*
 - Link to [video4](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+
 
 

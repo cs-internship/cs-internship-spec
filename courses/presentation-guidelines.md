@@ -1,6 +1,6 @@
 # Guidelines for LinkedIn Live Presentation
 
-You are expected to give a **20-minute presentation** on LinkedIn Live about the content of your step. Presenting on LinkedIn not only shares your knowledge but also helps you **expand your professional network, strengthen your online presence, and build your personal brand** in a professional environment.
+You are expected to give a **20-minute presentation** on LinkedIn Live about the content of your step. Presenting online helps you **expand your professional network**, **strengthen your communication and technical presentation skills**, and gain visibility among industry peers.
 
 ## 1. Preparing for Your Presentation
 - Start by watching this [video](https://www.youtube.com/watch?v=MM47EKwACy4&feature=youtu.be) to understand how LinkedIn Live works.  

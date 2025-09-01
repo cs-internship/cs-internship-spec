@@ -25,6 +25,8 @@
   4. [The Quick Python Book](README.md): Chapter 8 (Control Flow).
   5. [Mathematics for Machine Learning](README.md): Chapter 2 (Linear Algebra).
   6. [Mathematics for Machine Learning](README.md): Chapter 3 (Analytic Geometry)
+  7. Learn more about Large Language Models (LLMs) in this comprehensive, in-depth video. For the latest developments, you can also check the most recently published content on this topic.
+    - [Deep Dive into LLMs like ChatGPT, Andrej Karpathy, 2025](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
   
 ### Tasks

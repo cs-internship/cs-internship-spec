@@ -24,6 +24,8 @@
   3. [The Quick Python Book](README.md): Chapter 15 (Classes and Object-Oriented programming).
   4. [Mathematics for Machine Learning](README.md): Chapter 4 (Matrix Decompositions).
   5. [Mathematics for Machine Learning](README.md): Chapter 5 (Vector Calculus).
+  6. Watch The Past, Present, and Future of AI for Application Developers by Steve Sanderson. It’s strongly recommended to explore the latest videos on this topic to stay informed with the most current insights and developments.
+   - [The past, present, and future of AI for application developers, Steve Sanderson](https://youtu.be/awztkr8n0AA?si=U7BpYtq6WfYjnPaP)
 
 
   

@@ -25,6 +25,8 @@
  5. [Use breakpoints in the Visual Studio debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022)
  6. [C# Breakpoints and Conditions](https://www.youtube.com/watch?v=YEL92u-3cRY)
  7. [How to Debug in Visual Studio](https://www.youtube.com/watch?v=__3wlUxMXlA)
+ 8. Learn more about Large Language Models (LLMs) in this comprehensive, in-depth video. For the latest developments, you can also check the most recently published content on this topic.
+    - [Deep Dive into LLMs like ChatGPT, Andrej Karpathy, 2025](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ### Tasks  <!-- omit in toc -->
  1. Choose 3 bloggers who write about C# and describe why they matter to you.
@@ -52,4 +54,5 @@ In the mentoring training path, you should watch the **"fifth"** and **"sixth"**
 - Link to [video6](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+
 

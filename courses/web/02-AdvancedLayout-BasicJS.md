@@ -24,7 +24,7 @@
 4. [YDKJS Book 1, Chapter 2: Into JavaScript](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch2.md)
 5. [YDKJS Book 1, Chapter 3: Into YDKJS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch3.md)
 6. [JavaScript Debugging](https://link.medium.com/YRBvjadl3X)
-7. Take a deep dive into the world of Large Language Models (LLMs) by watching this insightful video. To stay up to date with the latest developments and perspectives, be sure to explore the most recently published content on this topic as well.
+7. Learn more about Large Language Models (LLMs) in this comprehensive, in-depth video. For the latest developments, you can also check the most recently published content on this topic.
     - [Deep Dive into LLMs like ChatGPT, Andrej Karpathy, 2025](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ### Tasks <!-- omit in toc -->

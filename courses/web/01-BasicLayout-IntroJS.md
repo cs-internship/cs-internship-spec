@@ -22,11 +22,12 @@
 2. [W3Schools CSS](https://www.w3schools.com/css/default.asp)
 3. [Css Reference](https://cssreference.io/) (Study these collections: Box model, flex, grid, positioning, transition)
 4. [Don't fear the internet - Layout](http://www.dontfeartheinternet.com/08-layout/)
-5. [How To Make Websites Using HTML & CSS](https://www.youtube.com/watch?v=PgAZ8KzfhO8)
-6. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)
-7. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
-8. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
-9. AI is the new electricity and will transform and improve nearly all areas of human lives.
+5. [YDKJS, Chapter Book 1: Intro Programming](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch1.md)
+6. [How To Make Websites Using HTML & CSS](https://www.youtube.com/watch?v=PgAZ8KzfhO8)
+7. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)
+8. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+9. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
+10. AI is the new electricity and will transform and improve nearly all areas of human lives.
 To begin exploring the profound impact of large language models (LLMs) on society and software development, start by watching these two videos as a starting point.
 For the latest perspectives, it's also highly recommended to check out the most recently published videos on this topic.
     - [Generative AI in a Nutshell - How to survive and thrive in the age of AI - Henrik Kniberg, 2024](https://www.youtube.com/watch?v=2IK3DFHRFfw)

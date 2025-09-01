@@ -27,6 +27,11 @@
 7. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)
 8. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 9. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
+10. AI is the new electricity and will transform and improve nearly all areas of human lives.
+To begin exploring the profound impact of large language models (LLMs) on society and software development, start by watching these two videos as a starting point.
+For the latest perspectives, it's also highly recommended to check out the most recently published videos on this topic.
+    - Generative AI in a Nutshell - How to survive and thrive in the age of AI - Henrik Kniberg, 2024
+    - Large Language Models (LLMs) - Everything You NEED To know - Matthew Berman, 2024
 
 ### Tasks  <!-- omit in toc -->
 

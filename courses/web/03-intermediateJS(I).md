@@ -22,6 +22,8 @@
 2. [YDKJS Book 2, Chapter 2: Lexical Scope](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch2.md)
 3. [YDKJS Book 2, Chapter3: Function vs. Block Scope](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch3.md)
 4. [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+5. Learn more about Large Language Models (LLMs) in this comprehensive, in-depth video. For the latest developments, you can also check the most recently published content on this topic.
+    - Deep Dive into LLMs like ChatGPT, Andrej Karpathy, 2025
 
 ### Tasks <!-- omit in toc -->
 

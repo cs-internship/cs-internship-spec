@@ -21,6 +21,8 @@
 1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 5: Collections
 2. [Collections (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections) 
 3. [Covariance and Contravariance (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/)
+4. Watch this video to learn how to harness the power of large language models with ChatGPT Prompt Engineering.For the latest developments, you can also check the most recently published content on this topic.
+    - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)
 
 ### Tasks
 
@@ -46,4 +48,5 @@ In the mentoring training path, you should watch the **"first"** and **"second"*
 - Link to [video2](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link)
 
 To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+
 

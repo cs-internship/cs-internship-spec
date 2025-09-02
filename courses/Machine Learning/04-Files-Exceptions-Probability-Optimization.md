@@ -25,6 +25,8 @@
   3. [The Quick Python Book](README.md): Chapter 14 (Exceptions).
   4. [Mathematics for Machine Learning](README.md): Chapter 6 (Probability and Distributions).
   5. [Mathematics for Machine Learning](README.md): Chapter 7 (Continuous Optimization).
+  6. Watch this video to learn how to harness the power of large language models with ChatGPT Prompt Engineering.For the latest developments, you can also check the most recently published content on this topic.
+       - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)
 
   
 ### Tasks

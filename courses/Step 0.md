@@ -26,19 +26,11 @@ To arrange the session, mention your coordinator in the Meeting topic of the Coo
 
 ## Guideline
 
-- Ask your coordinator for a detailed description of the step content before setting a deadline.
+At the end of each week, you are supposed to give your Coordinator a report including the following items:
 
-- For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
-`#cs_internship`
-`#[courseName]`
-`#[stepNumber]`
-
-- At the end of each week, you are supposed to give your coordinator a report including the following items:
-  1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
-  2. How many hours did you spend on cs_internship last week?
-  3. What percentage are you satisfied with what you did last week?
-
-  You will have a session with a technical mentor based on your report.
+- Link to all your posts during the last week, specifying the relevant task item for each link, and also mention the exact date that each one of them were posted.
+- How many hours did you spend on cs_internship last week?
+- What percentage are you satisfied with what you did last week?
 
 ## Tasks
 

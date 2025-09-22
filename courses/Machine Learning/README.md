@@ -8,7 +8,7 @@ This course is designed for students who want to learn **Machine Learning**. In 
 
 ## References
 - **Reference 1:** [The Quick Python Book, Third Edition ](https://www.amazon.com/Quick-Python-Book-Naomi-Ceder/dp/1617294039/)
-- **Reference 2:** [Python Data Science Handbook: Essential Tools for Working with Data](https://www.amazon.com/dp/1098121228/), [[Data Files](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks/data)] )
+- **Reference 2:** [Python Data Science Handbook: Essential Tools for Working with Data](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master)
 - **Reference 3:** [Mathematics for Machine Learning](https://www.amazon.co.uk/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X)
 - **Reference 4:** [Python Machine Learning, third edition](https://www.amazon.co.uk/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750)
 - **Reference 5:** [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf) (Actually, This book is not a reference for this course. But, it is highly recommended for further study in Linear Algebra)

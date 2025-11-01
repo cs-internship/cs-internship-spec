@@ -1,29 +1,42 @@
 # Companies
-Companies are playing a very important role in CS Internship ecosystem.
+Companies play a vital role in the CS Internship ecosystem.
 
 # Partnership Types
 
 We have 2 levels of partnership with companies:
- 1. **Hiring from CS Internship:** This is the first phase we start the partnership with a company. In this phase, we have conducted a clear path for the company to meet CS Internship requirements in *Processes*, *Technologies* and *Standards* in the near future. Hiring from CS Internship Program we are facilitating this process for the company.
- 2. **Accepting Interns:** When company meets the required standards, it is ready to accept practical interns from the program.
+ 1. **Hiring from CS Internship:** This is the initial phase of our collaboration with a company. At this stage, the company begins hiring graduates from the CS Internship Program. We provide guidance to help the company align with our standards in Processes, Technologies, and Mentorship Practices. This phase serves as a foundation for building the necessary infrastructure to support interns effectively.
+
+ 2. **Accepting Interns (Advanced Partnership):** This is the more advanced and trusted level of partnership. Once a company has successfully hired from the CS Internship Program and established a solid mentoring framework, it becomes eligible to accept practical interns. This indicates that the company has met our quality benchmarks and is equipped to provide a meaningful and structured internship experience.
 
  # Partner Companies
- Here are the partner companies and their current state:
+Below are the partner companies and their current status:
 
  ## MelkRadar
-  - **State:** Hiring, Accepting interns
+  - **Status:** Hiring, Accepting interns
   - **CS Internship Employees**: 15+
   - **Contact Mentor:** Maryam Davoudi
   - **Technologies:** 
     - Backend: C#, ASP.NET Core, EF Core
     - Frontend: TypeScript, Angular, Blazor
+    - AI: Python (for ML), C# (for LLM)
     - DevOps: Azure, Azure DevOps, Arvan, Fandogh
     - Other: Azure SQL Server, CosmosDB, Azure Storage
 
+ ## CrystaCode
+  - **Status:** Hiring, Accepting interns
+  - **CS Internship Employees**: 10+
+  - **Contact Mentor:** Maryam Davoudi
+  - **Technologies:** 
+    - Backend: C#, ASP.NET Core, EF Core
+    - Frontend: TypeScript, Angular, Blazor
+    - AI: Python (for ML), C# (for LLM)
+    - DevOps: Azure, Azure DevOps
+    - Other: Azure SQL Server, Azure AI, Azure Storage
+
   ## JabizParda
-  - **State:** Hiring, Accepting interns
+  - **State:** Hiring
   - **CS Internship Employees**: 5
-  - **Contact Mentor:** Hassan Usefi
+  - **Contact Mentor:** -
   - **Technologies:** 
     - Backend: C#, ASP.NET Core, SignalR, ADO.NET, Stored Procedure
     - Frontend: TypeScript, Angular

@@ -32,6 +32,15 @@ Below are the partner companies and their current status:
     - AI: Python (for ML), C# (for LLM)
     - DevOps: Azure, Azure DevOps
     - Other: Azure SQL Server, Azure AI, Azure Storage
+   
+   ## Amin Raay
+  - **State:** Hiring, Accepting interns
+  - **CS Internship Employees**: 1
+  - **Contact Mentor:** Navid Sadeghi
+  - **Technologies:** 
+    - AI : Python, PyTorch, Tensorflow, Numpy, Pandas
+    - DevOps: Azure, Kubernetes, Docker, Linux, Terraform
+    - Other: GRC, SIEM, SOC, ISMS ISO 27001, Penetration Testing, BCP/ DRP, Industrial Security  ...
 
   ## JabizParda
   - **State:** Hiring

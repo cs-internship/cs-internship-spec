@@ -32,9 +32,3 @@ In CS Internship we mostly focus on *"Soft Skills"*. In fact the whole process o
 - Understanding the process of **remote team-working**: Sprints, Boards, ...
 
 For more information about our check here: [CS Internship Goals](/goals.md)
-
-## Process
-- [Meetings](/meetings/readme.md): The how-to documents for different meetings we should have in the process.
-- [Processes](/processes/readme.md): How interns should spend their training process.
-- [Tools](/tools.md): The main tools we use in CS Internship.
-

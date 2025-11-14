@@ -1,27 +1,24 @@
 have_fun: false
 
 memory_config:
-    disabled: false
+  disabled: false
 
 code_review:
-    disable: false
-    comment_severity_threshold: MEDIUM
-    max_review_comments: -1
+  disable: false
+  comment_severity_threshold: MEDIUM
+  max_review_comments: 30
 
-    pull_request_opened:
-        help: false
-        summary: true
-        code_review: true
-        include_drafts: true
+  pull_request_opened:
+    help: false
+    summary: true
+    code_review: true
+    include_drafts: true
 
 ignore_patterns:
-    - "**/*"
-    - "!companies/**"
-    - "!processes/documents/**"
-    - "!processes/Intern documents/**"
-    - "!courses/Machine Learning/**"
-    - "!courses/csharp/**"
-    - "!courses/web/**"
-    - "!courses/Step 0.md"
-    - "!courses/mentoring-workshops-instruction.md"
-    - "!courses/presentation-guidelines.md"
+  - ".github/**"
+  - "legacy/**"
+  - "courses/Blazor/**"
+  - "courses/old-web/**"
+  - "courses/python/**"
+  - "courses/xamarin/**"
+  - "processes/archive/**"

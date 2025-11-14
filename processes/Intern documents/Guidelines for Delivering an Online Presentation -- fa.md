@@ -240,7 +240,7 @@ https://www.youtube.com/@csinternship8859/featured
 ## دستورالعمل پلتفرم LinkedIn Live
 
 ارائه‌های برنامه از استپ دوم به بعد باید در LinkedIn Live انجام شوند.  
-برای استپ اول، در صورت نداشتن دسترسی برگزاری ارائه بر روی Linkedin، ارائه بر روی Microsoft Teams می‌تواند برگزار شود.  
+برای استپ اول، در صورت نداشتن دسترسی برگزاری ارائه بر روی LinkedIn، ارائه بر روی Microsoft Teams می‌تواند برگزار شود.
 جزئیات راهنمای به دست آوردن دسترسی برگزاری LinkedIn Live [در این صفحه](https://www.linkedin.com/help/linkedin/answer/a568503) آمده است.
 
 هدف از انتخاب LinkedIn، تنها پخش آنلاین نیست، بلکه تمرین حضور در فضای حرفه‌ای است.  

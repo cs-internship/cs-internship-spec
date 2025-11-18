@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/cs-internship/cs-internship-spec)
+
 # CS Internship
 
 CS Internship is an online open-source and free education program to help enthuciastic people to learn new technologies and get ready to work professionally.

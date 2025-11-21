@@ -89,7 +89,7 @@ To fully understand these topics, you must go through the **introduction and onb
 To begin, join the **Telegram waiting group**, where you will receive all necessary information. If you have questions, feel free to ask in the group.
 
 > **Note:** Before joining the Telegram group, make sure your account has a username.  
-> [Join the CS Internship Queue Group](https://t.me/+t1LXxkD39ulmYmNi)
+> [Join the CS Internship Queue Group](https://t.me/+Dw0SGZDjLucyMzk6)
 
 ## **More About the Program**
 

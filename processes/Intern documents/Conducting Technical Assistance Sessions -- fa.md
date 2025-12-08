@@ -54,7 +54,7 @@
 <div dir="rtl">
   <ul>
     <li>از طریق پیام پین شده مربوط به همیار فنی در گروه کوردینیشن در تاپیک میتینگ، وارد جلسه خود می‌شود. </li>
-    <li>روی پیام پین شده، با استفاده از امکان [reply and Quote](https://www.youtube.com/watch?v=ygzyndLF680&ab_channel=LearnWithMoradi)، دقیقا روی قسمت مربوط به جلسه خود ریپلای زده و آماده بودن جلسه را اعلام می‌کند.</li>
+    <li>روی پیام پین شده، با استفاده از امکان <a href="https://www.youtube.com/watch?v=ygzyndLF680&ab_channel=LearnWithMoradi" target="_blank">reply and Quote</a>، دقیقا روی قسمت مربوط به جلسه خود ریپلای زده و آماده بودن جلسه را اعلام می‌کند.</li>
     <li>جلسه را رأس ساعت تعیین‌شده آغاز می‌کند و پس از آغاز جلسه اجازه ورود فرد دیگر داده نمی‌شود.</li>
   </ul>
 </div> 

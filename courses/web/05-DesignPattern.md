@@ -26,12 +26,13 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Refactor the Todo app to use Knockout.js and use [this tutorial](http://learn.knockoutjs.com/#/?tutorial=intro).
+1. It's time to begin your journey as a mentoring intern. Ask your coordinator to start your onboarding process for mentorship.
+2. Refactor the Todo app to use Knockout.js and use [this tutorial](http://learn.knockoutjs.com/#/?tutorial=intro).
 
    - Knockout is a JavaScript library that allows you to create user interfaces with a clean underlying data model. It is based on the MVVM (Model-View-ViewModel) pattern and offers a great tutorial with a playground that helps you easily understand MVVM. We use Knockout.js to gain a better understanding of the MVVM design pattern.
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 
-2. Pass this at exercism.org:
+3. Pass this at exercism.org:
 
    - Resistor Color
 
@@ -40,19 +41,18 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 285**.
+4. Pass all lessons on TypingClub.com with 5 stars up to **lesson 285**.
 
-4. Reach **50 reputation** on Stack Overflow, then achieve the **[Commentator](https://stackoverflow.com/help/badges/31/commentator)** badge.
+5. Reach **50 reputation** on Stack Overflow, then achieve the **[Commentator](https://stackoverflow.com/help/badges/31/commentator)** badge.
 
-5. Find at least 5 other online resources about client-side JS & Tooling, and explain why you chose them.
+6. Find at least 5 other online resources about client-side JS & Tooling, and explain why you chose them.
 
-6. Find at least 5 other design patterns similar to MVVM, and explain why you chose them.
+7. Find at least 5 other design patterns similar to MVVM, and explain why you chose them.
    
-7. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
+8. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
 
-8. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+9. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
 
-9.  It's time to begin your journey as a mentoring intern. Ask your coordinator to start your onboarding process for mentorship.
 
 ### Mentors Training
 

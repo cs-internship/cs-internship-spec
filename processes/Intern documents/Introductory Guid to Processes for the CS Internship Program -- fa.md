@@ -154,6 +154,9 @@
 ### پیامدهای اجرایی نقض قوانین در برنامه 
 
 ### لیست قالب‌های آماده برنامه
+&#x202b; - [قالب گزارش مربوط به کارگاه‌های منتوری](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/CSI%20Templates/CSI%20-%20Template%20-%20Mentor%20Training%20Report%20-%20Farsi.docx)
+
+&#x202b; - [قالب ارائه پروپزال برای ایجاد تغییر ساختاری در برنامه](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/CSI%20Templates/CSI%20-%20Template%20-%20Proposal%20for%20Change%20-%20Farsi.docx)
 
 ## آموزش‌دهنده‌ها
 

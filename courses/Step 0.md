@@ -34,7 +34,17 @@ At the end of each week, you are supposed to give your Coordinator a report incl
 
 ## Tasks
 
-Throughout the course, it’s important to express both your emotions and knowledge on social media. If you don’t already have them, create accounts on the following platforms. For each platform, you must post updates using the following hashtags: `#cs_internship #courseName #stepNumber`.
+Throughout the course, it’s important to express both your emotions and knowledge on social media. Sharing your journey publicly helps in several ways:  
+- **Increases visibility** so your progress can inspire others.  
+- **Builds consistency** across all interns for easier tracking.  
+- **Strengthens personal branding** for your future career opportunities.  
+- **Improves communication skills** by practicing how to summarize and share your experience effectively.  
+
+If you don’t already have them, create accounts on the following platforms.  
+
+For each task, you are required to post updates on **all three platforms**, meaning for Telegram, Twitter (X), and LinkedIn, using the following hashtags:  
+`#cs_internship #courseName #stepNumber`
+
 
 1. Create a [Twitter (X)](https://x.com/) account.
 2. Create a [LinkedIn](https://www.linkedin.com/) account.

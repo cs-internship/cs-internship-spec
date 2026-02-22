@@ -125,7 +125,7 @@
 در این راستا، بخشی از فعالیت‌های مربوط به گزاش‌دهی اینترن‌های در مورد فعالیت‌های خود در برنامه از طریق گذاشتن پست در دو شبکه اجتماعی LinkedIn و X (شبکه Twitter قبلی) و کلاب مخصوص به دوره اینترن در برنامه است، انجام می‌شود.
 برای اطلاع بیشتر از چرایی و چگونگی انجام این فعالیت‌ها به مستند [پست‌نویسی و پست‌گذاری در شبکه‌های اجتماعی](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Writing%20and%20Publishing%20Posts%20on%20Social%20Media%20--%20fa.md) مراجعه کنید.
 
-#### برگزار ارائه آنلاین
+#### برگزاری ارائه آنلاین
 در پایان هر استپ، اینترن یک ارائه ۲۰ دقیقه‌ای بصورت آنلاین خواهد داشت. برای اطلاع از چرایی و چگونگی برگزاری ارائه آنلاین به مستند [ارائه آنلاین](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Guidelines%20for%20Delivering%20an%20Online%20Presentation%20--%20fa.md) مراجعه کنید.
 
 #### تعاملات فنی در برنامه
@@ -137,7 +137,7 @@
 
 برای اطلاع بیشتر از شرکت در جلسات فنی یا همیاری فنی به مستند [«شرکت در جلسات فنی و همیاری فنی»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Technical%20and%20Technical%20Assistance%20Sessions%20--%20fa.md) مراجعه کنید.
 
-همچنین هر اینترن از استپ سوم به بعد از دوره خود، در نقش همیار فنی سطح ۱ شروع به فعالیت و برگزاری جلسه همیاری فنی برای دیگر اینترن‌ها خواهد کرد. برای آشنایی با نقش همیاری فنی و سطوح آن به مستند [«برگزاری جلسات همیاری فنی»](https://github.com/cs-internship/cs-internship-spec/blob/Aligning-CSI-Docs-with-Program-Vision-and-Software-Team-Skillsets/processes/Intern%20documents/Conducting%20Technical%20Assistance%20Sessions%20--%20fa.md) مراجعه کنید.
+همچنین هر اینترن از استپ سوم به بعد از دوره خود، در نقش همیار فنی سطح ۱ شروع به فعالیت و برگزاری جلسه همیاری فنی برای دیگر اینترن‌ها خواهد کرد. برای آشنایی با نقش همیاری فنی و سطوح آن به مستند [«نقش همیاری فنی»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) مراجعه کنید.
 
 #### شرکت در کارگاه‌های مربی‌گری
 این قسمت در مستند [«شرکت در جلسات مربی‌گری»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Sessions%20--%20fa.md) در حال تکمیل است.

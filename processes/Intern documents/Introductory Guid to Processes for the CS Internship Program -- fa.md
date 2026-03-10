@@ -178,11 +178,11 @@
 شرکت‌های پشتیبان آزاد هستند اینترن‌هایی را که با نیازها و معیارهایشان هم‌خوانی دارد انتخاب کنند؛ همان‌طور که اینترن‌ها نیز می‌توانند از میان شرکت‌های مختلف، تیم مورد علاقه‌ی خود را برگزینند. شرکت‌ها معمولاً از طریق بررسی پروفایل، لینکدین و فعالیت‌های اینترن در شبکه‌های اجتماعی تصمیم‌گیری می‌کنند. سطح و کیفیت فعالیت‌های اینترن در طول برنامه نقش مهمی در جلب توجه شرکت‌ها دارد. آغاز دوره‌ی کارآموزی به توافق طرفین و میزان آمادگی فنی و کسب‌وکاری اینترن بستگی خواهد داشت.
 
 ### لیست قالب‌های آماده برنامه
-&#x202b; - [قالب گزارش مربوط به کارگاه‌های منتوری](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/CSI%20Templates/CSI%20-%20Template%20-%20Mentor%20Training%20Report%20-%20Farsi.docx)
+&#x202b; - [قالب گزارش روزانه در برنامه](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/CSI%20Templates/CSI%20-%20Report%20-%20%5BIntern's%20Name%5D%20-%20%5BCourse%20Name%5D%20-%20%5BStep%20No%5D.xlsx)
 
-&#x202b; - [قالب ارائه پروپزال برای ایجاد تغییر ساختاری در برنامه](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/CSI%20Templates/CSI%20-%20Template%20-%20Proposal%20for%20Change%20-%20Farsi.docx)
+&#x202b; - [قالب گزارش مربوط به کارگاه‌های منتوری](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/CSI%20Templates/CSI%20-%20Mentor%20Training%20Report%20-%20%5BIntern's%20Name%5D%20-%20%5BCourse%20Name%5D%20-%20%5BVideo%20No%5D%20-%20Farsi.docx)
 
-&#x202b; - [قالب گزارش روزانه در برنامه](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/CSI%20Templates/CSI%20-%20Template%20-%20Daily%20Report%20-%20Farsi.xlsx)
+&#x202b; - [قالب ارائه پروپزال برای ایجاد تغییر ساختاری در برنامه](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/CSI%20Templates/CSI%20-%20Proposal%20for%20Change%20-%20%5BIntern's%20Name%5D%20-%20%5BCourse%20Name%5D-%20Farsi.docx)
 
 ## آموزش‌دهنده‌ها
 تمامی اعضای تیم منتوری، در هر سطحی، می‌توانند در انتقال محتوای این مستند نقش داشته باشند و در صورت نیاز، پرسش‌های خوانندگان را پاسخ دهند و ابهامات آنان را برطرف کنند.

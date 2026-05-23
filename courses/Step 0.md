@@ -3,38 +3,23 @@
 Welcome aboard! You are totally new to the club. Welcome to the club! There are lots of people in this club willing to help you. But how? How can you get help from them? Who is who!? Who knows what!?
 That’s what your first task is all about: you should literally talk (on the phone or through an online meeting) and get to know each other.
 
-## Essential Documents to Read First
+## Essential Document to Read First
 
-Before engaging with others in the club, it is essential to first familiarize yourself with the guidelines and processes for your internship journey. Please study the following documents in order:
+Before engaging with others in the club, it is essential to first familiarize yourself with the guidelines and processes for your internship journey. Please study the following document:
 
-1. [Program Step Contents](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Program%20Step%20Contents%20--fa.md)
-   - This document explains the structure of the program steps, helping you understand what to expect at each step.
-2. [Introduction to Meetings & Working with Azure Boards](https://www.youtube.com/watch?v=pRCOpFa5XlI&list=PLSQ2VqVf5QiAy2HzIvjN271CUUeIQYQ3s&index=3&ab_channel=CSInternship) (Document coming soon)
-   - Learn how meetings are structured and how to effectively use Azure Boards to coordinate your meetings.
-   - [Link to the CS Internship Azure Board](https://dev.azure.com/cs-internship/CS%20Internship%20Program/_sprints/taskboard/Operations%20Team/CS%20Internship%20Program/Operational/)
-3. Workshop Session Setup Guide (Document coming soon)
-   - Understand how workshop sessions are organized, including setting up and participating in them.
-4. [Penalty System Document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/documents/Penalty%20--fa.md)
-   - Learn about the rules and penalties in place to ensure accountability and consistency throughout the internship.
+- [Introductory Guid to Processes for the CS Internship Program](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Introductory%20Guid%20to%20Processes%20for%20the%20CS%20Internship%20Program%20--%20fa.md)
+
 
 ## Schedule a Q&A Session with Your Coordinator
 
-After reviewing the documents, you need to schedule a "Q&A Session" with your coordinator in the Coordination group. This session is an opportunity for you to ask any questions you have about the documents mentioned above.
+After reviewing the document, you need to schedule a "Q&A Session" with your coordinator in the Coordination group. This session is an opportunity for you to ask any questions you have about the documents mentioned above.
 
 
 To arrange the session, mention your coordinator in the Meeting topic of the Coordination group and suggest a few available times. Make sure to include the days and times that work for you so you can find a suitable slot. The Q&A session will last for 30 minutes.
 
-## Guideline
-
-At the end of each week, you are supposed to give your Coordinator a report including the following items:
-
-- Link to all your posts during the last week, specifying the relevant task item for each link, and also mention the exact date that each one of them were posted.
-- How many hours did you spend on cs_internship last week?
-- What percentage are you satisfied with what you did last week?
-
 ## Tasks
 
-Throughout the course, it’s important to express both your emotions and knowledge on social media. If you don’t already have them, create accounts on the following platforms. For each platform, you must post updates using the following hashtags: `#cs_internship #courseName #stepNumber`.
+According to ["Writing and Publishing Posts on Social Media"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Writing%20and%20Publishing%20Posts%20on%20Social%20Media%20--%20fa.md), it’s important to express both your emotions and your knowledge on social media throughout the course. If you don’t already have them, create accounts on the following platforms.
 
 1. Create a [Twitter (X)](https://x.com/) account.
 2. Create a [LinkedIn](https://www.linkedin.com/) account.
@@ -50,7 +35,7 @@ Throughout the course, it’s important to express both your emotions and knowle
 **Note:** All communication related to the program should take place within the official program groups. Please avoid sending private messages to other program members. To schedule your meetings, use the **"meetings"** topic in the **CS Internship – Coordination** Telegram group.
 
 
-You can find the contact details for technical mentors in the [**CS Internship - Coordination**](https://t.me/c/2034114419/1/4796) Telegram group.
+You can find the contact details for the technical mentors as a pinned message in the **General** topic of **CS Internship - Coordination** Telegram group.
 At the start of your meeting with each person, introduce yourself and ask them to introduce themselves. The main objectives for each conversation are:
 
 - **Introduce yourself** so they can later introduce you to others in the club.

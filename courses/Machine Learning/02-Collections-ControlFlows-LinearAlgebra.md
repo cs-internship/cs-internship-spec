@@ -25,9 +25,10 @@
       - Acronym  
   4. Do the exercises in study items 1, 2, 3 and 4 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
   5. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on Python.
-  6. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+  6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+  7. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Guidelines for Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Guidelines%20for%20Delivering%20an%20Online%20Presentation%20--%20fa.md).
-  7. Hold your live presentation on LinkedIn.
+  8. Hold your live presentation on LinkedIn.
 
 
 ### Mentors Training

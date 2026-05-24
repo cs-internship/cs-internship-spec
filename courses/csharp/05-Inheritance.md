@@ -20,9 +20,10 @@
     - Then, you'll create derived classes like `Mammal`, `Bird`, and `Fish`, each with additional properties and behaviors.
     - Specific animals like `Dog`, `Eagle`, and `Shark` will further extend these classes, overriding methods to provide specialized behavior.
     - You’ll also implement generic interfaces to demonstrate covariance and contravariance, allowing different animal types to be managed in a flexible and type-safe way.
- 6. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+ 7. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Guidelines for Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Guidelines%20for%20Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 7. Hold your live presentation on LinkedIn.
+ 8. Hold your live presentation on LinkedIn.
 
 
 

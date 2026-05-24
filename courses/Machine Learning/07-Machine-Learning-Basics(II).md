@@ -12,9 +12,10 @@
  1. Reach **100 reputation** on Stack Overflow.
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 316**.
  3. Follow at least 3 people or accounts on LinkedIn and Twitter that are active and famous on Machine Learning.
- 4. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 4. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+ 5. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Guidelines for Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Guidelines%20for%20Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 5. Hold your live presentation on LinkedIn.
+ 6. Hold your live presentation on LinkedIn.
 
 
 ### Mentors Training

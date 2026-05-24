@@ -11,9 +11,10 @@
 
  1. Reach **75 reputation** on Stack Overflow.
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 285**.
- 3. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 3. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 2 Technical Assistant.
+ 4. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Guidelines for Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Guidelines%20for%20Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 4. Hold your live presentation on LinkedIn.
+ 5. Hold your live presentation on LinkedIn.
  
 ### Mentors Training
 

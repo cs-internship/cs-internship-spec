@@ -20,9 +20,10 @@
     - Robot Name
  5. **Mini Project - Task Management System**  
     - **Project Overview:** In this mini-project, you will develop a Task Management System using C# collections. You’ll manage tasks using `List<T>`, `Dictionary<TKey, TValue>`, and `Queue<T>` collections. The system should allow adding, removing, editing, and categorizing tasks.
- 6. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+ 7. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Guidelines for Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Guidelines%20for%20Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 7. Hold your live presentation on LinkedIn.
+ 8. Hold your live presentation on LinkedIn.
 
 
 ### Mentors Training

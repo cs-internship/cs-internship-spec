@@ -17,9 +17,10 @@
  2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 202**.
  3. Download EURUSD forex data from [this](https://www.histdata.com/download-free-forex-historical-data/?/excel/1-minute-bar-quotes/eurusd/2018) link and then extract and open, after that, show the content with proper Python commands, excluding the use of Pandas, Numpy and Matplotlib.
  4. Do the exercises in study items 1, 2 and 3 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
- 5. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 5. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+ 6. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Guidelines for Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Guidelines%20for%20Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 6. Hold your live presentation on LinkedIn.
+ 7. Hold your live presentation on LinkedIn.
 
 
 ### Mentors Training

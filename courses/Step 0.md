@@ -7,7 +7,7 @@ That’s what your first task is all about: you should literally talk (on the ph
 
 Before engaging with others in the club, it is essential to first familiarize yourself with the guidelines and processes for your internship journey. Please study the following document:
 
-- [Introductory Guid to Processes for the CS Internship Program](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Introductory%20Guid%20to%20Processes%20for%20the%20CS%20Internship%20Program%20--%20fa.md)
+- [Introductory Guid to Processes for the CS Internship Program](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Introductory%20Guide%20to%20Processes%20for%20the%20CS%20Internship%20Program%20--%20fa.md)
 
 
 ## Schedule a Q&A Session with Your Coordinator

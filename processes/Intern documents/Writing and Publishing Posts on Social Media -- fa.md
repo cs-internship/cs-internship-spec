@@ -48,7 +48,7 @@
  در شبکه لینکدین، علاوه بر هشتگ‌های فوق، لازم است لینک صفحه معرفی برنامه نیز در انتهای پست درج شود. این الزام صرفاً برای پست‌های لینکدین است. درج این لینک موجب می‌شود مخاطبان بتوانند به‌سادگی با ماهیت و جزئیات برنامه آشنا شوند.  
  این لینک بصورت زیر به پست‌های لینکدین اضافه می‌شود.  
 >آشنایی و ورود به برنامه CS Internship:  
-> https://virgool.io/cs-internship/cs-internship-k3j2hx4wgvga
+> https://github.com/cs-internship/cs-internship-spec/blob/master/processes/program%20introduction%20documents/About%20CS%20Internship%20Program%20--fa.md
  
 
 ## آموزش‌دهنده‌ها

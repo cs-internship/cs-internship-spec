@@ -9,7 +9,7 @@ Before engaging with others in the club, it is essential to first familiarize yo
 
 - [Introductory Guide to Processes for the CS Internship Program](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Introductory%20Guide%20to%20Processes%20for%20the%20CS%20Internship%20Program%20--%20fa.md)
 
-This is considored a **study item** that you must post about in your Telegram club, on [LinkedIn](https://www.linkedin.com/) and on [X](https://x.com/). To know more about posting on social media please read [this document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Writing%20and%20Publishing%20Posts%20on%20Social%20Media%20--%20fa.md). 
+This is considered a **study item** that you must post about in your Telegram club, on [LinkedIn](https://www.linkedin.com/) and on [X](https://x.com/). To know more about posting on social media please read [this document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Writing%20and%20Publishing%20Posts%20on%20Social%20Media%20--%20fa.md).
 
 ## Schedule a Q&A Session with Your Coordinator
 

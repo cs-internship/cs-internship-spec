@@ -9,6 +9,7 @@ Before engaging with others in the club, it is essential to first familiarize yo
 
 - [Introductory Guide to Processes for the CS Internship Program](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Introductory%20Guide%20to%20Processes%20for%20the%20CS%20Internship%20Program%20--%20fa.md)
 
+This is considered a **study item** that you must post about in your Telegram club, on [LinkedIn](https://www.linkedin.com/) and on [X](https://x.com/). To know more about posting on social media please read [this document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Writing%20and%20Publishing%20Posts%20on%20Social%20Media%20--%20fa.md).
 
 ## Schedule a Q&A Session with Your Coordinator
 
@@ -24,7 +25,7 @@ According to ["Writing and Publishing Posts on Social Media"](https://github.com
 1. Create a [Twitter (X)](https://x.com/) account.
 2. Create a [LinkedIn](https://www.linkedin.com/) account.
 
-**Note:** If you already have accounts on these platforms, you **still need** to post an introductory update about yourself.
+**Note:** If you already have accounts on these platforms, you **still need** to post an introductory update about yourself and the use of these accounts for the purpose of posting CS Internship content.
 
 3. **Reach out to the following people:**
 
@@ -32,7 +33,7 @@ According to ["Writing and Publishing Posts on Social Media"](https://github.com
 - All interns in your club
 - Your coordinator (If you want, you can set up a meeting with your coordinator to get to know them and have a Q&A session about the onboarding documents—all in one meeting instead of two separate ones.)
 
-**Note:** All communication related to the program should take place within the official program groups. Please avoid sending private messages to other program members. To schedule your meetings, use the **"meetings"** topic in the **CS Internship – Coordination** Telegram group.
+**Note:** All communication related to the program should take place within the official program groups. Please avoid sending private messages to program members. To schedule your meetings, use the **"meetings"** topic in the **CS Internship – Coordination** Telegram group.
 
 
 You can find the contact details for the technical mentors as a pinned message in the **General** topic of **CS Internship - Coordination** Telegram group.

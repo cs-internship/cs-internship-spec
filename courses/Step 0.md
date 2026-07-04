@@ -25,7 +25,7 @@ According to ["Writing and Publishing Posts on Social Media"](https://github.com
 1. Create a [Twitter (X)](https://x.com/) account.
 2. Create a [LinkedIn](https://www.linkedin.com/) account.
 
-**Note:** If you already have accounts on these platforms, you **still need** to post an introductory update about yourself and the use of these acounts for the purpose of posting CS Internship content.
+**Note:** If you already have accounts on these platforms, you **still need** to post an introductory update about yourself and the use of these accounts for the purpose of posting CS Internship content.
 
 3. **Reach out to the following people:**
 

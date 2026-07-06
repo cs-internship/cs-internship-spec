@@ -7,7 +7,7 @@ That’s what your main task is all about: you must read documents and literally
 
 According to ["Writing and Publishing Posts on Social Media"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Writing%20and%20Publishing%20Posts%20on%20Social%20Media%20--%20fa.md), it’s important to express both your emotions and your knowledge on social media throughout the course. 
 
-In each step, you will have some study items to read and some tasks to do, then you must post about them in your Telegram club, on [LinkedIn](https://www.linkedin.com/) and on [X](https://x.com/). To know more about posting content on social media please read the bove mentioned document.
+In each step, you will have some study items to read and some tasks to do, then you must post about them in your Telegram club, on [LinkedIn](https://www.linkedin.com/) and on [X](https://x.com/). To know more about posting content on social media please read the above-mentioned document.
 
 ## Study Items
 

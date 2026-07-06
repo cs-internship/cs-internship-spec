@@ -25,7 +25,7 @@ Before engaging with others in the club, it is essential to first familiarize yo
    
 4. Schedule a Q&A Session with Your Coordinator
 
-After studying the study item document and obtaining the two necessary accesses mention in [Attending Mentoring Workshops](https://github.com/mahdavis2024/cs-internship-spec/edit/edit-documents-summer2026/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md) document —which is one of the interns' documents mentioned there— you need to schedule a "Q&A Session" with your coordinator in the Coordination group. This session is an opportunity for you to ask any questions you have about the documents mentioned above.
+After studying the study item document and obtaining the two necessary accesses mention in [Attending Mentoring Workshops](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md)) document —which is one of the interns' documents mentioned there— you need to schedule a "Q&A Session" with your coordinator in the Coordination group. This session is an opportunity for you to ask any questions you have about the documents mentioned above.
 
 To arrange the session, mention your coordinator in the Meeting topic of the Coordination group and suggest a few available times. Make sure to include the days and times that work for you so you can find a suitable slot. The Q&A session will last for 30-60 minutes.
 

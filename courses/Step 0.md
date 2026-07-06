@@ -1,40 +1,41 @@
 # Ice-Breaking Step
 
 Welcome aboard! You are totally new to the club. Welcome to the club! There are lots of people in this club willing to help you. But how? How can you get help from them? Who is who!? Who knows what!?
-That’s what your first task is all about: you should literally talk (on the phone or through an online meeting) and get to know each other.
+That’s what your main task is all about: you must read documents and literally talk with people (on the phone or through an online meeting) in order to get to know each other.
 
-## Essential Document to Read First
+## Social Media Posts
+
+According to ["Writing and Publishing Posts on Social Media"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Writing%20and%20Publishing%20Posts%20on%20Social%20Media%20--%20fa.md), it’s important to express both your emotions and your knowledge on social media throughout the course. 
+
+In each step, you will have some study items to read and some tasks to do, then you must post about them in your Telegram club, on [LinkedIn](https://www.linkedin.com/) and on [X](https://x.com/). To know more about posting content on social media please read the bove mentioned document.
+
+## Study Items
 
 Before engaging with others in the club, it is essential to first familiarize yourself with the guidelines and processes for your internship journey. Please study the following document:
 
-- [Introductory Guide to Processes for the CS Internship Program](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Introductory%20Guide%20to%20Processes%20for%20the%20CS%20Internship%20Program%20--%20fa.md)
+1. [Introductory Guide to Processes for the CS Internship Program](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Introductory%20Guide%20to%20Processes%20for%20the%20CS%20Internship%20Program%20--%20fa.md)
 
-This is considered a **study item** that you must post about in your Telegram club, on [LinkedIn](https://www.linkedin.com/) and on [X](https://x.com/). To know more about posting on social media please read [this document](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Writing%20and%20Publishing%20Posts%20on%20Social%20Media%20--%20fa.md).
-
-## Schedule a Q&A Session with Your Coordinator
-
-After reviewing the document, you need to schedule a "Q&A Session" with your coordinator in the Coordination group. This session is an opportunity for you to ask any questions you have about the documents mentioned above.
-
-
-To arrange the session, mention your coordinator in the Meeting topic of the Coordination group and suggest a few available times. Make sure to include the days and times that work for you so you can find a suitable slot. The Q&A session will last for 30 minutes.
 
 ## Tasks
-
-According to ["Writing and Publishing Posts on Social Media"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Writing%20and%20Publishing%20Posts%20on%20Social%20Media%20--%20fa.md), it’s important to express both your emotions and your knowledge on social media throughout the course. If you don’t already have them, create accounts on the following platforms.
 
 1. Create a [Twitter (X)](https://x.com/) account.
 2. Create a [LinkedIn](https://www.linkedin.com/) account.
 
 **Note:** If you already have accounts on these platforms, you **still need** to post an introductory update about yourself and the use of these accounts for the purpose of posting CS Internship content.
+   
+4. Schedule a Q&A Session with Your Coordinator
 
-3. **Reach out to the following people:**
+After studying the study item document and obtaining the two necessary accesses mention in [Attending Mentoring Workshops](https://github.com/mahdavis2024/cs-internship-spec/edit/edit-documents-summer2026/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md) document —which is one of the interns' documents mentioned there— you need to schedule a "Q&A Session" with your coordinator in the Coordination group. This session is an opportunity for you to ask any questions you have about the documents mentioned above.
+
+To arrange the session, mention your coordinator in the Meeting topic of the Coordination group and suggest a few available times. Make sure to include the days and times that work for you so you can find a suitable slot. The Q&A session will last for 30-60 minutes.
+
+3. Reach out to the following people:
 
 - All the technical mentors
 - All interns in your club
 - Your coordinator (If you want, you can set up a meeting with your coordinator to get to know them and have a Q&A session about the onboarding documents—all in one meeting instead of two separate ones.)
 
 **Note:** All communication related to the program should take place within the official program groups. Please avoid sending private messages to program members. To schedule your meetings, use the **"meetings"** topic in the **CS Internship – Coordination** Telegram group.
-
 
 You can find the contact details for the technical mentors as a pinned message in the **General** topic of **CS Internship - Coordination** Telegram group.
 At the start of your meeting with each person, introduce yourself and ask them to introduce themselves. The main objectives for each conversation are:
@@ -55,7 +56,7 @@ After the conversation, you’ll share your impressions:
 
 ## Mentors Training
 
-In the mentoring training path, you should watch the **"second"** video of the 8 videos for the **"Communication Training"** course. Here is the link:
+In the mentoring training path, you must watch the **"second"** video of the 8 videos for the **"Communication Training"** course. Here is the link:
 
 - Link to [video2](https://drive.google.com/file/d/1PT_6IAlbMhtloCctVzECgBRA1ALZCbeR/view?usp=drive_link). 
 

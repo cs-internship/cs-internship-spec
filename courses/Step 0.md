@@ -1,7 +1,8 @@
 # Ice-Breaking Step
 
-Welcome aboard! You are totally new to the club. Welcome to the club! There are lots of people in this club willing to help you. But how? How can you get help from them? Who is who!? Who knows what!?
-That’s what your main task is all about: you must read documents and literally talk with people (on the phone or through an online meeting) in order to get to know each other.
+Welcome aboard! Don't worry if you don't know what works how. You will soon read documents to learn what to do and how to do it. 
+Also, you are totally new to the club, so welcome to the club too! There are lots of people in this club willing to accompany you. But how? How can you get help from them? Who is who!? Who knows what!?
+That’s what your main job is all about: you must literally talk with people (on the phone or through an online meeting) in order to get to know each other.
 
 ## Social Media Posts
 

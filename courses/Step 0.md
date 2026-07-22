@@ -58,6 +58,4 @@ After the conversation, you’ll share your impressions:
 
 In the mentoring training path, you must watch the **"second"** video of the 8 videos for the **"Communication Training"** course. Here is the link:
 
-- Link to [video2](https://drive.google.com/file/d/1PT_6IAlbMhtloCctVzECgBRA1ALZCbeR/view?usp=drive_link). 
-
-To do this part, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
+- Link to [video2](https://drive.google.com/file/d/1PT_6IAlbMhtloCctVzECgBRA1ALZCbeR/view?usp=drive_link).

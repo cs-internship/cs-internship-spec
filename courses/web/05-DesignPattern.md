@@ -48,5 +48,5 @@ In the mentoring training path, you should watch the **"third"** and **"fourth"*
 - Link to [video3](https://drive.google.com/drive/folders/1O4JD5_fs6ako8-kvxhjv7_1qg6eoawvN?usp=share_link)
 - Link to [video4](https://drive.google.com/drive/folders/1v38qtor7nZ00mPQDNbke8BNwgHK_vb6K)
 
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+To complete this section, please follow the instructions provided on [this page](hhttps://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
  

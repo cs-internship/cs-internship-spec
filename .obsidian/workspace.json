@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "01a002ac530d1fea",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb7628617a92e1c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64d865fbf2eb4e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "processes/Intern documents/Attending Mentoring Workshops -- fa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attending Mentoring Workshops -- fa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a330dec4d428a2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fe570bf649e45d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb3e8c72db3b18f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "817558426295abd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8894ce06dc5f97cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "a62dea6808fedcf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd41eee7cd9a8b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "664492f954d07812",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "processes/mentor documents/Coordination -- fa.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Coordination -- fa"
+            }
+          },
+          {
+            "id": "92ad409530259b3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "processes/mentor documents/Coordination -- fa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Coordination -- fa"
+            }
+          },
+          {
+            "id": "c1fff03114cea6e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8dd96ac5864a07b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e9d60cda0938f310",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "processes/mentor documents/Coordination -- fa.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Coordination -- fa"
+            }
+          },
+          {
+            "id": "a2c93cac068bbca3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a2c93cac068bbca3",
+  "lastOpenFiles": [
+    "processes/Intern documents/Attending Mentoring Workshops -- fa.md",
+    "processes/mentor documents/Holding Mentoring Workshops -- fa.md",
+    "processes/mentor documents/Coordination -- fa.md",
+    "processes/mentor documents/Assistant Mentor -- fa.md"
+  ]
+}

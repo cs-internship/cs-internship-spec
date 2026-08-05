@@ -330,3 +330,7 @@ ASALocalRun/
 .mfractor/
 
 .vscode/
+
+
+# Obsidian files for markdown writing
+.obsidian

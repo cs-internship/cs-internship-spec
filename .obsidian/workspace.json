@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 200
   },
   "right": {
     "id": "a62dea6808fedcf2",
@@ -194,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2c93cac068bbca3",
+  "active": "64d865fbf2eb4e8b",
   "lastOpenFiles": [
     "processes/Intern documents/Attending Mentoring Workshops -- fa.md",
     "processes/mentor documents/Holding Mentoring Workshops -- fa.md",

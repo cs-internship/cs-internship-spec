@@ -333,4 +333,5 @@ ASALocalRun/
 
 
 # Obsidian files for markdown writing
-.obsidian
+.obsidian/
+

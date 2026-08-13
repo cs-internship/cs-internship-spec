@@ -25,21 +25,22 @@
   1. Create [GitHub](https://github.com) account.
   2. Create [StackOverflow](https://stackoverflow.com) account.
   3. Create [TypingClub.com](https://www.typingclub.com) account.
-  4. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
-  5. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
+  4. Create a [Kaggle](https://www.kaggle.com/) account.
+  5. Achieve [**Autobiographer**](https://stackoverflow.com/help/badges/9/autobiographer) badge on StackOverflow.
+  6. Achieve [**Informed**](https://stackoverflow.com/help/badges/2600/informed) badge on StackOverflow.
       - Follow the tags related to your course or area of study to make it easier to find relevant questions.
-  6. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
-  7. Register at exercism.io. Join Python track in **Practice Mode**
-  8. Pass these exercises at exercism.io (Use your GitHub as source control):
+  7. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 88**.
+  8. Register at exercism.io. Join Python track in **Practice Mode**
+  9. Pass these exercises at exercism.io (Use your GitHub as source control):
       - Hello World
       - Two Fer
       - Raindrops
-  9. Do the exercises in study item 4 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
-  10. Find at least 5 other useful online resources for python and explain why you chose them.
-  11. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
-  12. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+  10. Do the exercises in study item 4 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
+  11. Find at least 5 other useful online resources for python and explain why you chose them.
+  12. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+  13. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
-  13. Hold your live presentation on LinkedIn.
+  14. Hold your live presentation on LinkedIn.
 
 
 

@@ -36,8 +36,8 @@
 سپس، کوردینیتور ویدیو را با کپشن داده شده در [کانال یوتیوب برنامه‌ی CS Internship](https://www.youtube.com/@csinternship8859) بارگذاری خواهد کرد.
 
 کپشن ویدیو باید شامل هشتگ‌های لازم مطابق الگوی زیر نوشته شود:  
+Presented by: [intern's name]
 #cs_internship #[course_name] #step_[no.]
-
 
 
 ## آموزش‌دهنده‌ها

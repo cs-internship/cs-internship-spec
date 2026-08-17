@@ -60,4 +60,4 @@ In the mentoring training path, you must watch the **"second"** video of the 8 v
 
 - Link to [video2](https://drive.google.com/file/d/1PT_6IAlbMhtloCctVzECgBRA1ALZCbeR/view?usp=drive_link). 
 
-To do this part, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
+To do this part, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 

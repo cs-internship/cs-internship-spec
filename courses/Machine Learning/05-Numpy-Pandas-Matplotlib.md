@@ -11,12 +11,15 @@
  1. It's time to begin your journey as a mentoring intern. Ask your coordinator to start your onboarding process for mentorship.
  2. Reach **50 reputation** on Stack Overflow, then achieve the **[Commentator](https://stackoverflow.com/help/badges/31/commentator)** badge. 
  3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 244**.
- 4. Do the exercise 3 in step 4 again but open the CSV file with **Pandas package** as a dataframe and add new four columns to it with name **MA1, MA2, MA3, and MA4** and for these columns calculate the [Moving Average](https://en.wikipedia.org/wiki/Moving_average) of close price for durations of 5, 10, 15, and 30 (N=5, 10, 15, and 30).
- 5. Find at least 5 other online resources about numpy & pandas & matplotlib, and explain why you chose them.
- 6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
- 7. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 4. Pass the [Pandas](https://www.kaggle.com/learn/pandas) mini course and obtain its Certificate on Kaggle.
+ 5. Pass the [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) mini course and obtain its Certificate on Kaggle.
+ 6. Pass the [Data Visualization](https://www.kaggle.com/learn/data-visualization) mini course and obtain its Certificate on Kaggle.
+ 7. Do the exercise 3 in step 4 again but open the CSV file with **Pandas package** as a dataframe and add new four columns to it with name **MA1, MA2, MA3, and MA4** and for these columns calculate the [Moving Average](https://en.wikipedia.org/wiki/Moving_average) of close price for durations of 5, 10, 15, and 30 (N=5, 10, 15, and 30).
+ 8. Find at least 5 other online resources about numpy & pandas & matplotlib, and explain why you chose them.
+ 9. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+ 10. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 8. Hold your live presentation on LinkedIn.
+ 11. Hold your live presentation on LinkedIn.
 
 
 ### Mentors Training

@@ -32,8 +32,6 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-4. Reach **15 reputation** on Stack Overflow by answering questions, then achieve the **[Supporter](https://stackoverflow.com/help/badges/6/supporter)** badge.
-
 5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 
 6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.

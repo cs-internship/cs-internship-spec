@@ -20,26 +20,22 @@ For the latest perspectives, it's also highly recommended to check out the most 
 ### Tasks  <!-- omit in toc -->
 
 1. Create a [GitHub](https://github.com/) account.
-2. Create a [Stack Overflow](https://stackoverflow.com/) account.
-3. Create a [JSFiddle.net](https://JSFiddle.net/) account.
-4. Create a [TypingClub.com](https://www.typingclub.com/) account.
-5. Download and Install the latest versions of VS Code.
-6. Implement a calculator layout **exactly** like the Windows 10 calculator in maximum size (Standard mode):
+2. Create a [JSFiddle.net](https://JSFiddle.net/) account.
+3. Create a [TypingClub.com](https://www.typingclub.com/) account.
+4. Download and Install the latest versions of VS Code.
+5. Implement a calculator layout **exactly** like the Windows 10 calculator in maximum size (Standard mode):
     - Create it unresponsive but resizable (a resizable view is a view that can tolerate resizing from desktop view to tablet view):
     - Create it without using any library.
     - Create it based on these [images](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step1) and this [video](https://youtu.be/k-kNYeOyX4c).
     - Use your GitHub as your source control.
     - Publish it on your JSFiddle account.
-7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
-8. Achieve the **[Autobiographer](https://stackoverflow.com/help/badges/9/autobiographer)** badge on Stack Overflow.
-9. Achieve the **[Informed](https://stackoverflow.com/help/badges/2600/informed)** badge on Stack Overflow.
-    - Follow the tags related to your course or area of study to make it easier to find relevant questions.  
-10. Find at least 5 extra useful online resources for HTML/CSS. Then explain why you chose them.
-11. Find at least 5 extra useful online resources for Git/Github. Then explain why you chose them.
-12. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
-13. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 88**.
+7. Find at least 5 extra useful online resources for HTML/CSS. Then explain why you chose them.
+8. Find at least 5 extra useful online resources for Git/Github. Then explain why you chose them.
+9. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+10. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
-14. Hold your live presentation on LinkedIn.
+11. Hold your live presentation on LinkedIn.
 
 ### Mentors Training
 

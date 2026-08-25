@@ -9,21 +9,20 @@
 ### Tasks
 
  1. It's time to begin your journey as a mentoring intern. Ask your coordinator to start your onboarding process for mentorship.
- 2. Reach **50 reputation** on Stack Overflow, then achieve the **[Commentator](https://stackoverflow.com/help/badges/31/commentator)** badge.  
- 3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 285.
- 4. Pass these exercises at exercism.io:
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 285.
+ 3. Pass these exercises at exercism.io:
     - Tournament
- 5. Project: Animal Hierarchy with Covariance and Contravariance<br>
+ 4. Project: Animal Hierarchy with Covariance and Contravariance<br>
     Project Description:
     - In this mini-project, you'll build an animal hierarchy system to deepen your understanding of inheritance, polymorphism, covariance, and contravariance in C#.
     - You'll start by creating a base `Animal` class with common properties like Name and Age, along with methods such as `Eat()`, `Sleep()`, and `MakeSound()`. 
     - Then, you'll create derived classes like `Mammal`, `Bird`, and `Fish`, each with additional properties and behaviors.
     - Specific animals like `Dog`, `Eagle`, and `Shark` will further extend these classes, overriding methods to provide specialized behavior.
     - You’ll also implement generic interfaces to demonstrate covariance and contravariance, allowing different animal types to be managed in a flexible and type-safe way.
- 6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
- 7. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 5. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+ 6. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 8. Hold your live presentation on LinkedIn.
+ 7. Hold your live presentation on LinkedIn.
 
 
 

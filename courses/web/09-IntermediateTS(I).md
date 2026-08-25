@@ -22,18 +22,14 @@
 2. Create a project that can showcase products by fetching data from [this API](https://fakestoreapi.com/products). You **can** use [this base design](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/web/images/step9) that we have provided. The sorting and category buttons do not need to be functional at this step.
    
    - Use GitHub as your source control and showcase your project on GitHub Pages.
-
+   
 3. Pass all lessons on TypingClub.com with 5 stars up to **lesson 388**.
 
-4. Achieve the **[Teacher](https://stackoverflow.com/help/badges/1/teacher)** badge on Stack Overflow.
+4. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 3 Technical Assistant.
 
-5. Achieve the **[Student](https://stackoverflow.com/help/badges/2/student)** badge on Stack Overflow.
+5. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
 
-6. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 3 Technical Assistant.
-
-7. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
-
-8. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+6. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
 
 9. Hold your live presentation on LinkedIn.

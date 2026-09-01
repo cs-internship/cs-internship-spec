@@ -90,16 +90,16 @@
 در ادامه کارهای روتین لیست شده است و توضیح مختصری در مورد آن ارائه شده است و برای اطلاعات بیشتر به مستند مربوط به آن ارجاع داده شده است.
 - **مدیریت اسپرینت عملیاتی** (*Operational Sprint Management*)  
  همانطور که قبلا اشاره‌ شده است، در برنامه CS Internship برای پیش بردن کارهای عملیاتی جلسات هفتگی به نام «جلسات اسپرینت عملیاتی» برگزار می‌شود. مدیریت این جلسه در هر اسپرینت به یکی از اعضای جلسه محول می‌شود.
- برای آشنایی با این مسئولیت و نحوه انجام آن به مستند [«مدیریت اسپرینت عملیاتی»]([cs-internship-spec/processes/mentor documents/Operational Sprint Management -- fa.md at master · cs-internship/cs-internship-spec](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Operational%20Sprint%20Management%20--%20fa.md)) مراجعه شود.
+ برای آشنایی با این مسئولیت و نحوه انجام آن به مستند [«مدیریت اسپرینت عملیاتی»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Operational%20Sprint%20Management%20--%20fa.md) مراجعه شود.
 - **برگزاری مسابقه تایپ** (*Type Racing*)  
   در هر اسپرینت عملیاتی یک مسابقه تایپ برگزار می‌شود. برگزاری این مسابقه در هر اسپرینت به یکی از اعضای جلسه محول می‌شود. 
-  برای آشنایی با این مسئولیت، چرایی و نحوه انجام آن به مستند [«مسابقه تایپ»]([cs-internship-spec/processes/mentor documents/Type Racing -- fa.md at master · cs-internship/cs-internship-spec](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Type%20Racing%20--%20fa.md)) مراجعه شود.
+  برای آشنایی با این مسئولیت، چرایی و نحوه انجام آن به مستند [«مسابقه تایپ»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Type%20Racing%20--%20fa.md) مراجعه شود.
 -  **بررسی به‌روز بودن پروفایل‌ها** (*Checking OneNote Profiles*)  
    در برنامه CS Internship با ورود هر اینترن یک پروفایل ایجاد می‌شود که در طول مسیر خودآموزی او توسط کوردینتور اینترن تکمیل و پر می‌شود. به‌روز بودن پروفایل اینترن‌ها در پایان هر اسپرینت عملیاتی توسط یکی از اعضای جلسه بررسی شود و در صورت لزوم پیگیری‌های لازم برای به‌روز بودن این پروفایل‌ها صورت می‌گیرد.
-   برای اطلاع بیشتر از نحوه انجام این کار به مستند [«بررسی به‌روز بودن پروفایل‌ها»]([cs-internship-spec/processes/mentor documents/Checking OneNote Profiles -- fa.md at master · cs-internship/cs-internship-spec](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Checking%20OneNote%20Profiles%20--%20fa.md)) مراجعه شود.
+   برای اطلاع بیشتر از نحوه انجام این کار به مستند [«بررسی به‌روز بودن پروفایل‌ها»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Checking%20OneNote%20Profiles%20--%20fa.md) مراجعه شود.
 - **مسئولیت گروه صف** (*Queue Management*)  
  نقطه شروع به برنامه عضو شدن در گروه تلگرامی «CS Internship - Queue» است. یعنی هر کس بخواهد وارد برنامه شود ابتدا وارد این گروه می‌شود و با طی کردن مراحل معارفه آماده مصاحبه می‌شود. مسئول گروه صف کسی است که طی یک اسپرینت کارهای لازم برای این گروه را انجام می‌دهد و پاسخگوی پیام‌های این گروه است.
- برای اطلاع بیشتر از نحوه انجام این مسئولیت به مستند [«مسئول صف»]([cs-internship-spec/processes/mentor documents/Queue Management -- fa.md at master · cs-internship/cs-internship-spec](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Queue%20Management%20--%20fa.md)) مراجعه شود.
+ برای اطلاع بیشتر از نحوه انجام این مسئولیت به مستند [«مسئول صف»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Queue%20Management%20--%20fa.md) مراجعه شود.
 
 ## آموزش‌دهنده‌ها
 تمامی اعضای تیم منتوری، در هر سطحی، می‌توانند در انتقال محتوای این مستند نقش داشته باشند و در صورت نیاز، پرسش‌های خوانندگان را پاسخ دهند و ابهامات آنان را برطرف کنند.

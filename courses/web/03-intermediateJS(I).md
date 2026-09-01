@@ -44,10 +44,6 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-5. Achieve the **[Suffrage](https://stackoverflow.com/help/badges/804/suffrage)** badge on Stack Overflow.
-
-6. Achieve the **[Editor](https://stackoverflow.com/help/badges/3/editor)** badge on Stack Overflow.
-
 7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 202**.
 
 8. Follow at least 5 Twitter accounts that are active in web technologies. Describe why they are worth following.
@@ -68,5 +64,5 @@ In the mentoring training path, you should watch the **"seventh"** and **"eighth
 - Link to [video7](https://drive.google.com/file/d/167Io_enDD8FHxwt5LBc7YNXCzfIuRC8D/view?usp=sharing)
 - Link to [video8](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz/view?usp=drive_link)
 
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
  

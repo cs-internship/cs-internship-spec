@@ -1,6 +1,6 @@
 # Ice-Breaking Step
 
-Welcome aboard! Don't worry if you don't know what works how. You will soon read documents to learn what to do and how to do it. 
+Welcome aboard! Don't worry if you don't know what works how. You will soon **read documents to learn what to do and how to do it**. 
 Also, you are totally new to the club, so welcome to the club too! There are lots of people in this club willing to accompany you. But how? How can you get help from them? Who is who!? Who knows what!?
 That’s what your main job is all about: you must literally talk with people (on the phone or through an online meeting) in order to get to know each other.
 
@@ -60,4 +60,4 @@ In the mentoring training path, you must watch the **"second"** video of the 8 v
 
 - Link to [video2](https://drive.google.com/file/d/1PT_6IAlbMhtloCctVzECgBRA1ALZCbeR/view?usp=drive_link). 
 
-To do this part, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md). 
+To do this part, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 

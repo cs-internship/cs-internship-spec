@@ -38,15 +38,13 @@
 
 4. Pass all lessons on TypingClub.com with 5 stars up to **lesson 244**.
 
-5. Achieve the **[Scholar](https://stackoverflow.com/help/badges/10/scholar)** badge on Stack Overflow. 
+5. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
 
-6. Name 5 useful Web libraries and describe what they do and why they're good. Give a star to their GitHub repo.
+6. Find at least 5 more online resources about JS and explain why you chose them.
 
-7. Find at least 5 more online resources about JS and explain why you chose them.
+7. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
 
-8. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
-
-9. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+8. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
 10. Hold your live presentation on LinkedIn.
 
@@ -57,5 +55,5 @@ In the mentoring training path, you should watch the **"first"** and **"second"*
 - Link to [video1](https://drive.google.com/drive/folders/1O__WMdInuPReT-vxaCvBZXLIboJJxbzq?usp=share_link)
 - Link to [video2](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link)
 
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
  

@@ -7,16 +7,14 @@
 ### Tasks
 
  1. LinqPad exercises
- 2. Achieve the **[Teacher](https://stackoverflow.com/help/badges/1/teacher)** badge on Stack Overflow.
- 3. Achieve the **[Student](https://stackoverflow.com/help/badges/2/student)** badge on Stack Overflow.
- 4. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 388.
- 5. Pass these exercises at exercism.io:
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 388.
+ 3. Pass these exercises at exercism.io:
     - Grade School
- 6. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 3 Technical Assistant.
- 7. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
- 8. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 4. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 3 Technical Assistant.
+ 5. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+ 6. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 9. Hold your live presentation on LinkedIn.
+ 7. Hold your live presentation on LinkedIn.
 
 
 ### Mentors Training
@@ -26,5 +24,5 @@ In the mentoring training path, you should watch the **"eleventh"** and **"twelf
 - Link to [video11](https://drive.google.com/drive/folders/1MnqRETVZgXRqUUYlCsiEs1SNUVSTkgyV)
 - Link to [video12](https://drive.google.com/drive/folders/1rF1CBqvjDmeV4_AW1HH1BCxsPZdbFz9L)
 
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
 

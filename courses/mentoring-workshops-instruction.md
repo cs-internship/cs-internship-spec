@@ -51,3 +51,4 @@ In each step's file, there is a section called **"Mentors Training"**. This sect
     - Please keep in mind that mentor availability to review your reports is not guaranteed.
     - Also, there is no guarantee that mentors will have time to check the report during the current sprint. So, it is almost 50-50 chance to get permission to participate in a workshop with two reports.
     - Furthermore, the deadline for reviewing your reports may be set in a way that does not accelerate the scheduling of mentorship sessions.
+

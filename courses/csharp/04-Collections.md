@@ -11,19 +11,18 @@
 ### Tasks
 
  1. Search for some more advanced collections available in BCL, name 3 of them and a little description about them.
- 2. Achieve the **[Scholar](https://stackoverflow.com/help/badges/10/scholar)** badge on Stack Overflow.
- 3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 244.
- 4. Pass these exercises at exercism.io:
+ 2. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 244.
+ 3. Pass these exercises at exercism.io:
     - High Scores
     - Resistor Color
     - Nucleotide Count
     - Robot Name
- 5. **Mini Project - Task Management System**  
+ 4. **Mini Project - Task Management System**  
     - **Project Overview:** In this mini-project, you will develop a Task Management System using C# collections. You’ll manage tasks using `List<T>`, `Dictionary<TKey, TValue>`, and `Queue<T>` collections. The system should allow adding, removing, editing, and categorizing tasks.
- 6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
- 7. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 5. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+ 6. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 8. Hold your live presentation on LinkedIn.
+ 7. Hold your live presentation on LinkedIn.
 
 
 ### Mentors Training
@@ -33,6 +32,6 @@ In the mentoring training path, you should watch the **"first"** and **"second"*
 - Link to [video1](https://drive.google.com/drive/folders/1O__WMdInuPReT-vxaCvBZXLIboJJxbzq?usp=share_link)
 - Link to [video2](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link)
 
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
 
 

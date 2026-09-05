@@ -32,8 +32,6 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-4. Reach **15 reputation** on Stack Overflow by answering questions, then achieve the **[Supporter](https://stackoverflow.com/help/badges/6/supporter)** badge.
-
 5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 
 6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
@@ -50,5 +48,5 @@ In the mentoring training path, you should watch the **"fifth"** and **"sixth"**
 - Link to [video5](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing)
 - Link to [video6](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing)
 
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/mentoring-workshops-instruction.md).
+To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
  

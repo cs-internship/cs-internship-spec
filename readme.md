@@ -21,7 +21,7 @@ You can study more about the [**Declaration of CS Culture**](https://www.linkedi
 
 ## ⚖️ Core Principles
 - **Value Creation:** Knowledge is transformed into real-world impact and economic value.  
-- **Simulation of Modern Work Environments:** Exercises and processes mirror real organizational challenges.  
+- **Simulation of Modern Work Environments:** Exercises and processes mirror real organisational challenges.  
 - **Self-Organization:** Members can propose and implement changes to rules and structures.  
 - **Service & Commitment:** No money is exchanged; each participant provides service in return for service received.  
 - **Resource Management:** Time and energy of volunteers are the most valuable resources.  
@@ -88,6 +88,13 @@ This repository is maintained by the CS Internship community. Contributions are 
 - Resource sharing (study items, tasks)  
 - Tools and utilities for interns and mentors  
 
+---
+
+## 📬 How to join
+Learn more about the program and how to join:
+
+[Program Introduction (English)](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/program%20introduction%20documents/About%20CS%20Internship%20Program%20--en.md)
+[Program Introduction (Persian)](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/program%20introduction%20documents/About%20CS%20Internship%20Program%20--fa.md)
 ---
 
 ## 📬 Contact

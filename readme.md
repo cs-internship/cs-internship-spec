@@ -93,8 +93,8 @@ This repository is maintained by the CS Internship community. Contributions are 
 ## 📬 How to join
 Learn more about the program and how to join:
 
-[Program Introduction (English)](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/program%20introduction%20documents/About%20CS%20Internship%20Program%20--en.md)
-[Program Introduction (Persian)](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/program%20introduction%20documents/About%20CS%20Internship%20Program%20--fa.md)
+- [Program Introduction (English)](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/program%20introduction%20documents/About%20CS%20Internship%20Program%20--en.md)
+- [Program Introduction (Persian)](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/program%20introduction%20documents/About%20CS%20Internship%20Program%20--fa.md)
 ---
 
 ## 📬 Contact

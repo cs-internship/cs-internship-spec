@@ -14,15 +14,3 @@
  5. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
  6. Hold your live presentation on LinkedIn.
-
-
-
-### Mentors Training
-
-In the mentoring training path, you should watch the **"ninth"** and **"tenth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:
-
-- Link to [video9](https://drive.google.com/drive/folders/1lBqfqw7Th-zyc3XherR2GLCK3HtK2VaK)
-- Link to [video10](https://drive.google.com/drive/folders/1_uRxg9mzKYycKT05O93r0-9Lh2McLjSb)
-
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
-

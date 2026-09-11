@@ -13,16 +13,18 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Implement your calculator considering these features:
+1. As part of the **Mentor Training** path, watch the **fifth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+2. As part of the **Mentor Training** path, watch the **sixth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+3. Implement your calculator considering these features:
 
    - Make it responsive just like the Windows 10 calculator.
    - Get more information about responsive rules, sizes, and more by following the provided pictures in [images](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step1) and this [video](https://youtu.be/zddyn5_KCj8).
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-2. Create an [exercism.org](https://exercism.org/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).
+4. Create an [exercism.org](https://exercism.org/) account and **disable** learning mode like this [image](https://github.com/cs-internship/cs-internship-spec/tree/master/courses/web/images/step2/exercism-disable-learning-mode.png).
 
-3. Join Exercism’s **JavaScript** Track and pass these exercises:
+5. Join Exercism’s **JavaScript** Track and pass these exercises:
 
    - Hello World
    - Two Fer
@@ -32,21 +34,12 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
+6. Pass all lessons on TypingClub.com with 5 stars up to **lesson 137**.
 
-6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+7. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
 
-7. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+8. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
 
-8. Hold your live presentation on LinkedIn.
+9. Hold your live presentation on LinkedIn.
 
-### Mentors Training
-
-In the mentoring training path, you should watch the **"fifth"** and **"sixth"** videos out of the 8 videos for the **"Communication Training"** course. Here are the links:
-
-- Link to [video5](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing)
-- Link to [video6](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing)
-
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
- 

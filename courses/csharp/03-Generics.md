@@ -10,31 +10,24 @@
 
 ### Tasks  <!-- omit in toc -->
 
-  1. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 202.
-  2. Pass these at exercism.io:
+  1. As part of the **Mentor Training** path, watch the **seventh** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/167Io_enDD8FHxwt5LBc7YNXCzfIuRC8D). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  2. As part of the **Mentor Training** path, watch the **eighth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 202.
+  4. Pass these at exercism.io:
         - Circular Buffer
         - Pangram
         - Pascal's Triangle
-  3. Project: Create a simple library system to store and manage different types of library items (e.g., books, magazines, DVDs). (This project will help you understand and work with generics in C#)
+  5. Project: Create a simple library system to store and manage different types of library items (e.g., books, magazines, DVDs). (This project will help you understand and work with generics in C#)
       - Your project should have the following components:
           - `LibraryItem<T>`: A generic class representing an item in the library.
           - `Library`: A class containing a generic method to add items to a collection.
           - `LibraryManager`: The main class to manage library items and demonstrate the use of generic collections.
-  4. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 1 Technical Assistant.
-  5. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
-  6. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+  6. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 1 Technical Assistant.
+  7. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+  8. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
-  7. Hold your live presentation on LinkedIn.
+  9. Hold your live presentation on LinkedIn.
 
-
-### Mentors Training
-
-In the mentoring training path, you should watch the **"seventh"** and **"eighth"** videos out of the 8 videos for the **"Communication Training"** course. Here are the links:
-
-- Link to [video7](https://drive.google.com/file/d/167Io_enDD8FHxwt5LBc7YNXCzfIuRC8D/view?usp=sharing)
-- Link to [video8](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz/view?usp=drive_link)
-
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
 
 
 

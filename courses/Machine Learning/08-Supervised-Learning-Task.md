@@ -12,7 +12,7 @@
  2. Prepare a Sentiment Analyzer! (Classify texts based on sentiments into two categories: positive and negative)  [(data)](https://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip).
     About the data: [(HuggingFace)](https://huggingface.co/datasets/stanfordnlp/sentiment140) and [(Kaggle)](https://www.kaggle.com/datasets/kazanova/sentiment140).
  3. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
- 4. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 4. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
  5. Hold your live presentation on LinkedIn.
 

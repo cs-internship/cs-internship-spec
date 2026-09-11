@@ -33,7 +33,7 @@ For the latest perspectives, it's also highly recommended to check out the most 
 7. Find at least 5 extra useful online resources for HTML/CSS. Then explain why you chose them.
 8. Find at least 5 extra useful online resources for Git/Github. Then explain why you chose them.
 9. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
-10. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+10. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
 11. Hold your live presentation on LinkedIn.
 

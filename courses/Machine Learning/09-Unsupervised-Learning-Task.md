@@ -11,7 +11,7 @@
  2. Build a model to detect fraudulent activities [(data)](https://www.cs.cmu.edu/~enron/).
  3. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 3 Technical Assistant.
  4. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
- 5. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 5. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
  6. Hold your live presentation on LinkedIn.
 

@@ -30,7 +30,9 @@ After **studying the study item document and obtaining the two necessary access 
 
 To arrange the session, mention your coordinator in the Meeting topic of the Coordination group and suggest a few available times. Make sure to include the days and times that work for you so you can find a suitable slot. The Q&A session will last for 30-60 minutes.
 
-4. Reach out to the following people:
+4. In the **"mentor training"** path, you must watch the [second video](https://drive.google.com/file/d/1PT_6IAlbMhtloCctVzECgBRA1ALZCbeR/view?usp=drive_link) of the 8 videos for the **"Communication Training"** course. To do this part, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+
+5. Reach out to the following people:
 
 - All the technical mentors
 - All interns in your club
@@ -52,13 +54,8 @@ After the conversation, you’ll share your impressions:
 - **Post a brief introduction** about the person on your Telegram club, summarizing their answers to the 3 questions above. Use the following hashtags: `#معرفی #cs_internship #courseName #stepNumber`, and mention their Telegram @username.
 - **Tweet your thoughts and feelings** about them using the same hashtags and mention their Twitter @username.
 
-4. You should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.
+5. You should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.
 
 
-## Mentors Training
 
-In the mentoring training path, you must watch the **"second"** video of the 8 videos for the **"Communication Training"** course. Here is the link:
 
-- Link to [video2](https://drive.google.com/file/d/1PT_6IAlbMhtloCctVzECgBRA1ALZCbeR/view?usp=drive_link). 
-
-To do this part, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 

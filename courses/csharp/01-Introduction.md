@@ -16,8 +16,8 @@
   
 ### Tasks  <!-- omit in toc -->
 
-  1. As part of the **Mentor Training** path, watch the **third** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
-  2. As part of the **Mentor Training** path, watch the **fourth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  1. As part of the **Mentor Training** path, watch the **third** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  2. As part of the **Mentor Training** path, watch the **fourth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
   3. Create a GitHub account.
   4. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on C#.
   5. Set up your development environment.

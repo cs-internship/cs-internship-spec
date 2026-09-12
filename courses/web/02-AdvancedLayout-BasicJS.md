@@ -13,8 +13,8 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. As part of the **Mentor Training** path, watch the **fifth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
-2. As part of the **Mentor Training** path, watch the **sixth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+1. As part of the **Mentor Training** path, watch the **fifth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+2. As part of the **Mentor Training** path, watch the **sixth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
 3. Implement your calculator considering these features:
 
    - Make it responsive just like the Windows 10 calculator.

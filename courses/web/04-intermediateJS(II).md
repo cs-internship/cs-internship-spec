@@ -12,8 +12,8 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. As part of the **Mentor Training** path, watch the **first** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1O__WMdInuPReT-vxaCvBZXLIboJJxbzq). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
-2. As part of the **Mentor Training** path, watch the **second** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+1. As part of the **Mentor Training** path, watch the **first** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1O__WMdInuPReT-vxaCvBZXLIboJJxbzq?usp=share_link). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+2. As part of the **Mentor Training** path, watch the **second** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1y_mkcHY05rmvsItvC8jFw5ly8tdiEvsC?usp=share_link). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
 3. Refactor style and themeable of the calculator (from the previous step) with SCSS/SASS.
 
 4. Enhance the Todo App following these instructions:

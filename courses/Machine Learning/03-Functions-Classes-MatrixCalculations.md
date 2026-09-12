@@ -15,8 +15,8 @@
   
 ### Tasks
 
-  1. As part of the **Mentor Training** path, watch the **seventh** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/167Io_enDD8FHxwt5LBc7YNXCzfIuRC8D). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
-  2. As part of the **Mentor Training** path, watch the **eighth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  1. As part of the **Mentor Training** path, watch the **seventh** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/167Io_enDD8FHxwt5LBc7YNXCzfIuRC8D/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  2. As part of the **Mentor Training** path, watch the **eighth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz/view?usp=drive_link). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
   3. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 169**.
   4. Pass these exercises at exercism.io (Use your GitHub as source control):
       - Kindergarten Garden

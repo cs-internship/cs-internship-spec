@@ -11,18 +11,20 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Enhance the Todo App to have an authentication system:
+1. As part of the **Mentor Training** path, watch the **seventh** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/16fch6aIfZL1laupMDYruy3HjmxV8WA-p). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+2. As part of the **Mentor Training** path, watch the **eighth** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1REyXmFfCWTDpCrsbNoJojHjH9ZQEXzqx). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+3. Enhance the Todo App to have an authentication system:
 
    - Add a 'Sign up' page to the Todo App.
    - Add a 'Sign in' page to the Todo App.
    - Use a method to apply authentication on all HTTP requests.
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 
-2. Enhance the Todo App to store the state of the app for each user separately. Enable the Todo App to work for anonymous users too.
+4. Enhance the Todo App to store the state of the app for each user separately. Enable the Todo App to work for anonymous users too.
 
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 
-3. Add a header to the Todo App with the following functionalities:
+5. Add a header to the Todo App with the following functionalities:
 
    - A label to show the current user's display name.
    - A 'Sign up' button to navigate to the 'Sign up' page.
@@ -31,7 +33,7 @@
    - Apply visibility of each button based on the current state of the app.
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 
-4. Pass these exercises at exercism.org:
+6. Pass these exercises at exercism.org:
 
    - ETL
    - Grade School
@@ -41,23 +43,15 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
+7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 357**.
 
-6. Find at least 5 other online resources about Authentication on the Web and explain why you chose them, then share them on Twitter and LinkedIn.
+8. Find at least 5 other online resources about Authentication on the Web and explain why you chose them, then share them on Twitter and LinkedIn.
 
-7. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+9. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
 
-8. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+10. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
 
-10. Hold your live presentation on LinkedIn.
+11. Hold your live presentation on LinkedIn.
 
-### Mentors Training
-
-In the mentoring training path, you should watch the **"seventh"** and **"eighth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:
-
-- Link to [video7](https://drive.google.com/drive/folders/16fch6aIfZL1laupMDYruy3HjmxV8WA-p)
-- Link to [video8](https://drive.google.com/drive/folders/1REyXmFfCWTDpCrsbNoJojHjH9ZQEXzqx)
-
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
  

@@ -9,21 +9,14 @@
 ### Tasks
 
  1. It's time to begin your journey as a mentoring intern. Ask your coordinator to start your onboarding process for mentorship.
- 2. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 244**.
- 3. Do the exercise 3 in step 4 again but open the CSV file with **Pandas package** as a dataframe and add new four columns to it with name **MA1, MA2, MA3, and MA4** and for these columns calculate the [Moving Average](https://en.wikipedia.org/wiki/Moving_average) of close price for durations of 5, 10, 15, and 30 (N=5, 10, 15, and 30).
- 4. Find at least 5 other online resources about numpy & pandas & matplotlib, and explain why you chose them.
- 5. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
- 6. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+ 2. As part of the **Mentor Training** path, watch the **third** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1O4JD5_fs6ako8-kvxhjv7_1qg6eoawvN?usp=share_link). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  3. As part of the **Mentor Training** path, watch the **fourth** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1v38qtor7nZ00mPQDNbke8BNwgHK_vb6K). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+ 4. Pass all lessons on TypingClub.com **with 5 stars** up to **lesson 244**.
+ 5. Do the exercise 3 in step 4 again but open the CSV file with **Pandas package** as a dataframe and add new four columns to it with name **MA1, MA2, MA3, and MA4** and for these columns calculate the [Moving Average](https://en.wikipedia.org/wiki/Moving_average) of close price for durations of 5, 10, 15, and 30 (N=5, 10, 15, and 30).
+ 6. Find at least 5 other online resources about numpy & pandas & matplotlib, and explain why you chose them.
+ 7. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+ 8. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
- 7. Hold your live presentation on LinkedIn.
+ 9. Hold your live presentation on LinkedIn.
 
-
-### Mentors Training
-
-In the mentoring training path, you should watch the **"third"** and **"fourth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:
-
-- Link to [video3](https://drive.google.com/drive/folders/1O4JD5_fs6ako8-kvxhjv7_1qg6eoawvN?usp=share_link)
-- Link to [video4](https://drive.google.com/drive/folders/1v38qtor7nZ00mPQDNbke8BNwgHK_vb6K)
-
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
  

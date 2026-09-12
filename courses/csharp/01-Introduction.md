@@ -16,33 +16,28 @@
   
 ### Tasks  <!-- omit in toc -->
 
-  1. Create GitHub account
-  2. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on C#.
-  3. Set up your development environment
+  1. As part of the **Mentor Training** path, watch the **third** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  2. As part of the **Mentor Training** path, watch the **fourth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  3. Create a GitHub account.
+  4. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on C#.
+  5. Set up your development environment.
      1. [Download](https://dotnet.microsoft.com/download) .Net core sdk and install it.
      2. Create your first console app. Walk through [this tutorial](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install).
-  4. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
-  5. Register at exercism.io. Join C# track in **practice mode**:
-  6. Pass these exercises at exercism.io:
+  6. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
+  7. Register at exercism.io. Join C# track in **practice mode**:
+  8. Pass these exercises at exercism.io:
         - Hello world (exercise number 1)
         - Two Fer  
         - Leap  
         - RNA Transcription  
         - Gigaseconds
-  7. Search about *bubble sort* algorithm. Write a program that has a method that receives a list of numbers and returns a sorted equivalent list. The method should be the bubble sort algorithm.
-  8. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
-  9. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+  9. Search about *bubble sort* algorithm. Write a program that has a method that receives a list of numbers and returns a sorted equivalent list. The method should be the bubble sort algorithm.
+  10. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+  11. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
-  10. Hold your live presentation on LinkedIn.
+  12. Hold your live presentation on LinkedIn.
 
-### Mentors Training
 
-In the mentoring training path, you should watch the **"third"** and **"fourth"** videos out of the 8 videos for the **"Communication Training"** course. Here are the links:
-
-- Link to [video3](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing)
-- Link to [video4](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing)
-
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
 
 
 

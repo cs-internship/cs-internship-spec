@@ -13,31 +13,24 @@
     - [Deep Dive into LLMs like ChatGPT, Andrej Karpathy, 2025](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ### Tasks  <!-- omit in toc -->
- 1. Choose 3 bloggers who write about C# and describe why they matter to you.
- 2. Search for dotPeek, what is it? Open and investigate one of your program dlls that you have written so far.
- 3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 137.
- 4. Pass these exercises at exercism.io:
+ 1. As part of the **Mentor Training** path, watch the **fifth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+  2. As part of the **Mentor Training** path, watch the **sixth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+ 3. Choose 3 bloggers who write about C# and describe why they matter to you.
+ 4. Search for dotPeek, what is it? Open and investigate one of your program dlls that you have written so far.
+ 5. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 137.
+ 6. Pass these exercises at exercism.io:
     - Allergies
     - Clock
- 5. Project: Calculator Console Application
+ 7. Project: Calculator Console Application
     - Create a console application that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers entered by the user.
       - The application should prompt the user to enter two numbers.
       - The application should then prompt the user to choose an operation: addition, subtraction, multiplication, or division.
       - The application should perform the chosen operation and display the result.
       - The application should handle invalid inputs (e.g., division by zero).
-  6. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
-  7. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+  8. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+  9. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
-  8. Hold your live presentation on LinkedIn.
+  10. Hold your live presentation on LinkedIn.
 
-
-### Mentors Training
-
-In the mentoring training path, you should watch the **"fifth"** and **"sixth"** videos out of the 8 videos for the **"Communication Training"** course. Here are the links:
-
-- Link to [video5](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing)
-- Link to [video6](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing)
-
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
 
 

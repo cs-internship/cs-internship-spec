@@ -15,19 +15,21 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Enhance the client-side of the Todo App to automatically store the latest state of the application in a **client-side storage**:
+1. As part of the **Mentor Training** path, watch the **fifth** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1MBTCHtzWzmGqQEKe6U86jjzxUxxEtUn4). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+2. As part of the **Mentor Training** path, watch the **sixth** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1EjO3sPNeiq8c0nKGB_oUyelM2jxVZRd1). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+3. Enhance the client-side of the Todo App to automatically store the latest state of the application in a **client-side storage**:
 
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 
-2. Implement an **Upload** functionality in the Todo App to store the current state on the server:
+4. Implement an **Upload** functionality in the Todo App to store the current state on the server:
 
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 
-3. Implement a **Download** functionality in the Todo App to retrieve the latest stored state from the server:
+5. Implement a **Download** functionality in the Todo App to retrieve the latest stored state from the server:
 
    - Use GitHub as your source control and showcase your project on GitHub Pages.
 
-4. Pass this exercise at exercism.org:
+6. Pass this exercise at exercism.org:
 
    - Sum Of Multiples
 
@@ -36,25 +38,18 @@
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-5. Pass all lessons on TypingClub.com with 5 stars up to **lesson 316**.
+7. Pass all lessons on TypingClub.com with 5 stars up to **lesson 316**.
 
-6. Find at least 5 other online resources about **HTTP** and explain why you chose them.
+8. Find at least 5 other online resources about **HTTP** and explain why you chose them.
 
-7. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 2 Technical Assistant.
+9. After thoroughly reviewing the ["Technical Assistant Role"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Technical%20Assistant%20Role%20--%20fa.md) document, submit your request to serve as a Level 2 Technical Assistant.
 
-8. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+10. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
 
-9. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+11. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
 
-11. Hold your live presentation on LinkedIn.
+12. Hold your live presentation on LinkedIn.
 
-### Mentors Training
 
-In the mentoring training path, you should watch the **"fifth"** and **"sixth"** videos out of the 12 videos for the **"Coaching"** course. Here are the links:
-
-- Link to [video5](https://drive.google.com/drive/folders/1MBTCHtzWzmGqQEKe6U86jjzxUxxEtUn4)
-- Link to [video6](https://drive.google.com/drive/folders/1EjO3sPNeiq8c0nKGB_oUyelM2jxVZRd1)
-
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
  

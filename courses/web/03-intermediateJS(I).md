@@ -11,14 +11,16 @@
 
 ### Tasks <!-- omit in toc -->
 
-1. Make your calculator themeable:
+1. As part of the **Mentor Training** path, watch the **seventh** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/167Io_enDD8FHxwt5LBc7YNXCzfIuRC8D/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+2. As part of the **Mentor Training** path, watch the **eighth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz/view?usp=drive_link). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+3. Make your calculator themeable:
 
    - Add two themes using this [video](https://youtu.be/gimpZg_2yY8).
    - Add another theme using your creativity.
    - Use GitHub as your source control.
    - Publish it on your JSFiddle account.
 
-2. Enhance the Standard Calculator (from the previous step):
+4. Enhance the Standard Calculator (from the previous step):
 
    - Use JS to add calculation functionalities.
    - Implement memory and history functionality, as well as all calculation buttons in your calculator.
@@ -26,7 +28,7 @@
    - Use your GitHub as source control.
    - Publish it on your JSFiddle account.
 
-3. Create a simple Todo App:
+5. Create a simple Todo App:
 
    - With an input HTML element to get the title of it.
    - With a button for adding a new todo.
@@ -34,7 +36,7 @@
    - Use your GitHub as source control.
    - Publish it on the [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) of your repository.
 
-4. Pass these exercises at exercism.org:
+6. Pass these exercises at exercism.org:
 
    - Leap
    - Pangram
@@ -52,17 +54,9 @@
 
 10. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
 
-11. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+11. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
 for more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
 
 12. Hold your live presentation on LinkedIn.
 
-### Mentors Training
-
-In the mentoring training path, you should watch the **"seventh"** and **"eighth"** videos out of the 8 videos for the **"Communication Training"** course. Here are the links:
-
-- Link to [video7](https://drive.google.com/file/d/167Io_enDD8FHxwt5LBc7YNXCzfIuRC8D/view?usp=sharing)
-- Link to [video8](https://drive.google.com/file/d/1_5XYfjngoY7LaLdReomoz45BSIoZXovz/view?usp=drive_link)
-
-To complete this section, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
  

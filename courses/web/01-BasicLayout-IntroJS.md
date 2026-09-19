@@ -5,7 +5,7 @@
 1. [W3Schools HTML](https://www.w3schools.com/html/default.asp)
 2. [W3Schools CSS](https://www.w3schools.com/css/default.asp)
 3. [Css Reference](https://cssreference.io/) (Study these collections: Box model, flex, grid, positioning, transition)
-4. [Don't fear the internet - Layout](http://www.dontfeartheinternet.com/08-layout/)
+4. [Creating Layout With Flexbox and Grid](https://www.youtube.com/watch?v=ESAXStllfcw)
 5. [How To Make Websites Using HTML & CSS](https://youtu.be/PgAZ8KzfhO8?si=NNbN3pe85-qwAKSo)
 6. [YDKJS, Chapter Book 1: Intro Programming](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch1.md)
 7. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)

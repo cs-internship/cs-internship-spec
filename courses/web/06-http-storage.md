@@ -7,7 +7,7 @@
 1. [YDKJS Book 3, Chapter 4: Mixing (Up) "Class" Objects](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch4.md)
 2. [YDKJS Book 3, Chapter 5: Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch5.md)
 3. [YDKJS Book 3, Appendix A: ES6 class](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/apA.md)
-4. [Understanding HTTP Basics](https://learn.onemonth.com/understanding-http-basics/)
+4. [Understanding HTTP: Basics for Beginners - DEV Community](https://dev.to/devlawrence/understanding-http-basics-for-beginners-3f28)
 5. [Communicating with back-end](https://www.sitepoint.com/xmlhttprequest-vs-the-fetch-api-whats-best-for-ajax-in-2019/)
 6. [An Overview of Client-Side Storage](https://bitsofco.de/an-overview-of-client-side-storage)
 7. [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)

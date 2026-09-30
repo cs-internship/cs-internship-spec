@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/cs-internship/cs-internship-spec)
 # CS Internship Program
 
 ## 📌 Purpose
@@ -26,7 +27,6 @@ You can study more about the [**Declaration of CS Culture**](https://www.linkedi
 - **Service & Commitment:** No money is exchanged; each participant provides service in return for service received.  
 - **Resource Management:** Time and energy of volunteers are the most valuable resources.  
 - **Motivation Management:** The only reward is employability — motivation must be intrinsic.  
-- **Admission Process:** Orientation → Interview → Acceptance → Commitment declaration.  
 
 ---
 
@@ -36,18 +36,16 @@ You can study more about the [**Declaration of CS Culture**](https://www.linkedi
 - **C#**  
 - **Web (JavaScript)**  
 - **Machine Learning (Python)**  
-- **Web (Blazor)** → *Will be available soon...*  
-- **Cross Platform (MAUI Blazor)** → *Will be available soon...*  
-- **Machine Learning (ML.NET)** → *Will be available soon...*  
+- **Full-Stack AI Developer (.NET)** → *Will be available soon...*   
 
 ### Stages
 1. **Self-Learning (≈9 months)**  
 2. **Internship (6 months)**  
 
-### Parallel Pathways
-- **Technical Skills:** Study Items, Tasks, technical sessions, peer-support.  
-- **Business Skills:** Mentor Training, reports, workshops.  
-- **Service:** From Step 5, interns join the mentoring team and practice organizational roles.  
+### Parallel Pathways Across the Two Stages
+- **Technical Skills:** Technical study items, tasks, online presentations, and participation in technical support and collaboration sessions.  
+- **Business Skills:** Mentor Training and participation in workshops, daily reporting, commitment and commitment management, planning, social media activity.  
+- **Service to the Program:** After gaining some experience in the program, interns join the mentoring team and develop their skills through practical teamwork, service delivery, and leadership while taking on organizational and managerial roles and responsibilities.
 
 ---
 
@@ -66,14 +64,6 @@ Interns also participate in peer-support sessions and technical mentoring sessio
 2. **Assistant Mentor** → Technical mentor, leading sessions and tracking activities.  
 3. **Candidate Mentor** → Observer in workshops, contributor in structural meetings.  
 4. **Mentor** → Full mentor, leading workshops and shaping governance.  
-
----
-
-## 📏 Rules & Processes
-- **Commitment Management:** Interns declare deadlines for each step.  
-- **Daily Reporting:** Submit daily progress reports.  
-- **Social Media Activity:** Build personal brand via LinkedIn and X.  
-- **Online Presentation:** 20-minute presentation at the end of each step.  
 
 ---
 

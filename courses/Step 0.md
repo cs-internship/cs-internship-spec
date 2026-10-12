@@ -12,27 +12,27 @@ In each step, you will have some study items to read and some tasks to do, then 
 
 ## Study Items
 
-Before engaging with others in the club, it is essential to first familiarize yourself with the guidelines and processes for your internship journey. Please study the following document:
-
-1. [Introductory Guide to Processes for the CS Internship Program](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Introductory%20Guide%20to%20Processes%20for%20the%20CS%20Internship%20Program%20--%20fa.md)
+1. Before engaging with others in the club, it is essential to first familiarize yourself with the guidelines and processes for your internship journey. Please study the [Introductory Guide to Processes for the CS Internship Program](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Introductory%20Guide%20to%20Processes%20for%20the%20CS%20Internship%20Program%20--%20fa.md).
+2. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)
+3. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+4. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
 
 
 ## Tasks
 
 1. Create a [Twitter (X)](https://x.com/) account.
 2. Create a [LinkedIn](https://www.linkedin.com/) account.
-
+3. Create a [GitHub](https://github.com/) account.
 **Note:** If you already have accounts on these platforms, you **still need** to post an introductory update about yourself and the use of these accounts for the purpose of posting CS Internship content.
 
-3. Schedule a Q&A Session with Your Coordinator
-
-After **studying the study item document and obtaining the two necessary access permissions** mentioned in [Attending Mentoring Workshops](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md) document —which is one of the interns' documents mentioned there— you need to schedule a "Q&A Session" with your coordinator in the Coordination group. This session is an opportunity for you to ask any questions you have about the documents mentioned above.
+4. Schedule a Q&A Session with Your Coordinator
+After **studying the study item 1 document and obtaining the three necessary access permissions** mentioned in [Attending Mentoring Workshops](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md) document —which is one of the interns' documents mentioned there— you need to schedule a "Q&A Session" with your coordinator in the Coordination group. This session is an opportunity for you to ask any questions you have about the documents mentioned above.
 
 To arrange the session, mention your coordinator in the Meeting topic of the Coordination group and suggest a few available times. Make sure to include the days and times that work for you so you can find a suitable slot. The Q&A session will last for 30-60 minutes.
 
-4. As part of the **Mentor Training** path, watch the **second** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1PT_6IAlbMhtloCctVzECgBRA1ALZCbeR/view?usp=drive_link). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+5. As part of the **Mentor Training** path, watch the **second** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1PT_6IAlbMhtloCctVzECgBRA1ALZCbeR/view?usp=drive_link). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
 
-5. Reach out to the following people:
+6. Reach out to the following people:
 
 - All the technical mentors
 - All interns in your club
@@ -54,7 +54,7 @@ After the conversation, you’ll share your impressions:
 - **Post a brief introduction** about the person on your Telegram club, summarizing their answers to the 3 questions above. Use the following hashtags: `#معرفی #cs_internship #courseName #stepNumber`, and mention their Telegram @username.
 - **Tweet your thoughts and feelings** about them using the same hashtags and mention their Twitter @username.
 
-6. You should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.
+7. You should ask (and convince) 5 of them to introduce you in the club by posting a paragraph about you.
 
 
 

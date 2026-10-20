@@ -1,5 +1,7 @@
 # C# Program <!-- omit in toc -->
 
+> **Note:** This course is deprecated and no longer open to new interns. Interns already enrolled in it continue and finish it here; new interns start with the [Full-Stack AI Engineer (.NET)](../fullstack-ai/README.md) course.
+
 This course is designed to make the intern ready for the exciting market of C# developers out there. In this course interns get familiar with C# syntax so they can leverage it for Web, Mobile and Desktop applications.
 
 ## References <!-- omit in toc -->

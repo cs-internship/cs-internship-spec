@@ -3,6 +3,8 @@ Sunday, 29 January, 2023
 
 # Machine Learning
 
+> **Note:** This course is deprecated and no longer open to new interns. Interns already enrolled in it continue and finish it here; new interns start with the [Full-Stack AI Engineer (.NET)](../fullstack-ai/README.md) course.
+
 ## Outlook
 This course is designed for students who want to learn **Machine Learning**. In this course, you will learn how to use Lists, Tuples, and Dictionaries and the most popular Python packages like Numpy, Pandas, and Matplotlib. Besides, learning the Math in **Machine Learning**, It is one of the main parts of this course and learning **Machine Learning** algorithms. By doing so, you will be able to work and solve problem in the World.
 

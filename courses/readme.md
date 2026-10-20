@@ -5,6 +5,8 @@ There are different courses designed in CS Internship, and a lot more are coming
 
 ## Overview
 This documentation is structured like this:
+
+- [Full-Stack AI Engineer (.NET)](/courses/fullstack-ai/README.md)
 - [C#](/courses/csharp/README.md)
 - [Web (Javascript)](/courses/web/README.md)
 - [Machine Learning](/courses/Machine%20Learning/README.md)

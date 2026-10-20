@@ -36,7 +36,7 @@ You can study more about the [**Declaration of CS Culture**](https://www.linkedi
 - **C#**  
 - **Web (JavaScript)**  
 - **Machine Learning (Python)**  
-- **Full-Stack AI Developer (.NET)** → *Will be available soon...*   
+- **[Full-Stack AI Engineer (.NET)](courses/fullstack-ai/README.md)**: C#, ASP.NET Core, Blazor, and AI application development  
 
 ### Stages
 1. **Self-Learning (≈9 months)**  

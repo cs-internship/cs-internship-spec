@@ -2,7 +2,7 @@
 
 <!-- outcomes: AI-01 AI-02 AI-03 WEB-01 -->
 
-Write your first C# programs, set up Git and GitHub, and build a shared understanding of how generative AI works, where it fails, and why a person stays responsible for its results. You also start the portfolio application that grows through the whole course: choose its product domain and publish a semantic HTML page that communicates the idea.
+Write your first C# programs, using Git to track your work and GitHub to host your code. Build a shared understanding of how generative AI works, where it fails, and why a person stays responsible for its results. You also start the portfolio application that grows through the whole course: choose its product domain and publish a semantic HTML page that communicates the idea.
 
 ### Study Items  <!-- omit in toc -->
 
@@ -13,9 +13,6 @@ Write your first C# programs, set up Git and GitHub, and build a shared understa
 3. [Introduction to Programming with CSharp](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/local-environment)
    1. Read all the four tutorials.
    2. Run the codes locally while reading.
-4. [Git and Github quick introduction](https://youtu.be/wpISo9TNjfU?si=bP6GuAHQXNQQx5fS)
-5. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
-6. [How to use Git and Github](https://youtu.be/HkdAHXoRtos?si=GuoimMTGpS0dGwYm)
 
 #### General AI
 

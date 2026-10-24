@@ -29,20 +29,19 @@ Write your first C# programs, using Git to track your work and GitHub to host yo
 1. As part of the **Mentor Training** path, watch the **third** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
 2. As part of the **Mentor Training** path, watch the **fourth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md).
 3. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 88.
-4. Create a GitHub account.
-5. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on C#.
-6. Set up your development environment.
+4. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on C#.
+5. Set up your development environment.
    1. [Download](https://dotnet.microsoft.com/download) .Net core sdk and install it.
    2. Create your first console app. Walk through [this tutorial](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install).
-7. Register at exercism.io. Join C# track in **practice mode**.
-8. Pass these exercises at exercism.io:
+6. Register at exercism.io. Join C# track in **practice mode**.
+7. Pass these exercises at exercism.io:
    - Hello world (exercise number 1)
    - Two Fer
    - Leap
    - RNA Transcription
    - Gigasecond
-9. Search about *bubble sort* algorithm. Write a program that has a method that receives a list of numbers and returns a sorted equivalent list. The method should be the bubble sort algorithm.
-10. **Create an AI Foundations Pack** <!-- bc: 01-T1 -->
+8. Search about *bubble sort* algorithm. Write a program that has a method that receives a list of numbers and returns a sorted equivalent list. The method should be the bubble sort algorithm.
+9. **Create an AI Foundations Pack** <!-- bc: 01-T1 -->
     - **Goal:** Document the AI concepts, verification habits, and human responsibility that will guide the project.
     - **Deliverable:** `docs/ai-foundations.md` containing a short plain-language LLM explanation, five possible AI applications, three decisions that remain human-controlled, and a hallucination and verification test table.
     - **Requirements:**
@@ -58,7 +57,7 @@ Write your first C# programs, using Git to track your work and GitHub to host yo
       - [ ] Each check records who owns the final decision and whether the model output is used, corrected, or rejected.
     - **Submission:**
       - `docs/ai-foundations.md`.
-11. **Start the Portfolio Application (Part A)** <!-- bc: 01-T2-a -->
+10. **Start the Portfolio Application (Part A)** <!-- bc: 01-T2-a -->
     - **Goal:** Create the first vertical slice of the product.
     - **Deliverable:** A repository containing a semantic HTML product page.
     - **Requirements:**
@@ -69,7 +68,7 @@ Write your first C# programs, using Git to track your work and GitHub to host yo
     - **Submission:**
       - Screenshot of the HTML page.
       - Short note describing the chosen product domain.
-12. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
-13. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+11. Toward the end of your step, and before your online presentation, attend a technical session with one of your track’s technical mentors and receive their feedback.
+12. At least 10 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
     For more details about the live presentation, please check ["Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Delivering%20an%20Online%20Presentation%20--%20fa.md).
-14. Hold your live presentation on LinkedIn.
+13. Hold your live presentation on LinkedIn.

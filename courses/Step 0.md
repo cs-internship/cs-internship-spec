@@ -23,6 +23,7 @@ In each step, you will have some study items to read and some tasks to do, then 
 1. Create a [Twitter (X)](https://x.com/) account.
 2. Create a [LinkedIn](https://www.linkedin.com/) account.
 3. Create a [GitHub](https://github.com/) account.
+
 **Note:** If you already have accounts on these platforms, you **still need** to post an introductory update about yourself and the use of these accounts for the purpose of posting CS Internship content.
 
 4. Schedule a Q&A Session with Your Coordinator

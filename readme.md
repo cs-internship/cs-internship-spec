@@ -32,11 +32,11 @@ You can study more about the [**Declaration of CS Culture**](https://www.linkedi
 
 ## 🏗️ Program Structure
 
-### Tracks
+### Courses
 - **[Full-Stack AI Engineer (.NET)](courses/fullstack-ai-engineer-dotnet/README.md)**: C#, ASP.NET Core, Html, CSS, Blazor, and AI application development  
-- **[Web (JavaScript)](courses/web/README.md)**: Html, CSS, JavaScript, TypeScript  
+- **[Web (JavaScript)](courses/web/README.md)** (inactive)
+- **Machine Learning (Python)** (inactive)  
 - **C#** (deprecated)  
-- **Machine Learning (Python)** (deprecated)  
 
 ### Stages
 1. **Self-Learning (≈9 months)**  

@@ -4,7 +4,7 @@ The **CS Internship** is a completely **free** and **fully remote** program desi
 
 Since **soft skills** play a crucial role in the success or failure of a software team, the core focus of this program is on teaching soft skills. These include skills such as **making commitments**, **asking questions**, **giving answers**, **sharing information**, **helping others**, **problem solving**, and many other abilities. All these skills are developed throughout the internship using carefully designed tasks.
 
-The program currently includes three tracks: **Web**, **C#**, and **Machine Learning**. In addition to technical knowledge, interns gain valuable soft skills in a realistic and professional environment.
+The program currently includes a course: **Full-Stack AI Engineer (.Net)**. In addition to technical knowledge, interns gain valuable soft skills in a realistic and professional environment.
 
 All interns share their progress and reflections on LinkedIn and Twitter using the hashtag [**#cs_internship**](https://www.linkedin.com/feed/hashtag/csAbRinternship/). You can browse these posts to get familiar with the culture of the program.
 

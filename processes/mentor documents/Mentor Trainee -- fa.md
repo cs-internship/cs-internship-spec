@@ -82,7 +82,7 @@
    برای اطلاع بیشتر از نحوه انجام این کار به مستند [«بررسی به‌روز بودن پروفایل‌ها»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Checking%20OneNote%20Profiles%20--%20fa.md) مراجعه شود.
 - **مسئولیت گروه صف** (*Queue Management*)  
  نقطه شروع به برنامه عضو شدن در گروه تلگرامی «CS Internship - Queue» است. یعنی هر کس بخواهد وارد برنامه شود ابتدا وارد این گروه می‌شود و با طی کردن مراحل معارفه آماده مصاحبه می‌شود. مسئول گروه صف کسی است که طی یک اسپرینت کارهای لازم برای این گروه را انجام می‌دهد و پاسخگوی پیام‌های این گروه است.  
- برای اطلاع بیشتر از نحوه انجام این مسئولیت به مستند [«مسئول صف»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Queue%20Management%20--%20fa.md) مراجعه شود.
+ برای اطلاع بیشتر از نحوه انجام این مسئولیت به مستند [«مدیریت صف»](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/mentor%20documents/Queue%20Management%20--%20fa.md) مراجعه شود.
 
 ## آموزش‌دهنده‌ها
 تمامی اعضای تیم منتوری، در هر سطحی، می‌توانند در انتقال محتوای این مستند نقش داشته باشند و در صورت نیاز، پرسش‌های خوانندگان را پاسخ دهند و ابهامات آنان را برطرف کنند.

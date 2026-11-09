@@ -45,7 +45,7 @@ At the end of each step, interns deliver a **20 minute online presentation** on 
 
 ## **How a Step Is Completed**
 
-A mentor provides the content of each step to the intern. The intern then has **24 hours** to review the content and **make a commitment** to the mentor. This means promising **when the step will be completed**.
+A mentor provides the content of each step to the intern. The intern then has **72 hours** to review the content and **make a commitment** to the mentor. This means promising **when the step will be completed**.
 
 From that point on, the intern is fully responsible for completing all tasks, while still being able to ask for help from the mentors.
 

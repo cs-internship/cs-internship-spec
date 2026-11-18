@@ -1,15 +1,16 @@
-## Step 2. Types
+## Step 2. Controlling Flow, Converting Types, and Handling Exceptions; Writing, Debugging, and Testing Functions
 
 ### Study Items  <!-- omit in toc -->
 
- 1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 3 : Types
- 2. [What is debugging?](https://learn.microsoft.com/en-us/visualstudio/debugger/what-is-debugging?view=vs-2022)
- 3. [Tutorial: Learn to debug C# code using Visual Studio](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-debugger?view=vs-2022&toc=%2Fvisualstudio%2Fdebugger%2Ftoc.json)
- 4. [First look at the Visual Studio Debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour?view=vs-2022)
- 5. [Use breakpoints in the Visual Studio debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=vs-2022)
- 6. [C# Breakpoints and Conditions](https://www.youtube.com/watch?v=YEL92u-3cRY)
- 7. [How to Debug in Visual Studio](https://www.youtube.com/watch?v=__3wlUxMXlA)
- 8. Learn more about Large Language Models (LLMs) in this comprehensive, in-depth video. For the latest developments, you can also check the most recently published content on this topic.
+ 1. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 3: Controlling Flow, Converting Types, and Handling Exceptions
+ 2. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 4: Writing, Debugging, and Testing Functions
+ 3. [What is debugging?](https://learn.microsoft.com/en-us/visualstudio/debugger/what-is-debugging?view=visualstudio)
+ 4. [Tutorial: Learn to debug C# code using Visual Studio](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-debugger?view=visualstudio&toc=%2Fvisualstudio%2Fdebugger%2Ftoc.json)
+ 5. [First look at the Visual Studio Debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour?view=visualstudio)
+ 6. [Use breakpoints in the Visual Studio debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/using-breakpoints?view=visualstudio&pivots=programming-language-dotnet)
+ 7. [C# Breakpoints and Conditions](https://www.youtube.com/watch?v=YEL92u-3cRY)
+ 8. [How to Debug in Visual Studio](https://www.youtube.com/watch?v=__3wlUxMXlA)
+ 9. Learn more about Large Language Models (LLMs) in this comprehensive, in-depth video. For the latest developments, you can also check the most recently published content on this topic.
     - [Deep Dive into LLMs like ChatGPT, Andrej Karpathy, 2025](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ### Tasks  <!-- omit in toc -->

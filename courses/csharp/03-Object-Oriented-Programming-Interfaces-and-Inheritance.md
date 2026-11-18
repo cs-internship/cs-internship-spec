@@ -1,11 +1,12 @@
-## Step 3. Generics
+## Step 3. Building Your Own Types with Object-Oriented Programming; Implementing Interfaces and Inheriting Classes
 
 ### Study Items  <!-- omit in toc -->
 
- 1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 4 : Generics
- 2. [Constraints on type parameters (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
- 3. [Differences Between C++ Templates and C# Generics (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics)
- 4. Watch The Past, Present, and Future of AI for Application Developers by Steve Sanderson. It’s strongly recommended to explore the latest videos on this topic to stay informed with the most current insights and developments.
+ 1. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 5: Building Your Own Types with Object-Oriented Programming
+ 2. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 6: Implementing Interfaces and Inheriting Classes
+ 3. [Constraints on type parameters (C# Programming Guide)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
+ 4. [Differences Between C++ Templates and C# Generics (C# Programming Guide)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics) ****
+ 5. Watch The Past, Present, and Future of AI for Application Developers by Steve Sanderson. It’s strongly recommended to explore the latest videos on this topic to stay informed with the most current insights and developments.
       - [The past, present, and future of AI for application developers, Steve Sanderson](https://youtu.be/awztkr8n0AA?si=U7BpYtq6WfYjnPaP)
 
 ### Tasks  <!-- omit in toc -->

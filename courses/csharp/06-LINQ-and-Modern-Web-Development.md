@@ -1,12 +1,13 @@
-## Step 6. Object Lifetime
+## Step 6. Querying and Manipulating Data Using LINQ; Introducing Modern Web Development Using .NET
 
 ### Study Items
 
- 1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 7 : Object Lifetime
- 2. [Object Lifetime (Wikipedia article)](https://en.wikipedia.org/wiki/Object_lifetime)
- 3. [Garbage Collection (Microsoft .Net Guid)](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/index) - All sublinks are needed to be studied
- 4. [Finalizers (Microsoft C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/destructors)
- 5. [dotMemory — .NET memory profiler by JetBrains (Youtube video)](https://youtube.com/playlist?list=PLQ176FUIyIUbEfA-XkqEBBNaU28RvtWEL)
+ 1. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 11: Querying and Manipulating Data Using LINQ
+ 2. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 12: Introducing Modern Web Development Using .NET ****
+ 3. [Object Lifetime (Wikipedia article)](https://en.wikipedia.org/wiki/Object_lifetime)
+ 4. [Garbage Collection (Microsoft .Net Guid)](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/) - All sublinks are needed to be studied
+ 5. [Finalizers (Microsoft C# Programming Guide)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/finalizers)
+ 6. [dotMemory — .NET memory profiler by JetBrains (Youtube video)](https://youtube.com/playlist?list=PLQ176FUIyIUbEfA-XkqEBBNaU28RvtWEL)
 
 ### Tasks
 

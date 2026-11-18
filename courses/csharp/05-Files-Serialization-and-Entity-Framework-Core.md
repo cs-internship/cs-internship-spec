@@ -1,14 +1,14 @@
-## Step 5. Inheritance
+## Step 5. Working with Files, Streams, and Serialization; Working with Data Using Entity Framework Core
   
 ### Study Items
 
- 1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 6 : Inheritance
- 2. [Covariant and Contravariant (Dot Philosophy)](https://mehrandvd.com/2016/06/18/covariant-and-contravariant/) 
- 3. [Differences between generics in C# and Java and Templates in C++](https://stackoverflow.com/questions/31693/what-are-the-differences-between-generics-in-c-sharp-and-java-and-templates-i)
+ 1. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 9: Working with Files, Streams, and Serialization
+ 2. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 10: Working with Data Using Entity Framework Core
+ 3. [Differences between generics in C# and Java and Templates in C++](https://stackoverflow.com/questions/31693/what-are-the-differences-between-generics-in-c-sharp-and-java-and-templates-i) ****
 
 ### Tasks
 
- 1. It's time to begin your journey as a mentoring intern. Ask your coordinator to start your onboarding process for mentorship.
+ 1. It's time to begin your journey at the mentoring intern level. Ask your coordinator to start your onboarding process for mentorship.
  2. As part of the **Mentor Training** path, watch the **third** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1O4JD5_fs6ako8-kvxhjv7_1qg6eoawvN?usp=share_link). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
   3. As part of the **Mentor Training** path, watch the **fourth** of the twelve videos in the **Coaching** course using [this link](https://drive.google.com/drive/folders/1v38qtor7nZ00mPQDNbke8BNwgHK_vb6K). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
  4. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 285.

@@ -1,10 +1,10 @@
-## Step 1. Introduction
+## Step 1. Hello C#! Welcome, .NET! and Speaking C#
 
 ### Study Items  <!-- omit in toc -->
 
-  1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 1 : C# Introduction
-  2. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 2 : Basic Coding in C#
-  3. [Introduction to Programming with CSharp](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/local-environment)
+  1. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 1: Hello C#! Welcome, .NET!
+  2. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 2: Speaking C#
+  3. [Introduction to Programming with CSharp](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/) ****
      1. Read all the four tutorials.
      2. Run the codes locally while reading.
   4. AI is the new electricity and will transform and improve nearly all areas of human lives. To begin exploring the profound impact of large language models (LLMs) on society and software development, start by watching these two videos as a starting point. For the latest perspectives, it's also highly recommended to check out the most recently published videos on this topic.
@@ -15,7 +15,7 @@
 
   1. As part of the **Mentor Training** path, watch the **third** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1omtXZwZCVE7mmtQNM1TnGy7Py5KXLgBx/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
   2. As part of the **Mentor Training** path, watch the **fourth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1Nr_vAxNQ3wx7zOrc7v7RJNHfRWFTSac-/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
-  3. Follow at least 3 people on LinkedIn and 5 people (or accounts) on Twitter that are active and famous on C#.
+  3. Follow at least 3 people on LinkedIn and 5 people (or accounts) on X that are active and famous on C#.
   4. Set up your development environment.
      1. [Download](https://dotnet.microsoft.com/download) .Net core sdk and install it.
      2. Create your first console app. Walk through [this tutorial](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install).

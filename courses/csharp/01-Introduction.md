@@ -4,8 +4,8 @@
 
   1. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 1: Hello C#! Welcome, .NET!
   2. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 2: Speaking C#
-  3. [Introduction to Programming with CSharp](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/) ****
-     1. Read all the four tutorials.
+  3. [Introduction to Programming with CSharp](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
+     1. Read the first five tutorials.
      2. Run the codes locally while reading.
   4. AI is the new electricity and will transform and improve nearly all areas of human lives. To begin exploring the profound impact of large language models (LLMs) on society and software development, start by watching these two videos as a starting point. For the latest perspectives, it's also highly recommended to check out the most recently published videos on this topic.
         - [Generative AI in a Nutshell - How to survive and thrive in the age of AI - Henrik Kniberg, 2024](https://www.youtube.com/watch?v=2IK3DFHRFfw)

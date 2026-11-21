@@ -1,11 +1,13 @@
-## Step 4. Collections
+## Step 4. Packaging and Distributing .NET Types; Working with Common .NET Types
 
 ### Study Items
 
-1. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 5: Collections
-2. [Collections (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections) 
-3. [Covariance and Contravariance (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/)
-4. Watch this video to learn how to harness the power of large language models with ChatGPT Prompt Engineering.For the latest developments, you can also check the most recently published content on this topic.
+1. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 7: Packaging and Distributing .NET Types
+2. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 8: Working with Common .NET Types
+3. [Collections (C# Programming Guide)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections) 
+4. [Covariance and Contravariance (C# Programming Guide)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/)
+5. [Covariant and Contravariant (Dot Philosophy)](https://mehrandvd.com/2016/06/18/covariant-and-contravariant/) 
+6. Watch this video to learn how to harness the power of large language models with ChatGPT Prompt Engineering.For the latest developments, you can also check the most recently published content on this topic.
     - [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction)
 
 ### Tasks

@@ -5,15 +5,15 @@
 This course is designed to make the intern ready for the exciting market of C# developers out there. In this course interns get familiar with C# syntax so they can leverage it for Web, Mobile and Desktop applications.
 
 ## References <!-- omit in toc -->
-- [Programming C# 12.0 by Ian Griffiths](https://www.oreilly.com/library/view/programming-c-12/9781098158354/)
+- [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687)
 
 ## Contents <!-- omit in toc -->
-- [Step 1. Introduction](01-Introduction.md)
-- [Step 2. Types](02-Types.md)
-- [Step 3. Generics](03-Generics.md)
-- [Step 4. Collections](04-Collections.md)
-- [Step 5. Inheritance](05-Inheritance.md)
-- [Step 6. Object Lifetime](06-Object-LifeTime.md)
+- [Step 1. Hello C#! Welcome, .NET! and Speaking C#](01-Hello-C-Speaking-C.md)
+- [Step 2. Controlling Flow, Converting Types, and Handling Exceptions; Writing, Debugging, and Testing Functions](02-Controlling-Flow-Converting-Types-Handling-Exceptions-Writing-Functions.md)
+- [Step 3. Building Your Own Types with Object-Oriented Programming; Implementing Interfaces and Inheriting Classes](03-Object-Oriented-Programming-Interfaces-and-Inheritance.md)
+- [Step 4. Packaging and Distributing .NET Types; Working with Common .NET Types](04-Packaging-and-Common-NET-Types.md)
+- [Step 5. Working with Files, Streams, and Serialization; Working with Data Using Entity Framework Core](05-Files-Serialization-and-Entity-Framework-Core.md)
+- [Step 6. Querying and Manipulating Data Using LINQ; Introducing Modern Web Development Using .NET](06-LINQ-and-Modern-Web-Development.md)
 - [Step 7. Exceptions](07-Exceptions.md)
 - [Step 8. Delegates, Lambdas and Events](08-Delegates-Lambdas-Events.md)
 - [Step 9. LINQ](09-LINQ.md)

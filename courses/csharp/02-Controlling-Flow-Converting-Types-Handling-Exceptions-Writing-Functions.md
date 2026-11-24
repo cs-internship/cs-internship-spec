@@ -6,14 +6,14 @@
  2. [C# 15 and .NET 11 – Modern Cross-Platform Development Fundamentals](https://www.packtpub.com/en-us/product/c-15-and-net-11-modern-cross-platform-development-fundamentals-9781807306687), chapter 4: Writing, Debugging, and Testing Functions
  3. [Debug your app with GitHub Copilot](https://learn.microsoft.com/en-us/visualstudio/debugger/debug-with-copilot?view=visualstudio)
  4. [Debug with Copilot Propmts](https://learn.microsoft.com/en-us/visualstudio/debugger/debug-with-copilot-prompts?view=visualstudio)
- 4. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 8 : Exceptions
- 5. [C# Exception Handling Best Practices](https://stackify.com/csharp-exception-handling-best-practices/)
- 6. Learn more about Large Language Models (LLMs) in this comprehensive, in-depth video. For the latest developments, you can also check the most recently published content on this topic.
+ 5. [C# book](https://www.oreilly.com/library/view/programming-c-12/9781098158354/), chapter 8 : Exceptions
+ 6. [C# Exception Handling Best Practices](https://stackify.com/csharp-exception-handling-best-practices/)
+ 7. Learn more about Large Language Models (LLMs) in this comprehensive, in-depth video. For the latest developments, you can also check the most recently published content on this topic.
     - [Deep Dive into LLMs like ChatGPT, Andrej Karpathy, 2025](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 
 ### Tasks  <!-- omit in toc -->
  1. As part of the **Mentor Training** path, watch the **fifth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1ncbYej5CvvJNVu6GlnKFTxxJ7iYjVXv0/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
-  2. As part of the **Mentor Training** path, watch the **sixth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
+ 2. As part of the **Mentor Training** path, watch the **sixth** of the eight videos in the **Communication Training** course using [this link](https://drive.google.com/file/d/1L-xFO4gbmBmxepTldUT61_HuA4d3T9eU/view?usp=sharing). To complete this task, please follow the instructions provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Attending%20Mentoring%20Workshops%20--%20fa.md). 
  3. Choose 3 bloggers who write about C# and describe why they matter to you.
  4. Search for dotPeek, what is it? Open and investigate one of your program dlls that you have written so far.
  5. Pass all lessons on TypingClub.com **with 5 stars** up to lesson 137.
